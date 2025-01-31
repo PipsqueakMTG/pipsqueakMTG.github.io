@@ -1,0 +1,804 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="sets/AVX-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>AVX visual spoiler</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 3%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/AVX-files/logo.png" />
+	<img class="preload-hidden" src="/sets/101-files/icon.png" />
+		<img class="preload-hidden" src="/sets/AVX-files/icon.png" />
+		<img class="preload-hidden" src="/sets/BLR-files/icon.png" />
+		<img class="preload-hidden" src="/sets/DOA-files/icon.png" />
+		<img class="preload-hidden" src="/sets/LVS-files/icon.png" />
+		<img class="preload-hidden" src="/sets/PTXX-files/icon.png" />
+		<img class="preload-hidden" src="/sets/WTM-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="101-spoiler"><img src="sets/101-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="img/dot.png"></img></div>
+		<div class="icon"><a href="AVX-spoiler"><img src="sets/AVX-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="img/dot.png"></img></div>
+		<div class="icon"><a href="BLR-spoiler"><img src="sets/BLR-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="img/dot.png"></img></div>
+		<div class="icon"><a href="DOA-spoiler"><img src="sets/DOA-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="img/dot.png"></img></div>
+		<div class="icon"><a href="LVS-spoiler"><img src="sets/LVS-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="img/dot.png"></img></div>
+		<div class="icon"><a href="PTXX-spoiler"><img src="sets/PTXX-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="img/dot.png"></img></div>
+		<div class="icon"><a href="WTM-spoiler"><img src="sets/WTM-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="sets/AVX-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img alt="sets/AVX-files/img/8_DC-4 Cutie.jpg" id="8_DC-4 Cutie" data-flag="@X" onclick="openSidebar('8_DC-4 Cutie',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/69_This Is Not Our Fate.jpg" id="69_This Is Not Our Fate" data-flag="@X" onclick="openSidebar('69_This Is Not Our Fate',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/85_Doom.jpg" id="85_Doom" data-flag="@X" onclick="openSidebar('85_Doom',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/125_Heartforge Savant.jpg" id="125_Heartforge Savant" data-flag="@X" onclick="openSidebar('125_Heartforge Savant',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/157_Apex Abomination.jpg" id="157_Apex Abomination" data-flag="@X" onclick="openSidebar('157_Apex Abomination',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/31_Otherworldly Convocation.jpg" id="31_Otherworldly Convocation" data-flag="@X" onclick="openSidebar('31_Otherworldly Convocation',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/73_Turn the Record Over.jpg" id="73_Turn the Record Over" data-flag="@X" onclick="openSidebar('73_Turn the Record Over',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/106_Sesilius of Wicked Ways.jpg" id="106_Sesilius of Wicked Ways" data-flag="@X" onclick="openSidebar('106_Sesilius of Wicked Ways',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/145_Supernova.jpg" id="145_Supernova" data-flag="@X" onclick="openSidebar('145_Supernova',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/181_Pretty Savage.jpg" id="181_Pretty Savage" data-flag="@X" onclick="openSidebar('181_Pretty Savage',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/10_Eldan Jackson, Last Hope.jpg" id="10_Eldan Jackson, Last Hope" data-flag="@X" onclick="openSidebar('10_Eldan Jackson, Last Hope',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/40_Adamant Engineer.jpg" id="40_Adamant Engineer" data-flag="@X" onclick="openSidebar('40_Adamant Engineer',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/83_Debaser of Truth.jpg" id="83_Debaser of Truth" data-flag="@X" onclick="openSidebar('83_Debaser of Truth',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/115_Attuned Slayer.jpg" id="115_Attuned Slayer" data-flag="@X" onclick="openSidebar('115_Attuned Slayer',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/166_Earthly Ambitions.jpg" id="166_Earthly Ambitions" data-flag="@X" onclick="openSidebar('166_Earthly Ambitions',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/12_Faith Given Form.jpg" id="12_Faith Given Form" data-flag="@X" onclick="openSidebar('12_Faith Given Form',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/50_The Future is Unlimited.jpg" id="50_The Future is Unlimited" data-flag="@X" onclick="openSidebar('50_The Future is Unlimited',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/89_Extinction Specialist.jpg" id="89_Extinction Specialist" data-flag="@X" onclick="openSidebar('89_Extinction Specialist',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/120_Extraction Mercenary.jpg" id="120_Extraction Mercenary" data-flag="@X" onclick="openSidebar('120_Extraction Mercenary',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/170_Insatiable Abomination.jpg" id="170_Insatiable Abomination" data-flag="@X" onclick="openSidebar('170_Insatiable Abomination',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/17_I-6 Dragoon.jpg" id="17_I-6 Dragoon" data-flag="@X" onclick="openSidebar('17_I-6 Dragoon',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/52_Inquisitive Guardian.jpg" id="52_Inquisitive Guardian" data-flag="@X" onclick="openSidebar('52_Inquisitive Guardian',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/92_Ghastly Progenitor.jpg" id="92_Ghastly Progenitor" data-flag="@X" onclick="openSidebar('92_Ghastly Progenitor',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/124_Harvest the Stars.jpg" id="124_Harvest the Stars" data-flag="@X" onclick="openSidebar('124_Harvest the Stars',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/172_Lifeforge Battery.jpg" id="172_Lifeforge Battery" data-flag="@X" onclick="openSidebar('172_Lifeforge Battery',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/23_Living Beyond Your Years.jpg" id="23_Living Beyond Your Years" data-flag="@X" onclick="openSidebar('23_Living Beyond Your Years',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/56_Operative POSH.jpg" id="56_Operative POSH" data-flag="@X" onclick="openSidebar('56_Operative POSH',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/100_Operation 433.jpg" id="100_Operation 433" data-flag="@X" onclick="openSidebar('100_Operation 433',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/127_HO-20 Rising Sun.jpg" id="127_HO-20 Rising Sun" data-flag="@X" onclick="openSidebar('127_HO-20 Rising Sun',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/175_Never Enough.jpg" id="175_Never Enough" data-flag="@X" onclick="openSidebar('175_Never Enough',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/27_Olten's Farewell.jpg" id="27_Oltens Farewell" data-flag="@X" onclick="openSidebar('27_Oltens Farewell',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/66_A Sucker for You.jpg" id="66_A Sucker for You" data-flag="@X" onclick="openSidebar('66_A Sucker for You',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/101_Operative SCARY.jpg" id="101_Operative SCARY" data-flag="@X" onclick="openSidebar('101_Operative SCARY',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/134_Muse's Wrath.jpg" id="134_Muses Wrath" data-flag="@X" onclick="openSidebar('134_Muses Wrath',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/177_Olten Surveyor.jpg" id="177_Olten Surveyor" data-flag="@X" onclick="openSidebar('177_Olten Surveyor',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/30_Operative BABY.jpg" id="30_Operative BABY" data-flag="@X" onclick="openSidebar('30_Operative BABY',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/68_TF-6 Ruler.jpg" id="68_TF-6 Ruler" data-flag="@X" onclick="openSidebar('68_TF-6 Ruler',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/104_The Past Is Gone.jpg" id="104_The Past Is Gone" data-flag="@X" onclick="openSidebar('104_The Past Is Gone',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/135_OM-6 Walker.jpg" id="135_OM-6 Walker" data-flag="@X" onclick="openSidebar('135_OM-6 Walker',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/180_Operative SPORTY.jpg" id="180_Operative SPORTY" data-flag="@X" onclick="openSidebar('180_Operative SPORTY',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/34_Skytouch Distorter.jpg" id="34_Skytouch Distorter" data-flag="@X" onclick="openSidebar('34_Skytouch Distorter',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/71_Triumvirate Inductee.jpg" id="71_Triumvirate Inductee" data-flag="@X" onclick="openSidebar('71_Triumvirate Inductee',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/109_Sounds of Silence.jpg" id="109_Sounds of Silence" data-flag="@X" onclick="openSidebar('109_Sounds of Silence',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/136_Operative GINGER.jpg" id="136_Operative GINGER" data-flag="@X" onclick="openSidebar('136_Operative GINGER',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/187_Stardust Surveyor.jpg" id="187_Stardust Surveyor" data-flag="@X" onclick="openSidebar('187_Stardust Surveyor',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/3_Antigravity Agent.jpg" id="3_Antigravity Agent" data-flag="@X" onclick="openSidebar('3_Antigravity Agent',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/42_Animus Channeler.jpg" id="42_Animus Channeler" data-flag="@X" onclick="openSidebar('42_Animus Channeler',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/78_Abomination's Desire.jpg" id="78_Abominations Desire" data-flag="@X" onclick="openSidebar('78_Abominations Desire',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/116_Attuned Specialist.jpg" id="116_Attuned Specialist" data-flag="@X" onclick="openSidebar('116_Attuned Specialist',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/158_Attuned Lifeform.jpg" id="158_Attuned Lifeform" data-flag="@X" onclick="openSidebar('158_Attuned Lifeform',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/6_Bioluminescent Display.jpg" id="6_Bioluminescent Display" data-flag="@X" onclick="openSidebar('6_Bioluminescent Display',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/43_AOSE Scrapper.jpg" id="43_AOSE Scrapper" data-flag="@X" onclick="openSidebar('43_AOSE Scrapper',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/79_AOSE Valiant.jpg" id="79_AOSE Valiant" data-flag="@X" onclick="openSidebar('79_AOSE Valiant',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/121_Ferocious Flame.jpg" id="121_Ferocious Flame" data-flag="@X" onclick="openSidebar('121_Ferocious Flame',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/165_Earlymorning Hart.jpg" id="165_Earlymorning Hart" data-flag="@X" onclick="openSidebar('165_Earlymorning Hart',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/9_Drown in Apathy.jpg" id="9_Drown in Apathy" data-flag="@X" onclick="openSidebar('9_Drown in Apathy',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/45_Brightsouled Guardian.jpg" id="45_Brightsouled Guardian" data-flag="@X" onclick="openSidebar('45_Brightsouled Guardian',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/84_Desperate Android.jpg" id="84_Desperate Android" data-flag="@X" onclick="openSidebar('84_Desperate Android',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/129_Incineration Expert.jpg" id="129_Incineration Expert" data-flag="@X" onclick="openSidebar('129_Incineration Expert',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/167_Exhausted Explorer.jpg" id="167_Exhausted Explorer" data-flag="@X" onclick="openSidebar('167_Exhausted Explorer',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/15_Granter of Weariness.jpg" id="15_Granter of Weariness" data-flag="@X" onclick="openSidebar('15_Granter of Weariness',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/48_Emotions Like a Rain Cloud.jpg" id="48_Emotions Like a Rain Cloud" data-flag="@X" onclick="openSidebar('48_Emotions Like a Rain Cloud',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/87_Exit This Mortal Stage.jpg" id="87_Exit This Mortal Stage" data-flag="@X" onclick="openSidebar('87_Exit This Mortal Stage',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/131_Let's Go, Don't Wait.jpg" id="131_Lets Go, Dont Wait" data-flag="@X" onclick="openSidebar('131_Lets Go, Dont Wait',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/169_Hurried Scavenger.jpg" id="169_Hurried Scavenger" data-flag="@X" onclick="openSidebar('169_Hurried Scavenger',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/18_Ignited Vanguard.jpg" id="18_Ignited Vanguard" data-flag="@X" onclick="openSidebar('18_Ignited Vanguard',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/49_Everybody Knows.jpg" id="49_Everybody Knows" data-flag="@X" onclick="openSidebar('49_Everybody Knows',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/88_Expose.jpg" id="88_Expose" data-flag="@X" onclick="openSidebar('88_Expose',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/137_Precursor Omniprocessor.jpg" id="137_Precursor Omniprocessor" data-flag="@X" onclick="openSidebar('137_Precursor Omniprocessor',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/171_Life as a Means to a Triumph.jpg" id="171_Life as a Means to a Triumph" data-flag="@X" onclick="openSidebar('171_Life as a Means to a Triumph',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/21_Kan's Faithful.jpg" id="21_Kans Faithful" data-flag="@X" onclick="openSidebar('21_Kans Faithful',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/51_Gluttonous Empath.jpg" id="51_Gluttonous Empath" data-flag="@X" onclick="openSidebar('51_Gluttonous Empath',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/96_Herald of Darkness.jpg" id="96_Herald of Darkness" data-flag="@X" onclick="openSidebar('96_Herald of Darkness',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/139_Reckless Guardian.jpg" id="139_Reckless Guardian" data-flag="@X" onclick="openSidebar('139_Reckless Guardian',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/173_Listen and Learn.jpg" id="173_Listen and Learn" data-flag="@X" onclick="openSidebar('173_Listen and Learn',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/22_A Life's Value.jpg" id="22_A Lifes Value" data-flag="@X" onclick="openSidebar('22_A Lifes Value',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/57_Postmortem Contemplation.jpg" id="57_Postmortem Contemplation" data-flag="@X" onclick="openSidebar('57_Postmortem Contemplation',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/102_Outside the Airlock.jpg" id="102_Outside the Airlock" data-flag="@X" onclick="openSidebar('102_Outside the Airlock',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/141_Savant of Cables.jpg" id="141_Savant of Cables" data-flag="@X" onclick="openSidebar('141_Savant of Cables',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/174_Lust for Life.jpg" id="174_Lust for Life" data-flag="@X" onclick="openSidebar('174_Lust for Life',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/26_Oltenen Paradise-Seeker.jpg" id="26_Oltenen Paradise-Seeker" data-flag="@X" onclick="openSidebar('26_Oltenen Paradise-Seeker',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/61_A Rush of Stillness in the Air.jpg" id="61_A Rush of Stillness in the Air" data-flag="@X" onclick="openSidebar('61_A Rush of Stillness in the Air',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/108_Slyten Analyst.jpg" id="108_Slyten Analyst" data-flag="@X" onclick="openSidebar('108_Slyten Analyst',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/144_Splendor.jpg" id="144_Splendor" data-flag="@X" onclick="openSidebar('144_Splendor',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/179_Oltenen Terror.jpg" id="179_Oltenen Terror" data-flag="@X" onclick="openSidebar('179_Oltenen Terror',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/28_On Repeat.jpg" id="28_On Repeat" data-flag="@X" onclick="openSidebar('28_On Repeat',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/64_Specialized Constructor.jpg" id="64_Specialized Constructor" data-flag="@X" onclick="openSidebar('64_Specialized Constructor',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/110_Starry Abomination.jpg" id="110_Starry Abomination" data-flag="@X" onclick="openSidebar('110_Starry Abomination',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/146_Triumvirate Bellringer.jpg" id="146_Triumvirate Bellringer" data-flag="@X" onclick="openSidebar('146_Triumvirate Bellringer',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/183_Rewriter of Flesh.jpg" id="183_Rewriter of Flesh" data-flag="@X" onclick="openSidebar('183_Rewriter of Flesh',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/29_One Last Mission.jpg" id="29_One Last Mission" data-flag="@X" onclick="openSidebar('29_One Last Mission',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/65_Stubborn Denial.jpg" id="65_Stubborn Denial" data-flag="@X" onclick="openSidebar('65_Stubborn Denial',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/112_Toxic Fumes.jpg" id="112_Toxic Fumes" data-flag="@X" onclick="openSidebar('112_Toxic Fumes',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/147_Trying One More Time.jpg" id="147_Trying One More Time" data-flag="@X" onclick="openSidebar('147_Trying One More Time',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/185_Savagery Evergrowing.jpg" id="185_Savagery Evergrowing" data-flag="@X" onclick="openSidebar('185_Savagery Evergrowing',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/36_Start Over.jpg" id="36_Start Over" data-flag="@X" onclick="openSidebar('36_Start Over',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/70_Traverse Boundless Space.jpg" id="70_Traverse Boundless Space" data-flag="@X" onclick="openSidebar('70_Traverse Boundless Space',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/114_Underhanded Deal.jpg" id="114_Underhanded Deal" data-flag="@X" onclick="openSidebar('114_Underhanded Deal',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/150_Voice of the Universe.jpg" id="150_Voice of the Universe" data-flag="@X" onclick="openSidebar('150_Voice of the Universe',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/190_Yet Life Still Flourishes.jpg" id="190_Yet Life Still Flourishes" data-flag="@X" onclick="openSidebar('190_Yet Life Still Flourishes',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/1_1-ST Thankless Companion.jpg" id="1_1-ST Thankless Companion" data-flag="@X" onclick="openSidebar('1_1-ST Thankless Companion',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/39_Abberant Frostbringer.jpg" id="39_Abberant Frostbringer" data-flag="@X" onclick="openSidebar('39_Abberant Frostbringer',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/77_Abomination Broodmother.jpg" id="77_Abomination Broodmother" data-flag="@X" onclick="openSidebar('77_Abomination Broodmother',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/117_Claimed by the Veil.jpg" id="117_Claimed by the Veil" data-flag="@X" onclick="openSidebar('117_Claimed by the Veil',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/153_Abominable Xenoflora.jpg" id="153_Abominable Xenoflora" data-flag="@X" onclick="openSidebar('153_Abominable Xenoflora',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/2_Abomination Antithesis.jpg" id="2_Abomination Antithesis" data-flag="@X" onclick="openSidebar('2_Abomination Antithesis',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/41_Alone in the Universe.jpg" id="41_Alone in the Universe" data-flag="@X" onclick="openSidebar('41_Alone in the Universe',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/80_Arisen Psion.jpg" id="80_Arisen Psion" data-flag="@X" onclick="openSidebar('80_Arisen Psion',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/118_Corrupted Guardian.jpg" id="118_Corrupted Guardian" data-flag="@X" onclick="openSidebar('118_Corrupted Guardian',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/154_Alien Formations.jpg" id="154_Alien Formations" data-flag="@X" onclick="openSidebar('154_Alien Formations',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/4_Ascended Explorer.jpg" id="4_Ascended Explorer" data-flag="@X" onclick="openSidebar('4_Ascended Explorer',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/44_Behavioral Specialist.jpg" id="44_Behavioral Specialist" data-flag="@X" onclick="openSidebar('44_Behavioral Specialist',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/81_Bad Romance.jpg" id="81_Bad Romance" data-flag="@X" onclick="openSidebar('81_Bad Romance',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/119_Expedition Outfitter.jpg" id="119_Expedition Outfitter" data-flag="@X" onclick="openSidebar('119_Expedition Outfitter',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/155_Ancient Durumderm.jpg" id="155_Ancient Durumderm" data-flag="@X" onclick="openSidebar('155_Ancient Durumderm',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/5_Aspiring Guardian.jpg" id="5_Aspiring Guardian" data-flag="@X" onclick="openSidebar('5_Aspiring Guardian',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/46_Dazzle.jpg" id="46_Dazzle" data-flag="@X" onclick="openSidebar('46_Dazzle',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/82_The Bliss of Ignorance Dies.jpg" id="82_The Bliss of Ignorance Dies" data-flag="@X" onclick="openSidebar('82_The Bliss of Ignorance Dies',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/122_Field Engineer.jpg" id="122_Field Engineer" data-flag="@X" onclick="openSidebar('122_Field Engineer',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/156_AOSE Extractor.jpg" id="156_AOSE Extractor" data-flag="@X" onclick="openSidebar('156_AOSE Extractor',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/7_Bizarre Dreams.jpg" id="7_Bizarre Dreams" data-flag="@X" onclick="openSidebar('7_Bizarre Dreams',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/47_Deploy the Rovers.jpg" id="47_Deploy the Rovers" data-flag="@X" onclick="openSidebar('47_Deploy the Rovers',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/86_Doomed Explorer.jpg" id="86_Doomed Explorer" data-flag="@X" onclick="openSidebar('86_Doomed Explorer',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/123_Hand of the Triumvirate.jpg" id="123_Hand of the Triumvirate" data-flag="@X" onclick="openSidebar('123_Hand of the Triumvirate',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/159_Biocultivator.jpg" id="159_Biocultivator" data-flag="@X" onclick="openSidebar('159_Biocultivator',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/11_Eyes in Orbit.jpg" id="11_Eyes in Orbit" data-flag="@X" onclick="openSidebar('11_Eyes in Orbit',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/53_Living Atrocity.jpg" id="53_Living Atrocity" data-flag="@X" onclick="openSidebar('53_Living Atrocity',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/90_Flenser's Lieutenant.jpg" id="90_Flensers Lieutenant" data-flag="@X" onclick="openSidebar('90_Flensers Lieutenant',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/126_Heat Blast.jpg" id="126_Heat Blast" data-flag="@X" onclick="openSidebar('126_Heat Blast',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/160_Bioluminescent Predator.jpg" id="160_Bioluminescent Predator" data-flag="@X" onclick="openSidebar('160_Bioluminescent Predator',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/13_Faithful Guardian.jpg" id="13_Faithful Guardian" data-flag="@X" onclick="openSidebar('13_Faithful Guardian',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/54_Mineral Expert.jpg" id="54_Mineral Expert" data-flag="@X" onclick="openSidebar('54_Mineral Expert',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/91_Fleshwarper.jpg" id="91_Fleshwarper" data-flag="@X" onclick="openSidebar('91_Fleshwarper',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/128_IG-2 Disassembler.jpg" id="128_IG-2 Disassembler" data-flag="@X" onclick="openSidebar('128_IG-2 Disassembler',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/161_Brand New Species.jpg" id="161_Brand New Species" data-flag="@X" onclick="openSidebar('161_Brand New Species',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/14_Glowspore Grove.jpg" id="14_Glowspore Grove" data-flag="@X" onclick="openSidebar('14_Glowspore Grove',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/55_Muse's Whims.jpg" id="55_Muses Whims" data-flag="@X" onclick="openSidebar('55_Muses Whims',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/93_Go Blank.jpg" id="93_Go Blank" data-flag="@X" onclick="openSidebar('93_Go Blank',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/130_Kilnfire.jpg" id="130_Kilnfire" data-flag="@X" onclick="openSidebar('130_Kilnfire',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/162_Build Monsters from Relics.jpg" id="162_Build Monsters from Relics" data-flag="@X" onclick="openSidebar('162_Build Monsters from Relics',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/16_Herald of Teardrops.jpg" id="16_Herald of Teardrops" data-flag="@X" onclick="openSidebar('16_Herald of Teardrops',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/58_Propulsion Pack.jpg" id="58_Propulsion Pack" data-flag="@X" onclick="openSidebar('58_Propulsion Pack',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/94_Grasp of Darkness.jpg" id="94_Grasp of Darkness" data-flag="@X" onclick="openSidebar('94_Grasp of Darkness',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/132_Lost Crew.jpg" id="132_Lost Crew" data-flag="@X" onclick="openSidebar('132_Lost Crew',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/163_Cower Before True Power.jpg" id="163_Cower Before True Power" data-flag="@X" onclick="openSidebar('163_Cower Before True Power',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/19_Invincible.jpg" id="19_Invincible" data-flag="@X" onclick="openSidebar('19_Invincible',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/59_Psionic Rebuke.jpg" id="59_Psionic Rebuke" data-flag="@X" onclick="openSidebar('59_Psionic Rebuke',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/95_Gravitational Ripper.jpg" id="95_Gravitational Ripper" data-flag="@X" onclick="openSidebar('95_Gravitational Ripper',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/133_Master of Munitions.jpg" id="133_Master of Munitions" data-flag="@X" onclick="openSidebar('133_Master of Munitions',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/164_DL-19 Reject.jpg" id="164_DL-19 Reject" data-flag="@X" onclick="openSidebar('164_DL-19 Reject',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/20_J-7 Freeze Frame.jpg" id="20_J-7 Freeze Frame" data-flag="@X" onclick="openSidebar('20_J-7 Freeze Frame',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/60_Refute.jpg" id="60_Refute" data-flag="@X" onclick="openSidebar('60_Refute',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/97_Kill This Love.jpg" id="97_Kill This Love" data-flag="@X" onclick="openSidebar('97_Kill This Love',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/138_Precursor's Edge.jpg" id="138_Precursors Edge" data-flag="@X" onclick="openSidebar('138_Precursors Edge',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/168_Extant Decay.jpg" id="168_Extant Decay" data-flag="@X" onclick="openSidebar('168_Extant Decay',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/24_Lost and Alone.jpg" id="24_Lost and Alone" data-flag="@X" onclick="openSidebar('24_Lost and Alone',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/62_Shroud in Stars.jpg" id="62_Shroud in Stars" data-flag="@X" onclick="openSidebar('62_Shroud in Stars',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/98_Lift Weary Heads from Rest.jpg" id="98_Lift Weary Heads from Rest" data-flag="@X" onclick="openSidebar('98_Lift Weary Heads from Rest',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/140_Rugged Ferocity.jpg" id="140_Rugged Ferocity" data-flag="@X" onclick="openSidebar('140_Rugged Ferocity',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/176_OH-14 Diamond.jpg" id="176_OH-14 Diamond" data-flag="@X" onclick="openSidebar('176_OH-14 Diamond',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/25_Nebula's Blessing.jpg" id="25_Nebulas Blessing" data-flag="@X" onclick="openSidebar('25_Nebulas Blessing',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/63_Slyten Visions.jpg" id="63_Slyten Visions" data-flag="@X" onclick="openSidebar('63_Slyten Visions',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/99_Lost Explorer.jpg" id="99_Lost Explorer" data-flag="@X" onclick="openSidebar('99_Lost Explorer',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/142_Slyten Jewel Runner.jpg" id="142_Slyten Jewel Runner" data-flag="@X" onclick="openSidebar('142_Slyten Jewel Runner',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/178_Olten Tarrasque.jpg" id="178_Olten Tarrasque" data-flag="@X" onclick="openSidebar('178_Olten Tarrasque',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/32_Precursor Custodians.jpg" id="32_Precursor Custodians" data-flag="@X" onclick="openSidebar('32_Precursor Custodians',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/67_Sunder Reality's Peace.jpg" id="67_Sunder Realitys Peace" data-flag="@X" onclick="openSidebar('67_Sunder Realitys Peace',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/103_P-3 Ambusher.jpg" id="103_P-3 Ambusher" data-flag="@X" onclick="openSidebar('103_P-3 Ambusher',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/143_So Much to Do.jpg" id="143_So Much to Do" data-flag="@X" onclick="openSidebar('143_So Much to Do',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/182_Reconnaissance Expert.jpg" id="182_Reconnaissance Expert" data-flag="@X" onclick="openSidebar('182_Reconnaissance Expert',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/33_Second Wave Explorer.jpg" id="33_Second Wave Explorer" data-flag="@X" onclick="openSidebar('33_Second Wave Explorer',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/72_Triumvirate Infiltrator.jpg" id="72_Triumvirate Infiltrator" data-flag="@X" onclick="openSidebar('72_Triumvirate Infiltrator',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/105_Predatory Abomination.jpg" id="105_Predatory Abomination" data-flag="@X" onclick="openSidebar('105_Predatory Abomination',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/148_Twisted Scinid.jpg" id="148_Twisted Scinid" data-flag="@X" onclick="openSidebar('148_Twisted Scinid',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/184_Ruffled Scrum.jpg" id="184_Ruffled Scrum" data-flag="@X" onclick="openSidebar('184_Ruffled Scrum',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/35_Solar Pulse.jpg" id="35_Solar Pulse" data-flag="@X" onclick="openSidebar('35_Solar Pulse',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/74_An Unfamiliar Swarm.jpg" id="74_An Unfamiliar Swarm" data-flag="@X" onclick="openSidebar('74_An Unfamiliar Swarm',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/107_Skittering Atrocity.jpg" id="107_Skittering Atrocity" data-flag="@X" onclick="openSidebar('107_Skittering Atrocity',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/149_Vindictive Guardian.jpg" id="149_Vindictive Guardian" data-flag="@X" onclick="openSidebar('149_Vindictive Guardian',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/186_So Much to See.jpg" id="186_So Much to See" data-flag="@X" onclick="openSidebar('186_So Much to See',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/37_Traveling Duo.jpg" id="37_Traveling Duo" data-flag="@X" onclick="openSidebar('37_Traveling Duo',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/75_Unstable Prophet.jpg" id="75_Unstable Prophet" data-flag="@X" onclick="openSidebar('75_Unstable Prophet',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/111_Supernatural Stamina.jpg" id="111_Supernatural Stamina" data-flag="@X" onclick="openSidebar('111_Supernatural Stamina',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/151_Voltaic Conduit.jpg" id="151_Voltaic Conduit" data-flag="@X" onclick="openSidebar('151_Voltaic Conduit',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/188_Unstable Vein.jpg" id="188_Unstable Vein" data-flag="@X" onclick="openSidebar('188_Unstable Vein',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/38_Triumvirate Strategist.jpg" id="38_Triumvirate Strategist" data-flag="@X" onclick="openSidebar('38_Triumvirate Strategist',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/76_Wandering Visionary.jpg" id="76_Wandering Visionary" data-flag="@X" onclick="openSidebar('76_Wandering Visionary',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/113_Twisted Predator.jpg" id="113_Twisted Predator" data-flag="@X" onclick="openSidebar('113_Twisted Predator',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/152_WZ-18 Troublemaker.jpg" id="152_WZ-18 Troublemaker" data-flag="@X" onclick="openSidebar('152_WZ-18 Troublemaker',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/189_Weaving Reality in a Tapestry.jpg" id="189_Weaving Reality in a Tapestry" data-flag="@X" onclick="openSidebar('189_Weaving Reality in a Tapestry',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/266_Avengeance Angel.jpg" id="266_Avengeance Angel" data-flag="@X" onclick="openSidebar('266_Avengeance Angel',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/274_Abrupt Duplication.jpg" id="274_Abrupt Duplication" data-flag="@X" onclick="openSidebar('274_Abrupt Duplication',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/282_Culminating Despair.jpg" id="282_Culminating Despair" data-flag="@X" onclick="openSidebar('282_Culminating Despair',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/290_Battle of Principles.jpg" id="290_Battle of Principles" data-flag="@X" onclick="openSidebar('290_Battle of Principles',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/298_Cloven Forms.jpg" id="298_Cloven Forms" data-flag="@X" onclick="openSidebar('298_Cloven Forms',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/267_Grim Armory.jpg" id="267_Grim Armory" data-flag="@X" onclick="openSidebar('267_Grim Armory',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/275_Cursory Glance.jpg" id="275_Cursory Glance" data-flag="@X" onclick="openSidebar('275_Cursory Glance',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/283_Moonlight.jpg" id="283_Moonlight" data-flag="@X" onclick="openSidebar('283_Moonlight',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/291_Curio Hellkite.jpg" id="291_Curio Hellkite" data-flag="@X" onclick="openSidebar('291_Curio Hellkite',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/299_Lives Redeemed.jpg" id="299_Lives Redeemed" data-flag="@X" onclick="openSidebar('299_Lives Redeemed',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/268_Journey's End.jpg" id="268_Journeys End" data-flag="@X" onclick="openSidebar('268_Journeys End',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/276_Frost Walker.jpg" id="276_Frost Walker" data-flag="@X" onclick="openSidebar('276_Frost Walker',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/284_Ominous Hart.jpg" id="284_Ominous Hart" data-flag="@X" onclick="openSidebar('284_Ominous Hart',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/292_Demolitionist Deviser.jpg" id="292_Demolitionist Deviser" data-flag="@X" onclick="openSidebar('292_Demolitionist Deviser',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/300_Prismatic Bounty.jpg" id="300_Prismatic Bounty" data-flag="@X" onclick="openSidebar('300_Prismatic Bounty',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/269_Legend of the Devout.jpg" id="269_Legend of the Devout" data-flag="@X" onclick="openSidebar('269_Legend of the Devout',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/277_Invent the Future.jpg" id="277_Invent the Future" data-flag="@X" onclick="openSidebar('277_Invent the Future',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/285_Phantom Walker.jpg" id="285_Phantom Walker" data-flag="@X" onclick="openSidebar('285_Phantom Walker',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/293_Dragongate.jpg" id="293_Dragongate" data-flag="@X" onclick="openSidebar('293_Dragongate',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/301_Regurgitator Ooze.jpg" id="301_Regurgitator Ooze" data-flag="@X" onclick="openSidebar('301_Regurgitator Ooze',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/270_Manifest Memories.jpg" id="270_Manifest Memories" data-flag="@X" onclick="openSidebar('270_Manifest Memories',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/278_Scion of Torrents.jpg" id="278_Scion of Torrents" data-flag="@X" onclick="openSidebar('278_Scion of Torrents',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/286_Twelve Thousand Eyes.jpg" id="286_Twelve Thousand Eyes" data-flag="@X" onclick="openSidebar('286_Twelve Thousand Eyes',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/294_Face the Truth.jpg" id="294_Face the Truth" data-flag="@X" onclick="openSidebar('294_Face the Truth',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/302_Stand Unassailable.jpg" id="302_Stand Unassailable" data-flag="@X" onclick="openSidebar('302_Stand Unassailable',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/271_Otherworldly Passage.jpg" id="271_Otherworldly Passage" data-flag="@X" onclick="openSidebar('271_Otherworldly Passage',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/279_Vantage Point.jpg" id="279_Vantage Point" data-flag="@X" onclick="openSidebar('279_Vantage Point',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/287_Undeath Comes.jpg" id="287_Undeath Comes" data-flag="@X" onclick="openSidebar('287_Undeath Comes',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/295_From Within the Dark.jpg" id="295_From Within the Dark" data-flag="@X" onclick="openSidebar('295_From Within the Dark',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/303_Tarmovore.jpg" id="303_Tarmovore" data-flag="@X" onclick="openSidebar('303_Tarmovore',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/272_Starbane Elemental.jpg" id="272_Starbane Elemental" data-flag="@X" onclick="openSidebar('272_Starbane Elemental',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/280_Watch from Above.jpg" id="280_Watch from Above" data-flag="@X" onclick="openSidebar('280_Watch from Above',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/288_Vibrant Rapture.jpg" id="288_Vibrant Rapture" data-flag="@X" onclick="openSidebar('288_Vibrant Rapture',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/296_Full Salvo.jpg" id="296_Full Salvo" data-flag="@X" onclick="openSidebar('296_Full Salvo',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/304_Triplicate Monstrosity.jpg" id="304_Triplicate Monstrosity" data-flag="@X" onclick="openSidebar('304_Triplicate Monstrosity',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/273_Uncovered Secrets.jpg" id="273_Uncovered Secrets" data-flag="@X" onclick="openSidebar('273_Uncovered Secrets',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/281_Worn Study.jpg" id="281_Worn Study" data-flag="@X" onclick="openSidebar('281_Worn Study',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/289_Whistling Blades.jpg" id="289_Whistling Blades" data-flag="@X" onclick="openSidebar('289_Whistling Blades',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/297_Scion of Calamities.jpg" id="297_Scion of Calamities" data-flag="@X" onclick="openSidebar('297_Scion of Calamities',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/305_A Whole New World.jpg" id="305_A Whole New World" data-flag="@X" onclick="openSidebar('305_A Whole New World',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/197_Ataraxia.jpg" id="197_Ataraxia" data-flag="@X" onclick="openSidebar('197_Ataraxia',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/203_Diabolus ex Machina.jpg" id="203_Diabolus ex Machina" data-flag="@X" onclick="openSidebar('203_Diabolus ex Machina',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/221_LH-6 Brutality.jpg" id="221_LH-6 Brutality" data-flag="@X" onclick="openSidebar('221_LH-6 Brutality',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/213_Hearts Beat Fast.jpg" id="213_Hearts Beat Fast" data-flag="@X" onclick="openSidebar('213_Hearts Beat Fast',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/192_All-Devouring Hope.jpg" id="192_All-Devouring Hope" data-flag="@X" onclick="openSidebar('192_All-Devouring Hope',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/210_Forget the World.jpg" id="210_Forget the World" data-flag="@X" onclick="openSidebar('210_Forget the World',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/240_Words Unspoken.jpg" id="240_Words Unspoken" data-flag="@X" onclick="openSidebar('240_Words Unspoken',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/227_Nihilistic Shock Trooper.jpg" id="227_Nihilistic Shock Trooper" data-flag="@X" onclick="openSidebar('227_Nihilistic Shock Trooper',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/222_Living Supernova.jpg" id="222_Living Supernova" data-flag="@X" onclick="openSidebar('222_Living Supernova',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/209_Fearsome Xenoblossom.jpg" id="209_Fearsome Xenoblossom" data-flag="@X" onclick="openSidebar('209_Fearsome Xenoblossom',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/194_Animus Seer.jpg" id="194_Animus Seer" data-flag="@X" onclick="openSidebar('194_Animus Seer',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/225_Memory of Fatalism.jpg" id="225_Memory of Fatalism" data-flag="@X" onclick="openSidebar('225_Memory of Fatalism',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/233_Slyten Connoisseur.jpg" id="233_Slyten Connoisseur" data-flag="@X" onclick="openSidebar('233_Slyten Connoisseur',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/195_AOSE Xenocultivator.jpg" id="195_AOSE Xenocultivator" data-flag="@X" onclick="openSidebar('195_AOSE Xenocultivator',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/207_Everything Is Going Great.jpg" id="207_Everything Is Going Great" data-flag="@X" onclick="openSidebar('207_Everything Is Going Great',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/238_Vastness of Space.jpg" id="238_Vastness of Space" data-flag="@X" onclick="openSidebar('238_Vastness of Space',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/205_Enter the Wormhole.jpg" id="205_Enter the Wormhole" data-flag="@X" onclick="openSidebar('205_Enter the Wormhole',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/212_Hatewracked Explorer.jpg" id="212_Hatewracked Explorer" data-flag="@X" onclick="openSidebar('212_Hatewracked Explorer',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/202_Defective Abomination.jpg" id="202_Defective Abomination" data-flag="@X" onclick="openSidebar('202_Defective Abomination',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/229_Olten Vipermoa.jpg" id="229_Olten Vipermoa" data-flag="@X" onclick="openSidebar('229_Olten Vipermoa',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/311_Destroyed Monument.jpg" id="311_Destroyed Monument" data-flag="@X" onclick="openSidebar('311_Destroyed Monument',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/320_Accursed by Unborn Fates.jpg" id="320_Accursed by Unborn Fates" data-flag="@X" onclick="openSidebar('320_Accursed by Unborn Fates',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/321_Rage of the Ravaged.jpg" id="321_Rage of the Ravaged" data-flag="@X" onclick="openSidebar('321_Rage of the Ravaged',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/312_Earthbreaker Behemoth.jpg" id="312_Earthbreaker Behemoth" data-flag="@X" onclick="openSidebar('312_Earthbreaker Behemoth',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/315_Mourn No More.jpg" id="315_Mourn No More" data-flag="@X" onclick="openSidebar('315_Mourn No More',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/196_As a Matter of Course.jpg" id="196_As a Matter of Course" data-flag="@X" onclick="openSidebar('196_As a Matter of Course',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/228_No Good Deed Goes Unpunished.jpg" id="228_No Good Deed Goes Unpunished" data-flag="@X" onclick="openSidebar('228_No Good Deed Goes Unpunished',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/217_In Dire Straits.jpg" id="217_In Dire Straits" data-flag="@X" onclick="openSidebar('217_In Dire Straits',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/201_Chaos Is Your Redemption.jpg" id="201_Chaos Is Your Redemption" data-flag="@X" onclick="openSidebar('201_Chaos Is Your Redemption',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/216_Ignition Engine.jpg" id="216_Ignition Engine" data-flag="@X" onclick="openSidebar('216_Ignition Engine',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/208_Fallen Hero.jpg" id="208_Fallen Hero" data-flag="@X" onclick="openSidebar('208_Fallen Hero',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/232_The Sin of Hope.jpg" id="232_The Sin of Hope" data-flag="@X" onclick="openSidebar('232_The Sin of Hope',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/231_Sage of Folded Possibilities.jpg" id="231_Sage of Folded Possibilities" data-flag="@X" onclick="openSidebar('231_Sage of Folded Possibilities',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/206_Enthusiastic Double.jpg" id="206_Enthusiastic Double" data-flag="@X" onclick="openSidebar('206_Enthusiastic Double',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/220_Kan, Triumvirate Tactician.jpg" id="220_Kan, Triumvirate Tactician" data-flag="@X" onclick="openSidebar('220_Kan, Triumvirate Tactician',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/218_Inexorable Explorer.jpg" id="218_Inexorable Explorer" data-flag="@X" onclick="openSidebar('218_Inexorable Explorer',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/193_Ambush Predator.jpg" id="193_Ambush Predator" data-flag="@X" onclick="openSidebar('193_Ambush Predator',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/241_The World Follows After.jpg" id="241_The World Follows After" data-flag="@X" onclick="openSidebar('241_The World Follows After',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/219_Jaded Confidant.jpg" id="219_Jaded Confidant" data-flag="@X" onclick="openSidebar('219_Jaded Confidant',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/191_Align with Animus Vox.jpg" id="191_Align with Animus Vox" data-flag="@X" onclick="openSidebar('191_Align with Animus Vox',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/223_Long Lost Cause.jpg" id="223_Long Lost Cause" data-flag="@X" onclick="openSidebar('223_Long Lost Cause',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/214_Horrific Salvage.jpg" id="214_Horrific Salvage" data-flag="@X" onclick="openSidebar('214_Horrific Salvage',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/234_Suncolored Dreamer.jpg" id="234_Suncolored Dreamer" data-flag="@X" onclick="openSidebar('234_Suncolored Dreamer',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/236_TT-20 Salvation.jpg" id="236_TT-20 Salvation" data-flag="@X" onclick="openSidebar('236_TT-20 Salvation',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/237_Upbeat Vanguard.jpg" id="237_Upbeat Vanguard" data-flag="@X" onclick="openSidebar('237_Upbeat Vanguard',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/319_The Sun Also Rises.jpg" id="319_The Sun Also Rises" data-flag="@X" onclick="openSidebar('319_The Sun Also Rises',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/313_False Vitality.jpg" id="313_False Vitality" data-flag="@X" onclick="openSidebar('313_False Vitality',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/316_Past, Present, Future.jpg" id="316_Past, Present, Future" data-flag="@X" onclick="openSidebar('316_Past, Present, Future',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/309_Corecharge.jpg" id="309_Corecharge" data-flag="@X" onclick="openSidebar('309_Corecharge',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/307_Champion of the Red Dawn.jpg" id="307_Champion of the Red Dawn" data-flag="@X" onclick="openSidebar('307_Champion of the Red Dawn',false)"></div>
+			<div class="container"><img alt="img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/308_Comet, Pulled from Orbit.jpg" id="308_Comet, Pulled from Orbit" data-flag="@X" onclick="openSidebar('308_Comet, Pulled from Orbit',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/211_Glitch, Drinker of Seas.jpg" id="211_Glitch, Drinker of Seas" data-flag="@X" onclick="openSidebar('211_Glitch, Drinker of Seas',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/215_The Hunter of Nebulas.jpg" id="215_The Hunter of Nebulas" data-flag="@X" onclick="openSidebar('215_The Hunter of Nebulas',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/204_Digital Immortality.jpg" id="204_Digital Immortality" data-flag="@X" onclick="openSidebar('204_Digital Immortality',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/239_Watch Me Burn.jpg" id="239_Watch Me Burn" data-flag="@X" onclick="openSidebar('239_Watch Me Burn',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/235_Take the Throne Above.jpg" id="235_Take the Throne Above" data-flag="@X" onclick="openSidebar('235_Take the Throne Above',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/317_Song of Shoals.jpg" id="317_Song of Shoals" data-flag="@X" onclick="openSidebar('317_Song of Shoals',false)"></div>
+			<div class="container"><img alt="img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/199_Brandy Axel, Combat's Baby.jpg" id="199_Brandy Axel, Combats Baby" data-flag="@X" onclick="openSidebar('199_Brandy Axel, Combats Baby',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/226_Mia, Into the Unknown.jpg" id="226_Mia, Into the Unknown" data-flag="@X" onclick="openSidebar('226_Mia, Into the Unknown',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/224_Lysander Jal, Ex-Explorer.jpg" id="224_Lysander Jal, Ex-Explorer" data-flag="@X" onclick="openSidebar('224_Lysander Jal, Ex-Explorer',false)"></div>
+			<div class="container"><img data-alt_src="sets/AVX-files/img/230_Remi Amber, Slyten Specialist_back.jpg" alt="sets/AVX-files/img/230_Remi Amber, Slyten Specialist_front.jpg" id="230_Remi Amber, Slyten Specialist" data-flag="@XD" onclick="openSidebar('230_Remi Amber, Slyten Specialist',false)"><button class="flip-btn" onclick="imgFlip(230_Remi Amber, Slyten Specialist)"></button></div>
+			<div class="container"><img alt="sets/AVX-files/img/198_Biohazard.jpg" id="198_Biohazard" data-flag="@X" onclick="openSidebar('198_Biohazard',false)"></div>
+			<div class="container"><img alt="img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/314_Last Request.jpg" id="314_Last Request" data-flag="@X" onclick="openSidebar('314_Last Request',false)"></div>
+			<div class="container"><img alt="img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/306_Bright Future.jpg" id="306_Bright Future" data-flag="@X" onclick="openSidebar('306_Bright Future',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/310_Death in Reverse.jpg" id="310_Death in Reverse" data-flag="@X" onclick="openSidebar('310_Death in Reverse',false)"></div>
+			<div class="container"><img alt="img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/318_Starjump.jpg" id="318_Starjump" data-flag="@X" onclick="openSidebar('318_Starjump',false)"></div>
+			<div class="container"><img alt="img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/200_Bril, the Oltenen Emissary.jpg" id="200_Bril, the Oltenen Emissary" data-flag="@X" onclick="openSidebar('200_Bril, the Oltenen Emissary',false)"></div>
+			<div class="container"><img alt="img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/243_Eminent Extraction Engine.jpg" id="243_Eminent Extraction Engine" data-flag="@X" onclick="openSidebar('243_Eminent Extraction Engine',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/252_Sword of Love and Loathing.jpg" id="252_Sword of Love and Loathing" data-flag="@X" onclick="openSidebar('252_Sword of Love and Loathing',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/242_Cradle of War.jpg" id="242_Cradle of War" data-flag="@X" onclick="openSidebar('242_Cradle of War',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/244_Holdsteady Engine.jpg" id="244_Holdsteady Engine" data-flag="@X" onclick="openSidebar('244_Holdsteady Engine',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/251_Spinning Gears Abomination.jpg" id="251_Spinning Gears Abomination" data-flag="@X" onclick="openSidebar('251_Spinning Gears Abomination',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/245_Lonely Relic.jpg" id="245_Lonely Relic" data-flag="@X" onclick="openSidebar('245_Lonely Relic',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/246_Observation Field.jpg" id="246_Observation Field" data-flag="@X" onclick="openSidebar('246_Observation Field',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/247_Precursor Gate.jpg" id="247_Precursor Gate" data-flag="@X" onclick="openSidebar('247_Precursor Gate',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/249_Repurposed Custodian.jpg" id="249_Repurposed Custodian" data-flag="@X" onclick="openSidebar('249_Repurposed Custodian',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/254_Uncanny Allocator.jpg" id="254_Uncanny Allocator" data-flag="@X" onclick="openSidebar('254_Uncanny Allocator',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/248_Prophetic Prism.jpg" id="248_Prophetic Prism" data-flag="@X" onclick="openSidebar('248_Prophetic Prism',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/250_Scanning Module.jpg" id="250_Scanning Module" data-flag="@X" onclick="openSidebar('250_Scanning Module',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/253_TD-3 Slyten Retriever.jpg" id="253_TD-3 Slyten Retriever" data-flag="@X" onclick="openSidebar('253_TD-3 Slyten Retriever',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/322_Cosmic Tendrils.jpg" id="322_Cosmic Tendrils" data-flag="@X" onclick="openSidebar('322_Cosmic Tendrils',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/323_Gate of Realms.jpg" id="323_Gate of Realms" data-flag="@X" onclick="openSidebar('323_Gate of Realms',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/324_Love Letters.jpg" id="324_Love Letters" data-flag="@X" onclick="openSidebar('324_Love Letters',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/325_Runic Pillars.jpg" id="325_Runic Pillars" data-flag="@X" onclick="openSidebar('325_Runic Pillars',false)"></div>
+			<div class="container"><img alt="img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/265_Vivid Meadow.jpg" id="265_Vivid Meadow" data-flag="@X" onclick="openSidebar('265_Vivid Meadow',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/262_Vivid Creek.jpg" id="262_Vivid Creek" data-flag="@X" onclick="openSidebar('262_Vivid Creek',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/264_Vivid Marsh.jpg" id="264_Vivid Marsh" data-flag="@X" onclick="openSidebar('264_Vivid Marsh',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/261_Vivid Crag.jpg" id="261_Vivid Crag" data-flag="@X" onclick="openSidebar('261_Vivid Crag',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/263_Vivid Grove.jpg" id="263_Vivid Grove" data-flag="@X" onclick="openSidebar('263_Vivid Grove',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/329_Otherworldly Plains.jpg" id="329_Otherworldly Plains" data-flag="@X" onclick="openSidebar('329_Otherworldly Plains',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/327_Otherworldly Island.jpg" id="327_Otherworldly Island" data-flag="@X" onclick="openSidebar('327_Otherworldly Island',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/330_Otherworldly Swamp.jpg" id="330_Otherworldly Swamp" data-flag="@X" onclick="openSidebar('330_Otherworldly Swamp',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/328_Otherworldly Mountain.jpg" id="328_Otherworldly Mountain" data-flag="@X" onclick="openSidebar('328_Otherworldly Mountain',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/326_Otherworldly Forest.jpg" id="326_Otherworldly Forest" data-flag="@X" onclick="openSidebar('326_Otherworldly Forest',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/259_Olten's Heart.jpg" id="259_Oltens Heart" data-flag="@X" onclick="openSidebar('259_Oltens Heart',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/256_Channeling Stone.jpg" id="256_Channeling Stone" data-flag="@X" onclick="openSidebar('256_Channeling Stone',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/258_Living Planet.jpg" id="258_Living Planet" data-flag="@X" onclick="openSidebar('258_Living Planet',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/255_Adaptive Terrains.jpg" id="255_Adaptive Terrains" data-flag="@X" onclick="openSidebar('255_Adaptive Terrains',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/257_Interstellar Beacon.jpg" id="257_Interstellar Beacon" data-flag="@X" onclick="openSidebar('257_Interstellar Beacon',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/260_Realm of the Triumvirate.jpg" id="260_Realm of the Triumvirate" data-flag="@X" onclick="openSidebar('260_Realm of the Triumvirate',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/331_Power Plant.jpg" id="331_Power Plant" data-flag="@X" onclick="openSidebar('331_Power Plant',false)"></div>
+			<div class="container"><img alt="img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/1t_blue Elemental.jpg" id="1t_blue Elemental" data-flag="@X" onclick="openSidebar('1t_blue Elemental',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/3t_Horror.jpg" id="3t_Horror" data-flag="@X" onclick="openSidebar('3t_Horror',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/4t_Gold Elemental.jpg" id="4t_Gold Elemental" data-flag="@X" onclick="openSidebar('4t_Gold Elemental',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/6t_Servo.jpg" id="6t_Servo" data-flag="@X" onclick="openSidebar('6t_Servo',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/7t_Treasure.jpg" id="7t_Treasure" data-flag="@X" onclick="openSidebar('7t_Treasure',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/2t_Dragon.jpg" id="2t_Dragon" data-flag="@X" onclick="openSidebar('2t_Dragon',false)"></div>
+			<div class="container"><img alt="sets/AVX-files/img/5t_Lotus Petal.jpg" id="5t_Lotus Petal" data-flag="@X" onclick="openSidebar('5t_Lotus Petal',false)"></div>
+			<div class="container"><img alt="img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+		
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = 'img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		if (horizontal && rotated_img.style.display == 'none')
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+	}
+
+	function openSidebar(id, h=false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+		
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+
+		if (horizontal)
+		{
+			rotated_img.src = document.getElementById(id).src;
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+		
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+		
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+			if (event.key === "Enter") {
+				event.preventDefault();
+				search();
+			}
+		});
+
+		function search() {
+			window.location = ("/search?search=" + document.getElementById("search").value);
+		}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let card_name = card_list_arrayified[i].card_name;
+				for (const char of specialchars)
+				{
+					card_name = card_name.replaceAll(char, "");
+				}
+
+				window.location = ('/cards/' + card_list_arrayified[i].set + '/' + card_list_arrayified[i].number + '_' + card_name);
+			}
+	</script>
+</body>
+</html>
