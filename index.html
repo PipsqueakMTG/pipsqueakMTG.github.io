@@ -213,31 +213,35 @@
 										<div class="set-group"></div>
 							<div class="preview-container">
 		<div class="set-icon-container">
-									<a href="101-spoiler"><div class="set-icon"><img src="sets/101-files/icon.png" title="Storytime"></img></div>
+									<a href="previews/101"><div class="set-icon"><img src="sets/101-files/icon.png" title="Storytime"></img></div>
 									<div class="set-icon-name">Storytime</div></a>
 								</div>
 				<div class="set-icon-container">
-									<a href="AVX-spoiler"><div class="set-icon"><img src="sets/AVX-files/icon.png" title="Animus Vox"></img></div>
+									<a href="previews/AGC"><div class="set-icon"><img src="sets/AGC-files/icon.png" title="Agonos Cube"></img></div>
+									<div class="set-icon-name">Agonos Cube</div></a>
+								</div>
+				<div class="set-icon-container">
+									<a href="previews/AVX"><div class="set-icon"><img src="sets/AVX-files/icon.png" title="Animus Vox"></img></div>
 									<div class="set-icon-name">Animus Vox</div></a>
 								</div>
 				<div class="set-icon-container">
-									<a href="BLR-spoiler"><div class="set-icon"><img src="sets/BLR-files/icon.png" title="Blood Like Rivers"></img></div>
+									<a href="previews/BLR"><div class="set-icon"><img src="sets/BLR-files/icon.png" title="Blood Like Rivers"></img></div>
 									<div class="set-icon-name">Blood Like Rivers</div></a>
 								</div>
 				<div class="set-icon-container">
-									<a href="DOA-spoiler"><div class="set-icon"><img src="sets/DOA-files/icon.png" title="Discoveries of Akieva"></img></div>
+									<a href="previews/DOA"><div class="set-icon"><img src="sets/DOA-files/icon.png" title="Discoveries of Akieva"></img></div>
 									<div class="set-icon-name">Discoveries of Akieva</div></a>
 								</div>
 				<div class="set-icon-container">
-									<a href="LVS-spoiler"><div class="set-icon"><img src="sets/LVS-files/icon.png" title="Love Song"></img></div>
+									<a href="previews/LVS"><div class="set-icon"><img src="sets/LVS-files/icon.png" title="Love Song"></img></div>
 									<div class="set-icon-name">Love Song</div></a>
 								</div>
 				<div class="set-icon-container">
-									<a href="PTXX-spoiler"><div class="set-icon"><img src="sets/PTXX-files/icon.png" title="Pro Tour 20XX"></img></div>
+									<a href="previews/PTXX"><div class="set-icon"><img src="sets/PTXX-files/icon.png" title="Pro Tour 20XX"></img></div>
 									<div class="set-icon-name">Pro Tour 20XX</div></a>
 								</div>
 				<div class="set-icon-container">
-									<a href="WTM-spoiler"><div class="set-icon"><img src="sets/WTM-files/icon.png" title="Walking the Multiverse"></img></div>
+									<a href="previews/WTM"><div class="set-icon"><img src="sets/WTM-files/icon.png" title="Walking the Multiverse"></img></div>
 									<div class="set-icon-name">Walking the Multiverse</div></a>
 								</div>
 									</div>
@@ -308,12 +312,17 @@
 				const card_stats = card_list_cleaned[cotd];
 
 				const a = document.createElement("a");
-				let card_name = card_stats.card_name;
-				for (const char of specialchars)
-				{
-					card_name = card_name.replaceAll(char, "");
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: card_stats.set,
+					num: card_stats.number,
+					name: card_stats.card_name
 				}
-				a.href = '/cards/' + card_stats.set + '/' + card_stats.number + '_' + card_name;
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+				a.href = url;
 
 				const img = document.createElement("img");
 				img.id = "cotd";
@@ -405,18 +414,26 @@
 			}
 
 			function search() {
-				window.location = ("search?search=" + document.getElementById("search").value);
+				const url = new URL('search', window.location.origin);
+				url.searchParams.append('search', document.getElementById("search").value);
+				window.location.href = url;
 			}
 
 			function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
-				let card_name = card_list_arrayified[i].card_name;
-				for (const char of specialchars)
-				{
-					card_name = card_name.replaceAll(char, "");
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
 				}
 
-				window.location = ('/cards/' + card_list_arrayified[i].set + '/' + card_list_arrayified[i].number + '_' + card_name);
+				window.location.href = url;
 			}
 		</script>
 	</body>
