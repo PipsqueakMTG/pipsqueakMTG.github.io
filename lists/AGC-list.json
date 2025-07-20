@@ -1,1 +1,3204 @@
-﻿[{"card_name": "Agent of Nyx", "number": 4, "shape": "normal"}, {"card_name": "Aetherflash Expert", "number": 64, "shape": "normal"}, {"card_name": "Abyssal Oracle", "number": 123, "shape": "normal"}, {"card_name": "Acclaimed Duelist", "number": 184, "shape": "normal"}, {"card_name": "Advancements in Animation", "number": 244, "shape": "normal"}, {"card_name": "Archon of Hope's Defiance", "number": 5, "shape": "normal"}, {"card_name": "Archvillain's Ploy", "number": 65, "shape": "normal"}, {"card_name": "Anathema", "number": 124, "shape": "normal"}, {"card_name": "All In", "number": 185, "shape": "normal"}, {"card_name": "All In Bloom", "number": 245, "shape": "normal"}, {"card_name": "Artisan of Blades", "number": 6, "shape": "normal"}, {"card_name": "Astral Manipulation", "number": 66, "shape": "normal"}, {"card_name": "Archlich Ascension", "number": 125, "shape": "normal"}, {"card_name": "Anya, Caller of Flames", "number": 186, "shape": "planeswalker"}, {"card_name": "Ambush Raider", "number": 246, "shape": "normal"}, {"card_name": "Avenge", "number": 7, "shape": "normal"}, {"card_name": "Bargain with Ryukami", "number": 67, "shape": "normal"}, {"card_name": "Assault Rhino", "number": 126, "shape": "normal"}, {"card_name": "Ardent Bloodcaster", "number": 187, "shape": "normal"}, {"card_name": "Backwoods-Heart Ancient", "number": 247, "shape": "adventure"}, {"card_name": "Banish", "number": 8, "shape": "normal"}, {"card_name": "Best In Class", "number": 68, "shape": "normal"}, {"card_name": "Avela, Rebellious Thief", "number": 127, "shape": "planeswalker"}, {"card_name": "Attendant of Ashtongue", "number": 188, "shape": "normal"}, {"card_name": "Bellowing Miststrider", "number": 248, "shape": "adventure"}, {"card_name": "Behold Divinity", "number": 9, "shape": "normal"}, {"card_name": "Break Reality", "number": 69, "shape": "normal"}, {"card_name": "Bleak-Hole Ancient", "number": 128, "shape": "adventure"}, {"card_name": "Azra Thrill-Blade", "number": 189, "shape": "normal"}, {"card_name": "Call the Apex", "number": 249, "shape": "normal"}, {"card_name": "Blade of Banishing", "number": 10, "shape": "normal"}, {"card_name": "Brewing-Hurricane Ancient", "number": 70, "shape": "adventure"}, {"card_name": "Blighted Survivor", "number": 129, "shape": "normal"}, {"card_name": "Basel, Bloody Baron", "number": 190, "shape": "normal"}, {"card_name": "Chartivore", "number": 250, "shape": "normal"}, {"card_name": "Bright-Hollow Ancient", "number": 11, "shape": "adventure"}, {"card_name": "By the Sea", "number": 71, "shape": "normal"}, {"card_name": "Caller of Crypts", "number": 130, "shape": "normal"}, {"card_name": "Beckon Monsters", "number": 191, "shape": "normal"}, {"card_name": "Contemplate the Woods", "number": 251, "shape": "normal"}, {"card_name": "Capture the Glow", "number": 12, "shape": "normal"}, {"card_name": "Censor of Possibilities", "number": 72, "shape": "adventure"}, {"card_name": "Caller of Souls", "number": 131, "shape": "normal"}, {"card_name": "Blazewolf", "number": 192, "shape": "normal"}, {"card_name": "Curious Axolotl", "number": 252, "shape": "normal"}, {"card_name": "Curious Happenings", "number": 13, "shape": "normal"}, {"card_name": "Command Whimsical Dreams", "number": 73, "shape": "normal"}, {"card_name": "Ceaseless Lich", "number": 132, "shape": "normal"}, {"card_name": "Blood-Harvest Ancient", "number": 193, "shape": "adventure"}, {"card_name": "Deepwoods Prowler", "number": 253, "shape": "normal"}, {"card_name": "Deification", "number": 14, "shape": "normal"}, {"card_name": "Commanding Empress", "number": 74, "shape": "normal"}, {"card_name": "Champion of the Fens", "number": 133, "shape": "normal"}, {"card_name": "Brand New Day", "number": 194, "shape": "normal"}, {"card_name": "Deepwoods Whisperer", "number": 254, "shape": "normal"}, {"card_name": "Demand Unity", "number": 15, "shape": "normal"}, {"card_name": "Conjuration", "number": 75, "shape": "normal"}, {"card_name": "Chosen by Death", "number": 134, "shape": "normal"}, {"card_name": "Burn the World", "number": 195, "shape": "normal"}, {"card_name": "Embodiment of Resilience", "number": 255, "shape": "normal"}, {"card_name": "Disrupting Songstress", "number": 16, "shape": "normal"}, {"card_name": "Consult the Dracosages", "number": 76, "shape": "normal"}, {"card_name": "Corrupted Teachings", "number": 135, "shape": "normal"}, {"card_name": "Burning Breath", "number": 196, "shape": "normal"}, {"card_name": "Emissary of Undoing", "number": 256, "shape": "normal"}, {"card_name": "Divine Wisdom", "number": 17, "shape": "normal"}, {"card_name": "Creative Construction", "number": 77, "shape": "normal"}, {"card_name": "Crumble to Ashes", "number": 136, "shape": "normal"}, {"card_name": "Calamity, Interplanar Man of Mystery", "number": 197, "shape": "planeswalker"}, {"card_name": "Evergrowth", "number": 257, "shape": "normal"}, {"card_name": "Duchess of Steel", "number": 18, "shape": "normal"}, {"card_name": "Cyclone Archmage", "number": 78, "shape": "normal"}, {"card_name": "Crypt Terror", "number": 137, "shape": "normal"}, {"card_name": "Champion of Redgrove", "number": 198, "shape": "normal"}, {"card_name": "Evolving Grove", "number": 258, "shape": "normal"}, {"card_name": "Geist of Unbecoming", "number": 19, "shape": "normal"}, {"card_name": "Daydreaming", "number": 79, "shape": "normal"}, {"card_name": "Custodians of Dead Planes", "number": 138, "shape": "normal"}, {"card_name": "Chandra's Retribution", "number": 199, "shape": "normal"}, {"card_name": "Farrealm Cultivator", "number": 259, "shape": "normal"}, {"card_name": "Heaven's Decree", "number": 20, "shape": "normal"}, {"card_name": "Destabilize", "number": 80, "shape": "normal"}, {"card_name": "Death's Judgement", "number": 139, "shape": "normal"}, {"card_name": "Conquering Commander", "number": 200, "shape": "normal"}, {"card_name": "Flourishing Idol", "number": 260, "shape": "normal"}, {"card_name": "Hundred Years of Glory", "number": 21, "shape": "normal"}, {"card_name": "Elanor, Our Lady of Mist", "number": 81, "shape": "planeswalker"}, {"card_name": "Enchroaching Darkness", "number": 140, "shape": "normal"}, {"card_name": "Cosmic Collision", "number": 201, "shape": "normal"}, {"card_name": "Frond Guardian", "number": 261, "shape": "adventure"}, {"card_name": "Inspiring Prince", "number": 22, "shape": "normal"}, {"card_name": "Elthen Forcemage", "number": 82, "shape": "normal"}, {"card_name": "Fiendish Advocacy", "number": 141, "shape": "normal"}, {"card_name": "Dedicated Forgemaster", "number": 202, "shape": "normal"}, {"card_name": "Giant of Greatwoods", "number": 262, "shape": "normal"}, {"card_name": "Isabelle, Crowned in Glory", "number": 23, "shape": "normal"}, {"card_name": "Endless Possibilities", "number": 83, "shape": "normal"}, {"card_name": "Fifth Layer Prince", "number": 142, "shape": "normal"}, {"card_name": "Draconic Crusader", "number": 203, "shape": "adventure"}, {"card_name": "Grand Conservator", "number": 263, "shape": "adventure"}, {"card_name": "Keeper of Tranquility", "number": 24, "shape": "normal"}, {"card_name": "Farrealm Explorer", "number": 84, "shape": "normal"}, {"card_name": "Forbidden Tutor", "number": 143, "shape": "normal"}, {"card_name": "Draconic Mastery", "number": 204, "shape": "normal"}, {"card_name": "The Great Migration", "number": 264, "shape": "normal"}, {"card_name": "Koi Pond Meditations", "number": 25, "shape": "normal"}, {"card_name": "Find Answers", "number": 85, "shape": "normal"}, {"card_name": "Forgotten Insanity", "number": 144, "shape": "normal"}, {"card_name": "Dragon Hoardkeeper", "number": 205, "shape": "normal"}, {"card_name": "Greenwielder Druid", "number": 265, "shape": "normal"}, {"card_name": "Lady Mari of Morning", "number": 26, "shape": "planeswalker"}, {"card_name": "Forget Me Lots", "number": 86, "shape": "normal"}, {"card_name": "Golgari Rotmage", "number": 145, "shape": "adventure"}, {"card_name": "Dragon-Style Mentor", "number": 206, "shape": "normal"}, {"card_name": "Hesperian of Spring", "number": 266, "shape": "normal"}, {"card_name": "Lightseeker", "number": 27, "shape": "normal"}, {"card_name": "Fulbert, Rogue Spymaster", "number": 87, "shape": "adventure"}, {"card_name": "Grafcaster Mage", "number": 146, "shape": "normal"}, {"card_name": "Dream Big", "number": 207, "shape": "normal"}, {"card_name": "Hunting Alpha", "number": 267, "shape": "normal"}, {"card_name": "Linden's Valiant", "number": 28, "shape": "normal"}, {"card_name": "Galaxy's Will", "number": 88, "shape": "normal"}, {"card_name": "Haunted Screechwing", "number": 147, "shape": "normal"}, {"card_name": "Eltensian Hart", "number": 208, "shape": "normal"}, {"card_name": "Impulsive Adventurer", "number": 268, "shape": "normal"}, {"card_name": "Lost in the Light", "number": 29, "shape": "normal"}, {"card_name": "Galvanized Genius", "number": 89, "shape": "normal"}, {"card_name": "Increasing Dedication", "number": 148, "shape": "normal"}, {"card_name": "Everspark", "number": 209, "shape": "normal"}, {"card_name": "Into the Woods", "number": 269, "shape": "normal"}, {"card_name": "Martyr of the Empire", "number": 30, "shape": "normal"}, {"card_name": "Hexwing Meditant", "number": 90, "shape": "normal"}, {"card_name": "The Inexorable Vengeant", "number": 149, "shape": "normal"}, {"card_name": "Farrealm Huntsman", "number": 210, "shape": "normal"}, {"card_name": "Kati, Seasoned Instructor", "number": 270, "shape": "planeswalker"}, {"card_name": "Meletis Phalanx", "number": 31, "shape": "normal"}, {"card_name": "Imagine", "number": 91, "shape": "normal"}, {"card_name": "Infernal Recall", "number": 150, "shape": "normal"}, {"card_name": "Feel the Beat", "number": 211, "shape": "normal"}, {"card_name": "Kheru Proudborn", "number": 271, "shape": "normal"}, {"card_name": "Mother of Light", "number": 32, "shape": "normal"}, {"card_name": "Jake Gordon, Ready to Go", "number": 92, "shape": "planeswalker"}, {"card_name": "Knight of Subversion", "number": 151, "shape": "normal"}, {"card_name": "Flamecloak Armor", "number": 212, "shape": "normal"}, {"card_name": "Leyline Sculptor", "number": 272, "shape": "adventure"}, {"card_name": "No More", "number": 33, "shape": "normal"}, {"card_name": "Kel, Tempest's Will", "number": 93, "shape": "planeswalker"}, {"card_name": "Leaking Memories", "number": 152, "shape": "normal"}, {"card_name": "Flayer of the Living", "number": 213, "shape": "normal"}, {"card_name": "Lotus Dryad", "number": 273, "shape": "normal"}, {"card_name": "Noble Unicorn", "number": 34, "shape": "adventure"}, {"card_name": "Ley Tracer", "number": 94, "shape": "normal"}, {"card_name": "Manifold Machinations", "number": 153, "shape": "normal"}, {"card_name": "Forsake the Past", "number": 214, "shape": "normal"}, {"card_name": "Lys Alana Patrol", "number": 274, "shape": "normal"}, {"card_name": "Octavia, Golden Heir", "number": 35, "shape": "normal"}, {"card_name": "Memory's Ruse", "number": 95, "shape": "normal"}, {"card_name": "Mental Predators", "number": 154, "shape": "normal"}, {"card_name": "Fourth Layer General", "number": 215, "shape": "normal"}, {"card_name": "Massive Impact", "number": 275, "shape": "normal"}, {"card_name": "Order the Troops", "number": 36, "shape": "normal"}, {"card_name": "Nexus Gate", "number": 96, "shape": "normal"}, {"card_name": "Murder Plot", "number": 155, "shape": "normal"}, {"card_name": "Fracture", "number": 216, "shape": "normal"}, {"card_name": "Meredith, Primeval Force", "number": 276, "shape": "planeswalker"}, {"card_name": "Out-of-Body Experience", "number": 37, "shape": "normal"}, {"card_name": "One of the Crowd", "number": 97, "shape": "normal"}, {"card_name": "Murderous Reflection", "number": 156, "shape": "normal"}, {"card_name": "Gloryhunter Dragon", "number": 217, "shape": "normal"}, {"card_name": "Musician of the Glade", "number": 277, "shape": "normal"}, {"card_name": "Painter of Reality", "number": 38, "shape": "normal"}, {"card_name": "Oracle of Winter", "number": 98, "shape": "normal"}, {"card_name": "Only Bones Remain", "number": 157, "shape": "normal"}, {"card_name": "Hellraiser", "number": 218, "shape": "normal"}, {"card_name": "Nylea's Favored", "number": 278, "shape": "normal"}, {"card_name": "Paladin of Light's Grace", "number": 39, "shape": "normal"}, {"card_name": "Order the Seas", "number": 99, "shape": "normal"}, {"card_name": "Order the Dead", "number": 158, "shape": "normal"}, {"card_name": "Heretic Hunter", "number": 219, "shape": "adventure"}, {"card_name": "Old God's Presence", "number": 279, "shape": "normal"}, {"card_name": "Peace In Our Time", "number": 40, "shape": "normal"}, {"card_name": "Orobi, Who Outsmarts Time", "number": 100, "shape": "normal"}, {"card_name": "Out of Order", "number": 159, "shape": "normal"}, {"card_name": "Jessica Turin, Archmagus", "number": 220, "shape": "planeswalker"}, {"card_name": "Order the Wilds", "number": 280, "shape": "normal"}, {"card_name": "Preeminent Lieutenant", "number": 41, "shape": "normal"}, {"card_name": "Otterslide", "number": 101, "shape": "normal"}, {"card_name": "Pale-Court Provocateur", "number": 160, "shape": "normal"}, {"card_name": "Lava Contract", "number": 221, "shape": "normal"}, {"card_name": "Overbearing Sentinel", "number": 281, "shape": "normal"}, {"card_name": "Pro Populo et Gloria", "number": 42, "shape": "normal"}, {"card_name": "Paliano Spellweaver", "number": 102, "shape": "adventure"}, {"card_name": "Poisoner of Dreams", "number": 161, "shape": "adventure"}, {"card_name": "Magmatic Entity", "number": 222, "shape": "normal"}, {"card_name": "Preacher of Spring", "number": 282, "shape": "adventure"}, {"card_name": "Pureheart Mystic", "number": 43, "shape": "normal"}, {"card_name": "Paramnesia", "number": 103, "shape": "normal"}, {"card_name": "Profane Bargain", "number": 162, "shape": "normal"}, {"card_name": "Marshal, Badlands Scourge", "number": 223, "shape": "normal"}, {"card_name": "Reclaimed by Nature", "number": 283, "shape": "normal"}, {"card_name": "Push Back the Siege", "number": 44, "shape": "normal"}, {"card_name": "Phantasmal Stalker", "number": 104, "shape": "normal"}, {"card_name": "Reaper of the Old Roads", "number": 163, "shape": "normal"}, {"card_name": "Mayhem's Will", "number": 224, "shape": "normal"}, {"card_name": "Redfang Tracker", "number": 284, "shape": "normal"}, {"card_name": "Resolute Bodyguard", "number": 45, "shape": "normal"}, {"card_name": "Plot", "number": 105, "shape": "normal"}, {"card_name": "Reaper's Visit", "number": 164, "shape": "normal"}, {"card_name": "Molten Stampede Leader", "number": 225, "shape": "normal"}, {"card_name": "Revengevine", "number": 285, "shape": "normal"}, {"card_name": "Rhystic Haunting", "number": 46, "shape": "normal"}, {"card_name": "Quell the Storm", "number": 106, "shape": "normal"}, {"card_name": "Rose Court Oathkeeper", "number": 165, "shape": "normal"}, {"card_name": "Novarose Bloom", "number": 226, "shape": "normal"}, {"card_name": "Rumbleroot Colossus", "number": 286, "shape": "normal"}, {"card_name": "Seal Beyond the Veil", "number": 47, "shape": "normal"}, {"card_name": "Reclaimed by Dreams", "number": 107, "shape": "normal"}, {"card_name": "Scavenger Queen", "number": 166, "shape": "normal"}, {"card_name": "Okalae, Blood Blossom", "number": 227, "shape": "planeswalker"}, {"card_name": "Rtslag, World's Vengeance", "number": 287, "shape": "planeswalker"}, {"card_name": "Selfless Healer", "number": 48, "shape": "adventure"}, {"card_name": "Refracting Pattern", "number": 108, "shape": "adventure"}, {"card_name": "Sesilius' Chosen", "number": 167, "shape": "normal"}, {"card_name": "The Omnivorous Engine", "number": 228, "shape": "normal"}, {"card_name": "Speaker of the Trees", "number": 288, "shape": "normal"}, {"card_name": "Seraph of Astronomy", "number": 49, "shape": "normal"}, {"card_name": "Remake In My Image", "number": 109, "shape": "normal"}, {"card_name": "Sesilius, Hand of Atrocity", "number": 168, "shape": "planeswalker"}, {"card_name": "One with Flames", "number": 229, "shape": "normal"}, {"card_name": "Surfacewalker Lookout", "number": 289, "shape": "normal"}, {"card_name": "Serenity Beckons", "number": 50, "shape": "normal"}, {"card_name": "Ri-Ga, Praenn Health Dealer", "number": 110, "shape": "planeswalker"}, {"card_name": "Shadow Dancing", "number": 169, "shape": "normal"}, {"card_name": "Order the Earth", "number": 230, "shape": "normal"}, {"card_name": "Tender of the Dark Grove", "number": 290, "shape": "normal"}, {"card_name": "Shieldmage's Charm", "number": 51, "shape": "normal"}, {"card_name": "Rob Blind", "number": 111, "shape": "normal"}, {"card_name": "Shadow of Chivalry", "number": 170, "shape": "normal"}, {"card_name": "Pigstrider Cavalier", "number": 231, "shape": "normal"}, {"card_name": "Thicket Keeper", "number": 291, "shape": "normal"}, {"card_name": "So Dies Hope", "number": 52, "shape": "normal"}, {"card_name": "Runic Reflections", "number": 112, "shape": "normal"}, {"card_name": "Splinter Commander", "number": 171, "shape": "normal"}, {"card_name": "Playing with Fire", "number": 232, "shape": "normal"}, {"card_name": "Titan's Passing", "number": 292, "shape": "normal"}, {"card_name": "Spindle Dancer", "number": 53, "shape": "normal"}, {"card_name": "Send Back", "number": 113, "shape": "normal"}, {"card_name": "Surtland Executioner", "number": 172, "shape": "normal"}, {"card_name": "Raze Reality", "number": 233, "shape": "normal"}, {"card_name": "Tranquil Mystic", "number": 293, "shape": "normal"}, {"card_name": "Spirit of Secrets", "number": 54, "shape": "normal"}, {"card_name": "Snapback Arcanist", "number": 114, "shape": "normal"}, {"card_name": "Thus The Heroes Fall", "number": 173, "shape": "normal"}, {"card_name": "Running with Dragons", "number": 234, "shape": "normal"}, {"card_name": "Tree of Life", "number": 294, "shape": "normal"}, {"card_name": "Stand Against Evil", "number": 55, "shape": "normal"}, {"card_name": "Spellslinger Adept", "number": 115, "shape": "normal"}, {"card_name": "Tutor of the Dead", "number": 174, "shape": "normal"}, {"card_name": "Ryukami's Call", "number": 235, "shape": "normal"}, {"card_name": "Tyrant Wurm", "number": 295, "shape": "normal"}, {"card_name": "Tabula Rasa", "number": 56, "shape": "normal"}, {"card_name": "Syndicate Infiltrator", "number": 116, "shape": "normal"}, {"card_name": "Twisting Way", "number": 175, "shape": "normal"}, {"card_name": "Temporal Gamble", "number": 236, "shape": "normal"}, {"card_name": "Unending Evolution", "number": 296, "shape": "normal"}, {"card_name": "Tender of Souls", "number": 57, "shape": "normal"}, {"card_name": "Tolarian Renegade", "number": 117, "shape": "normal"}, {"card_name": "Undeath's Crown", "number": 176, "shape": "normal"}, {"card_name": "Tennen General", "number": 237, "shape": "normal"}, {"card_name": "Waking Dreams", "number": 297, "shape": "normal"}, {"card_name": "Turning of the Clock", "number": 58, "shape": "normal"}, {"card_name": "Tyrean Memory Core", "number": 118, "shape": "normal"}, {"card_name": "Unlife Vial", "number": 177, "shape": "normal"}, {"card_name": "Unrivaled Slayer", "number": 238, "shape": "normal"}, {"card_name": "Warden's Weaver", "number": 298, "shape": "normal"}, {"card_name": "Valiant Vanguard", "number": 59, "shape": "normal"}, {"card_name": "Unbound Creativity", "number": 119, "shape": "normal"}, {"card_name": "Unstoppable Butcher", "number": 178, "shape": "normal"}, {"card_name": "Unstable Entity", "number": 239, "shape": "normal"}, {"card_name": "Wielder of New Growth", "number": 299, "shape": "normal"}, {"card_name": "Veteran Combatant", "number": 60, "shape": "normal"}, {"card_name": "Unlocking Time's Mystery", "number": 120, "shape": "normal"}, {"card_name": "Vengeful Reaper", "number": 179, "shape": "normal"}, {"card_name": "Uyen of the Burning Way", "number": 240, "shape": "normal"}, {"card_name": "Wildsland Packleader", "number": 300, "shape": "normal"}, {"card_name": "Vylinia, Curator of Wonders", "number": 61, "shape": "normal"}, {"card_name": "Wormhole Navigator", "number": 121, "shape": "normal"}, {"card_name": "Vikalden, Rogue Agent", "number": 180, "shape": "planeswalker"}, {"card_name": "Valkyrie Groundbreaker", "number": 241, "shape": "adventure"}, {"card_name": "Wurm Caller", "number": 301, "shape": "normal"}, {"card_name": "Welcome to Gildyn", "number": 62, "shape": "normal"}, {"card_name": "Wrath of the Tides", "number": 122, "shape": "normal"}, {"card_name": "Violent Offering", "number": 181, "shape": "normal"}, {"card_name": "Vengeant Champion", "number": 242, "shape": "normal"}, {"card_name": "e"}, {"card_name": "Yaruna, High Priestess", "number": 63, "shape": "planeswalker"}, {"card_name": "e"}, {"card_name": "Wrap in Darkness", "number": 182, "shape": "normal"}, {"card_name": "Xepa, Artisan of Fury", "number": 243, "shape": "planeswalker"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "Xanigan, Bearer of Blood", "number": 183, "shape": "planeswalker"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, "a->gold", {"card_name": "The Planar Wanderer", "number": 331, "shape": "planeswalker"}, {"card_name": "Iterate", "number": 317, "shape": "normal"}, {"card_name": "Devour Reality", "number": 306, "shape": "normal"}, {"card_name": "Nurture with Ashes", "number": 328, "shape": "normal"}, {"card_name": "Evolutionary Admiration", "number": 309, "shape": "normal"}, {"card_name": "Sea Gate Hedronsmith", "number": 337, "shape": "normal"}, {"card_name": "The Lord Below", "number": 324, "shape": "normal"}, {"card_name": "Jay Volkan, Arms Dealer", "number": 319, "shape": "planeswalker"}, {"card_name": "Ryukami's Rage", "number": 334, "shape": "normal"}, {"card_name": "Mishae the Blossoming", "number": 326, "shape": "normal"}, {"card_name": "Temporal Jaunter", "number": 341, "shape": "normal"}, {"card_name": "Secrets of the Deep", "number": 338, "shape": "normal"}, {"card_name": "The Lone Soldier", "number": 323, "shape": "adventure"}, {"card_name": "Shiftstorm Champion", "number": 339, "shape": "normal"}, {"card_name": "HESTIA, Will of Community", "number": 349, "shape": "normal"}, {"card_name": "Elsewhere", "number": 347, "shape": "normal"}, {"card_name": "ENMA, Will of Ephemera", "number": 348, "shape": "normal"}, {"card_name": "Unleash the Monstrosity", "number": 343, "shape": "normal"}, {"card_name": "Wrenn and Ten", "number": 345, "shape": "planeswalker"}, {"card_name": "e"}, {"card_name": "LUGH, Will of Iteration", "number": 350, "shape": "normal"}, {"card_name": "Marvelous Plagiarist", "number": 352, "shape": "normal"}, {"card_name": "e"}, {"card_name": "SIF, Will of Growth", "number": 353, "shape": "normal"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "Iko, the Lost", "number": 316, "shape": "planeswalker"}, {"card_name": "Geometric Musings", "number": 313, "shape": "normal"}, {"card_name": "Awoken Fleshcrafter", "number": 303, "shape": "normal"}, {"card_name": "Aeterna, Venerated Vigilante", "number": 302, "shape": "planeswalker"}, {"card_name": "The Changing Queen", "number": 304, "shape": "normal"}, {"card_name": "Keeper of Mementos", "number": 321, "shape": "normal"}, {"card_name": "Lost in Dream", "number": 325, "shape": "normal"}, {"card_name": "Fallen to the Ages", "number": 311, "shape": "normal"}, {"card_name": "The Gilded King", "number": 314, "shape": "normal"}, {"card_name": "Dreambubble Witch", "number": 307, "shape": "normal"}, {"card_name": "Repentant Conqueror", "number": 333, "shape": "normal"}, {"card_name": "Morphic Maelstrom", "number": 327, "shape": "normal"}, {"card_name": "Jack, Emissary of The Court", "number": 318, "shape": "planeswalker"}, {"card_name": "King Florence of Caulder", "number": 322, "shape": "normal"}, {"card_name": "Explore Paradise", "number": 310, "shape": "normal"}, {"card_name": "Beyond Death", "number": 346, "shape": "normal"}, {"card_name": "The Queen of Scales", "number": 332, "shape": "planeswalker"}, {"card_name": "Underdark Matriarch", "number": 342, "shape": "adventure"}, {"card_name": "e"}, {"card_name": "Ryukami's Wake", "number": 335, "shape": "normal"}, {"card_name": "MAAT, Will of Justice", "number": 351, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "Perplexing Sphinx", "number": 330, "shape": "normal"}, {"card_name": "Will Beyond Reason", "number": 344, "shape": "normal"}, {"card_name": "Scratch, Eltensia's Warden", "number": 336, "shape": "planeswalker"}, {"card_name": "Kajuro, Ever-Blessing", "number": 320, "shape": "normal"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "Dawson, Cruel Captain", "number": 305, "shape": "planeswalker"}, {"card_name": "Slickskin Managorger", "number": 340, "shape": "normal"}, {"card_name": "Evaldi, Geneshifter Prophet", "number": 308, "shape": "normal"}, {"card_name": "Find Reality's Edge", "number": 312, "shape": "normal"}, {"card_name": "Odqora, Deranged Witch", "number": 329, "shape": "normal"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "Glitch, Drinker of Seas", "number": 315, "shape": "planeswalker"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, "a->colorless", {"card_name": "Azamir, Pantheon Usurper", "number": 1, "shape": "planeswalker"}, {"card_name": "Quxfin, Empyrial Divinity", "number": 2, "shape": "planeswalker"}, {"card_name": "Tyrant of the Blind Eternities", "number": 3, "shape": "planeswalker"}, {"card_name": "Adept's Spellblade", "number": 354, "shape": "normal"}, {"card_name": "Aeonic Conduit", "number": 355, "shape": "normal"}, {"card_name": "Aetherium Gears", "number": 356, "shape": "normal"}, {"card_name": "Alignment Array", "number": 357, "shape": "normal"}, {"card_name": "Artificial Recruiter", "number": 358, "shape": "normal"}, {"card_name": "Astrarium", "number": 359, "shape": "normal"}, {"card_name": "Ceaseless Soldier", "number": 360, "shape": "normal"}, {"card_name": "Chromatic Torch", "number": 361, "shape": "normal"}, {"card_name": "Clickbug Hunter", "number": 362, "shape": "normal"}, {"card_name": "Clockwork Plaguebearer", "number": 363, "shape": "normal"}, {"card_name": "Collector of Cogs", "number": 364, "shape": "normal"}, {"card_name": "Consulate Censor", "number": 365, "shape": "normal"}, {"card_name": "Corrupter of Forms", "number": 366, "shape": "adventure"}, {"card_name": "Cosmic Curator", "number": 367, "shape": "normal"}, {"card_name": "Cosmic Edge", "number": 368, "shape": "normal"}, {"card_name": "Dormant Guardian", "number": 369, "shape": "normal"}, {"card_name": "Faraway Cube", "number": 370, "shape": "adventure"}, {"card_name": "Forbidden Scroll", "number": 371, "shape": "normal"}, {"card_name": "Forgotten Cube", "number": 372, "shape": "normal"}, {"card_name": "Fragment of Curiosity", "number": 373, "shape": "normal"}, {"card_name": "Fragment of Emptiness", "number": 374, "shape": "normal"}, {"card_name": "Fragment of Growth", "number": 375, "shape": "normal"}, {"card_name": "Fragment of Hope", "number": 376, "shape": "normal"}, {"card_name": "Fragment of Rage", "number": 377, "shape": "normal"}, {"card_name": "Harvest Aligner", "number": 378, "shape": "normal"}, {"card_name": "Itirin's Archive", "number": 379, "shape": "normal"}, {"card_name": "The Knowledge Hub", "number": 380, "shape": "normal"}, {"card_name": "Neuropath Psiweaver", "number": 381, "shape": "normal"}, {"card_name": "Orb of Insight", "number": 382, "shape": "normal"}, {"card_name": "Prismatic Beacon", "number": 383, "shape": "normal"}, {"card_name": "Prophetic Sculpture", "number": 384, "shape": "normal"}, {"card_name": "Regalia of Might and Lore", "number": 385, "shape": "normal"}, {"card_name": "Regalia of Speed and Focus", "number": 386, "shape": "normal"}, {"card_name": "Regalia of Sword and Sorcery", "number": 387, "shape": "normal"}, {"card_name": "Replicant Formsculptor", "number": 388, "shape": "normal"}, {"card_name": "Rishadan Amulet", "number": 389, "shape": "normal"}, {"card_name": "Spark Servant", "number": 390, "shape": "normal"}, {"card_name": "The Sphere", "number": 391, "shape": "normal"}, {"card_name": "Spiteful Wargear", "number": 392, "shape": "normal"}, {"card_name": "Starfield Lotuses", "number": 393, "shape": "normal"}, {"card_name": "Thran Battle Titan", "number": 394, "shape": "normal"}, {"card_name": "Titanic Crasher", "number": 395, "shape": "normal"}, {"card_name": "Unaltered Fragment", "number": 396, "shape": "normal"}, {"card_name": "Unidentified Relic", "number": 397, "shape": "normal"}, {"card_name": "Unstable Powercell", "number": 398, "shape": "normal"}, {"card_name": "Veilborn Harness", "number": 399, "shape": "normal"}, {"card_name": "Veteran's Gear", "number": 400, "shape": "normal"}, {"card_name": "Vorpal Titan", "number": 401, "shape": "normal"}, {"card_name": "Worldclock", "number": 402, "shape": "normal"}, {"card_name": "Worldfire Sphere", "number": 403, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, "a->land", {"card_name": "e"}, {"card_name": "e"}, {"card_name": "Blighted Hollow", "number": 410, "shape": "normal"}, {"card_name": "The Academy of Innovation", "number": 404, "shape": "normal"}, {"card_name": "Changing Grove", "number": 414, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "Idyllia", "number": 431, "shape": "normal"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "The Frost Gate", "number": 428, "shape": "normal"}, {"card_name": "Desolate Altar", "number": 421, "shape": "normal"}, {"card_name": "Badlands", "number": 408, "shape": "normal"}, {"card_name": "Taiga", "number": 450, "shape": "normal"}, {"card_name": "Meadows of Moag", "number": 436, "shape": "normal"}, {"card_name": "Tundra", "number": 455, "shape": "normal"}, {"card_name": "Tiger Shadow Dojo", "number": 451, "shape": "normal"}, {"card_name": "Brutal Wastes", "number": 413, "shape": "normal"}, {"card_name": "Titanic Terrain", "number": 452, "shape": "normal"}, {"card_name": "Savannah", "number": 443, "shape": "normal"}, {"card_name": "Wandering River", "number": 461, "shape": "normal"}, {"card_name": "Underground Sea", "number": 456, "shape": "normal"}, {"card_name": "Forbidden Shrine", "number": 427, "shape": "normal"}, {"card_name": "Walking Wasteland", "number": 460, "shape": "normal"}, {"card_name": "Serene Grove", "number": 448, "shape": "normal"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "Hazy Bog", "number": 430, "shape": "normal"}, {"card_name": "Magmatic Coral", "number": 433, "shape": "normal"}, {"card_name": "Bayou", "number": 409, "shape": "normal"}, {"card_name": "Field of Training", "number": 425, "shape": "normal"}, {"card_name": "Tranquil Spring", "number": 453, "shape": "normal"}, {"card_name": "Marble Bazaar", "number": 434, "shape": "normal"}, {"card_name": "Storm's Conduit", "number": 449, "shape": "normal"}, {"card_name": "Cursed Woods", "number": 419, "shape": "normal"}, {"card_name": "Plateau", "number": 439, "shape": "normal"}, {"card_name": "Tropical Island", "number": 454, "shape": "normal"}, {"card_name": "Scrubland", "number": 447, "shape": "normal"}, {"card_name": "Volcanic Island", "number": 459, "shape": "normal"}, {"card_name": "Decay Reclaimed Swale", "number": 420, "shape": "normal"}, {"card_name": "Scorched Upland", "number": 445, "shape": "normal"}, {"card_name": "Verdant Stream", "number": 458, "shape": "normal"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "Aetherite Mine", "number": 405, "shape": "normal"}, {"card_name": "Ancestral Mountain", "number": 406, "shape": "normal"}, {"card_name": "Arid Mesa", "number": 407, "shape": "normal"}, {"card_name": "Bloodstained Mire", "number": 411, "shape": "normal"}, {"card_name": "Broken Temple", "number": 412, "shape": "normal"}, {"card_name": "Chapel of the Wylds", "number": 415, "shape": "normal"}, {"card_name": "Coiling Caves", "number": 416, "shape": "normal"}, {"card_name": "Cracking Caldera", "number": 417, "shape": "normal"}, {"card_name": "Crumbling Capital", "number": 418, "shape": "normal"}, {"card_name": "Dragonbone Valley", "number": 422, "shape": "normal"}, {"card_name": "Elsewhere Gate", "number": 423, "shape": "normal"}, {"card_name": "Eroded Tower", "number": 424, "shape": "normal"}, {"card_name": "Flooded Strand", "number": 426, "shape": "normal"}, {"card_name": "Golden Meadows", "number": 429, "shape": "normal"}, {"card_name": "The Lost City", "number": 432, "shape": "normal"}, {"card_name": "Marsh Flats", "number": 435, "shape": "normal"}, {"card_name": "Mishae's Garden", "number": 437, "shape": "normal"}, {"card_name": "Misty Rainforest", "number": 438, "shape": "normal"}, {"card_name": "Polluted Delta", "number": 440, "shape": "normal"}, {"card_name": "Prismatic Vista", "number": 441, "shape": "normal"}, {"card_name": "Riddling Maze", "number": 442, "shape": "normal"}, {"card_name": "Scalding Tarn", "number": 444, "shape": "normal"}, {"card_name": "Scrapworks", "number": 446, "shape": "normal"}, {"card_name": "Verdant Catacombs", "number": 457, "shape": "normal"}, {"card_name": "Windswept Heath", "number": 462, "shape": "normal"}, {"card_name": "Wooded Foothills", "number": 463, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "Plains", "number": 464, "shape": "normal"}, {"card_name": "Island", "number": 465, "shape": "normal"}, {"card_name": "Swamp", "number": 466, "shape": "normal"}, {"card_name": "Mountain", "number": 467, "shape": "normal"}, {"card_name": "Forest", "number": 468, "shape": "normal"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, "a->token", {"card_name": "XX Spirit", "number": 1, "shape": "token"}, {"card_name": "Clue", "number": 15, "shape": "token"}, {"card_name": "Treasure", "number": 16, "shape": "token"}, {"card_name": "Vessel", "number": 17, "shape": "token"}, {"card_name": "Angel", "number": 2, "shape": "token"}, {"card_name": "Anthem", "number": 3, "shape": "token"}, {"card_name": "Soldier", "number": 4, "shape": "token"}, {"card_name": "Spirit", "number": 5, "shape": "token"}, {"card_name": "Elemental", "number": 6, "shape": "token"}, {"card_name": "Otter", "number": 7, "shape": "token"}, {"card_name": "Rogue", "number": 8, "shape": "token"}, {"card_name": "Devil", "number": 9, "shape": "token"}, {"card_name": "Dragon", "number": 10, "shape": "token"}, {"card_name": "Red Elemental", "number": 11, "shape": "token"}, {"card_name": "Beast", "number": 12, "shape": "token"}, {"card_name": "Saproling", "number": 13, "shape": "token"}, {"card_name": "Wurm", "number": 14, "shape": "token"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}]
+﻿[
+    {
+        "card_name": "Agent of Nyx",
+        "number": 4,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Aetherflash Expert",
+        "number": 64,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Abyssal Oracle",
+        "number": 123,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Acclaimed Duelist",
+        "number": 184,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Advancements in Animation",
+        "number": 244,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Archon of Hope's Defiance",
+        "number": 5,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Archvillain's Ploy",
+        "number": 65,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Anathema",
+        "number": 124,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "All In",
+        "number": 185,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "All In Bloom",
+        "number": 245,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Artisan of Blades",
+        "number": 6,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Astral Manipulation",
+        "number": 66,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Archlich Ascension",
+        "number": 125,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Anya, Caller of Flames",
+        "number": 186,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Ambush Raider",
+        "number": 246,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Avenge",
+        "number": 7,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Bargain with Ryukami",
+        "number": 67,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Assault Rhino",
+        "number": 126,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Ardent Bloodcaster",
+        "number": 187,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Backwoods-Heart Ancient",
+        "number": 247,
+        "shape": "adventure",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Banish",
+        "number": 8,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Best In Class",
+        "number": 68,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Avela, Rebellious Thief",
+        "number": 127,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Attendant of Ashtongue",
+        "number": 188,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Bellowing Miststrider",
+        "number": 248,
+        "shape": "adventure",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Behold Divinity",
+        "number": 9,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Break Reality",
+        "number": 69,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Bleak-Hole Ancient",
+        "number": 128,
+        "shape": "adventure",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Azra Thrill-Blade",
+        "number": 189,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Call the Apex",
+        "number": 249,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Blade of Banishing",
+        "number": 10,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Brewing-Hurricane Ancient",
+        "number": 70,
+        "shape": "adventure",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Blighted Survivor",
+        "number": 129,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Basel, Bloody Baron",
+        "number": 190,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Chartivore",
+        "number": 250,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Bright-Hollow Ancient",
+        "number": 11,
+        "shape": "adventure",
+        "set": "AGC"
+    },
+    {
+        "card_name": "By the Sea",
+        "number": 71,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Caller of Crypts",
+        "number": 130,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Beckon Monsters",
+        "number": 191,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Contemplate the Woods",
+        "number": 251,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Capture the Glow",
+        "number": 12,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Censor of Possibilities",
+        "number": 72,
+        "shape": "adventure",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Caller of Souls",
+        "number": 131,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Blazewolf",
+        "number": 192,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Curious Axolotl",
+        "number": 252,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Curious Happenings",
+        "number": 13,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Command Whimsical Dreams",
+        "number": 73,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Ceaseless Lich",
+        "number": 132,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Blood-Harvest Ancient",
+        "number": 193,
+        "shape": "adventure",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Deepwoods Prowler",
+        "number": 253,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Deification",
+        "number": 14,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Commanding Empress",
+        "number": 74,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Champion of the Fens",
+        "number": 133,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Brand New Day",
+        "number": 194,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Deepwoods Whisperer",
+        "number": 254,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Demand Unity",
+        "number": 15,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Conjuration",
+        "number": 75,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Chosen by Death",
+        "number": 134,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Burn the World",
+        "number": 195,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Embodiment of Resilience",
+        "number": 255,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Disrupting Songstress",
+        "number": 16,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Consult the Dracosages",
+        "number": 76,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Corrupted Teachings",
+        "number": 135,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Burning Breath",
+        "number": 196,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Emissary of Undoing",
+        "number": 256,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Divine Wisdom",
+        "number": 17,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Creative Construction",
+        "number": 77,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Crumble to Ashes",
+        "number": 136,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Calamity, Interplanar Man of Mystery",
+        "number": 197,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Evergrowth",
+        "number": 257,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Duchess of Steel",
+        "number": 18,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Cyclone Archmage",
+        "number": 78,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Crypt Terror",
+        "number": 137,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Champion of Redgrove",
+        "number": 198,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Evolving Grove",
+        "number": 258,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Geist of Unbecoming",
+        "number": 19,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Daydreaming",
+        "number": 79,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Custodians of Dead Planes",
+        "number": 138,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Chandra's Retribution",
+        "number": 199,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Farrealm Cultivator",
+        "number": 259,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Heaven's Decree",
+        "number": 20,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Destabilize",
+        "number": 80,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Death's Judgement",
+        "number": 139,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Conquering Commander",
+        "number": 200,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Flourishing Idol",
+        "number": 260,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Hundred Years of Glory",
+        "number": 21,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Elanor, Our Lady of Mist",
+        "number": 81,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Enchroaching Darkness",
+        "number": 140,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Cosmic Collision",
+        "number": 201,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Frond Guardian",
+        "number": 261,
+        "shape": "adventure",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Inspiring Prince",
+        "number": 22,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Elthen Forcemage",
+        "number": 82,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Fiendish Advocacy",
+        "number": 141,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Dedicated Forgemaster",
+        "number": 202,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Giant of Greatwoods",
+        "number": 262,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Isabelle, Crowned in Glory",
+        "number": 23,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Endless Possibilities",
+        "number": 83,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Fifth Layer Prince",
+        "number": 142,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Draconic Crusader",
+        "number": 203,
+        "shape": "adventure",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Grand Conservator",
+        "number": 263,
+        "shape": "adventure",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Keeper of Tranquility",
+        "number": 24,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Farrealm Explorer",
+        "number": 84,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Forbidden Tutor",
+        "number": 143,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Draconic Mastery",
+        "number": 204,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "The Great Migration",
+        "number": 264,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Koi Pond Meditations",
+        "number": 25,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Find Answers",
+        "number": 85,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Forgotten Insanity",
+        "number": 144,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Dragon Hoardkeeper",
+        "number": 205,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Greenwielder Druid",
+        "number": 265,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Lady Mari of Morning",
+        "number": 26,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Forget Me Lots",
+        "number": 86,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Golgari Rotmage",
+        "number": 145,
+        "shape": "adventure",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Dragon-Style Mentor",
+        "number": 206,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Hesperian of Spring",
+        "number": 266,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Lightseeker",
+        "number": 27,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Fulbert, Rogue Spymaster",
+        "number": 87,
+        "shape": "adventure",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Grafcaster Mage",
+        "number": 146,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Dream Big",
+        "number": 207,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Hunting Alpha",
+        "number": 267,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Linden's Valiant",
+        "number": 28,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Galaxy's Will",
+        "number": 88,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Haunted Screechwing",
+        "number": 147,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Eltensian Hart",
+        "number": 208,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Impulsive Adventurer",
+        "number": 268,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Lost in the Light",
+        "number": 29,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Galvanized Genius",
+        "number": 89,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Increasing Dedication",
+        "number": 148,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Everspark",
+        "number": 209,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Into the Woods",
+        "number": 269,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Martyr of the Empire",
+        "number": 30,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Hexwing Meditant",
+        "number": 90,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "The Inexorable Vengeant",
+        "number": 149,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Farrealm Huntsman",
+        "number": 210,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Kati, Seasoned Instructor",
+        "number": 270,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Meletis Phalanx",
+        "number": 31,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Imagine",
+        "number": 91,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Infernal Recall",
+        "number": 150,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Feel the Beat",
+        "number": 211,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Kheru Proudborn",
+        "number": 271,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Mother of Light",
+        "number": 32,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Jake Gordon, Ready to Go",
+        "number": 92,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Knight of Subversion",
+        "number": 151,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Flamecloak Armor",
+        "number": 212,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Leyline Sculptor",
+        "number": 272,
+        "shape": "adventure",
+        "set": "AGC"
+    },
+    {
+        "card_name": "No More",
+        "number": 33,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Kel, Tempest's Will",
+        "number": 93,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Leaking Memories",
+        "number": 152,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Flayer of the Living",
+        "number": 213,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Lotus Dryad",
+        "number": 273,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Noble Unicorn",
+        "number": 34,
+        "shape": "adventure",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Ley Tracer",
+        "number": 94,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Manifold Machinations",
+        "number": 153,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Forsake the Past",
+        "number": 214,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Lys Alana Patrol",
+        "number": 274,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Octavia, Golden Heir",
+        "number": 35,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Memory's Ruse",
+        "number": 95,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Mental Predators",
+        "number": 154,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Fourth Layer General",
+        "number": 215,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Massive Impact",
+        "number": 275,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Order the Troops",
+        "number": 36,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Nexus Gate",
+        "number": 96,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Murder Plot",
+        "number": 155,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Fracture",
+        "number": 216,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Meredith, Primeval Force",
+        "number": 276,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Out-of-Body Experience",
+        "number": 37,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "One of the Crowd",
+        "number": 97,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Murderous Reflection",
+        "number": 156,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Gloryhunter Dragon",
+        "number": 217,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Musician of the Glade",
+        "number": 277,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Painter of Reality",
+        "number": 38,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Oracle of Winter",
+        "number": 98,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Only Bones Remain",
+        "number": 157,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Hellraiser",
+        "number": 218,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Nylea's Favored",
+        "number": 278,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Paladin of Light's Grace",
+        "number": 39,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Order the Seas",
+        "number": 99,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Order the Dead",
+        "number": 158,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Heretic Hunter",
+        "number": 219,
+        "shape": "adventure",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Old God's Presence",
+        "number": 279,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Peace In Our Time",
+        "number": 40,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Orobi, Who Outsmarts Time",
+        "number": 100,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Out of Order",
+        "number": 159,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Jessica Turin, Archmagus",
+        "number": 220,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Order the Wilds",
+        "number": 280,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Preeminent Lieutenant",
+        "number": 41,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Otterslide",
+        "number": 101,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Pale-Court Provocateur",
+        "number": 160,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Lava Contract",
+        "number": 221,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Overbearing Sentinel",
+        "number": 281,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Pro Populo et Gloria",
+        "number": 42,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Paliano Spellweaver",
+        "number": 102,
+        "shape": "adventure",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Poisoner of Dreams",
+        "number": 161,
+        "shape": "adventure",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Magmatic Entity",
+        "number": 222,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Preacher of Spring",
+        "number": 282,
+        "shape": "adventure",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Pureheart Mystic",
+        "number": 43,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Paramnesia",
+        "number": 103,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Profane Bargain",
+        "number": 162,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Marshal, Badlands Scourge",
+        "number": 223,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Reclaimed by Nature",
+        "number": 283,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Push Back the Siege",
+        "number": 44,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Phantasmal Stalker",
+        "number": 104,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Reaper of the Old Roads",
+        "number": 163,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Mayhem's Will",
+        "number": 224,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Redfang Tracker",
+        "number": 284,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Resolute Bodyguard",
+        "number": 45,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Plot",
+        "number": 105,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Reaper's Visit",
+        "number": 164,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Molten Stampede Leader",
+        "number": 225,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Revengevine",
+        "number": 285,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Rhystic Haunting",
+        "number": 46,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Quell the Storm",
+        "number": 106,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Rose Court Oathkeeper",
+        "number": 165,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Novarose Bloom",
+        "number": 226,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Rumbleroot Colossus",
+        "number": 286,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Seal Beyond the Veil",
+        "number": 47,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Reclaimed by Dreams",
+        "number": 107,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Scavenger Queen",
+        "number": 166,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Okalae, Blood Blossom",
+        "number": 227,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Rtslag, World's Vengeance",
+        "number": 287,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Selfless Healer",
+        "number": 48,
+        "shape": "adventure",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Refracting Pattern",
+        "number": 108,
+        "shape": "adventure",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Sesilius' Chosen",
+        "number": 167,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "The Omnivorous Engine",
+        "number": 228,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Speaker of the Trees",
+        "number": 288,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Seraph of Astronomy",
+        "number": 49,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Remake In My Image",
+        "number": 109,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Sesilius, Hand of Atrocity",
+        "number": 168,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "One with Flames",
+        "number": 229,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Surfacewalker Lookout",
+        "number": 289,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Serenity Beckons",
+        "number": 50,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Ri-Ga, Praenn Health Dealer",
+        "number": 110,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Shadow Dancing",
+        "number": 169,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Order the Earth",
+        "number": 230,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Tender of the Dark Grove",
+        "number": 290,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Shieldmage's Charm",
+        "number": 51,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Rob Blind",
+        "number": 111,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Shadow of Chivalry",
+        "number": 170,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Pigstrider Cavalier",
+        "number": 231,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Thicket Keeper",
+        "number": 291,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "So Dies Hope",
+        "number": 52,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Runic Reflections",
+        "number": 112,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Splinter Commander",
+        "number": 171,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Playing with Fire",
+        "number": 232,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Titan's Passing",
+        "number": 292,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Spindle Dancer",
+        "number": 53,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Send Back",
+        "number": 113,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Surtland Executioner",
+        "number": 172,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Raze Reality",
+        "number": 233,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Tranquil Mystic",
+        "number": 293,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Spirit of Secrets",
+        "number": 54,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Snapback Arcanist",
+        "number": 114,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Thus The Heroes Fall",
+        "number": 173,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Running with Dragons",
+        "number": 234,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Tree of Life",
+        "number": 294,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Stand Against Evil",
+        "number": 55,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Spellslinger Adept",
+        "number": 115,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Tutor of the Dead",
+        "number": 174,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Ryukami's Call",
+        "number": 235,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Tyrant Wurm",
+        "number": 295,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Tabula Rasa",
+        "number": 56,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Syndicate Infiltrator",
+        "number": 116,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Twisting Way",
+        "number": 175,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Temporal Gamble",
+        "number": 236,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Unending Evolution",
+        "number": 296,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Tender of Souls",
+        "number": 57,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Tolarian Renegade",
+        "number": 117,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Undeath's Crown",
+        "number": 176,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Tennen General",
+        "number": 237,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Waking Dreams",
+        "number": 297,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Turning of the Clock",
+        "number": 58,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Tyrean Memory Core",
+        "number": 118,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Unlife Vial",
+        "number": 177,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Unrivaled Slayer",
+        "number": 238,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Warden's Weaver",
+        "number": 298,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Valiant Vanguard",
+        "number": 59,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Unbound Creativity",
+        "number": 119,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Unstoppable Butcher",
+        "number": 178,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Unstable Entity",
+        "number": 239,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Wielder of New Growth",
+        "number": 299,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Veteran Combatant",
+        "number": 60,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Unlocking Time's Mystery",
+        "number": 120,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Vengeful Reaper",
+        "number": 179,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Uyen of the Burning Way",
+        "number": 240,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Wildsland Packleader",
+        "number": 300,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Vylinia, Curator of Wonders",
+        "number": 61,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Wormhole Navigator",
+        "number": 121,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Vikalden, Rogue Agent",
+        "number": 180,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Valkyrie Groundbreaker",
+        "number": 241,
+        "shape": "adventure",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Wurm Caller",
+        "number": 301,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Welcome to Gildyn",
+        "number": 62,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Wrath of the Tides",
+        "number": 122,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Violent Offering",
+        "number": 181,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Vengeant Champion",
+        "number": 242,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Yaruna, High Priestess",
+        "number": 63,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Wrap in Darkness",
+        "number": 182,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Xepa, Artisan of Fury",
+        "number": 243,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Xanigan, Bearer of Blood",
+        "number": 183,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "The Planar Wanderer",
+        "number": 331,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Iterate",
+        "number": 317,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Devour Reality",
+        "number": 306,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Nurture with Ashes",
+        "number": 328,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Evolutionary Admiration",
+        "number": 309,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Sea Gate Hedronsmith",
+        "number": 337,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "The Lord Below",
+        "number": 324,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Jay Volkan, Arms Dealer",
+        "number": 319,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Ryukami's Rage",
+        "number": 334,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Mishae the Blossoming",
+        "number": 326,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Temporal Jaunter",
+        "number": 341,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Secrets of the Deep",
+        "number": 338,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "The Lone Soldier",
+        "number": 323,
+        "shape": "adventure",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Shiftstorm Champion",
+        "number": 339,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "HESTIA, Will of Community",
+        "number": 349,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Elsewhere",
+        "number": 347,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "ENMA, Will of Ephemera",
+        "number": 348,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Unleash the Monstrosity",
+        "number": 343,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Wrenn and Ten",
+        "number": 345,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "LUGH, Will of Iteration",
+        "number": 350,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Marvelous Plagiarist",
+        "number": 352,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "SIF, Will of Growth",
+        "number": 353,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Iko, the Lost",
+        "number": 316,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Geometric Musings",
+        "number": 313,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Awoken Fleshcrafter",
+        "number": 303,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Aeterna, Venerated Vigilante",
+        "number": 302,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "The Changing Queen",
+        "number": 304,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Keeper of Mementos",
+        "number": 321,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Lost in Dream",
+        "number": 325,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Fallen to the Ages",
+        "number": 311,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "The Gilded King",
+        "number": 314,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Dreambubble Witch",
+        "number": 307,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Repentant Conqueror",
+        "number": 333,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Morphic Maelstrom",
+        "number": 327,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Jack, Emissary of The Court",
+        "number": 318,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "King Florence of Caulder",
+        "number": 322,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Explore Paradise",
+        "number": 310,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Beyond Death",
+        "number": 346,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "The Queen of Scales",
+        "number": 332,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Underdark Matriarch",
+        "number": 342,
+        "shape": "adventure",
+        "set": "AGC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Ryukami's Wake",
+        "number": 335,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "MAAT, Will of Justice",
+        "number": 351,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Perplexing Sphinx",
+        "number": 330,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Will Beyond Reason",
+        "number": 344,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Scratch, Eltensia's Warden",
+        "number": 336,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Kajuro, Ever-Blessing",
+        "number": 320,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Dawson, Cruel Captain",
+        "number": 305,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Slickskin Managorger",
+        "number": 340,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Evaldi, Geneshifter Prophet",
+        "number": 308,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Find Reality's Edge",
+        "number": 312,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Odqora, Deranged Witch",
+        "number": 329,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Glitch, Drinker of Seas",
+        "number": 315,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Azamir, Pantheon Usurper",
+        "number": 1,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Quxfin, Empyrial Divinity",
+        "number": 2,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Tyrant of the Blind Eternities",
+        "number": 3,
+        "shape": "planeswalker",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Adept's Spellblade",
+        "number": 354,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Aeonic Conduit",
+        "number": 355,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Aetherium Gears",
+        "number": 356,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Alignment Array",
+        "number": 357,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Artificial Recruiter",
+        "number": 358,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Astrarium",
+        "number": 359,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Ceaseless Soldier",
+        "number": 360,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Chromatic Torch",
+        "number": 361,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Clickbug Hunter",
+        "number": 362,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Clockwork Plaguebearer",
+        "number": 363,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Collector of Cogs",
+        "number": 364,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Consulate Censor",
+        "number": 365,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Corrupter of Forms",
+        "number": 366,
+        "shape": "adventure",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Cosmic Curator",
+        "number": 367,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Cosmic Edge",
+        "number": 368,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Dormant Guardian",
+        "number": 369,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Faraway Cube",
+        "number": 370,
+        "shape": "adventure",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Forbidden Scroll",
+        "number": 371,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Forgotten Cube",
+        "number": 372,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Fragment of Curiosity",
+        "number": 373,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Fragment of Emptiness",
+        "number": 374,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Fragment of Growth",
+        "number": 375,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Fragment of Hope",
+        "number": 376,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Fragment of Rage",
+        "number": 377,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Harvest Aligner",
+        "number": 378,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Itirin's Archive",
+        "number": 379,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "The Knowledge Hub",
+        "number": 380,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Neuropath Psiweaver",
+        "number": 381,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Orb of Insight",
+        "number": 382,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Prismatic Beacon",
+        "number": 383,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Prophetic Sculpture",
+        "number": 384,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Regalia of Might and Lore",
+        "number": 385,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Regalia of Speed and Focus",
+        "number": 386,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Regalia of Sword and Sorcery",
+        "number": 387,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Replicant Formsculptor",
+        "number": 388,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Rishadan Amulet",
+        "number": 389,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Spark Servant",
+        "number": 390,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "The Sphere",
+        "number": 391,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Spiteful Wargear",
+        "number": 392,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Starfield Lotuses",
+        "number": 393,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Thran Battle Titan",
+        "number": 394,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Titanic Crasher",
+        "number": 395,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Unaltered Fragment",
+        "number": 396,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Unidentified Relic",
+        "number": 397,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Unstable Powercell",
+        "number": 398,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Veilborn Harness",
+        "number": 399,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Veteran's Gear",
+        "number": 400,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Vorpal Titan",
+        "number": 401,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Worldclock",
+        "number": 402,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Worldfire Sphere",
+        "number": 403,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Blighted Hollow",
+        "number": 410,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "The Academy of Innovation",
+        "number": 404,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Changing Grove",
+        "number": 414,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Idyllia",
+        "number": 431,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "The Frost Gate",
+        "number": 428,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Desolate Altar",
+        "number": 421,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Badlands",
+        "number": 408,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Taiga",
+        "number": 450,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Meadows of Moag",
+        "number": 436,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Tundra",
+        "number": 455,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Tiger Shadow Dojo",
+        "number": 451,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Brutal Wastes",
+        "number": 413,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Titanic Terrain",
+        "number": 452,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Savannah",
+        "number": 443,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Wandering River",
+        "number": 461,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Underground Sea",
+        "number": 456,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Forbidden Shrine",
+        "number": 427,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Walking Wasteland",
+        "number": 460,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Serene Grove",
+        "number": 448,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Hazy Bog",
+        "number": 430,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Magmatic Coral",
+        "number": 433,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Bayou",
+        "number": 409,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Field of Training",
+        "number": 425,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Tranquil Spring",
+        "number": 453,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Marble Bazaar",
+        "number": 434,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Storm's Conduit",
+        "number": 449,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Cursed Woods",
+        "number": 419,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Plateau",
+        "number": 439,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Tropical Island",
+        "number": 454,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Scrubland",
+        "number": 447,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Volcanic Island",
+        "number": 459,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Decay Reclaimed Swale",
+        "number": 420,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Scorched Upland",
+        "number": 445,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Verdant Stream",
+        "number": 458,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Aetherite Mine",
+        "number": 405,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Ancestral Mountain",
+        "number": 406,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Arid Mesa",
+        "number": 407,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Bloodstained Mire",
+        "number": 411,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Broken Temple",
+        "number": 412,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Chapel of the Wylds",
+        "number": 415,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Coiling Caves",
+        "number": 416,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Cracking Caldera",
+        "number": 417,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Crumbling Capital",
+        "number": 418,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Dragonbone Valley",
+        "number": 422,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Elsewhere Gate",
+        "number": 423,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Eroded Tower",
+        "number": 424,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Flooded Strand",
+        "number": 426,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Golden Meadows",
+        "number": 429,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "The Lost City",
+        "number": 432,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Marsh Flats",
+        "number": 435,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Mishae's Garden",
+        "number": 437,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Misty Rainforest",
+        "number": 438,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Polluted Delta",
+        "number": 440,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Prismatic Vista",
+        "number": 441,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Riddling Maze",
+        "number": 442,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Scalding Tarn",
+        "number": 444,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Scrapworks",
+        "number": 446,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Verdant Catacombs",
+        "number": 457,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Windswept Heath",
+        "number": 462,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Wooded Foothills",
+        "number": 463,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Plains",
+        "number": 464,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Island",
+        "number": 465,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 466,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 467,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Forest",
+        "number": 468,
+        "shape": "normal",
+        "set": "AGC"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "XX Spirit",
+        "number": 1,
+        "shape": "token",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Clue",
+        "number": 15,
+        "shape": "token",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 16,
+        "shape": "token",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Vessel",
+        "number": 17,
+        "shape": "token",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Angel",
+        "number": 2,
+        "shape": "token",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Anthem",
+        "number": 3,
+        "shape": "token",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Soldier",
+        "number": 4,
+        "shape": "token",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Spirit",
+        "number": 5,
+        "shape": "token",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Elemental",
+        "number": 6,
+        "shape": "token",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Otter",
+        "number": 7,
+        "shape": "token",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Rogue",
+        "number": 8,
+        "shape": "token",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Devil",
+        "number": 9,
+        "shape": "token",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Dragon",
+        "number": 10,
+        "shape": "token",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Red Elemental",
+        "number": 11,
+        "shape": "token",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Beast",
+        "number": 12,
+        "shape": "token",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Saproling",
+        "number": 13,
+        "shape": "token",
+        "set": "AGC"
+    },
+    {
+        "card_name": "Wurm",
+        "number": 14,
+        "shape": "token",
+        "set": "AGC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
