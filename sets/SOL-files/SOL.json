@@ -11,7 +11,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Artifact",
-            "number": 149,
+            "number": 175,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]\n{T}: Add one mana of any color.",
@@ -22,6 +22,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Tim Simpson",
+            "alias": "",
             "notes": "Maybe EOE-ify it"
         },
         {
@@ -29,7 +30,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Artifact",
-            "number": 152,
+            "number": 178,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "Spirited [i](When this enters, you may activate one of its activated abilities without paying its cost.)[/i]\n{5}, {T}, Discard a card: Create a 0/0 colorless Construct artifact creature token with \u201cThis gets +1/+1 for each artifact you control.\u201d It can't block this turn.",
@@ -40,6 +41,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Aleksey Litvishkov",
+            "alias": "",
             "notes": "maybe rename/reflavor?"
         },
         {
@@ -47,7 +49,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 154,
+            "number": 180,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle.",
@@ -58,6 +60,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "jason scheier",
+            "alias": "",
             "notes": "Dual\nCanon"
         },
         {
@@ -65,7 +68,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Swamp Mountain",
-            "number": 155,
+            "number": 181,
             "color_identity": "BR",
             "cost": "",
             "rules_text": "[i]({T}: Add {B} or {R}.)[/i]",
@@ -76,6 +79,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "JulesMartinVos",
+            "alias": "",
             "notes": "Dual\nCanon"
         },
         {
@@ -83,7 +87,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Swamp Forest",
-            "number": 156,
+            "number": 182,
             "color_identity": "BG",
             "cost": "",
             "rules_text": "[i]({T}: Add {B} or {G}.)[/i]",
@@ -94,6 +98,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "JulesMartinVos",
+            "alias": "",
             "notes": "Dual\nCanon"
         },
         {
@@ -101,7 +106,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 157,
+            "number": 183,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain, put it onto the battlefield, then shuffle.",
@@ -112,6 +117,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Travis Lacey",
+            "alias": "",
             "notes": "Dual\nCanon"
         },
         {
@@ -119,7 +125,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 159,
+            "number": 186,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.",
@@ -130,6 +136,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Evgeniy Kazantsev",
+            "alias": "",
             "notes": "Dual\nCanon"
         },
         {
@@ -137,7 +144,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 170,
+            "number": 197,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.",
@@ -148,6 +155,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Chris Cold",
+            "alias": "",
             "notes": "Dual\nCanon"
         },
         {
@@ -155,7 +163,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 171,
+            "number": 198,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle.",
@@ -166,6 +174,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Alfven Ato",
+            "alias": "",
             "notes": "Dual\nCanon"
         },
         {
@@ -173,7 +182,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Mountain Plains",
-            "number": 173,
+            "number": 200,
             "color_identity": "WR",
             "cost": "",
             "rules_text": "[i]({T}: Add {W} or {R}.)[/i]",
@@ -184,6 +193,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "JulesMartinVos",
+            "alias": "",
             "notes": "Dual\nCanon"
         },
         {
@@ -191,7 +201,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 174,
+            "number": 201,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.",
@@ -202,6 +212,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Evgeniy Kazantsev",
+            "alias": "",
             "notes": "Dual\nCanon"
         },
         {
@@ -209,7 +220,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Forest Plains",
-            "number": 175,
+            "number": 202,
             "color_identity": "WG",
             "cost": "",
             "rules_text": "[i]({T}: Add {G} or {W}.)[/i]",
@@ -220,6 +231,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "JulesMartinVos",
+            "alias": "",
             "notes": "Dual\nCanon"
         },
         {
@@ -227,7 +239,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 176,
+            "number": 203,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.",
@@ -238,6 +250,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Mikail IL",
+            "alias": "",
             "notes": "Dual\nCanon"
         },
         {
@@ -245,7 +258,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Plains Swamp",
-            "number": 177,
+            "number": 204,
             "color_identity": "WB",
             "cost": "",
             "rules_text": "[i]({T}: Add {W} or {B}.)[/i]",
@@ -256,6 +269,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "JulesMartinVos",
+            "alias": "",
             "notes": "Dual\nCanon"
         },
         {
@@ -263,7 +277,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Mountain Forest",
-            "number": 178,
+            "number": 205,
             "color_identity": "RG",
             "cost": "",
             "rules_text": "[i]({T}: Add {R} or {G}.)[/i]",
@@ -274,6 +288,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "JulesMartinVos",
+            "alias": "",
             "notes": "Dual\nCanon"
         },
         {
@@ -281,7 +296,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Forest Island",
-            "number": 180,
+            "number": 207,
             "color_identity": "UG",
             "cost": "",
             "rules_text": "[i]({T}: Add {G} or {U}.)[/i]",
@@ -292,6 +307,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "JulesMartinVos",
+            "alias": "",
             "notes": "Dual\nCanon"
         },
         {
@@ -299,7 +315,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Plains Island",
-            "number": 181,
+            "number": 208,
             "color_identity": "WU",
             "cost": "",
             "rules_text": "[i]({T}: Add {W} or {U}.)[/i]",
@@ -310,6 +326,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "JulesMartinVos",
+            "alias": "",
             "notes": "Dual\nCanon"
         },
         {
@@ -317,7 +334,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Island Swamp",
-            "number": 182,
+            "number": 209,
             "color_identity": "UB",
             "cost": "",
             "rules_text": "[i]({T}: Add {U} or {B}.)[/i]",
@@ -328,6 +345,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "JulesMartinVos",
+            "alias": "",
             "notes": "Dual\nCanon"
         },
         {
@@ -335,7 +353,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 183,
+            "number": 210,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.",
@@ -346,6 +364,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nicolas Klug",
+            "alias": "",
             "notes": "Dual\nCanon"
         },
         {
@@ -353,7 +372,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Island Mountain",
-            "number": 184,
+            "number": 211,
             "color_identity": "UR",
             "cost": "",
             "rules_text": "[i]({T}: Add {U} or {R}.)[/i]",
@@ -364,6 +383,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "JulesMartinVos",
+            "alias": "",
             "notes": "Dual\nCanon"
         },
         {
@@ -371,7 +391,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 185,
+            "number": 212,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.",
@@ -382,6 +402,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Philipp A. Urlich",
+            "alias": "",
             "notes": "Dual\nCanon"
         },
         {
@@ -389,7 +410,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 186,
+            "number": 213,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.",
@@ -400,6 +421,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "jason scheier",
+            "alias": "",
             "notes": "Dual\nCanon"
         },
         {
@@ -407,7 +429,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Artifact",
-            "number": 135,
+            "number": 160,
             "color_identity": "C",
             "cost": "{0}",
             "rules_text": "{1}, {T}: Note a color.\n{T}: Add one mana of any color noted with Chromatic Cube.",
@@ -418,6 +440,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Zhenjun Song",
+            "alias": "",
             "notes": ""
         },
         {
@@ -425,7 +448,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Artifact",
-            "number": 151,
+            "number": 177,
             "color_identity": "C",
             "cost": "{0}",
             "rules_text": "When Shimmering Mox enters the battlefield, you may search your library for a multicolored card and exile it, then shuffle your library.\n{T}: Add one mana of any of the exiled card's colors.",
@@ -436,6 +459,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Amilton Macedo",
+            "alias": "",
             "notes": ""
         },
         {
@@ -443,7 +467,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Artifact",
-            "number": 147,
+            "number": 172,
             "color_identity": "C",
             "cost": "{0}",
             "rules_text": "As Pactbound Mox enters the battlefield, choose a color.\nWhenever you cast a spell that isn't the chosen color, Pactbound Mox deals 2 damage to you.\n{T}: Add one mana of the chosen color.",
@@ -454,6 +478,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Daniel Kamarudin",
+            "alias": "",
             "notes": ""
         },
         {
@@ -461,7 +486,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Artifact",
-            "number": 150,
+            "number": 176,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "This artifact has all activated abilities of permanents you control with {T} in their activation cost. [i](This includes mana abilities of basic lands.)[/i]",
@@ -472,6 +497,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Britta Jacobs",
+            "alias": "",
             "notes": ""
         },
         {
@@ -479,7 +505,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Artifact",
-            "number": 144,
+            "number": 169,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "Spirited [i](When this enters, you may activate one of its activated abilities without paying its cost.)[/i]\n{2}, {T}: Create a Treasure token.\n{4}, {T}: Draw a card.",
@@ -490,6 +516,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Armando Savoia",
+            "alias": "",
             "notes": ""
         },
         {
@@ -497,7 +524,7 @@
             "color": "G",
             "rarity": "cube",
             "type": "Creature \u2014 Human Shaman",
-            "number": 109,
+            "number": 131,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Hexproof\n{T}: Add {G}.",
@@ -508,6 +535,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Linda Lith\u00e9n",
+            "alias": "",
             "notes": ""
         },
         {
@@ -515,7 +543,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 25,
+            "number": 30,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Look at the top three cards of your library. Put one into your hand, and the rest into your graveyard.",
@@ -526,6 +554,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Joanne Tran",
+            "alias": "",
             "notes": ""
         },
         {
@@ -533,7 +562,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Instant",
-            "number": 33,
+            "number": 39,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Draw three cards, then exile two cards from your hand face down.\n{U}{U}{U}, Exile Plot from your graveyard and discard your hand: Return up to two face down cards you own in exile to your hand.",
@@ -544,6 +573,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Alexandr Leskinen",
+            "alias": "",
             "notes": ""
         },
         {
@@ -551,7 +581,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Instant",
-            "number": 36,
+            "number": 42,
             "color_identity": "U",
             "cost": "{U}{U}",
             "rules_text": "Choose one \u2014\n\u2022 Counter target spell with mana value 3 or less.\n\u2022 Return target instant or sorcery card with mana value 3 or less from your graveyard to your hand.",
@@ -562,6 +592,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Jim \"Dreadjim\" Ling",
+            "alias": "",
             "notes": ""
         },
         {
@@ -569,7 +600,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Artifact",
-            "number": 153,
+            "number": 179,
             "color_identity": "C",
             "cost": "{0}",
             "rules_text": "{T}, Pay 1 life: Add one mana of any color. Spend this only to cast a creature spell. If it's spent to cast a legendary creature, that creature enters with a +1/+1 counter.",
@@ -580,6 +611,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Amilton Macedo",
+            "alias": "",
             "notes": ""
         },
         {
@@ -587,7 +619,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 57,
+            "number": 68,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Target player reveals their hand. You may choose a nonland card revealed this way and exile it. Then, you lose 3 life unless you pay {B}.",
@@ -598,6 +630,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "F T",
+            "alias": "",
             "notes": ""
         },
         {
@@ -605,7 +638,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 52,
+            "number": 63,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Target player reveals their hand. You choose a nonland card from it. That player discards that card unless they discard the rest of their hand.",
@@ -616,6 +649,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Branden Singletary",
+            "alias": "",
             "notes": ""
         },
         {
@@ -623,7 +657,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Enchantment",
-            "number": 31,
+            "number": 37,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Whenever you cast a noncreature spell, create a 1/1 blue Otter creature token with \u201cWhenever this creature deals combat damage to a player, draw a card.\u201d",
@@ -634,6 +668,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "ALRadeck",
+            "alias": "",
             "notes": ""
         },
         {
@@ -641,7 +676,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 53,
+            "number": 64,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Choose a color. Target player reveals their hand and you choose a card of that color from it. If you do, that player discards that card and you lose 1 life.",
@@ -652,6 +687,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ned the Knight",
+            "alias": "",
             "notes": ""
         },
         {
@@ -659,7 +695,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Artifact",
-            "number": 143,
+            "number": 168,
             "color_identity": "C",
             "cost": "{0}",
             "rules_text": "{T}, Tap another untapped permanent you control: Add one mana of any color.\nExhaust \u2014 {1}, {T}: Create a Blood token. [i](Activate only once. A Blood token is an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d )[/i]",
@@ -670,6 +706,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Dominik Mayer",
+            "alias": "",
             "notes": ""
         },
         {
@@ -677,7 +714,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 43,
+            "number": 53,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Draw two cards, then discard two cards unless you discard a noncreature, nonland card.",
@@ -688,6 +725,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Julia Zhdanova",
+            "alias": "",
             "notes": "Reart/reflavor"
         },
         {
@@ -695,7 +733,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 39,
+            "number": 46,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Look at the top three cards of your library, then put them all on the top or the bottom of your library in any order.\nDraw a card.",
@@ -706,6 +744,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Fedor Barkhatov",
+            "alias": "",
             "notes": "Reflavor"
         },
         {
@@ -713,7 +752,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Instant",
-            "number": 5,
+            "number": 6,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "Put target creature on the bottom of its owner's library. Its controller may scry 2.",
@@ -724,6 +763,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Anato Finnstark",
+            "alias": "",
             "notes": ""
         },
         {
@@ -731,7 +771,7 @@
             "color": "G",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 101,
+            "number": 123,
             "color_identity": "G",
             "cost": "{X}{G}{G}",
             "rules_text": "Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. If that creature entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",
@@ -742,6 +782,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "BLAKE .",
+            "alias": "",
             "notes": ""
         },
         {
@@ -749,7 +790,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 4,
+            "number": 5,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
             "rules_text": "Exile target permanent.",
@@ -760,6 +801,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Marta Danecka",
+            "alias": "",
             "notes": ""
         },
         {
@@ -767,7 +809,7 @@
             "color": "BR",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 120,
+            "number": 142,
             "color_identity": "BR",
             "cost": "{B}{R}",
             "rules_text": "Choose a permanent type. Each player sacrifices a permanent of that type.\nRetrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i]",
@@ -778,6 +820,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Jordan Head",
+            "alias": "",
             "notes": ""
         },
         {
@@ -785,7 +828,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Artifact",
-            "number": 148,
+            "number": 173,
             "color_identity": "WUBRG",
             "cost": "{3}",
             "rules_text": "You may spend mana as though it were mana of any color.\n{W}{U}{B}{R}{G}: Copy target instant or sorcery spell, activated ability, or triggered ability you control. You may choose new targets for the copy.",
@@ -796,6 +839,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nele Diel",
+            "alias": "",
             "notes": ""
         },
         {
@@ -803,7 +847,7 @@
             "color": "G",
             "rarity": "cube",
             "type": "Creature \u2014 Merfolk Soldier",
-            "number": 114,
+            "number": 136,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "{T}: Add {G}.\n{T}: Add one mana of any color. Spend this only to cast a multicolored spell.",
@@ -814,6 +858,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Lorenzo Lanfranconi",
+            "alias": "",
             "notes": ""
         },
         {
@@ -821,7 +866,7 @@
             "color": "G",
             "rarity": "cube",
             "type": "Creature \u2014 Elf Shaman",
-            "number": 103,
+            "number": 125,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "When this creature enters, create an Idol token. [i](It's an artifact with \u201c{1}, Sacrifice this artifact: Put a +1/+1 counter on target creature. Activate only as a sorcery.\u201d)[/i]\n{T}, Sacrifice a token: Add one mana of any color.\n{1}{G}, {T}: Create a token that's a copy of a token you control.",
@@ -832,6 +877,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "ji zhang",
+            "alias": "",
             "notes": ""
         },
         {
@@ -839,7 +885,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Creature \u2014 Human Cleric",
-            "number": 16,
+            "number": 19,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "When this creature enters, create a 1/1 white Spirit creature token with flying.\nAt the beginning of your end step, for each token you control that entered this turn, create a token that's a copy of it.",
@@ -850,6 +896,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Bruno Jacob",
+            "alias": "",
             "notes": ""
         },
         {
@@ -857,7 +904,7 @@
             "color": "R",
             "rarity": "cube",
             "type": "Legendary Creature \u2014 Goblin Shaman",
-            "number": 80,
+            "number": 95,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "Spirited [i](When this enters, you may activate one of its activated abilities without paying its cost.)[/i]\nHaste\n{4}{R}{R}: Create a token that's a copy of another target creature you control except it has haste. Exile it at the beginning of the next end step.",
@@ -868,6 +915,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Dios Revoredo",
+            "alias": "",
             "notes": ""
         },
         {
@@ -875,7 +923,7 @@
             "color": "G",
             "rarity": "cube",
             "type": "Creature \u2014 Elf Druid",
-            "number": 113,
+            "number": 135,
             "color_identity": "WG",
             "cost": "{G}",
             "rules_text": "{T}: Add {G} or {W}.",
@@ -886,6 +934,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Zara Alfonso",
+            "alias": "",
             "notes": ""
         },
         {
@@ -893,7 +942,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 38,
+            "number": 45,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]\nDraw a card.\nCreate a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]",
@@ -904,6 +953,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Robson Michel",
+            "alias": "",
             "notes": ""
         },
         {
@@ -911,7 +961,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 54,
+            "number": 65,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Target opponent reveals their hand. You choose a card from it. That player discards that card unless they pay 2 life and discard a card.\nRetrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i]",
@@ -922,6 +972,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Rainer Petter",
+            "alias": "",
             "notes": ""
         },
         {
@@ -929,7 +980,7 @@
             "color": "G",
             "rarity": "cube",
             "type": "Creature \u2014 Human Shaman",
-            "number": 106,
+            "number": 128,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Spirited [i](When this enters, you may activate one of its activated abilities without paying its cost.)[/i]\n{3}{G}, Sacrifice this creature: Put a land card from your hand or graveyard onto the battlefield tapped.",
@@ -940,6 +991,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Andrea Schepisi",
+            "alias": "",
             "notes": "DM THIS"
         },
         {
@@ -947,7 +999,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Creature \u2014 Rat Rogue",
-            "number": 65,
+            "number": 78,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Deathtouch\nWhenever this creature deals combat damage to a player, exile the top card of their library face down. For as long as that card remains exiled, you may look at it. If you don't control this creature, you may cast that card, and mana of any type can be spent to cast it.",
@@ -958,6 +1010,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Unit Motion Design",
+            "alias": "",
             "notes": ""
         },
         {
@@ -965,7 +1018,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 63,
+            "number": 75,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Return target creature card with mana value 4 or less from your graveyard to the battlefield.\nYou lose 2 life.",
@@ -976,6 +1029,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Daniel Caballero",
+            "alias": "",
             "notes": "(Unbury)"
         },
         {
@@ -983,7 +1037,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Creature \u2014 Shapeshifter",
-            "number": 20,
+            "number": 24,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
             "rules_text": "Changeling [i](This card is every creature type.)[/i]\nFlying, lifelink\nAs long as you don't control another creature, this creature has ward {2}.",
@@ -994,6 +1048,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ling Jun Lin",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1001,7 +1056,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Creature \u2014 Lizard Horror",
-            "number": 66,
+            "number": 79,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
             "rules_text": "Menace, lifelink\nSwampcycling {1} [i]({1}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]",
@@ -1012,6 +1067,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "johan grenier",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1019,7 +1075,7 @@
             "color": "BR",
             "rarity": "cube",
             "type": "Enchantment",
-            "number": 117,
+            "number": 139,
             "color_identity": "BR",
             "cost": "{B}{R}",
             "rules_text": "When this enchantment enters, create two Blood tokens. [i](They're artifacts with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]\nAt the beginning of your end step, this deals X damage to any target, where X is the number of cards players discarded this turn.",
@@ -1030,6 +1086,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Sebastian Horoszko",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1037,7 +1094,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Creature \u2014 Vedalken Wizard",
-            "number": 42,
+            "number": 52,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
             "rules_text": "Flash\nWhen this creature enters, draw a card.\nIslandcycling {1} [i]({1}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i]",
@@ -1048,6 +1105,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Rick Hertel",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1055,7 +1113,7 @@
             "color": "UR",
             "rarity": "cube",
             "type": "Instant",
-            "number": 126,
+            "number": 148,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
             "rules_text": "Mindcrackle deals 3 damage to any target.\nLook at the top three cards of your library. Put one into your hand, and the rest on the bottom of your library in any order.",
@@ -1066,6 +1124,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Karen Papazian",
+            "alias": "",
             "notes": "DM THIS"
         },
         {
@@ -1073,7 +1132,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Artificer",
-            "number": 41,
+            "number": 51,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "When this creature enters, create a 0/0 colorless Construct artifact creature token with \u201cThis creature gets +1/+1 for each artifact you control.\u201d\nSpells you cast have improvise. [i](Your artifacts can help cast them. Each artifact you tap after you're done activating mana abilities pays for {1}.)[/i]",
@@ -1084,6 +1143,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "kinggainer555",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1091,7 +1151,7 @@
             "color": "WB",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 134,
+            "number": 157,
             "color_identity": "WB",
             "cost": "{7}{W}{B}",
             "rules_text": "This spell costs {1} less to cast for each creature card in your graveyard.\nReturn up to five target creature cards from your graveyard to the battlefield, except they have base power and toughness 1/1.",
@@ -1102,6 +1162,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Emily Hancock",
+            "alias": "",
             "notes": "DM THIS"
         },
         {
@@ -1109,7 +1170,7 @@
             "color": "G",
             "rarity": "cube",
             "type": "Creature \u2014 Shapeshifter",
-            "number": 111,
+            "number": 133,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "Changeling [i](This card is every creature type.)[/i]\nWhen this creature enters, you gain 4 life.\nWhenever this creature attacks, put a +1/+1 counter on it.",
@@ -1120,6 +1181,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Rachel Thompson",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1127,7 +1189,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Creature \u2014 Shapeshifter",
-            "number": 59,
+            "number": 70,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Changeling [i](This card is every creature type.)[/i]\nWhen this creature enters, you draw a card and you lose 1 life.",
@@ -1138,6 +1200,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Felipe Lima",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1145,7 +1208,7 @@
             "color": "BG",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 130,
+            "number": 153,
             "color_identity": "BG",
             "cost": "{3}{B}{G}",
             "rules_text": "Return each creature card with mana value 4 or less from your graveyard to the battlefield.",
@@ -1156,6 +1219,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Kristian N\u00fcsser",
+            "alias": "",
             "notes": "(Dying Life)"
         },
         {
@@ -1163,7 +1227,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Instant",
-            "number": 51,
+            "number": 62,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Target creature gets -4/-4 until end of turn.\nCreate a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]",
@@ -1174,6 +1238,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Marzena Nereida Piwowar",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1181,7 +1246,7 @@
             "color": "WU",
             "rarity": "cube",
             "type": "Instant",
-            "number": 118,
+            "number": 140,
             "color_identity": "WU",
             "cost": "{W}{U}",
             "rules_text": "Counter target permanent spell.\n{2}{W}{U}, Exile Dance of the Kami from your graveyard: Create two 1/1 white Spirit creature tokens with flying. Activate only as a sorcery.",
@@ -1192,6 +1257,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Francell Garrote",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1199,7 +1265,7 @@
             "color": "G",
             "rarity": "cube",
             "type": "Creature \u2014 Beast",
-            "number": 92,
+            "number": 109,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
             "rules_text": "Trample, ward {2}\nForestcycling {1} [i]({1}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i]",
@@ -1210,6 +1276,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Allen Michael Geneta",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1217,7 +1284,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 50,
+            "number": 61,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
             "rules_text": "Each player returns all creature cards from their graveyard to the battlefield. Then, each player chooses three creatures they control and sacrifices the rest.",
@@ -1228,6 +1295,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Daniel Lee",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1235,7 +1303,7 @@
             "color": "R",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 84,
+            "number": 99,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Create a 1/1 blue and red Wizard creature token with prowess. If you discarded a card this turn, create two of those tokens instead.\nCreatures you control gain haste until end of turn.",
@@ -1246,6 +1314,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Drew Soman",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1253,7 +1322,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Instant",
-            "number": 28,
+            "number": 34,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Create a 1/1 blue and red Wizard creature token with prowess. If you drew three or more cards this turn, create two of those tokens instead.",
@@ -1264,6 +1333,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Dan Rossi",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1271,7 +1341,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Instant",
-            "number": 14,
+            "number": 17,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "Target creature or planeswalker becomes an enchantment with exalted and loses all other types and abilities. [i](Exalted is \u201cWhenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.\u201d)[/i]",
@@ -1282,6 +1352,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Maxim Erokhin",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1289,7 +1360,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Creature \u2014 Shapeshifter",
-            "number": 67,
+            "number": 80,
             "color_identity": "B",
             "cost": "{5}{B}{B}",
             "rules_text": "Changeling [i](This card is every creature type.)[/i]\nTrample\n{3}{B}, Discard this card: Return another target creature card from your graveyard to the battlefield. It can't block this turn.",
@@ -1300,6 +1371,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Vlad Marica",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1307,7 +1379,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Instant",
-            "number": 30,
+            "number": 36,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Choose one\u2014\n\u2022 Return up to one target nonland permanent to its owner's hand.\n\u2022 Create a 1/1 blue Otter creature token with \u201cWhenever this creature deals combat damage to a player, draw a card.\u201d",
@@ -1318,6 +1390,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "C\u00e9dric \"Tyron\" Roux",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1325,7 +1398,7 @@
             "color": "R",
             "rarity": "cube",
             "type": "Creature \u2014 Shapeshifter",
-            "number": 90,
+            "number": 107,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Changeling [i](This card is every creature type.)[/i]\nAt the beginning of combat on your turn, create a 1/1 colorless Shapeshifter creature token with changeling. It gains haste and attacks this turn if able.",
@@ -1336,6 +1409,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "alena kuzminykh",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1343,7 +1417,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Creature \u2014 Otter Ranger",
-            "number": 26,
+            "number": 31,
             "color_identity": "U",
             "cost": "{3}{U}",
             "rules_text": "When this creature enters, create a 1/1 blue Otter creature token with \u201cWhenever this creature deals combat damage to a player, draw a card.\u201d\nAt the beginning of combat on your turn, up to two target Otters can't be blocked this turn.",
@@ -1354,6 +1428,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Jerom Jacinto",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1361,7 +1436,7 @@
             "color": "G",
             "rarity": "cube",
             "type": "Creature \u2014 Elf Octopus Rogue",
-            "number": 95,
+            "number": 115,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Whenever you cast a spell, put X +1/+1 counters on this creature, where X is the number of colors that spell is.",
@@ -1372,6 +1447,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Yan POLKOTYCKI",
+            "alias": "",
             "notes": "DM THIS"
         },
         {
@@ -1379,7 +1455,7 @@
             "color": "R",
             "rarity": "cube",
             "type": "Creature \u2014 Human Wizard",
-            "number": 89,
+            "number": 106,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
             "rules_text": "Prowess, haste\nMountaincycling {1} [i]({1}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i]",
@@ -1390,6 +1466,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Marie Baumgarten",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1397,7 +1474,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Creature \u2014 Shapeshifter",
-            "number": 29,
+            "number": 35,
             "color_identity": "U",
             "cost": "{3}{U}",
             "rules_text": "Changeling [i](This card is every creature type.)[/i]\nFlash\nWhen this creature enters, exile target nonland permanent. Return it to the battlefield under its owner's control at the beginning of the next end step.",
@@ -1408,6 +1485,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "M Rafi",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1415,7 +1493,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Creature \u2014 Shapeshifter",
-            "number": 1,
+            "number": 2,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "Changeling [i](This card is every creature type.)[/i]\n{1}{W}, Sacrifice this creature: Destroy target artifact or enchantment.",
@@ -1426,6 +1504,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Jacopo Schiavo",
+            "alias": "",
             "notes": "\"Savanah Liar\" is a rly good name though"
         },
         {
@@ -1433,7 +1512,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Creature \u2014 Shapeshifter",
-            "number": 27,
+            "number": 33,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Changeling [i](This card is every creature type.)[/i]\nWhen this creature enters, return up to one target nonland permanent to its owner's hand.",
@@ -1444,6 +1523,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Anastasi shestak",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1451,7 +1531,7 @@
             "color": "G",
             "rarity": "cube",
             "type": "Creature \u2014 Shapeshifter",
-            "number": 100,
+            "number": 122,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Changeling [i](This card is every creature type.)[/i]\n{T}: Add one mana of any color. Spend this mana only to cast creature spells.",
@@ -1462,6 +1542,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Reuben Yeo",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1469,7 +1550,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 9,
+            "number": 10,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "Search your library for a historic card, reveal it, put it into your hand, then shuffle. [i](Artifacts, legendaries, and Sagas are historic.)[/i]\nCreate a 0/0 colorless Construct artifact creature token with \u201cThis creature gets +1/+1 for each artifact you control.\u201d",
@@ -1480,6 +1561,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Luc Samori",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1487,7 +1569,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Instant",
-            "number": 68,
+            "number": 81,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "[i]Domain[/i] \u2014 Destroy target creature or planeswalker if its mana value is less than or equal to the number of basic land types among lands you control.",
@@ -1498,6 +1580,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Von Milano",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1505,7 +1588,7 @@
             "color": "R",
             "rarity": "cube",
             "type": "Creature \u2014 Shapeshifter",
-            "number": 78,
+            "number": 93,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Changeling [i](This card is every creature type.)[/i]\nProwess\nWhen this creature enters, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]",
@@ -1516,6 +1599,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Grafit Studio",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1523,7 +1607,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Creature \u2014 Angel",
-            "number": 13,
+            "number": 16,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
             "rules_text": "Flying\nWhen this creature enters, create two 1/1 white Spirit creature tokens with flying.\nPlainscycling {1} [i]({1}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i]",
@@ -1534,6 +1618,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Zara Alfonso",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1541,7 +1626,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 19,
+            "number": 23,
             "color_identity": "W",
             "cost": "{X}{W}{W}",
             "rules_text": "Choose X\u2014\n\u2022 Destroy all creatures.\n\u2022 Destroy all artifacts.\n\u2022 Destroy all enchantments\n\u2022 Destroy all planeswalkers.",
@@ -1552,6 +1637,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Alena Aenami",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1559,7 +1645,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Token Artifact \u2014 Blood",
-            "number": 5,
+            "number": 6,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{1}, {T}, Discard a card, Sacrifice this token: Draw a card.",
@@ -1570,6 +1656,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Andrea Butera",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1577,7 +1664,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Token Artifact \u2014 Idol",
-            "number": 7,
+            "number": 8,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.",
@@ -1588,6 +1675,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1606,6 +1694,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1613,7 +1702,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Token Artifact Creature \u2014 Construct",
-            "number": 6,
+            "number": 7,
             "color_identity": "C",
             "cost": "",
             "rules_text": "This creature gets +1/+1 for each artifact you control.",
@@ -1624,6 +1713,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Kerem Beyit",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1631,7 +1721,7 @@
             "color": "UR",
             "rarity": "cube",
             "type": "Token Creature \u2014 Wizard",
-            "number": 4,
+            "number": 5,
             "color_identity": "UR",
             "cost": "",
             "rules_text": "Prowess",
@@ -1642,6 +1732,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1660,6 +1751,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Johanna Tarkela",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1678,6 +1770,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1685,7 +1778,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Token Artifact \u2014 Treasure",
-            "number": 8,
+            "number": 9,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Sacrifice this token: Add one mana of any color.",
@@ -1696,6 +1789,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1703,7 +1797,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Instant",
-            "number": 18,
+            "number": 22,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "Exile target creature. Its controller creates a 1/1 white Spirit creature token with flying.",
@@ -1714,6 +1808,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ismail Inceoglu",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1721,7 +1816,7 @@
             "color": "BG",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 131,
+            "number": 154,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
             "rules_text": "Destroy all nonland permanents with mana value 3 or less.",
@@ -1732,6 +1827,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Vladimir Matyukhin",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1739,7 +1835,7 @@
             "color": "UB",
             "rarity": "cube",
             "type": "Instant",
-            "number": 119,
+            "number": 141,
             "color_identity": "UB",
             "cost": "{U}{B}",
             "rules_text": "Counter target monocolored spell. Its controller loses 2 life.",
@@ -1750,6 +1846,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Chris Cold",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1757,7 +1854,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 56,
+            "number": 67,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "You draw three cards and you lose 3 life.",
@@ -1768,6 +1865,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Olya Bossak",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1775,7 +1873,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Island Swamp",
-            "number": 167,
+            "number": 194,
             "color_identity": "UB",
             "cost": "",
             "rules_text": "[i]({T}: Add {U} or {B})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -1786,6 +1884,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Stas Yurev",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1793,7 +1892,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Plains Island",
-            "number": 160,
+            "number": 187,
             "color_identity": "WU",
             "cost": "",
             "rules_text": "[i]({T}: Add {W} or {U})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -1804,6 +1903,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Leon Tukker",
+            "alias": "",
             "notes": "DM THIS"
         },
         {
@@ -1811,7 +1911,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 172,
+            "number": 199,
             "color_identity": "C",
             "cost": "",
             "rules_text": "As this land enters, you may pay 2 life. If you don't, it enters tapped.\n{T}, Sacrifice New Divide: Search your library for a basic land card, put it onto the battlefield, then shuffle.",
@@ -1822,6 +1922,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Acidify Art",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1829,7 +1930,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 158,
+            "number": 184,
             "color_identity": "C",
             "cost": "",
             "rules_text": "As this land enters the battlefield, choose one or more colors. You lose life equal to the number of colors chosen this way.\n{T}: Add one mana of any of the chosen colors.",
@@ -1840,6 +1941,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1847,7 +1949,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Creature \u2014 Kor Cleric",
-            "number": 12,
+            "number": 15,
             "color_identity": "W",
             "cost": "{W}{W}",
             "rules_text": "Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]\nHistoric permanents you control have exalted. [i](Artifacts, legendaries, and Sagas are historic.)[/i]",
@@ -1858,6 +1960,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Davide Luc\u00e0",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1865,7 +1968,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 23,
+            "number": 28,
             "color_identity": "U",
             "cost": "{5}{U}{U}",
             "rules_text": "Return up to three target permanents to their owners' hands.\nTarget player takes an extra turn after this one.",
@@ -1876,6 +1979,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Romain Kurdi",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1883,7 +1987,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 35,
+            "number": 41,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
             "rules_text": "Choose target permanent you control. Create a token that's a copy of that permanent, except it's legendary.\nRetrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i]",
@@ -1894,6 +1998,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Gauthier Redon",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1901,7 +2006,7 @@
             "color": "R",
             "rarity": "cube",
             "type": "Legendary Creature \u2014 Kobold Assassin",
-            "number": 86,
+            "number": 102,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]\nWhenever a creature you control attacks alone, create a Treasure token.",
@@ -1912,6 +2017,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Oriana Menendez",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1919,7 +2025,7 @@
             "color": "UR",
             "rarity": "cube",
             "type": "Instant",
-            "number": 123,
+            "number": 145,
             "color_identity": "UR",
             "cost": "{U}{R}",
             "rules_text": "Counter target spell unless its controller pays {3}.\nDraw a card, then discard a card.",
@@ -1930,6 +2036,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Maddox Hosegood",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1937,7 +2044,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Artifact",
-            "number": 139,
+            "number": 164,
             "color_identity": "B",
             "cost": "{0}",
             "rules_text": "{T}, Pay 1 life: Add {B}.\n{2}, {T}, Sacrifice Fragment of Emptiness: Draw a card.",
@@ -1948,6 +2055,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ludovic Sanson",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1955,7 +2063,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Artifact",
-            "number": 138,
+            "number": 163,
             "color_identity": "U",
             "cost": "{0}",
             "rules_text": "{T}, Pay 1 life: Add {U}.\n{2}, {T}, Sacrifice Fragment of Curiosity: Draw a card.",
@@ -1966,6 +2074,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Gordon Christian",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1973,7 +2082,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Artifact",
-            "number": 141,
+            "number": 166,
             "color_identity": "W",
             "cost": "{0}",
             "rules_text": "{T}, Pay 1 life: Add {W}.\n{2}, {T}, Sacrifice Fragment of Hope: Draw a card.",
@@ -1984,6 +2093,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "margaw",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1991,7 +2101,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Artifact",
-            "number": 142,
+            "number": 167,
             "color_identity": "R",
             "cost": "{0}",
             "rules_text": "{T}, Pay 1 life: Add {R}.\n{2}, {T}, Sacrifice Fragment of Rage: Draw a card.",
@@ -2002,6 +2112,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Forrest Imel",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2009,7 +2120,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Enchantment Artifact \u2014 Equipment",
-            "number": 8,
+            "number": 9,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "When this artifact enters, exile target creature an opponent controls until Blade of Banishing leaves the battlefield.\nEquipped creature gets +2/+2.\nEquip {2}",
@@ -2020,6 +2131,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Willian Gomes",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2027,7 +2139,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Artifact",
-            "number": 140,
+            "number": 165,
             "color_identity": "G",
             "cost": "{0}",
             "rules_text": "{T}, Pay 1 life: Add {G}.\n{2}, {T}, Sacrifice Fragment of Growth: Draw a card.",
@@ -2038,6 +2150,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Dustin Panzino",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2045,7 +2158,7 @@
             "color": "R",
             "rarity": "cube",
             "type": "Artifact Creature \u2014 Gnome",
-            "number": 72,
+            "number": 86,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Whenever you cast a noncreature spell, create an Idol token. [i](It's an artifact with \u201c{1}, Sacrifice this artifact: Put a +1/+1 counter on target creature. Activate only as a sorcery.\u201d)[/i]\nWhenever another artifact enters under your control, Cosmium Keeper deals 1 damage to target player or planeswalker.",
@@ -2056,6 +2169,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Anthony Devine",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2063,7 +2177,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Instant",
-            "number": 24,
+            "number": 29,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Choose one \u2014\n\u2022 Tap two target nonland permanents.\n\u2022 Counter target spell unless its controller pays {2}.\n\u2022 Scry 2, then draw a card.",
@@ -2074,6 +2188,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Romain Kurdi",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2081,7 +2196,7 @@
             "color": "R",
             "rarity": "cube",
             "type": "Legendary Creature \u2014 Dwarf Berserker",
-            "number": 81,
+            "number": 96,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Haste\nWhenever Magda, Axgard Outcast attacks, create a Treasure token.\nAt the beginning of your end step, sacrifice a permanent unless you've sacrificed a permanent this turn.",
@@ -2092,6 +2207,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Indrakiin",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2099,7 +2215,7 @@
             "color": "R",
             "rarity": "cube",
             "type": "Instant",
-            "number": 75,
+            "number": 90,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Ferocious Flame deals 2 damage to any target. \n[i]Ferocious[/i] \u2014 If you control a creature with power 4 or greater, it deals 4 damage instead.",
@@ -2110,6 +2226,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Evgeny Dvoretckiy",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2117,7 +2234,7 @@
             "color": "R",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 76,
+            "number": 91,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Take an extra turn after this one. At the beginning of that turn's end step, Galvanic Gambit deals 5 damage to you.",
@@ -2128,6 +2245,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Kevin Sidharta",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2135,7 +2253,7 @@
             "color": "R",
             "rarity": "cube",
             "type": "Creature \u2014 Human Wizard",
-            "number": 73,
+            "number": 88,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]\nWhenever you sacrifice a permanent, this creature deals 1 damage to target player or planeswalker.",
@@ -2146,6 +2264,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Tam\u00e1s Patk\u00f3s",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2153,7 +2272,7 @@
             "color": "R",
             "rarity": "cube",
             "type": "Instant",
-            "number": 77,
+            "number": 92,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Gleeful Arson deals 3 damage to any target. If a permanent was dealt excess damage this way, create a tapped Treasure token.",
@@ -2164,6 +2283,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Bokun An",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2171,7 +2291,7 @@
             "color": "R",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 79,
+            "number": 94,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "You may cast this spell as though it had flash if it targets a creature or planeswalker.\n[i]Domain[/i] \u2014 Karrthus' Tyranny deals X damage to any target, where X is the number of basic land types among lands you control.",
@@ -2182,24 +2302,26 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Kent Davis",
+            "alias": "",
             "notes": ""
         },
         {
-            "card_name": "Quibble",
+            "card_name": "Unforced Error",
             "color": "U",
             "rarity": "cube",
             "type": "Instant",
-            "number": 34,
+            "number": 50,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Counter target spell unless its controller pays {2}. \n[i]Spell mastery[/i] \u2014If you have two or more instant and/or sorcery cards in your graveyard, counter it unless they pay {4} instead.",
-            "flavor_text": "[i]\u201cI wouldn't put it [/i]that [i]way.\u201d[/i]",
+            "flavor_text": "[i]\u201cOh dear. Not again.\u201d[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "SOL",
             "loyalty": "",
-            "artist": "Andrew Soman",
+            "artist": "Flaviots",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2207,7 +2329,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Creature \u2014 Human",
-            "number": 55,
+            "number": 66,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Flash\nLifelink\nWhen this creature enters, mill three cards. [i](Put the top three cards of your library into your graveyard.)[/i]",
@@ -2218,6 +2340,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Oleksandr Kozachenko",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2225,7 +2348,7 @@
             "color": "UR",
             "rarity": "cube",
             "type": "Creature \u2014 Otter Wizard",
-            "number": 129,
+            "number": 152,
             "color_identity": "UR",
             "cost": "{U}{R}",
             "rules_text": "Prowess\nWhenever you attack, create a 1/1 blue and red Wizard creature token with prowess.",
@@ -2236,6 +2359,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Wolf Daemon",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2243,7 +2367,7 @@
             "color": "R",
             "rarity": "cube",
             "type": "Creature \u2014 Human Wizard",
-            "number": 82,
+            "number": 97,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Prowess\nWhen this creature dies, it deals 1 damage to each opponent. Create a 1/1 blue and red Wizard creature token with prowess.",
@@ -2254,6 +2378,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "F3LC4T",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2261,7 +2386,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Legendary Creature \u2014 Kor Artificer",
-            "number": 15,
+            "number": 18,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "When Nahiri, Vengeful Lithomancer enters, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle.\nWhenever Nahiri attacks, you may put an Equipment card from your hand onto the battlefield. You may attach it to another creature you control.",
@@ -2272,6 +2397,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Simon Marczyk",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2279,7 +2405,7 @@
             "color": "G",
             "rarity": "cube",
             "type": "Creature \u2014 Bear Horror",
-            "number": 96,
+            "number": 116,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
             "rules_text": "Trample\nWhen this creature enters, return any number of land cards and up to one nonland card from your graveyard to your hand.",
@@ -2290,6 +2416,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Russell Dongjun Lu",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2297,7 +2424,7 @@
             "color": "G",
             "rarity": "cube",
             "type": "Creature \u2014 Elemental",
-            "number": 97,
+            "number": 118,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "[i]Landfall[/i] \u2014 Whenever a land enters under your control, create an Idol token and add {G}. [i](An Idol is an artifact with \u201c{1}, Sacrifice this artifact: Put a +1/+1 counter on target creature. Activate only as a sorcery.\u201d)[/i]",
@@ -2308,6 +2435,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Josh Eli",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2315,7 +2443,7 @@
             "color": "UG",
             "rarity": "cube",
             "type": "Legendary Enchantment Creature \u2014 Horror",
-            "number": 122,
+            "number": 144,
             "color_identity": "UG",
             "cost": "{3}{G}{U}",
             "rules_text": "Ward {2}\nWhen The Fleshwright enters or attacks, you may put an animus counter on another target permanent. It becomes a creature in addition to its other types. If you control it, it has base power and toughness 4/4. Otherwise, it has base power and toughness 1/1.",
@@ -2326,6 +2454,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Reiko Gro\u00df",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2333,7 +2462,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 61,
+            "number": 73,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "As an additional cost to cast this spell, exile three cards from your graveyard.\nReturn target creature card from your graveyard to the battlefield.",
@@ -2344,6 +2473,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Alex V. Ngo",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2351,7 +2481,7 @@
             "color": "R",
             "rarity": "cube",
             "type": "Instant",
-            "number": 91,
+            "number": 108,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Worship the Ashes deals 2 damage to any target.\nCreate an Idol token. [i](It's an artifact with \u201c{1}, Sacrifice this artifact: Put a +1/+1 counter on target creature. Activate only as a sorcery.\u201d)[/i]",
@@ -2362,6 +2492,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Artem Chebokha",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2369,7 +2500,7 @@
             "color": "RG",
             "rarity": "cube",
             "type": "Enchantment",
-            "number": 127,
+            "number": 149,
             "color_identity": "RG",
             "cost": "{3}{R}{G}",
             "rules_text": "When this enchantment enters, it deals 2 damage to each creature and each planeswalker you don't control.\nWhenever you tap a land for mana, add one mana of any type that land produced.",
@@ -2380,6 +2511,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ronald Kuang",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2387,7 +2519,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Artifact",
-            "number": 136,
+            "number": 161,
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "This artifact enters tapped with eight stun counters on it.\nWhenever you cast a noncreature spell, untap this.\n{1}, {T}: This deals 2 damage to any target.\n{1}, {T}: Draw a card.",
@@ -2398,6 +2530,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Mateusz Bogucki",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2405,7 +2538,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Creaature \u2014 Elf Wizard",
-            "number": 32,
+            "number": 38,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
             "rules_text": "Flash\nWhenever this creature or another Wizard you control enters, exile up to one target instant or sorcery card from your graveyard. If you do, you may cast a copy of that card until the end of your next turn.",
@@ -2416,6 +2549,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Bear Frymire",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2423,7 +2557,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Creature \u2014 Zombie Cleric",
-            "number": 47,
+            "number": 57,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "When this creature enters, you may have each player sacrifice a creature or planeswalker.\nExhaust \u2014 {4}{B}: Return target creature or planeswalker card from your graveyard to the battlefield. [i](Activate each exhaust ability only once.)[/i]",
@@ -2434,6 +2568,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Acidify Art",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2441,7 +2576,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Creature \u2014 Elf Artificer",
-            "number": 44,
+            "number": 54,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "{T}: Draw a card, then discard a card.\nExhaust \u2014 {2}{U}{U}: Create a 0/0 colorless Construct artifact creature token with \u201cThis creature gets +1/+1 for each artifact you control.\u201d [i](Activate each exhaust ability only once.)[/i]",
@@ -2452,6 +2587,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Konstantinos Skenteridis",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2459,7 +2595,7 @@
             "color": "R",
             "rarity": "cube",
             "type": "Enchantment Creature \u2014 Nightmare",
-            "number": 74,
+            "number": 89,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "When this creature enters, you may discard a card. If you do, draw a card.\nExhaust \u2014 {4}{R}: This creature deals X damage to any target, where X is the number of card types among cards in your graveyard. [i](Activate each exhaust ability only once.)[/i]",
@@ -2470,6 +2606,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Sally Jackson",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2477,7 +2614,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Creature \u2014 Spirit",
-            "number": 6,
+            "number": 7,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Flying\nWhen this creature dies, exile it and create a 1/1 white Spirit creature token with flying. When that token dies, you may return this card to its owner's hand.",
@@ -2488,6 +2625,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Lucas Torquato",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2495,7 +2633,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Creature \u2014 Demon",
-            "number": 64,
+            "number": 76,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]\nWhenever a creature you control attacks alone, reveal the top card of your library and put it into your hand. Each opponent loses life equal to its mana value.",
@@ -2506,6 +2644,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Erskine Designs",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2513,7 +2652,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Enchantment",
-            "number": 40,
+            "number": 48,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "When this enchantment enters, create a 1/1 blue Otter creature token with \u201cWhenever this creature deals combat damage to a player, draw a card.\u201d\nWhenever you draw your second card each turn, put a +1/+1 counter on target creature you control.",
@@ -2524,6 +2663,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Brian Valeza",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2531,7 +2671,7 @@
             "color": "G",
             "rarity": "cube",
             "type": "Creature \u2014 Elf Druid",
-            "number": 108,
+            "number": 130,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "[i]Domain[/i] \u2014 This creature's power and toughness are each equal to the number of basic land types among lands you control.\nWhenever this creature attacks, return up to one target land card from your graveyard to the battlefield.",
@@ -2542,6 +2682,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Alessandro Calbini",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2549,7 +2690,7 @@
             "color": "G",
             "rarity": "cube",
             "type": "Enchantment",
-            "number": 110,
+            "number": 132,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "At the beginning of your upkeep, mill up to three cards, then return a land card from your graveyard to your hand.",
@@ -2560,6 +2701,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Lee b",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2567,7 +2709,7 @@
             "color": "R",
             "rarity": "cube",
             "type": "Enchantment",
-            "number": 85,
+            "number": 101,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "When you cast an instant or sorcery spell, sacrifice this enchantment. If you do, copy that spell. You may choose new targets for the copy.",
@@ -2578,6 +2720,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Billy Christian",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2585,7 +2728,7 @@
             "color": "G",
             "rarity": "cube",
             "type": "Enchantment",
-            "number": 115,
+            "number": 137,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "When this enchantment enters, draw a card. You may play an additional land this turn.\n{7}, Sacrifice What Could Be: Put an animus counter on up to two target lands you control. They become 4/4 creatures in addition to their other types.",
@@ -2596,6 +2739,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Alessandro Calbini",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2603,10 +2747,10 @@
             "color": "B",
             "rarity": "cube",
             "type": "Legendary Planeswalker \u2014 Liliana",
-            "number": 58,
+            "number": 69,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "",
+            "rules_text": "[+1]: You may discard a card. If you do, each opponent discards a card and loses 1 life.\n[-3]: Return target creature card from your graveyard to the battlefield. When you don't control Liliana, sacrifice it.\n[-6]: Search your library for two cards. Put one into your hand and the other into your graveyard. Then shuffle. Add {B}{B}{B}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: You may discard a card. If you do, each opponent discards a card and loses 1 life.\n[-3]: Return target creature card from your graveyard to the battlefield. When you don't control Liliana, sacrifice it.\n[-6]: Search your library for two cards. Put one into your hand and the other into your graveyard. Then shuffle. Add {B}{B}{B}.",
@@ -2614,6 +2758,7 @@
             "set": "SOL",
             "loyalty": "4",
             "artist": "Filipe Pagliuso",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2621,10 +2766,10 @@
             "color": "B",
             "rarity": "cube",
             "type": "Legendary Planeswalker \u2014 Ashiok",
-            "number": 45,
+            "number": 55,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
-            "rules_text": "",
+            "rules_text": "[+1]: Each player exiles a creature they control. If you exiled a creature this way, draw a card.\n[-2]: Look at the top four cards of your library. Put two of them into your hand then exile the rest.\n[-3]: Put a creature card exiled with Ashiok onto the battlefield under your control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: Each player exiles a creature they control. If you exiled a creature this way, draw a card.\n[-2]: Look at the top four cards of your library. Put two of them into your hand then exile the rest.\n[-3]: Put a creature card exiled with Ashiok onto the battlefield under your control.",
@@ -2632,6 +2777,7 @@
             "set": "SOL",
             "loyalty": "4",
             "artist": "Kyle Pearson",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2639,10 +2785,10 @@
             "color": "G",
             "rarity": "cube",
             "type": "Legendary Planeswalker \u2014 Nissa",
-            "number": 104,
+            "number": 126,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
-            "rules_text": "",
+            "rules_text": "[+2]: Untap up to two target lands\n[-2]: Mill three cards. Then return up to one permanent card or up to three land cards from your graveyard to your hand.\n[-9]: Put an animus counter on each of up to three lands you control. They become 4/4 creatures in addition to their other types. They can't attack this turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+2]: Untap up to two target lands\n[-2]: Mill three cards. Then return up to one permanent card or up to three land cards from your graveyard to your hand.\n[-9]: Put an animus counter on each of up to three lands you control. They become 4/4 creatures in addition to their other types. They can't attack this turn.",
@@ -2650,6 +2796,7 @@
             "set": "SOL",
             "loyalty": "4",
             "artist": "Leonardo Santanna",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2657,7 +2804,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Wizard",
-            "number": 22,
+            "number": 26,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "{U}, {T}: Draw a card. If you control three or more Wizards, draw three cards instead.",
@@ -2668,6 +2815,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2675,7 +2823,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Legendary Creature \u2014 Angel",
-            "number": 3,
+            "number": 4,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
             "rules_text": "Flying, trample, lifelink\nWhenever Akroma, Ixidor's Wrath or another Angel creature you control enters, that creature deals 2 damage to up to one target creature.",
@@ -2686,6 +2834,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Sara Gonz\u00e1lez",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2693,10 +2842,10 @@
             "color": "R",
             "rarity": "cube",
             "type": "Legendary Planeswalker \u2014 Chandra",
-            "number": 71,
+            "number": 85,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
-            "rules_text": "",
+            "rules_text": "[+1]: Create a 1/1 red and blue Wizard creature token with prowess. If an opponent lost life this turn, create an additional token.\n[+1]: Chandra deals 2 damage to any target.\n[-7]: You get an emblem with \u201c{R}, Discard a card: This emblem deals 3 damage to any target.\u201d You may discard your hand. If you do, draw three cards.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: Create a 1/1 red and blue Wizard creature token with prowess. If an opponent lost life this turn, create an additional token.\n[+1]: Chandra deals 2 damage to any target.\n[-7]: You get an emblem with \u201c{R}, Discard a card: This emblem deals 3 damage to any target.\u201d You may discard your hand. If you do, draw three cards.",
@@ -2704,6 +2853,7 @@
             "set": "SOL",
             "loyalty": "3",
             "artist": "Joshua Raphael",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2711,7 +2861,7 @@
             "color": "G",
             "rarity": "cube",
             "type": "Enchantment",
-            "number": 112,
+            "number": 134,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "You may play any number of lands a turn.\nAs long as you've played two or more lands this turn, you can't cast spells.",
@@ -2722,6 +2872,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Victor Maristane",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2729,7 +2880,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Artificer",
-            "number": 11,
+            "number": 14,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "Whenever you attack, reveal the top four cards of your library. You may put a historic card from among them into your hand, and the rest on the bottom of your library. [i](Artifacts, legendaries, and Sagas are historic.)[/i]\nWhenever another historic permanent you control enters, put a +1/+1 counter on each Artificer you control.",
@@ -2740,6 +2891,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Olie Boldador",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2747,7 +2899,7 @@
             "color": "R",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 88,
+            "number": 105,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Create two 1/1 red Shapeshifter tokens with changeling. [i](They have every creature type.)[/i]\nIf you control four or more tokens, creatures you control gain haste until end of turn.",
@@ -2758,6 +2910,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Blake E. Davis",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2765,7 +2918,7 @@
             "color": "G",
             "rarity": "cube",
             "type": "Enchantment",
-            "number": 107,
+            "number": 129,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "When this enchantment enters and at the beginning of your upkeep, look at the top seven cards of your library. You may exile a creature card from among them. Put the rest on the bottom of your library in a random order. You may cast that card as long as it remains exiled.",
@@ -2776,6 +2929,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nikola Sinitsa",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2783,7 +2937,7 @@
             "color": "G",
             "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Samurai",
-            "number": 98,
+            "number": 119,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
             "rules_text": "This spell can't be countered\nOther creatures you control have hexproof.\nWhenever this creature blocks or becomes blocked, put a +1/+1 counter on it.",
@@ -2794,6 +2948,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nolan Lu",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2801,7 +2956,7 @@
             "color": "G",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 105,
+            "number": 127,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Search your library for a land card, reveal it, put it into your hand, then shuffle.\nYou may put a basic land card from your hand onto the battlefield tapped.",
@@ -2812,6 +2967,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ari-Matti Toivonen",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2819,7 +2975,7 @@
             "color": "R",
             "rarity": "cube",
             "type": "Creature \u2014 Dragon",
-            "number": 69,
+            "number": 82,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
             "rules_text": "Flying, trample\nWhenever this creature enters or attacks, exile any number of cards from your graveyard. It deals that much damage to target creature or planeswalker.",
@@ -2830,6 +2986,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Panjoool",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2837,7 +2994,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Creature \u2014 Horror",
-            "number": 62,
+            "number": 74,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Menace\nWhen this creature enters, mill four cards.\n[i]Spell mastery[/i] \u2014 This creature gets +2/+2 and has deathtouch as long as there are two or more instant and/or sorcery cards in your graveyard.",
@@ -2848,6 +3005,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Vladimir Matyukhin",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2855,7 +3013,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Artifact",
-            "number": 137,
+            "number": 162,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "{T}, Sacrifice this: Surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]",
@@ -2866,6 +3024,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Indar Gunawan",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2873,7 +3032,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Creature \u2014 Angel",
-            "number": 17,
+            "number": 20,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "Flying\nWhen this this creature enters, choose a creature card in your graveyard. If it has mana value 2 or less, return it to the battlefield. Otherwise, return it to your hand.",
@@ -2884,6 +3043,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Conor Burke",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2891,7 +3051,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Artifact \u2014 Equipment",
-            "number": 21,
+            "number": 25,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Equipped creature gets +1/+1 and has flying.\nExhaust\u2014 {3}{W}: Return target creature card with mana value 5 or less from your graveyard to the battlefield. Attach this to it.\nEquip {3}",
@@ -2902,6 +3062,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Henrique Lindner",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2909,7 +3070,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Creature \u2014 Spirit Artificer",
-            "number": 7,
+            "number": 8,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "Whenever a historic permanent you control enters, put a +1/+1 counter on this creature. [i](Artifacts, legendaries, and Sagas are historic.)[/i]",
@@ -2920,6 +3081,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Dominik Mayer",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2927,10 +3089,10 @@
             "color": "W",
             "rarity": "cube",
             "type": "Legendary Planeswalker \u2014 Ajani",
-            "number": 2,
+            "number": 3,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
-            "rules_text": "",
+            "rules_text": "[+1]: Put a +1/+1 counter on each of up to two creatures you control. They gain vigilance until end of turn.\n[-2]: Create two 1/1 colorless Shapeshifter creature tokens with changeling. [i](They have every creature type)[/i]\n[-2]: Ajani deals X damage to target creature or planeswalker and you gain X life, where X is the number of creatures you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: Put a +1/+1 counter on each of up to two creatures you control. They gain vigilance until end of turn.\n[-2]: Create two 1/1 colorless Shapeshifter creature tokens with changeling. [i](They have every creature type)[/i]\n[-2]: Ajani deals X damage to target creature or planeswalker and you gain X life, where X is the number of creatures you control.",
@@ -2938,6 +3100,7 @@
             "set": "SOL",
             "loyalty": "4",
             "artist": "Darko Stojanovic",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2945,7 +3108,7 @@
             "color": "G",
             "rarity": "cube",
             "type": "Creature \u2014 Elf Scout",
-            "number": 99,
+            "number": 121,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
             "rules_text": "Haste\nWhen this creature enters, draw a card, then you may put a creature card with mana value 2 or less from your hand onto the battlefield.",
@@ -2956,6 +3119,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "BoissB - Blanca.J",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2963,7 +3127,7 @@
             "color": "R",
             "rarity": "cube",
             "type": "Enchantment",
-            "number": 83,
+            "number": 98,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "During each of your turns, you may cast non-colorless spells with mana value 3 or less from your hand without paying their mana cost if they don't share a color with a spell you've cast this turn.",
@@ -2974,6 +3138,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Artem Chebokha",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2981,7 +3146,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 179,
+            "number": 206,
             "color_identity": "C",
             "cost": "",
             "rules_text": "This land enters tapped.\nThis land is every basic land type. [i](It can tap for {W}, {U}, {B}, {R}, and {G}. Effects that find typed lands can find it.)[/i]",
@@ -2992,6 +3157,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Kent Davis",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2999,10 +3165,10 @@
             "color": "UB",
             "rarity": "cube",
             "type": "Legendary Planeswalker \u2014 Kaito",
-            "number": 124,
+            "number": 146,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
-            "rules_text": "",
+            "rules_text": "[+1]: Draw a card, then discard a card unless an opponent lost life this turn.\n[-2]: Choose target creature you control. When that creature deals combat damage to an opponent this turn, return it to your hand, then you may put a creature card that shares a color with it from your hand onto the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: Draw a card, then discard a card unless an opponent lost life this turn.\n[-2]: Choose target creature you control. When that creature deals combat damage to an opponent this turn, return it to your hand, then you may put a creature card that shares a color with it from your hand onto the battlefield.",
@@ -3010,6 +3176,7 @@
             "set": "SOL",
             "loyalty": "3",
             "artist": "lie setiawan",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3017,7 +3184,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Artifact Creature \u2014 Shapeshifter",
-            "number": 146,
+            "number": 171,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "Changeling [i](This card is every creature type.)[/i]\nWhen this creature enters, draw a card, then you may put a land card from your hand onto the battlefield tapped.",
@@ -3028,6 +3195,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Sina Pakzad Kasra",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3035,7 +3203,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 10,
+            "number": 11,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "Create two 1/1 white Spirit creature tokens with flying.\nRetrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i]",
@@ -3046,6 +3214,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Michael Bierek",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3053,7 +3222,7 @@
             "color": "R",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 70,
+            "number": 84,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Discard a card, then draw a card. If you discarded a nonland card this way, create a 1/1 red and blue Wizard creature token with prowess.\nRetrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i]",
@@ -3064,6 +3233,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Yanmo Zhang",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3071,7 +3241,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Creature \u2014 Zombie Insect",
-            "number": 60,
+            "number": 71,
             "color_identity": "B",
             "cost": "{4}{B}",
             "rules_text": "When this creature enters, choose a card name. Mill cards until you mill a card with the chosen name. Return that card to your hand.\nThis creature's power and toughness are each equal to the number of cards in your graveyard.",
@@ -3082,6 +3252,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Kevin McKenna",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3089,7 +3260,7 @@
             "color": "G",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 93,
+            "number": 110,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Mill two cards. You may return a permanent card milled this way to your hand.\nRetrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i]",
@@ -3100,6 +3271,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Bart Tchorzewski",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3107,7 +3279,7 @@
             "color": "G",
             "rarity": "cube",
             "type": "Creature \u2014 Shapeshifter",
-            "number": 102,
+            "number": 124,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Changeling [i](This card is every creature type.)[/i]\nWhen this creature enters, mill three cards, then put any number of land cards from among them into your hand.\n[i]Landfall[/i] \u2014 Whenever a land you control enters, create a 1/1 colorless Shapeshifter creature token with changeling.",
@@ -3118,6 +3290,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Gianluca Rolli",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3125,7 +3298,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Instant",
-            "number": 46,
+            "number": 56,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "You gain 3 life.\nDestroy target creature. You lose life equal to its mana value.",
@@ -3136,6 +3309,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Jarreau Wimberly",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3143,7 +3317,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Instant",
-            "number": 48,
+            "number": 59,
             "color_identity": "B",
             "cost": "{B}{B}",
             "rules_text": "Destroy target creature or planeswalker.",
@@ -3154,6 +3328,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Erick Efata",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3161,7 +3336,7 @@
             "color": "BR",
             "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Archer",
-            "number": 133,
+            "number": 156,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
             "rules_text": "When this creature enters, look at the top three cards of your library. Put one into your hand, and the rest into your graveyard.\n{1}{R}, Exile an instant or sorcery card from your graveyard: This deals 3 damage to any target. Activate only as a sorcery.",
@@ -3172,6 +3347,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "zhang lu",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3179,7 +3355,7 @@
             "color": "G",
             "rarity": "cube",
             "type": "Legendary Creature \u2014 Elf Noble",
-            "number": 94,
+            "number": 112,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "When Eladamri enters, search your library for an Elf card and/or a Forest card, reveal them, put them into your hand, then shuffle.\nWhenever one or more creatures you control attack, untap up to that many lands.",
@@ -3190,6 +3366,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Antonio Pi\u00f1ero \"ToniPieva\"",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3197,7 +3374,7 @@
             "color": "B",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 49,
+            "number": 60,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
             "rules_text": "Choose a Horror creature you control. Destroy all other creatures with mana value 4 or less.",
@@ -3208,6 +3385,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Dominik Mayer",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3215,7 +3393,7 @@
             "color": "WU",
             "rarity": "cube",
             "type": "Enchantment",
-            "number": 132,
+            "number": 155,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
             "rules_text": "At the beginning of each end step, choose up to X permanents, where X is the number of spells you cast this turn plus one. Exile those permanents, then return them to the battlefield under their owner's control.",
@@ -3226,6 +3404,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Kerem Beyit",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3233,7 +3412,7 @@
             "color": "WB",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 121,
+            "number": 143,
             "color_identity": "WB",
             "cost": "{W}{B}",
             "rules_text": "Target opponent reveals their hand. Exile a nonland card with mana value 3 or less revealed this way or a nonland permanent they control with mana value 3 or less.",
@@ -3244,6 +3423,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Karen Papazian",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3251,7 +3431,7 @@
             "color": "WG",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 116,
+            "number": 138,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
             "rules_text": "Search your library for a basic land card and a creature card and reveal them. Put the basic land onto the battlefield, and the creature card into your hand. Then shuffle.",
@@ -3262,6 +3442,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Juhyung Kang",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3269,7 +3450,7 @@
             "color": "WR",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 125,
+            "number": 147,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
             "rules_text": "If you control more creatures than each opponent, creatures you control gain indestructible until end of turn.\nMartial Inferno deals 3 damage to each creature.",
@@ -3280,6 +3461,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Rob Smyth",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3287,7 +3469,7 @@
             "color": "R",
             "rarity": "cube",
             "type": "Instant",
-            "number": 87,
+            "number": 103,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
             "rules_text": "This spell costs {3} less to cast if it targets a permanent.\nSarkhan's Rebuttal deals 5 damage to any target.",
@@ -3298,6 +3480,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ivan Shavrin",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3305,7 +3488,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Artifact Creature \u2014 Construct",
-            "number": 145,
+            "number": 170,
             "color_identity": "C",
             "cost": "{X}",
             "rules_text": "This creature enters with X +1/+1 counters on it.\nWhen this creature enters, it fights up to one target creature.",
@@ -3316,6 +3499,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Kerem Beyit",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3323,7 +3507,7 @@
             "color": "WR",
             "rarity": "cube",
             "type": "Legendary Creature \u2014 Elephant Cleric",
-            "number": 128,
+            "number": 151,
             "color_identity": "WR",
             "cost": "{R}{W}",
             "rules_text": "Whenever you cast a historic spell, exile the top card of your library. You may play that card until the end of your next turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i]",
@@ -3334,6 +3518,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Renan Moraes",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3341,7 +3526,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Instant",
-            "number": 37,
+            "number": 43,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
             "rules_text": "Choose one\u2014\n\u2022 Counter target spell.\n\u2022 Search your library for an instant or sorcery card, reveal it, put it into your hand, then shuffle.",
@@ -3351,7 +3536,8 @@
             "shape": "normal",
             "set": "SOL",
             "loyalty": "",
-            "artist": "Godfrey Escota",
+            "artist": "ilham priyo",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3359,7 +3545,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Swamp Mountain",
-            "number": 166,
+            "number": 193,
             "color_identity": "BR",
             "cost": "",
             "rules_text": "[i]({T}: Add {B} or {R})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -3370,6 +3556,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Finnian MacManus",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3377,7 +3564,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Mountain Forest",
-            "number": 169,
+            "number": 196,
             "color_identity": "RG",
             "cost": "",
             "rules_text": "[i]({T}: Add {R} or {G})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -3388,6 +3575,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Brushsauce Studio",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3395,7 +3583,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Forest Plains",
-            "number": 165,
+            "number": 192,
             "color_identity": "WG",
             "cost": "",
             "rules_text": "[i]({T}: Add {G} or {W})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -3406,6 +3594,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nele Diel",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3413,7 +3602,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Plains Swamp",
-            "number": 161,
+            "number": 188,
             "color_identity": "WB",
             "cost": "",
             "rules_text": "[i]({T}: Add {W} or {B})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -3424,6 +3613,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Adrian Virlan",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3431,7 +3621,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Island Mountain",
-            "number": 168,
+            "number": 195,
             "color_identity": "UR",
             "cost": "",
             "rules_text": "[i]({T}: Add {U} or {R})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -3442,6 +3632,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Ayan Nag",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3449,7 +3640,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Swamp Forest",
-            "number": 163,
+            "number": 190,
             "color_identity": "BG",
             "cost": "",
             "rules_text": "[i]({T}: Add {B} or {G})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -3460,6 +3651,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Robert Berg",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3467,7 +3659,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Mountain Plains",
-            "number": 164,
+            "number": 191,
             "color_identity": "WR",
             "cost": "",
             "rules_text": "[i]({T}: Add {R} or {W})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -3478,6 +3670,7 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nele Diel",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3485,7 +3678,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Forest Island",
-            "number": 162,
+            "number": 189,
             "color_identity": "UG",
             "cost": "",
             "rules_text": "[i]({T}: Add {G} or {U})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -3496,8 +3689,541 @@
             "set": "SOL",
             "loyalty": "",
             "artist": "Nele Diel",
+            "alias": "",
+            "notes": ""
+        },
+        {
+            "card_name": "Gideon's Sural",
+            "color": "W",
+            "rarity": "cube",
+            "type": "Legendary Artifact \u2014 Equipment",
+            "number": 12,
+            "color_identity": "W",
+            "cost": "{1}{W}",
+            "rules_text": "When this equipment enters, you may search your library for a planeswalker card, reveal it, and put it into your hand, then shuffle.\nDuring your turn, equipped creature gets +2/+0 and has first strike.\nEquip {2}",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "Tyler Jacobson",
+            "alias": "",
+            "notes": ""
+        },
+        {
+            "card_name": "Quandrix Conundrum",
+            "color": "U",
+            "rarity": "cube",
+            "type": "Instant",
+            "number": 40,
+            "color_identity": "U",
+            "cost": "{1}{U}",
+            "rules_text": "When you cast this spell, if you control five or more lands, copy it.\nLook at the top four cards of your library. Put one of them into your hand, then the rest on the bottom of your library in a random order.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "Andrew Soman",
+            "alias": "",
+            "notes": ""
+        },
+        {
+            "card_name": "Twisted Shapestealer",
+            "color": "U",
+            "rarity": "cube",
+            "type": "Creature \u2014 Shapeshifter",
+            "number": 49,
+            "color_identity": "U",
+            "cost": "{3}{U}{U}",
+            "rules_text": "When you cast this spell, copy it. [i](The copy resolves as a token.)[/i]\nYou may have this creature enter as a copy of any creature on the battlefield.",
+            "flavor_text": "[i][/i]",
+            "pt": "0/0",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "Verena G.",
+            "alias": "",
+            "notes": ""
+        },
+        {
+            "card_name": "Consult the Dead",
+            "color": "B",
+            "rarity": "cube",
+            "type": "Instant",
+            "number": 58,
+            "color_identity": "B",
+            "cost": "{2}{B}",
+            "rules_text": "Look at the top four cards of your library. Put two into your hand, and the rest into your graveyard. You lose 2 life.",
+            "flavor_text": "[i][Some Sidisi Flavor Text][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "David Bibi\u00e1n Fern\u00e1ndez",
+            "alias": "",
+            "notes": ""
+        },
+        {
+            "card_name": "Reappropriate",
+            "color": "R",
+            "rarity": "cube",
+            "type": "Instant",
+            "number": 100,
+            "color_identity": "R",
+            "cost": "{1}{R}",
+            "rules_text": "Choose one\u2014\n\u2022 Exile the top two cards of your library. You may play those cards until the beginning of your next end step.\n\u2022 Exile target artifact. You may play it until the beginning of your next end step.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "Cynthia Sheppard",
+            "alias": "",
+            "notes": ""
+        },
+        {
+            "card_name": "Aeonic Conduit",
+            "color": "",
+            "rarity": "cube",
+            "type": "Artifact",
+            "number": 158,
+            "color_identity": "C",
+            "cost": "{2}",
+            "rules_text": "{T}: Put a charge counter on Aeonic Conduit.\n{T}: Add {C} for each charge counter on Aeonic Conduit.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "Dorje Bellbrook",
+            "alias": "",
+            "notes": ""
+        },
+        {
+            "card_name": "Prophetic Sculpture",
+            "color": "",
+            "rarity": "cube",
+            "type": "Artifact",
+            "number": 174,
+            "color_identity": "C",
+            "cost": "{2}",
+            "rules_text": "Prophetic Sculpture enters the battlefield tapped.\nWhen Prophetic Sculpture enters the battlefield, choose a color.\n{T}: Add one mana of the chosen color.\n{4}, {T}: Draw a card. Spend only mana of the chosen color to activate this ability.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "H Velkut",
+            "alias": "",
+            "notes": ""
+        },
+        {
+            "card_name": "Rite of Shilgengar",
+            "color": "B",
+            "rarity": "cube",
+            "type": "Enchantment \u2014 Saga",
+            "number": 77,
+            "color_identity": "B",
+            "cost": "{2}{B}",
+            "rules_text": "\nI \u2014 Surveil 1, then you draw a card and you lose 1 life.\nII \u2014 You may return target creature card from your graveyard to the battlefield.\nIII \u2014 You lose life equal to the greatest power among creatures you control.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "\nI \u2014 Surveil 1, then you draw a card and you lose 1 life.\nII \u2014 You may return target creature card from your graveyard to the battlefield.\nIII \u2014 You lose life equal to the greatest power among creatures you control.",
+            "shape": "saga",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "K 'LeSoldat Mort' B",
+            "alias": "",
+            "notes": ""
+        },
+        {
+            "card_name": "Teferi, Timestream Savant",
+            "color": "U",
+            "rarity": "cube",
+            "type": "Legendary Planeswalker \u2014 Teferi",
+            "number": 47,
+            "color_identity": "U",
+            "cost": "{2}{U}{U}",
+            "rules_text": "[+1]: Scry 2. When you do, tap target permanent and untap target permanent.\n[-2]: Return target nonland permanent to its owner's hand. Your opponents can't cast spells that share a name with it until your next turn.\n[-7]: Take an extra turn after this one. During that turn, if you would draw a card, draw two cards instead.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "[+1]: Scry 2. When you do, tap target permanent and untap target permanent.\n[-2]: Return target nonland permanent to its owner's hand. Your opponents can't cast spells that share a name with it until your next turn.\n[-7]: Take an extra turn after this one. During that turn, if you would draw a card, draw two cards instead.",
+            "shape": "planeswalker",
+            "set": "SOL",
+            "loyalty": "4",
+            "artist": "Narendra B Adi",
+            "alias": "",
+            "notes": ""
+        },
+        {
+            "card_name": "Jace, Mnemonic Master",
+            "color": "U",
+            "rarity": "cube",
+            "type": "Legendary Planeswalker \u2014 Jace",
+            "number": 32,
+            "color_identity": "U",
+            "cost": "{3}{U}{U}",
+            "rules_text": "[+2]: Draw three cards, then put two cards from your hand on top of your library in any order. \n[-3]: When an opponent next casts a spell before your next turn, counter it. \n[-11]: Exile the top ten cards of each opponent's library. Choose a card exiled that way. You may cast up to three copies of that card without paying their mana costs.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "[+2]: Draw three cards, then put two cards from your hand on top of your library in any order. \n[-3]: When an opponent next casts a spell before your next turn, counter it. \n[-11]: Exile the top ten cards of each opponent's library. Choose a card exiled that way. You may cast up to three copies of that card without paying their mana costs.",
+            "shape": "planeswalker",
+            "set": "SOL",
+            "loyalty": "5",
+            "artist": "Godfrey Escota",
+            "alias": "",
+            "notes": ""
+        },
+        {
+            "card_name": "Malevolent Tutor",
+            "color": "B",
+            "rarity": "cube",
+            "type": "Sorcery",
+            "number": 72,
+            "color_identity": "B",
+            "cost": "{2}{B}",
+            "rules_text": "[i]Spell mastery[/i] \u2014 This spell costs {2} less to cast if there are two or more instant and/or sorcery cards in your graveyard.\nSearch your library for a card, put it into your hand or graveyard, then shuffle.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "SOUL of VLAD",
+            "alias": "",
+            "notes": ""
+        },
+        {
+            "card_name": "Scorch",
+            "color": "R",
+            "rarity": "cube",
+            "type": "Sorcery",
+            "number": 104,
+            "color_identity": "R",
+            "cost": "{R}",
+            "rules_text": "Scorch deals 3 damage to any target.",
+            "flavor_text": "[i]\u201cIf it burns, burn it. Don't sweat the details.\u201d[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "Ardika Priyata",
+            "alias": "",
+            "notes": ""
+        },
+        {
+            "card_name": "Sink or Swim",
+            "color": "U",
+            "rarity": "cube",
+            "type": "Instant",
+            "number": 44,
+            "color_identity": "U",
+            "cost": "{U}{U}",
+            "rules_text": "Return target permanent to its owner's hand.\n[i]Spell mastery[/i] \u2014 At the beginning of your upkeep, if you have two or more instant and/or sorcery cards in your graveyard, you may exile five cards from your graveyard. If you do, return Sink or Swim from your graveyard to your hand.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "Mateusz Michalski",
+            "alias": "",
+            "notes": ""
+        },
+        {
+            "card_name": "Bridal Shower",
+            "color": "R",
+            "rarity": "cube",
+            "type": "Sorcery",
+            "number": 83,
+            "color_identity": "R",
+            "cost": "{1}{R}{R}",
+            "rules_text": "Bridal Shower deals 3 damage to each creature. Whenever a creature is dealt excess damage this way, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "JustynaDura",
+            "alias": "",
+            "notes": ""
+        },
+        {
+            "card_name": "Danika, Falkenrath Consort",
+            "color": "R",
+            "rarity": "cube",
+            "type": "Legendary Creature \u2014 Vampire Soldier",
+            "number": 87,
+            "color_identity": "R",
+            "cost": "{2}{R}",
+            "rules_text": "Whenever this creature enters or attacks, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]\nAs long as you have one or fewer cards in hand, if you would draw a card, instead draw two cards and this creature deals 1 damage to you.",
+            "flavor_text": "[i][/i]",
+            "pt": "4/3",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "Xiaofan Zhang",
+            "alias": "",
+            "notes": ""
+        },
+        {
+            "card_name": "Beast",
+            "color": "G",
+            "rarity": "cube",
+            "type": "Token Creature \u2014 Beast",
+            "number": 4,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "3/3",
+            "special_text": "",
+            "shape": "token",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "notes": ""
+        },
+        {
+            "card_name": "Abzan Revolution",
+            "color": "W",
+            "rarity": "cube",
+            "type": "Sorcery",
+            "number": 1,
+            "color_identity": "W",
+            "cost": "{2}{W}{W}",
+            "rules_text": "Destroy all creatures. If a creature you controlled was destroyed this way, create a 1/1 white Spirit creature token with flying.",
+            "flavor_text": "[i]As the last stronghold of Dromokan faithful fell, the roar of Betor stirred in the hearts of the Abzan, the spirits of their ancestors at last returning from beneath the Shifting Wastes.[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "Joel Chaim Holtzman",
+            "alias": "",
+            "notes": "https://www.artstation.com/artwork/nEr6O6"
+        },
+        {
+            "card_name": "Guidance of Saint Traft",
+            "color": "W",
+            "rarity": "cube",
+            "type": "Enchantment \u2014 Saga",
+            "number": 13,
+            "color_identity": "W",
+            "cost": "{1}{W}{W}",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create a 1/1 white Spirit creature token with flying.\nII, III \u2014 Put a +1/+1 counter on each of up to two target creatures. They gain flying until end of turn.\n\u200b",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create a 1/1 white Spirit creature token with flying.\nII, III \u2014 Put a +1/+1 counter on each of up to two target creatures. They gain flying until end of turn.\n\u200b",
+            "shape": "saga",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "Rohland DeMoss",
+            "alias": "",
+            "notes": "https://www.artstation.com/artwork/yJnzoO"
+        },
+        {
+            "card_name": "Song of All",
+            "color": "W",
+            "rarity": "cube",
+            "type": "Enchantment \u2014 Saga",
+            "number": 21,
+            "color_identity": "W",
+            "cost": "{1}{W}",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI, II, III \u2014 Exile up to one other target nonland permanent you control, then return it to the battlefield under its owner's control.\nIV \u2014 You gain 4 life.\n\u200b",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI, II, III \u2014 Exile up to one other target nonland permanent you control, then return it to the battlefield under its owner's control.\nIV \u2014 You gain 4 life.\n\u200b",
+            "shape": "saga",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "Daneen Wilkerson",
+            "alias": "",
+            "notes": "https://www.daneenart.com/?pgid=kljppruj-caf62423-1721-4822-9d84-2553ed654c9b"
+        },
+        {
+            "card_name": "Beautiful Tomorrows",
+            "color": "U",
+            "rarity": "cube",
+            "type": "Sorcery",
+            "number": 27,
+            "color_identity": "U",
+            "cost": "{6}{U}{U}{U}",
+            "rules_text": "Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]\nShuffle your hand and graveyard into your library, then draw five cards.",
+            "flavor_text": "[i]While Tolarian time mages are forbidden to meddle in the past, they hold the power to create a bright future.[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "Matteo Marjoram",
+            "alias": "",
+            "notes": "https://www.artstation.com/artwork/WGyB3"
+        },
+        {
+            "card_name": "Culinary Arts",
+            "color": "G",
+            "rarity": "cube",
+            "type": "Instant",
+            "number": 111,
+            "color_identity": "G",
+            "cost": "{3}{G}",
+            "rules_text": "Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]\nReturn target card from your graveyard to your hand.",
+            "flavor_text": "[i]One of the most popular electives at Strixhaven University, \u201cCooking Across the Multiverse\u201d offers students a taste of countless strange worlds.[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "Stephen Stark",
+            "alias": "",
+            "notes": "https://www.artstation.com/artwork/nYQoZ9"
+        },
+        {
+            "card_name": "Extraversal Fragment",
+            "color": "G",
+            "rarity": "cube",
+            "type": "Creature \u2014 Horror",
+            "number": 113,
+            "color_identity": "G",
+            "cost": "{3}{G}{G}",
+            "rules_text": "When this creature enters, choose one \u2014\n\u2022 Destroy target artifact or enchantment.\n\u2022 This creature fights target creature you don't control.\n\u2022 You gain 5 life. Shuffle up to one target player's graveyard into their library.",
+            "flavor_text": "[i]Ejecta from the Chaos Wall rarely arrive in The Edge in one stable piece.[/i]",
+            "pt": "5/4",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "Ravi Kanth",
+            "alias": "",
+            "notes": "https://www.artstation.com/artwork/vrX8a"
+        },
+        {
+            "card_name": "Fang-Druid's Summons",
+            "color": "G",
+            "rarity": "cube",
+            "type": "Sorcery",
+            "number": 114,
+            "color_identity": "G",
+            "cost": "{5}{G}{G}{G}",
+            "rules_text": "Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]\nCreate three 3/3 green Beast creature tokens.",
+            "flavor_text": "[i]The apex predators of the Green Hell are at the beck and call of the Fang-Druids, a secretive clade of Muraganda's mightiest mages.[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "Corva Ignacio",
+            "alias": "",
+            "notes": ""
+        },
+        {
+            "card_name": "Grand Entrance",
+            "color": "G",
+            "rarity": "cube",
+            "type": "Sorcery",
+            "number": 117,
+            "color_identity": "G",
+            "cost": "{4}{G}{G}",
+            "rules_text": "Look at the top six cards of your library. Put any number of permanent cards from among them with total mana value 8 or less onto the battlefield. Put the rest on the bottom of your library in a random order.",
+            "flavor_text": "[i]When a guest of honor arrives to a Cabaretti party, it's hard not to notice.[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "Tim Razumovsky",
+            "alias": "",
+            "notes": "https://cara.app/post/da0a13d3-b7ad-400b-9f2d-aaf68ff7c0e4"
+        },
+        {
+            "card_name": "Jaspera Rune-Reader",
+            "color": "G",
+            "rarity": "cube",
+            "type": "Creature \u2014 Elf Druid",
+            "number": 120,
+            "color_identity": "G",
+            "cost": "{2}{G}",
+            "rules_text": "You may play land cards from your graveyard.\n[i]Landfall[/i] \u2014 Whenever a land you control enters, you gain 1 life.",
+            "flavor_text": "[i]At the conclusion of the Invasion, the survivors of Skemfar put aside their conflicts to restore their home to its former beauty.[/i]",
+            "pt": "2/4",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "Patcas",
+            "alias": "",
+            "notes": "https://www.artstation.com/artwork/Xxz0n"
+        },
+        {
+            "card_name": "Pull of the Gravetide",
+            "color": "BG",
+            "rarity": "cube",
+            "type": "Sorcery",
+            "number": 150,
+            "color_identity": "BG",
+            "cost": "{2}{B}{G}",
+            "rules_text": "Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]\nDestroy target permanent.",
+            "flavor_text": "[i]\u201cI suppose there is some humor in it. Children have such short tempers, don't they?\u201d\n\u2014Multani, Maro-Sorcerer[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "Lorenzo Bruzzese",
+            "alias": "",
+            "notes": "Lorenzo Bruzzese"
+        },
+        {
+            "card_name": "Automaton Epicure",
+            "color": "",
+            "rarity": "cube",
+            "type": "Artifact Creature \u2014 Construct",
+            "number": 159,
+            "color_identity": "C",
+            "cost": "{3}",
+            "rules_text": "Whenever you create a token, note that kind of token.\nIf you would create one or more tokens, you may instead create those tokens plus a token you've noted with this creature.",
+            "flavor_text": "[i]Originally built for mass production, it gained a taste for life's finer pleasures.[/i]",
+            "pt": "2/4",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "Harkale Linai",
+            "alias": "",
+            "notes": "https://twitter.com/Harkale_Linai/status/1772989331465994480"
+        },
+        {
+            "card_name": "Endless Cityscape",
+            "color": "",
+            "rarity": "cube",
+            "type": "Land",
+            "number": 185,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "This land enters tapped.\nWhen this land enters, return another land you control to its owner's hand, then create a tapped token that's a copy of that land.\n{T}: Add one mana of any color.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "Max Steksov",
+            "alias": "",
             "notes": ""
         }
     ],
-    "version": 5
+    "version": 6
 }
