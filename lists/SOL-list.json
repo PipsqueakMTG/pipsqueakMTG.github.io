@@ -1,0 +1,1676 @@
+﻿[
+    {
+        "card_name": "Abzan Revolution",
+        "number": 1,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Azami, Aspiring Archivist",
+        "number": 28,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Ashiok, Oblivion Liege",
+        "number": 65,
+        "shape": "planeswalker",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Ashmouth Tyrant",
+        "number": 92,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Alpha Baloth",
+        "number": 119,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Adarkar Impostor",
+        "number": 2,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Beautiful Tomorrows",
+        "number": 29,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "At Any Cost",
+        "number": 66,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Bridal Shower",
+        "number": 93,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Climb the World Tree",
+        "number": 120,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Ajani, Hero of Velis Vel",
+        "number": 3,
+        "shape": "planeswalker",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Bondseeker Magpie",
+        "number": 30,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Cabal Cryptkeeper",
+        "number": 67,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Burning Augury",
+        "number": 94,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Culinary Arts",
+        "number": 121,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Akroma, Ixidor's Wrath",
+        "number": 4,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Break Reality",
+        "number": 31,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Consult the Dead",
+        "number": 68,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Chandra of Keral Keep",
+        "number": 95,
+        "shape": "planeswalker",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Eladamri, Skyshroud Liege",
+        "number": 122,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Avenge",
+        "number": 5,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Elementalist's Charm",
+        "number": 32,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Consume",
+        "number": 69,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Cosmium Keeper",
+        "number": 96,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Extraversal Fragment",
+        "number": 123,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Banish",
+        "number": 6,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Estatic Alchemist",
+        "number": 33,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Death Knows His Own",
+        "number": 70,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Danika, Falkenrath Consort",
+        "number": 97,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Fang-Druid's Summons",
+        "number": 124,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Basilica Phantasm",
+        "number": 7,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Forebode",
+        "number": 34,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Dreadhorde Invocation",
+        "number": 71,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Devious Pyromancer",
+        "number": 98,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Fin-Clade Renegade",
+        "number": 125,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Blade Bearer",
+        "number": 8,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Fountainport Guildmaster",
+        "number": 35,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Drink Your Fill",
+        "number": 72,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Fear of Burnout",
+        "number": 99,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Garruk of Silent Groves",
+        "number": 126,
+        "shape": "planeswalker",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Blade of Banishing",
+        "number": 9,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Highland Puca",
+        "number": 36,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Ego Death",
+        "number": 73,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Ferocious Flame",
+        "number": 100,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Gnottvold Grizzly",
+        "number": 127,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Cast In Silver",
+        "number": 10,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Higure, Called Twilight",
+        "number": 37,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Expose",
+        "number": 74,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Galvanic Gambit",
+        "number": 101,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Grand Entrance",
+        "number": 128,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Convergence of Souls",
+        "number": 11,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Jace, Mnemonic Master",
+        "number": 38,
+        "shape": "planeswalker",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Ghostly Espionage",
+        "number": 75,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Gleeful Arson",
+        "number": 102,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Hedron Gatherer",
+        "number": 129,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Gideon's Sural",
+        "number": 12,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Lineage of the Way",
+        "number": 39,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Grafdigger",
+        "number": 76,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Goreform",
+        "number": 103,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Isao, Jukai Hermit",
+        "number": 130,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Goldmeadow Paragon",
+        "number": 13,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Lord of the Maze",
+        "number": 40,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Infernal Recall",
+        "number": 77,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Karrthus' Tyranny",
+        "number": 104,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Jaspera Rune-Reader",
+        "number": 131,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Guidance of Saint Traft",
+        "number": 14,
+        "shape": "saga",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Nexus Gate",
+        "number": 41,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Leaking Memories",
+        "number": 78,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Kiki-Jiki, the First Illusionist",
+        "number": 105,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Joraga Beastmaster",
+        "number": 132,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Halo Oracle",
+        "number": 15,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Nixie's Trick",
+        "number": 42,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Liliana, Queen of the Dead",
+        "number": 79,
+        "shape": "planeswalker",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Magda, Axgard Outcast",
+        "number": 106,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Littjara Channeler",
+        "number": 133,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Hanna of the Weatherlight",
+        "number": 16,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Otterslide",
+        "number": 43,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Lost Girl",
+        "number": 80,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Necromantic Dabbler",
+        "number": 107,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Massive Impact",
+        "number": 134,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Kor Archaeologist",
+        "number": 17,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Overworked Academic",
+        "number": 44,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Lotleth Collector",
+        "number": 81,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Paint the Future",
+        "number": 108,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Menagerie Keeper",
+        "number": 135,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Liberated Seraph",
+        "number": 18,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Plot",
+        "number": 45,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Malevolent Tutor",
+        "number": 82,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Prismari Perfomance",
+        "number": 109,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Mul Daya Speaker",
+        "number": 136,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Make A Symbol",
+        "number": 19,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Quandrix Conundrum",
+        "number": 46,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Masterful Stitching",
+        "number": 83,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Reappropriate",
+        "number": 110,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Nissa, Visionary Animist",
+        "number": 137,
+        "shape": "planeswalker",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Nahiri, Vengeful Lithomancer",
+        "number": 20,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Reject the Notion",
+        "number": 47,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Messenger of Unx",
+        "number": 84,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Reverberation",
+        "number": 111,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "The Prismatic Bridge Calls",
+        "number": 138,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Pontiff of Accumulation",
+        "number": 21,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Reprint",
+        "number": 48,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Necrogen Rebirth",
+        "number": 85,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Robrashk, Usurper of Rohgahh",
+        "number": 112,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Rubblebelt Martyr",
+        "number": 139,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Savior of the Pious",
+        "number": 22,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Rewritten Dreams",
+        "number": 49,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Nefarox's Emissary",
+        "number": 86,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Sarkhan's Rebuttal",
+        "number": 113,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Survival of the Strangest",
+        "number": 140,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Song of All",
+        "number": 23,
+        "shape": "saga",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Seedship Scout",
+        "number": 50,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Rite of Shilgengar",
+        "number": 87,
+        "shape": "saga",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Scorch",
+        "number": 114,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Tajuru Wildseeker",
+        "number": 141,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Spiritual Experience",
+        "number": 24,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Selective Amnesia",
+        "number": 51,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Road Rager",
+        "number": 88,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Seeing Double",
+        "number": 115,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Tranquil Mystic",
+        "number": 142,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Start Anew",
+        "number": 25,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Sink or Swim",
+        "number": 52,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Scourge of Bala Ged",
+        "number": 89,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Volcanic Challenger",
+        "number": 116,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Untameable Growth",
+        "number": 143,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Suffocating Light",
+        "number": 26,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Stromkirk Visions",
+        "number": 53,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Sum of All Fears",
+        "number": 90,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Wild Prince",
+        "number": 117,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Untamed One",
+        "number": 144,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Winged Amulet",
+        "number": 27,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Suppose",
+        "number": 54,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Territory Dispute",
+        "number": 91,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Worship the Ashes",
+        "number": 118,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Vastwood Attunement",
+        "number": 145,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Teferi, Timestream Savant",
+        "number": 55,
+        "shape": "planeswalker",
+        "set": "SOL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Vitu-Ghazi Envoy",
+        "number": 146,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Terror of Uncrossed Strait",
+        "number": 56,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Warden of Orazca",
+        "number": 147,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Tidepool Teachings",
+        "number": 57,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "What Could Be",
+        "number": 148,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Twisted Shapestealer",
+        "number": 58,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Unforced Error",
+        "number": 59,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Urza, Royal Machinist",
+        "number": 60,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Vedalken Astronomer",
+        "number": 61,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Vis Drain",
+        "number": 62,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Walk with Grace",
+        "number": 63,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "West Academy Researcher",
+        "number": 64,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Dance of the Kami",
+        "number": 151,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Destructive Ambition",
+        "number": 152,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Blood Demands Blood",
+        "number": 150,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Mirari's Wrath",
+        "number": 160,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Abundant Blessings",
+        "number": 149,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Still Waters",
+        "number": 166,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Kaito, Shadow Assassin",
+        "number": 157,
+        "shape": "planeswalker",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Devour Reality",
+        "number": 153,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Tor Wauki the Elder",
+        "number": 167,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Extract Sin",
+        "number": 154,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Jodah's Scorn",
+        "number": 156,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Pull of the Gravetide",
+        "number": 161,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Martial Inferno",
+        "number": 158,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "The Fleshwright",
+        "number": 155,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Unseal the Underworld",
+        "number": 168,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Mindcrackle",
+        "number": 159,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Roar of Compleation",
+        "number": 164,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Quintorius, Sharp Scholar",
+        "number": 162,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Rivercrack Mentor",
+        "number": 163,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Rot",
+        "number": 165,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Aeonic Conduit",
+        "number": 169,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Automaton Epicure",
+        "number": 170,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Chromatic Cube",
+        "number": 171,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Dormant Doomsday Device",
+        "number": 172,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Feldon's Bauble",
+        "number": 173,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Fragment of Curiosity",
+        "number": 174,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Fragment of Emptiness",
+        "number": 175,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Fragment of Growth",
+        "number": 176,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Fragment of Hope",
+        "number": 177,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Fragment of Rage",
+        "number": 178,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Ichor Chalice",
+        "number": 179,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Imperial Treasury",
+        "number": 180,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Living Bulwark",
+        "number": 181,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Mercurial Model",
+        "number": 182,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Pactbound Mox",
+        "number": 183,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Prismatic Beacon",
+        "number": 184,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Prophetic Sculpture",
+        "number": 185,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Refined Diamond",
+        "number": 186,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Refractor Matrix",
+        "number": 187,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "The Seed of Everything",
+        "number": 188,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Shimmering Mox",
+        "number": 189,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Ubitsa Forge",
+        "number": 190,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Vibrant Mox",
+        "number": 191,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Forgotten Aquifer",
+        "number": 199,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Forgotten Passage",
+        "number": 206,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Badlands",
+        "number": 193,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Forgotten Summit",
+        "number": 208,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Forgotten Grove",
+        "number": 204,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Tundra",
+        "number": 221,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Underground Sea",
+        "number": 222,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Forgotten Lavafield",
+        "number": 205,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Taiga",
+        "number": 218,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Savannah",
+        "number": 215,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Forgotten Barrens",
+        "number": 200,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Forgotten River",
+        "number": 207,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Bayou",
+        "number": 194,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Forgotten Gazebo",
+        "number": 203,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Forgotten Coast",
+        "number": 201,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Scrubland",
+        "number": 217,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Volcanic Island",
+        "number": 224,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Forgotten Copse",
+        "number": 202,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Plateau",
+        "number": 212,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Tropical Island",
+        "number": 220,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Arid Mesa",
+        "number": 192,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Bloodstained Mire",
+        "number": 195,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "City of Gold",
+        "number": 196,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Endless Cityscape",
+        "number": 197,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Flooded Strand",
+        "number": 198,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Marsh Flats",
+        "number": 209,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Misty Rainforest",
+        "number": 210,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "New Divide",
+        "number": 211,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Polluted Delta",
+        "number": 213,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Port of Meletis",
+        "number": 214,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Scalding Tarn",
+        "number": 216,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "That Wild Yonder",
+        "number": 219,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Verdant Catacombs",
+        "number": 223,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Windswept Heath",
+        "number": 225,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Wooded Foothills",
+        "number": 226,
+        "shape": "normal",
+        "set": "SOL"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Shapeshifter",
+        "number": 1,
+        "shape": "token",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Blood",
+        "number": 6,
+        "shape": "token",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Construct",
+        "number": 7,
+        "shape": "token",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Idol",
+        "number": 8,
+        "shape": "token",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 9,
+        "shape": "token",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Spirit",
+        "number": 2,
+        "shape": "token",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Otter",
+        "number": 3,
+        "shape": "token",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Beast",
+        "number": 4,
+        "shape": "token",
+        "set": "SOL"
+    },
+    {
+        "card_name": "Wizard",
+        "number": 5,
+        "shape": "token",
+        "set": "SOL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
