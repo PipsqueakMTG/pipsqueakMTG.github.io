@@ -1,0 +1,530 @@
+﻿[
+    {
+        "card_name": "Gideon's Sural",
+        "number": 5,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "All That You Dreamed Of",
+        "number": 12,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Consult the Dead",
+        "number": 22,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Beachside Joyrider",
+        "number": 31,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Grand Entrance",
+        "number": 41,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Hanna of the Weatherlight",
+        "number": 6,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Reprint",
+        "number": 17,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Cuxuri Treachery",
+        "number": 23,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Paint the Future",
+        "number": 34,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Joraga Beastmaster",
+        "number": 42,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Miguel Florens, Headliner",
+        "number": 7,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Selective Amnesia",
+        "number": 19,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "On the Grind",
+        "number": 27,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Reverberation",
+        "number": 35,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Nissa, Visionary Animist",
+        "number": 43,
+        "shape": "planeswalker",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Winged Amulet",
+        "number": 11,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Trendy Spirituality",
+        "number": 21,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Sway of the Dark Church",
+        "number": 29,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Sarkhan's Rebuttal",
+        "number": 36,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Survival of the Strangest",
+        "number": 46,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Fearlessness of Youth",
+        "number": 4,
+        "shape": "normal split",
+        "set": "IVP"
+    },
+    {
+        "card_name": "The Faerie Queen",
+        "number": 13,
+        "shape": "saga",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Tasteless Violence",
+        "number": 30,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Weave Flame Like Tapestry",
+        "number": 39,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Gestate Evil",
+        "number": 40,
+        "shape": "normal split",
+        "set": "IVP"
+    },
+    {
+        "card_name": "RCE Producer",
+        "number": 8,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Fight Monsters with Mind",
+        "number": 14,
+        "shape": "normal split",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Gun Them Down",
+        "number": 24,
+        "shape": "normal split",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Defile Sanctuary",
+        "number": 33,
+        "shape": "normal split",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Oakgrove Agent",
+        "number": 44,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Traffic Jam",
+        "number": 9,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "March of Paranoia",
+        "number": 16,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Long Hours",
+        "number": 25,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Burning Rubber",
+        "number": 32,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Oakgrove Gossip",
+        "number": 45,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Ulanian Tourist",
+        "number": 10,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Soak up the Sun",
+        "number": 20,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Omen of the Harvest God",
+        "number": 26,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Staggering Performance",
+        "number": 37,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Get the Bag",
+        "number": 15,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Smash and Grab",
+        "number": 28,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Take in the Sights",
+        "number": 38,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Routine Inspection",
+        "number": 18,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Kaito, Shadow Assassin",
+        "number": 51,
+        "shape": "planeswalker",
+        "set": "IVP"
+    },
+    {
+        "card_name": "An Accidental Anarchist",
+        "number": 48,
+        "shape": "planeswalker",
+        "set": "IVP"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Abundant Blessings",
+        "number": 47,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Jessica, In Her Element",
+        "number": 50,
+        "shape": "planeswalker",
+        "set": "IVP"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Back to School",
+        "number": 49,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Refracted Reflection",
+        "number": 53,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Qing Long's Teachings",
+        "number": 52,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Tove, Modern Curiosity",
+        "number": 54,
+        "shape": "planeswalker",
+        "set": "IVP"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Azamir, Among the Angels",
+        "number": 1,
+        "shape": "planeswalker",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Mirai, Spring Breaking",
+        "number": 2,
+        "shape": "planeswalker",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Ryan Opal, Method Actor",
+        "number": 3,
+        "shape": "planeswalker",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Automaton Epicure",
+        "number": 55,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Dormant Doomsday Device",
+        "number": 56,
+        "shape": "normal",
+        "set": "IVP"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Favors",
+        "number": 1,
+        "shape": "token",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Souvenir",
+        "number": 6,
+        "shape": "token",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 7,
+        "shape": "token",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Angel",
+        "number": 2,
+        "shape": "token",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Nightmare",
+        "number": 3,
+        "shape": "token",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Smog",
+        "number": 4,
+        "shape": "token",
+        "set": "IVP"
+    },
+    {
+        "card_name": "Human",
+        "number": 5,
+        "shape": "token",
+        "set": "IVP"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

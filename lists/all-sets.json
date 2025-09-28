@@ -26,6 +26,11 @@
             "formats": "Standard"
         },
         {
+            "set_code": "IVP",
+            "set_name": "Invalid Precedent",
+            "formats": ""
+        },
+        {
             "set_code": "LVS",
             "set_name": "Love Song",
             "formats": "Standard"
