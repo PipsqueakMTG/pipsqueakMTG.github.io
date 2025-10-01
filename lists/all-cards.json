@@ -27789,8 +27789,10 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "0",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Get the Bag",
@@ -27809,18 +27811,20 @@
             "loyalty": "",
             "artist": "Tony Maverick",
             "alias": "",
+            "position": "1",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Oakgrove Gossip",
             "color": "G",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 54,
+            "number": 53,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\nNetwork. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]",
+            "rules_text": "Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\nNetwork. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]",
             "flavor_text": "[i]\u201cDid you hear how he got the part?\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -27829,8 +27833,10 @@
             "loyalty": "",
             "artist": "Maria Ivanova",
             "alias": "",
+            "position": "2",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Miguel Florens, Headliner",
@@ -27840,7 +27846,7 @@
             "number": 3,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "At the beginning of combat on your turn, put a +1/+1 counter on target creature. Then if there are three or more permanents you control with counters on them, network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]",
+            "rules_text": "At the beginning of combat on your turn, put a +1/+1 counter on target creature. Then if there are three or more permanents you control with counters on them, network. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -27849,8 +27855,10 @@
             "loyalty": "",
             "artist": "Julia Zhdanova",
             "alias": "",
+            "position": "3",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Sway of the Dark Church",
@@ -27860,7 +27868,7 @@
             "number": 35,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "Each player sacrifices two creatures.\nNetwork, then network again if a creature you control died this turn. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]",
+            "rules_text": "Each player sacrifices two creatures.\nNetwork, then network again if a creature you control died this turn. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]",
             "flavor_text": "[i]Backing for success can come from unlikely sources.[/i]",
             "pt": "",
             "special_text": "",
@@ -27869,8 +27877,10 @@
             "loyalty": "",
             "artist": "Anthony Chong Jones",
             "alias": "",
+            "position": "4",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Long Hours",
@@ -27880,7 +27890,7 @@
             "number": 29,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "You draw two cards and you lose 2 life.\nNetwork. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]",
+            "rules_text": "You draw two cards and you lose 2 life.\nNetwork. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -27889,8 +27899,10 @@
             "loyalty": "",
             "artist": "Dom Lay",
             "alias": "",
+            "position": "5",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Treasure",
@@ -27909,8 +27921,10 @@
             "loyalty": "",
             "artist": "Joe Gloria",
             "alias": "",
+            "position": "6",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Smog",
@@ -27929,8 +27943,10 @@
             "loyalty": "",
             "artist": "Matus Garaj",
             "alias": "",
+            "position": "7",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Angel",
@@ -27949,8 +27965,10 @@
             "loyalty": "",
             "artist": "zandraart",
             "alias": "",
+            "position": "8",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Human",
@@ -27969,8 +27987,10 @@
             "loyalty": "",
             "artist": "Sylvain Sarrailh",
             "alias": "",
+            "position": "9",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Nightmare",
@@ -27989,8 +28009,10 @@
             "loyalty": "",
             "artist": "Oleg Kapustin",
             "alias": "",
+            "position": "10",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Souvenir",
@@ -28009,8 +28031,10 @@
             "loyalty": "",
             "artist": "Ram\u00f3n Nu\u00f1ez",
             "alias": "",
+            "position": "11",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "The Carmichael Awards",
@@ -28020,7 +28044,7 @@
             "number": 26,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "Whenever you lose life for the first time each turn, network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]\nWhen you call in a favor, if you've called in five favors this game, you win the game.",
+            "rules_text": "Whenever you lose life for the first time each turn, network. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]\nWhen you call in a favor, if you've called in five favors this game, you win the game.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -28029,15 +28053,17 @@
             "loyalty": "",
             "artist": "Hamish Fraser",
             "alias": "",
+            "position": "12",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Armund, Wayward Killer",
             "color": "WBR",
             "rarity": "rare",
             "type": "Legendary Planeswalker \u2013 Armund",
-            "number": 57,
+            "number": 56,
             "color_identity": "WBR",
             "cost": "{1}{R}{W}{B}",
             "rules_text": "Whenever a permanent an opponent controls dies, put a loyalty counter on Armund, Wayward Killer.\n[+1]: Each opponent loses 3 life unless they sacrifice a nonland permanent or discard a card.\n[-2]: Destroy target tapped creature.\n[-9]: Armund deals 9 damage divided as you choose among any number of targets.",
@@ -28049,8 +28075,10 @@
             "loyalty": "3",
             "artist": "Dom Lay",
             "alias": "",
+            "position": "13",
             "notes": "Armund",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Azamir, Among the Angels",
@@ -28069,8 +28097,10 @@
             "loyalty": "7",
             "artist": "Peter Mohrbacher",
             "alias": "",
+            "position": "14",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Isamu, Hapless Researcher",
@@ -28089,8 +28119,10 @@
             "loyalty": "3",
             "artist": "Beresclet ART",
             "alias": "",
+            "position": "15",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Liactru, Big Damn Hero",
@@ -28109,11 +28141,13 @@
             "loyalty": "5",
             "artist": "M Wayne Miller",
             "alias": "",
+            "position": "16",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
-            "card_name": "Mei, Expert Negotiator",
+            "card_name": "Mei, Soul of Discretion",
             "color": "UB",
             "rarity": "rare",
             "type": "Legendary Planeswalker \u2013 Mei",
@@ -28129,8 +28163,10 @@
             "loyalty": "4",
             "artist": "Ui_uiiiiiiiii",
             "alias": "",
+            "position": "17",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Mirai, Spring Breaking",
@@ -28149,8 +28185,10 @@
             "loyalty": "5",
             "artist": "Miqdad Habibullah",
             "alias": "",
+            "position": "18",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Nora, Actress in Waiting",
@@ -28169,15 +28207,17 @@
             "loyalty": "2",
             "artist": "Guweiz",
             "alias": "",
+            "position": "19",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "An Accidental Anarchist",
             "color": "BR",
             "rarity": "rare",
             "type": "Legendary Planeswalker \u2013 Okus",
-            "number": 55,
+            "number": 54,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
             "rules_text": "[0]: Each player creates a black enchantment token named Smog with \u201cAt the beginning of your upkeep, you lose 1 life.\u201d\n[-2]: Gain control of target creature until end of turn. Untap it. It gains haste until end of turn.\n[-3]: Return target creature card with mana value 3 or less from a graveyard to the battlefield under your control.",
@@ -28189,15 +28229,17 @@
             "loyalty": "5",
             "artist": "River Rown",
             "alias": "",
+            "position": "20",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Ryan Opal Is...Calamity Smith",
             "color": "R",
             "rarity": "rare",
             "type": "Legendary Planeswalker \u2013 Opal",
-            "number": 42,
+            "number": 41,
             "color_identity": "R",
             "cost": "{4}{R}",
             "rules_text": "Whenever you activate one of Ryan Opal's abilities, you may discard a land card. If you do, copy that ability. You may choose new targets for the copy.\n[+2]: Create a Treasure token.\n[+1]: Exile the top card of your library. You may play it until the end of your next turn.\n[-2]: Ryan Opal deals 3 damage to any target.",
@@ -28209,8 +28251,10 @@
             "loyalty": "4",
             "artist": "Annis Naeem",
             "alias": "",
+            "position": "21",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Penelope, Spirit Caller",
@@ -28220,17 +28264,19 @@
             "number": 66,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
-            "rules_text": "Escape\u2013-{3}{U}{B}, Exile five other cards from your graveyard [i](You may cast this card from your graveyard for its escape cost.)[/i]\n[+1]: Surveil 1. \n[-2]: Return up to one target creature card and up to one target sorcery card with total mana value 5 or less from your graveyard to your hand.\n[-3]: Create two 1/1 white Spirit creature tokens with flying.",
+            "rules_text": "[+1]: Surveil 1. \n[-2]: Return up to one target creature card and up to one target sorcery card with total mana value 5 or less from your graveyard to your hand.\n[-3]: Create two 1/1 white Spirit creature tokens with flying.\nEscape\u2013{3}{U}{B}, Exile five other cards from your graveyard [i](You may cast this card from your graveyard for its escape cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Escape\u2013-{3}{U}{B}, Exile five other cards from your graveyard [i](You may cast this card from your graveyard for its escape cost.)[/i]\n[+1]: Surveil 1. \n[-2]: Return up to one target creature card and up to one target sorcery card with total mana value 5 or less from your graveyard to your hand.\n[-3]: Create two 1/1 white Spirit creature tokens with flying.",
+            "special_text": "[+1]: Surveil 1. \n[-2]: Return up to one target creature card and up to one target sorcery card with total mana value 5 or less from your graveyard to your hand.\n[-3]: Create two 1/1 white Spirit creature tokens with flying.\nEscape\u2013{3}{U}{B}, Exile five other cards from your graveyard [i](You may cast this card from your graveyard for its escape cost.)[/i]",
             "shape": "planeswalker",
             "set": "IVP",
             "loyalty": "4",
             "artist": "NK STUDIO",
             "alias": "",
+            "position": "22",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Rohith, Lost Rakshasa",
@@ -28240,17 +28286,19 @@
             "number": 67,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
-            "rules_text": "Whenever a creature you control deals combat damage to an opponent, put a loyalty counter on Rohith, Lost Rakshasa.\n[0]: Rohith becomes a 4/4 Cat creature with trample and hexproof until end of turn. [i](He doesn't lose loyalty as a creature)[/i]\n[-2]: Put a +1/+1 counter on up to three target creatures.\n[-7]: Rohith deals 4 damage to any two targets.",
+            "rules_text": "Whenever a creature you control deals combat damage to an opponent, put a loyalty counter on Rohith, Lost Rakshasa.\n[0]: Rohith becomes a 4/4 Cat creature with trample and hexproof until end of turn. [i](He doesn't lose loyalty as a creature)[/i]\n[-2]: Put a +1/+1 counter on up to three target creatures.\n[-7]: Rohith deals 4 damage to up to two targets.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Whenever a creature you control deals combat damage to an opponent, put a loyalty counter on Rohith, Lost Rakshasa.\n[0]: Rohith becomes a 4/4 Cat creature with trample and hexproof until end of turn. [i](He doesn't lose loyalty as a creature)[/i]\n[-2]: Put a +1/+1 counter on up to three target creatures.\n[-7]: Rohith deals 4 damage to any two targets.",
+            "special_text": "Whenever a creature you control deals combat damage to an opponent, put a loyalty counter on Rohith, Lost Rakshasa.\n[0]: Rohith becomes a 4/4 Cat creature with trample and hexproof until end of turn. [i](He doesn't lose loyalty as a creature)[/i]\n[-2]: Put a +1/+1 counter on up to three target creatures.\n[-7]: Rohith deals 4 damage to up to two targets.",
             "shape": "planeswalker",
             "set": "IVP",
             "loyalty": "3",
             "artist": "Julia Zhdanova",
             "alias": "",
+            "position": "23",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Roxy Robare, Nonstop",
@@ -28269,8 +28317,10 @@
             "loyalty": "4",
             "artist": "Bangbez 239",
             "alias": "",
+            "position": "24",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Salo, Lax Missionary",
@@ -28280,17 +28330,19 @@
             "number": 69,
             "color_identity": "WU",
             "cost": "{3}{W}{U}",
-            "rules_text": "[+1]: Reveal the top card of your library. You gain life equal to its mana cost, then put it into your hand.\n[-3]: Gain control of target creature as long as you control Salo. Put a defender counter on it.\n[-9]: You get an emblem with \u201cWhenever a card is put into your hand from anywhere, create a 3/3 white Angel creature token with flying.\u201d",
+            "rules_text": "[+1]: Reveal the top card of your library. You gain life equal to its mana value, then put it into your hand.\n[-3]: Gain control of target creature as long as you control Salo. Put a defender counter on it.\n[-9]: You get an emblem with \u201cWhenever a card is put into your hand from anywhere, create a 3/3 white Angel creature token with flying.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[+1]: Reveal the top card of your library. You gain life equal to its mana cost, then put it into your hand.\n[-3]: Gain control of target creature as long as you control Salo. Put a defender counter on it.\n[-9]: You get an emblem with \u201cWhenever a card is put into your hand from anywhere, create a 3/3 white Angel creature token with flying.\u201d",
+            "special_text": "[+1]: Reveal the top card of your library. You gain life equal to its mana value, then put it into your hand.\n[-3]: Gain control of target creature as long as you control Salo. Put a defender counter on it.\n[-9]: You get an emblem with \u201cWhenever a card is put into your hand from anywhere, create a 3/3 white Angel creature token with flying.\u201d",
             "shape": "planeswalker",
             "set": "IVP",
             "loyalty": "5",
             "artist": "Yvette Chua",
             "alias": "",
+            "position": "25",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Sihari, Location Consultant",
@@ -28309,8 +28361,10 @@
             "loyalty": "4",
             "artist": "Claudiu-Antoniu Magherusan",
             "alias": "",
+            "position": "26",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Sindy, On Overdue Vacation",
@@ -28329,8 +28383,10 @@
             "loyalty": "2",
             "artist": "TiNy Truc",
             "alias": "",
+            "position": "27",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Sonya, Technical Tourist",
@@ -28349,15 +28405,17 @@
             "loyalty": "2",
             "artist": "\u30a6\u30a7\u30eb\u30c8",
             "alias": "",
+            "position": "28",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Sylvia, Rabble Rouser",
             "color": "R",
             "rarity": "rare",
             "type": "Legendary Planeswalker \u2013 Sylvia",
-            "number": 46,
+            "number": 45,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
             "rules_text": "[+2]: Exile the top card of your library. You may cast it until end of turn. If it's a creature or planeswalker card, Sylvia deals 2 damage to each opponent.\n[-1]: Sylvia becomes a 2/2 Cat Warrior creature with indestructible, double strike, and haste until end of turn.\n[-3]: Destroy target artifact or nonbasic land.",
@@ -28369,8 +28427,10 @@
             "loyalty": "3",
             "artist": "AT-Kitsune",
             "alias": "",
+            "position": "29",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Tove, Modern Curiosity",
@@ -28389,8 +28449,10 @@
             "loyalty": "3",
             "artist": "Dao Trong LePro",
             "alias": "",
+            "position": "30",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Jessica, In Her Element",
@@ -28409,8 +28471,10 @@
             "loyalty": "3",
             "artist": "Hammling",
             "alias": "",
+            "position": "31",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Vande, Ruthless Critic",
@@ -28429,8 +28493,10 @@
             "loyalty": "4",
             "artist": "AdamScythe",
             "alias": "",
+            "position": "32",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Xanigan, Power Broker",
@@ -28449,8 +28515,10 @@
             "loyalty": "3",
             "artist": "Skaavart",
             "alias": "",
+            "position": "33",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Zoraya, Beat Dropper",
@@ -28469,15 +28537,17 @@
             "loyalty": "4",
             "artist": "Jessica Oyhenart",
             "alias": "",
+            "position": "34",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Camping Trip",
             "color": "G",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 49,
+            "number": 48,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Search your library for a Desert card and a basic land card and reveal them. Put up to one of them onto the battlefield, and the rest into your hand, then shuffle.",
@@ -28489,8 +28559,10 @@
             "loyalty": "",
             "artist": "Jason Scheier",
             "alias": "",
+            "position": "35",
             "notes": "Desert Matters",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "High Budget Parody",
@@ -28509,8 +28581,10 @@
             "loyalty": "",
             "artist": "Jordan Kerbow",
             "alias": "",
+            "position": "36",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Showing Up Stylish",
@@ -28529,8 +28603,10 @@
             "loyalty": "",
             "artist": "Frank Hong",
             "alias": "",
+            "position": "37",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Viral Marketing",
@@ -28549,8 +28625,10 @@
             "loyalty": "",
             "artist": "John Mattson",
             "alias": "",
+            "position": "38",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Soak up the Sun",
@@ -28569,8 +28647,10 @@
             "loyalty": "",
             "artist": "Shenpei Wu",
             "alias": "",
+            "position": "39",
             "notes": "Hair needs recoloring\nLiactru flavor text",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Skincare Routine",
@@ -28580,7 +28660,7 @@
             "number": 11,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "You gain 4 life, then network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]",
+            "rules_text": "You gain 4 life, then network. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -28589,8 +28669,10 @@
             "loyalty": "",
             "artist": "KeZhen Chen",
             "alias": "",
+            "position": "40",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Radiant Beauty",
@@ -28609,8 +28691,10 @@
             "loyalty": "",
             "artist": "Bad Moon Art Studio",
             "alias": "",
+            "position": "41",
             "notes": "Imani",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "The Faerie Queen",
@@ -28620,17 +28704,19 @@
             "number": 16,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2013 Exile target non-Saga permanent you control, then return it to the battlefield under your control.\nIII \u2013 Network, then network again. [i](To network, you get {V}. You can call in a favor as a sorcery for five {V}.)[/i]\n\u200b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2013 Exile target non-Saga permanent you control, then return it to the battlefield under your control.\nIII \u2013 Network, then network again. [i](To network, you get {star.png}. You can call in a favor as a sorcery for five {star.png}.)[/i]\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2013 Exile target non-Saga permanent you control, then return it to the battlefield under your control.\nIII \u2013 Network, then network again. [i](To network, you get {V}. You can call in a favor as a sorcery for five {V}.)[/i]\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2013 Exile target non-Saga permanent you control, then return it to the battlefield under your control.\nIII \u2013 Network, then network again. [i](To network, you get {star.png}. You can call in a favor as a sorcery for five {star.png}.)[/i]\n\u200b",
             "shape": "saga",
             "set": "IVP",
             "loyalty": "",
             "artist": "Kardie Art\u2665",
             "alias": "",
+            "position": "42",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Dusk Beckons",
@@ -28649,15 +28735,17 @@
             "loyalty": "",
             "artist": "Bella liu",
             "alias": "",
+            "position": "43",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "A Day in the Park",
             "color": "G",
             "rarity": "common",
             "type": "Enchantment \u2013 Aura",
-            "number": 50,
+            "number": 49,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Enchant basic land\nWhenever enchanted land is tapped for mana, add one mana of any color it didn't produce.",
@@ -28669,8 +28757,10 @@
             "loyalty": "",
             "artist": "James Wu",
             "alias": "",
+            "position": "44",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Ivory Tower Industry",
@@ -28680,7 +28770,7 @@
             "number": 61,
             "color_identity": "WB",
             "cost": "{3}{W}{B}",
-            "rules_text": "Whenever a creature dies, network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]\nAt the beginning of your upkeep, if you have 5 or more {V}, each opponent loses 3 life and you gain 3 life.",
+            "rules_text": "Whenever a creature dies, network. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]\nAt the beginning of your upkeep, if you have 5 or more {star.png} or have called in a favor this game, each opponent loses 3 life and you gain 3 life.",
             "flavor_text": "[i]\u201cYou'll never work in this town again.\u201d\n\u2014Lyanna Carmichael[/i]",
             "pt": "",
             "special_text": "",
@@ -28689,8 +28779,10 @@
             "loyalty": "",
             "artist": "mike heath",
             "alias": "",
+            "position": "45",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Traffic Jam",
@@ -28700,7 +28792,7 @@
             "number": 14,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "When Traffic Jam enters the battlefield, exile target creature or planeswalker until Traffic Jam leaves the battlefield, then network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]\nAs long as you have 3 or more {V}, Traffic Jam has hexproof.",
+            "rules_text": "When Traffic Jam enters the battlefield, exile target creature or planeswalker until Traffic Jam leaves the battlefield, then network. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]\nAs long as you've called in a favor this game, Traffic Jam has hexproof.",
             "flavor_text": "[i]Traffic is the greatest argument for private jets.[/i]",
             "pt": "",
             "special_text": "",
@@ -28709,8 +28801,10 @@
             "loyalty": "",
             "artist": "Thomas Dubois",
             "alias": "",
+            "position": "46",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Ulnian Insights",
@@ -28729,8 +28823,10 @@
             "loyalty": "",
             "artist": "Anna Marukhnich",
             "alias": "",
+            "position": "47",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Opening Night",
@@ -28739,8 +28835,8 @@
             "type": "Enchantment",
             "number": 6,
             "color_identity": "W",
-            "cost": "{3}{W}",
-            "rules_text": "Whenever Opening Night enters the battlefield or you cast a Saga, network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]\nAt the beginning of your upkeep, if you have two or more {V}, you gain 2 life.",
+            "cost": "{2}{W}",
+            "rules_text": "Whenever Opening Night enters the battlefield or you cast a Saga, network. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]\nWhenever you call in a favor, return up to one target enchantment card from your graveyard to your hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -28749,8 +28845,10 @@
             "loyalty": "",
             "artist": "Shane Rhodes",
             "alias": "",
+            "position": "48",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "On the Grind",
@@ -28769,8 +28867,10 @@
             "loyalty": "",
             "artist": "Misuo WU",
             "alias": "",
+            "position": "49",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Trendy Spirituality",
@@ -28781,7 +28881,7 @@
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "At the beginning of your upkeep, you may draw a card and put an emptiness counter on Trendy Spirituality.\nYour maximum hand size is reduced by 1 for each emptiness counter on Trendy Spirituality.",
-            "flavor_text": "[i]back when I was a kid they cost much less[/i]",
+            "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -28789,15 +28889,17 @@
             "loyalty": "",
             "artist": "Pauline Vo\u00df",
             "alias": "",
+            "position": "50",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Location Scout",
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2013 Human Scout",
-            "number": 52,
+            "number": 51,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "Location Scout gets +1/+1 for each Desert you control and Desert card in your graveyard.\nWhenever Location Scout enters the battlefield or attacks, you may sacrifice a land. If you do, search your library for a land card, put it onto the battlefield tapped, then shuffle.",
@@ -28809,8 +28911,10 @@
             "loyalty": "",
             "artist": "Dao Trong Le",
             "alias": "",
+            "position": "51",
             "notes": "Desert Matters",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Graffiti Guide",
@@ -28829,8 +28933,10 @@
             "loyalty": "",
             "artist": "Asbj\u00f8rn Hessellund",
             "alias": "",
+            "position": "52",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Garden Fountain",
@@ -28849,8 +28955,10 @@
             "loyalty": "",
             "artist": "Max Hay",
             "alias": "",
+            "position": "53",
             "notes": "!tag Motley Oak Vista\n!tag Endless Ambition Combo\n!tag Impossibility Control",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Oakgrove Superstar",
@@ -28869,18 +28977,20 @@
             "loyalty": "",
             "artist": "Ya\u015far VURDEM",
             "alias": "",
+            "position": "54",
             "notes": "!tag Motley Oak Vista\n!tag Superstar Midrange",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
-            "card_name": "Life of the Party",
+            "card_name": "Party Queen",
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Noble",
             "number": 40,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
-            "rules_text": "Haste\nWhen Life of the Party enters, create two Souvenir tokens. [i](It's an artifact with \u201cWhen a creature deals damage to an opponent, you may sacrifice this to put a +1/+1 counter on it.\u201d)[/i]\nWhenever Life of the Party attacks, you may sacrifice a permanent. If you do, exile the top card of your library. You may play it until end of turn.",
+            "rules_text": "Haste\nWhen Party Queen enters, create two Souvenir tokens. [i](It's an artifact with \u201cWhen a creature deals damage to an opponent, you may sacrifice this to put a +1/+1 counter on it.\u201d)[/i]\nWhenever Party Queen attacks, you may sacrifice a permanent. If you do, exile the top card of your library. You may play it until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -28889,15 +28999,17 @@
             "loyalty": "",
             "artist": "Kevin Sidharta",
             "alias": "",
+            "position": "55",
             "notes": "!tag Motley Oak Vista\n!tag Superstar Midrange",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Scarlet District Punk",
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Rebel",
-            "number": 43,
+            "number": 42,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Haste\nPlayers can't gain life.\nWhenever you attack with three or more creatures, creatures you control get +1/+0 until end of turn.",
@@ -28909,15 +29021,17 @@
             "loyalty": "",
             "artist": "Dannilo Costa",
             "alias": "",
+            "position": "56",
             "notes": "!tag Motley Oak Vista\n!tag Wizard Burn",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Apex Films Dealbroker",
             "color": "UB",
             "rarity": "rare",
             "type": "Creature \u2013 Vampire Advisor",
-            "number": 56,
+            "number": 55,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
             "rules_text": "This spell can't be countered.\nWhen Apex Films Dealbroker enters, target opponent reveals their hand. Exile a nonland card revealed this way until Apex Films Dealbroker leaves the battlefield.\nWhen Apex Films Dealbroker dies, target opponent discards a card. [i](After returning the exiled card.)[/i]",
@@ -28929,8 +29043,10 @@
             "loyalty": "",
             "artist": "Jessica Oyhenart",
             "alias": "",
+            "position": "57",
             "notes": "!tag Motley Oak Vista\n!tag Endless Ambition Combo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Bum a Light",
@@ -28949,15 +29065,17 @@
             "loyalty": "",
             "artist": "Rashed AlAkroka",
             "alias": "",
+            "position": "58",
             "notes": "!tag Motley Oak Vista\n!tag Wizard Burn",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Living the Yaneta Lifestyle",
             "color": "R",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 41,
+            "number": 39,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Exile the top two cards of your library. Until the end of your next turn, you may play one of those cards.\nCreate a Souvenir token. [i](It's an artifact with \u201cWhen a creature deals damage to an opponent, you may sacrifice this to put a +1/+1 counter on it.\u201d)[/i]",
@@ -28969,15 +29087,17 @@
             "loyalty": "",
             "artist": "Artem Chebokha",
             "alias": "",
+            "position": "59",
             "notes": "!tag Motley Oak Vista\n!tag Wizard Burn",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Shoreline Joyrider",
             "color": "R",
             "rarity": "rare",
             "type": "Creature \u2013 Human Pilot",
-            "number": 44,
+            "number": 43,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Artifact creatures you control get +1/+0.\nWhenever a Vehicle crewed by Shoreline Joyrider this turn attacks, you may cast a copy of that Vehicle. [i](You still pay costs. It resolves as a token if it's a permanent.)[/i]",
@@ -28989,15 +29109,17 @@
             "loyalty": "",
             "artist": "Billfy Devdariani",
             "alias": "",
+            "position": "60",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Fusion Maestro",
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2013 Human Citizen",
-            "number": 51,
+            "number": 50,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "At the beginning of each end step, if one or more counters were put on you or a creature you control this turn, draw a card.",
@@ -29009,8 +29131,10 @@
             "loyalty": "",
             "artist": "Nitin Venkatesan",
             "alias": "",
+            "position": "61",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Millenia Studios Secretary",
@@ -29020,7 +29144,7 @@
             "number": 4,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "When Millenia Studios Secretary enters the battlefield or dies, create a 1/1 Actor creature token that's all colors and network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]",
+            "rules_text": "When Millenia Studios Secretary enters the battlefield or dies, create a 1/1 Actor creature token that's all colors and network. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -29029,18 +29153,20 @@
             "loyalty": "",
             "artist": "Faye Skeen",
             "alias": "",
+            "position": "62",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Oakgrove Agent",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2013 Human Advisor",
-            "number": 53,
+            "number": 52,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "When Oakgrove Agent enters the battlefield, network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]",
+            "rules_text": "When Oakgrove Agent enters the battlefield, network. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]",
             "flavor_text": "[i]Anyone who's anyone knows her.[/i]",
             "pt": "2/1",
             "special_text": "",
@@ -29049,8 +29175,10 @@
             "loyalty": "",
             "artist": "Matej Urukalo",
             "alias": "",
+            "position": "63",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "RCE Producer",
@@ -29060,7 +29188,7 @@
             "number": 8,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Once each turn, whenever you create a token, network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]",
+            "rules_text": "Once each turn, whenever you create a token, network. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]",
             "flavor_text": "[i]\u201cFirst, let's talk merchandise.\u201d[/i]",
             "pt": "3/2",
             "special_text": "",
@@ -29069,8 +29197,10 @@
             "loyalty": "",
             "artist": "Ryeomi",
             "alias": "",
+            "position": "64",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Northside Ghost",
@@ -29089,8 +29219,10 @@
             "loyalty": "",
             "artist": "Maula Ihdalfarhi",
             "alias": "",
+            "position": "65",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Holographic Celebrity",
@@ -29100,7 +29232,7 @@
             "number": 20,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "When Holographic Celebrity enters the battlefield, network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]",
+            "rules_text": "When Holographic Celebrity enters the battlefield, network. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]",
             "flavor_text": "[i]The face of fame outlives the famous.[/i]",
             "pt": "1/3",
             "special_text": "",
@@ -29109,8 +29241,10 @@
             "loyalty": "",
             "artist": "Koyorin",
             "alias": "",
+            "position": "66",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Oakgrove Scion",
@@ -29120,7 +29254,7 @@
             "number": 31,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Flying\nOakgrove Scion can't block.\nWhenever Oakgrove Scion attacks, network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]",
+            "rules_text": "Flying\nOakgrove Scion can't block.\nWhenever Oakgrove Scion attacks, network. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]",
             "flavor_text": "[i]\u201cIt's not about who you know, it's about who you are.\u201d[/i]",
             "pt": "2/1",
             "special_text": "",
@@ -29129,8 +29263,10 @@
             "loyalty": "",
             "artist": "clayscence art",
             "alias": "",
+            "position": "67",
             "notes": "Maybe spend this art on a cooler card",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Oni Punk",
@@ -29149,18 +29285,20 @@
             "loyalty": "",
             "artist": "Koyorin",
             "alias": "",
+            "position": "68",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Talented Tagger",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2013 Human Artist",
-            "number": 48,
+            "number": 47,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Sabotage \u2013 Whenever an opponent or a permanent an opponent controls becomes the target of a spell you control, Talented Tagger deals 1 damage to that opponent.",
+            "rules_text": "[i]Sabotage[/i] \u2013 Whenever an opponent or a permanent an opponent controls becomes the target of a spell you control, Talented Tagger deals 1 damage to that opponent.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -29169,8 +29307,10 @@
             "loyalty": "",
             "artist": "Kaloyan Stoyanov",
             "alias": "",
+            "position": "69",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Ulnian Tourist",
@@ -29180,7 +29320,7 @@
             "number": 15,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "When Ulnian Tourist enters the battlefield, network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]\n{T}: Target creature gets +1/+1 and gains first strike until end of turn. Activate only as a sorcery and if you have 3 or more {V}.",
+            "rules_text": "When Ulnian Tourist enters the battlefield, network. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]\n{T}: Target creature gets +1/+1 and gains first strike until end of turn. Activate only as a sorcery and if you have 3 or more {star.png} or have called in a favor this game.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -29189,8 +29329,10 @@
             "loyalty": "",
             "artist": "Dannilo Costa",
             "alias": "",
+            "position": "70",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Take a Trip",
@@ -29209,8 +29351,10 @@
             "loyalty": "",
             "artist": "Mox",
             "alias": "",
+            "position": "71",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Luxurious Estate",
@@ -29229,8 +29373,10 @@
             "loyalty": "",
             "artist": "Adam Varga",
             "alias": "",
+            "position": "72",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Brutal Cradle",
@@ -29249,8 +29395,10 @@
             "loyalty": "",
             "artist": "Noah S",
             "alias": "",
+            "position": "73",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Joshua Tree Pass",
@@ -29260,7 +29408,7 @@
             "number": 78,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}: Add {C}.\n{2}, {T}: Add X mana of any one color, where X is the number of Deserts you control.",
+            "rules_text": "{T}: Add {C}.\n{3}, {T}: Add X mana of any one color, where X is the number of Deserts you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -29269,8 +29417,10 @@
             "loyalty": "",
             "artist": "Simon Vernus",
             "alias": "",
+            "position": "74",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Remote Lookout",
@@ -29280,7 +29430,7 @@
             "number": 80,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}: Add {C}.\n{3}, {T}: Surveil 1. This ability costs {2} less to activate if you control another Desert. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]",
+            "rules_text": "{T}: Add {C}.\n{3}, {T}: Surveil 1. This ability costs {1} less to activate for each other Desert you control. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -29289,8 +29439,10 @@
             "loyalty": "",
             "artist": "Aleksey",
             "alias": "",
+            "position": "75",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Sandswept Vista",
@@ -29309,8 +29461,10 @@
             "loyalty": "",
             "artist": "Sylvain Sarrailh",
             "alias": "",
+            "position": "76",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Solkern Lookout",
@@ -29320,7 +29474,7 @@
             "number": 83,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}: Add {C}.\n{3}, {T}: Create a Treasure token. This ability costs {2} less to activate if you control another Desert.",
+            "rules_text": "{T}: Add {C}.\n{3}, {T}: Create a Treasure token. This ability costs {1} less for each other Desert you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -29329,8 +29483,10 @@
             "loyalty": "",
             "artist": "Magdalina Dianova",
             "alias": "",
+            "position": "77",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Solkern Wastes",
@@ -29349,8 +29505,10 @@
             "loyalty": "",
             "artist": "Tatyana Piseeva",
             "alias": "",
+            "position": "78",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Solkern Highway",
@@ -29369,8 +29527,10 @@
             "loyalty": "",
             "artist": "Thomas L\u00e9pine",
             "alias": "",
+            "position": "79",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Suntouched Bluffs",
@@ -29389,8 +29549,10 @@
             "loyalty": "",
             "artist": "Jean Guillet",
             "alias": "",
+            "position": "80",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Routine Inspection",
@@ -29409,8 +29571,10 @@
             "loyalty": "",
             "artist": "Arno Male",
             "alias": "",
+            "position": "81",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Burning Rubber",
@@ -29429,15 +29593,17 @@
             "loyalty": "",
             "artist": "Kenji Lambert",
             "alias": "",
+            "position": "82",
             "notes": "Consider making a shock or sorcery",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Take in the Sights",
             "color": "R",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 47,
+            "number": 46,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Discard a card, then draw two cards.\nIgnition {3}{R}{R} [i]({3}{R}{R}: Return this from the graveyard to the battlefield as a Vehicle artifact with crew 3. Exile it if it would leave the battlefield. Activate only as a sorcery.)[/i]\nMenace",
@@ -29449,8 +29615,10 @@
             "loyalty": "",
             "artist": "Nadaskii",
             "alias": "",
+            "position": "83",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Reckless Vacationing",
@@ -29469,8 +29637,10 @@
             "loyalty": "",
             "artist": "Andrej Troha",
             "alias": "",
+            "position": "84",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Stay Steady",
@@ -29489,15 +29659,17 @@
             "loyalty": "",
             "artist": "Pally Zhang",
             "alias": "",
+            "position": "85",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Sunset Chaser",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2013 Human Pilot",
-            "number": 45,
+            "number": 44,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "When Sunset Chaser enters, you may discard a card. If you do, draw a card.",
@@ -29509,8 +29681,10 @@
             "loyalty": "",
             "artist": "Pablo Olivera",
             "alias": "",
+            "position": "86",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Actor",
@@ -29529,15 +29703,17 @@
             "loyalty": "",
             "artist": "Adam Lane",
             "alias": "",
+            "position": "87",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Calling Back Home",
             "color": "UG",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 58,
+            "number": 57,
             "color_identity": "UG",
             "cost": "{G}{U}",
             "rules_text": "Whenever one or more counters are put on you or a permanent you control, note it and one of its types. If you haven't noted it or that type yet this turn, create a 1/1 Actor creature token that's all colors.",
@@ -29549,8 +29725,10 @@
             "loyalty": "",
             "artist": "Kendrick See",
             "alias": "",
+            "position": "88",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Right and Royalty",
@@ -29569,28 +29747,32 @@
             "loyalty": "",
             "artist": "Gal Or",
             "alias": "",
+            "position": "89",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Enter the Endgame",
-            "color": "R",
+            "color": "BG",
             "rarity": "rare",
             "type": "Enchantment \u2013 Saga",
-            "number": 39,
-            "color_identity": "R",
-            "cost": "{6}{R}{R}",
-            "rules_text": "[i]The thrilling conclusion to a ten year saga.[/i]\nI \u2013 Exile the top twenty cards of your library. You may play cards exiled this way as long as they remain exiled.\nII \u2013 Create X Treasure tokens, where X is three times the number of lands you control.\nIII \u2013 Your life total becomes 1.",
+            "number": 58,
+            "color_identity": "BG",
+            "cost": "{4}{B}{G}",
+            "rules_text": "[i]The thrilling conclusion to a ten year saga.[/i]\nI \u2013 Create three 2/2 black Nightmare creature tokens.\nII \u2013 Creatures you control get +1/+0 and gain trample until end of turn.\nIII \u2013 Each opponent loses 4 life and you gain 4 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i]The thrilling conclusion to a ten year saga.[/i]\nI \u2013 Exile the top twenty cards of your library. You may play cards exiled this way as long as they remain exiled.\nII \u2013 Create X Treasure tokens, where X is three times the number of lands you control.\nIII \u2013 Your life total becomes 1.",
+            "special_text": "[i]The thrilling conclusion to a ten year saga.[/i]\nI \u2013 Create three 2/2 black Nightmare creature tokens.\nII \u2013 Creatures you control get +1/+0 and gain trample until end of turn.\nIII \u2013 Each opponent loses 4 life and you gain 4 life.",
             "shape": "saga",
             "set": "IVP",
             "loyalty": "",
             "artist": "Dmitry Vishnevsky",
             "alias": "",
+            "position": "90",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "The Girl Who Wouldn't Die",
@@ -29609,8 +29791,10 @@
             "loyalty": "",
             "artist": "(Yuumei) Wenqing Yan",
             "alias": "",
+            "position": "91",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "Pilfered Process",
@@ -29629,8 +29813,10 @@
             "loyalty": "",
             "artist": "Grafit Studio",
             "alias": "",
+            "position": "92",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "star.png"
         },
         {
             "card_name": "A Planet Far, Far Away",

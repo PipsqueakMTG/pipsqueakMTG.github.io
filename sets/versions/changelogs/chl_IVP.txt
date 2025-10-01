@@ -1,4 +1,309 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Mei, Soul of Discretion added.
+Party Queen added.
+
+Mei, Expert Negotiator removed.
+Life of the Party removed.
+
+Favors
+
+Get the Bag
+
+Oakgrove Gossip
+rules_text: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i] => Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Network. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]
+
+Miguel Florens, Headliner
+rules_text: At the beginning of combat on your turn, put a +1/+1 counter on target creature. Then if there are three or more permanents you control with counters on them, network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i] => At the beginning of combat on your turn, put a +1/+1 counter on target creature. Then if there are three or more permanents you control with counters on them, network. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]
+
+Sway of the Dark Church
+rules_text: Each player sacrifices two creatures.
+Network, then network again if a creature you control died this turn. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i] => Each player sacrifices two creatures.
+Network, then network again if a creature you control died this turn. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]
+
+Long Hours
+rules_text: You draw two cards and you lose 2 life.
+Network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i] => You draw two cards and you lose 2 life.
+Network. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]
+
+Treasure
+
+Smog
+
+Angel
+
+Human
+
+Nightmare
+
+Souvenir
+
+The Carmichael Awards
+rules_text: Whenever you lose life for the first time each turn, network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]
+When you call in a favor, if you've called in five favors this game, you win the game. => Whenever you lose life for the first time each turn, network. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]
+When you call in a favor, if you've called in five favors this game, you win the game.
+
+Armund, Wayward Killer
+
+Azamir, Among the Angels
+
+Isamu, Hapless Researcher
+
+Liactru, Big Damn Hero
+
+Mirai, Spring Breaking
+
+Nora, Actress in Waiting
+
+An Accidental Anarchist
+
+Ryan Opal Is...Calamity Smith
+
+Penelope, Spirit Caller
+rules_text: Escape—-{3}{U}{B}, Exile five other cards from your graveyard [i](You may cast this card from your graveyard for its escape cost.)[/i]
+[+1]: Surveil 1. 
+[-2]: Return up to one target creature card and up to one target sorcery card with total mana value 5 or less from your graveyard to your hand.
+[-3]: Create two 1/1 white Spirit creature tokens with flying. => [+1]: Surveil 1. 
+[-2]: Return up to one target creature card and up to one target sorcery card with total mana value 5 or less from your graveyard to your hand.
+[-3]: Create two 1/1 white Spirit creature tokens with flying.
+Escape—{3}{U}{B}, Exile five other cards from your graveyard [i](You may cast this card from your graveyard for its escape cost.)[/i]
+special_text: Escape—-{3}{U}{B}, Exile five other cards from your graveyard [i](You may cast this card from your graveyard for its escape cost.)[/i]
+[+1]: Surveil 1. 
+[-2]: Return up to one target creature card and up to one target sorcery card with total mana value 5 or less from your graveyard to your hand.
+[-3]: Create two 1/1 white Spirit creature tokens with flying. => [+1]: Surveil 1. 
+[-2]: Return up to one target creature card and up to one target sorcery card with total mana value 5 or less from your graveyard to your hand.
+[-3]: Create two 1/1 white Spirit creature tokens with flying.
+Escape—{3}{U}{B}, Exile five other cards from your graveyard [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Rohith, Lost Rakshasa
+rules_text: Whenever a creature you control deals combat damage to an opponent, put a loyalty counter on Rohith, Lost Rakshasa.
+[0]: Rohith becomes a 4/4 Cat creature with trample and hexproof until end of turn. [i](He doesn't lose loyalty as a creature)[/i]
+[-2]: Put a +1/+1 counter on up to three target creatures.
+[-7]: Rohith deals 4 damage to any two targets. => Whenever a creature you control deals combat damage to an opponent, put a loyalty counter on Rohith, Lost Rakshasa.
+[0]: Rohith becomes a 4/4 Cat creature with trample and hexproof until end of turn. [i](He doesn't lose loyalty as a creature)[/i]
+[-2]: Put a +1/+1 counter on up to three target creatures.
+[-7]: Rohith deals 4 damage to up to two targets.
+special_text: Whenever a creature you control deals combat damage to an opponent, put a loyalty counter on Rohith, Lost Rakshasa.
+[0]: Rohith becomes a 4/4 Cat creature with trample and hexproof until end of turn. [i](He doesn't lose loyalty as a creature)[/i]
+[-2]: Put a +1/+1 counter on up to three target creatures.
+[-7]: Rohith deals 4 damage to any two targets. => Whenever a creature you control deals combat damage to an opponent, put a loyalty counter on Rohith, Lost Rakshasa.
+[0]: Rohith becomes a 4/4 Cat creature with trample and hexproof until end of turn. [i](He doesn't lose loyalty as a creature)[/i]
+[-2]: Put a +1/+1 counter on up to three target creatures.
+[-7]: Rohith deals 4 damage to up to two targets.
+
+Roxy Robare, Nonstop
+
+Salo, Lax Missionary
+rules_text: [+1]: Reveal the top card of your library. You gain life equal to its mana cost, then put it into your hand.
+[-3]: Gain control of target creature as long as you control Salo. Put a defender counter on it.
+[-9]: You get an emblem with “Whenever a card is put into your hand from anywhere, create a 3/3 white Angel creature token with flying.” => [+1]: Reveal the top card of your library. You gain life equal to its mana value, then put it into your hand.
+[-3]: Gain control of target creature as long as you control Salo. Put a defender counter on it.
+[-9]: You get an emblem with “Whenever a card is put into your hand from anywhere, create a 3/3 white Angel creature token with flying.”
+special_text: [+1]: Reveal the top card of your library. You gain life equal to its mana cost, then put it into your hand.
+[-3]: Gain control of target creature as long as you control Salo. Put a defender counter on it.
+[-9]: You get an emblem with “Whenever a card is put into your hand from anywhere, create a 3/3 white Angel creature token with flying.” => [+1]: Reveal the top card of your library. You gain life equal to its mana value, then put it into your hand.
+[-3]: Gain control of target creature as long as you control Salo. Put a defender counter on it.
+[-9]: You get an emblem with “Whenever a card is put into your hand from anywhere, create a 3/3 white Angel creature token with flying.”
+
+Sihari, Location Consultant
+
+Sindy, On Overdue Vacation
+
+Sonya, Technical Tourist
+
+Sylvia, Rabble Rouser
+
+Tove, Modern Curiosity
+
+Jessica, In Her Element
+
+Vande, Ruthless Critic
+
+Xanigan, Power Broker
+
+Zoraya, Beat Dropper
+
+Camping Trip
+
+High Budget Parody
+
+Showing Up Stylish
+
+Viral Marketing
+
+Soak up the Sun
+
+Skincare Routine
+rules_text: You gain 4 life, then network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i] => You gain 4 life, then network. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]
+
+Radiant Beauty
+
+The Faerie Queen
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile target non-Saga permanent you control, then return it to the battlefield under your control.
+III — Network, then network again. [i](To network, you get {V}. You can call in a favor as a sorcery for five {V}.)[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile target non-Saga permanent you control, then return it to the battlefield under your control.
+III — Network, then network again. [i](To network, you get {star.png}. You can call in a favor as a sorcery for five {star.png}.)[/i]
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile target non-Saga permanent you control, then return it to the battlefield under your control.
+III — Network, then network again. [i](To network, you get {V}. You can call in a favor as a sorcery for five {V}.)[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile target non-Saga permanent you control, then return it to the battlefield under your control.
+III — Network, then network again. [i](To network, you get {star.png}. You can call in a favor as a sorcery for five {star.png}.)[/i]
+​
+
+Dusk Beckons
+
+A Day in the Park
+
+Ivory Tower Industry
+rules_text: Whenever a creature dies, network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]
+At the beginning of your upkeep, if you have 5 or more {V}, each opponent loses 3 life and you gain 3 life. => Whenever a creature dies, network. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]
+At the beginning of your upkeep, if you have 5 or more {star.png} or have called in a favor this game, each opponent loses 3 life and you gain 3 life.
+
+Traffic Jam
+rules_text: When Traffic Jam enters the battlefield, exile target creature or planeswalker until Traffic Jam leaves the battlefield, then network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]
+As long as you have 3 or more {V}, Traffic Jam has hexproof. => When Traffic Jam enters the battlefield, exile target creature or planeswalker until Traffic Jam leaves the battlefield, then network. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]
+As long as you've called in a favor this game, Traffic Jam has hexproof.
+
+Ulnian Insights
+
+Opening Night
+cost: {3}{W} => {2}{W}
+rules_text: Whenever Opening Night enters the battlefield or you cast a Saga, network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]
+At the beginning of your upkeep, if you have two or more {V}, you gain 2 life. => Whenever Opening Night enters the battlefield or you cast a Saga, network. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]
+Whenever you call in a favor, return up to one target enchantment card from your graveyard to your hand.
+
+On the Grind
+
+Trendy Spirituality
+
+Location Scout
+
+Graffiti Guide
+
+Garden Fountain
+
+Oakgrove Superstar
+
+Scarlet District Punk
+
+Apex Films Dealbroker
+
+Bum a Light
+
+Living the Yaneta Lifestyle
+
+Shoreline Joyrider
+
+Fusion Maestro
+
+Millenia Studios Secretary
+rules_text: When Millenia Studios Secretary enters the battlefield or dies, create a 1/1 Actor creature token that's all colors and network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i] => When Millenia Studios Secretary enters the battlefield or dies, create a 1/1 Actor creature token that's all colors and network. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]
+
+Oakgrove Agent
+rules_text: When Oakgrove Agent enters the battlefield, network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i] => When Oakgrove Agent enters the battlefield, network. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]
+
+RCE Producer
+rules_text: Once each turn, whenever you create a token, network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i] => Once each turn, whenever you create a token, network. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]
+
+Northside Ghost
+
+Holographic Celebrity
+rules_text: When Holographic Celebrity enters the battlefield, network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i] => When Holographic Celebrity enters the battlefield, network. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]
+
+Oakgrove Scion
+rules_text: Flying
+Oakgrove Scion can't block.
+Whenever Oakgrove Scion attacks, network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i] => Flying
+Oakgrove Scion can't block.
+Whenever Oakgrove Scion attacks, network. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]
+
+Oni Punk
+
+Talented Tagger
+rules_text: Sabotage — Whenever an opponent or a permanent an opponent controls becomes the target of a spell you control, Talented Tagger deals 1 damage to that opponent. => [i]Sabotage[/i] — Whenever an opponent or a permanent an opponent controls becomes the target of a spell you control, Talented Tagger deals 1 damage to that opponent.
+
+Ulnian Tourist
+rules_text: When Ulnian Tourist enters the battlefield, network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]
+{T}: Target creature gets +1/+1 and gains first strike until end of turn. Activate only as a sorcery and if you have 3 or more {V}. => When Ulnian Tourist enters the battlefield, network. [i](You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)[/i]
+{T}: Target creature gets +1/+1 and gains first strike until end of turn. Activate only as a sorcery and if you have 3 or more {star.png} or have called in a favor this game.
+
+Take a Trip
+
+Luxurious Estate
+
+Brutal Cradle
+
+Joshua Tree Pass
+rules_text: {T}: Add {C}.
+{2}, {T}: Add X mana of any one color, where X is the number of Deserts you control. => {T}: Add {C}.
+{3}, {T}: Add X mana of any one color, where X is the number of Deserts you control.
+
+Remote Lookout
+rules_text: {T}: Add {C}.
+{3}, {T}: Surveil 1. This ability costs {2} less to activate if you control another Desert. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i] => {T}: Add {C}.
+{3}, {T}: Surveil 1. This ability costs {1} less to activate for each other Desert you control. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Sandswept Vista
+
+Solkern Lookout
+rules_text: {T}: Add {C}.
+{3}, {T}: Create a Treasure token. This ability costs {2} less to activate if you control another Desert. => {T}: Add {C}.
+{3}, {T}: Create a Treasure token. This ability costs {1} less for each other Desert you control.
+
+Solkern Wastes
+
+Solkern Highway
+
+Suntouched Bluffs
+
+Routine Inspection
+
+Burning Rubber
+
+Take in the Sights
+
+Reckless Vacationing
+
+Stay Steady
+
+Sunset Chaser
+
+Actor
+
+Calling Back Home
+
+Right and Royalty
+
+Enter the Endgame
+cost: {6}{R}{R} => {4}{B}{G}
+rules_text: [i]The thrilling conclusion to a ten year saga.[/i]
+I — Exile the top twenty cards of your library. You may play cards exiled this way as long as they remain exiled.
+II — Create X Treasure tokens, where X is three times the number of lands you control.
+III — Your life total becomes 1. => [i]The thrilling conclusion to a ten year saga.[/i]
+I — Create three 2/2 black Nightmare creature tokens.
+II — Creatures you control get +1/+0 and gain trample until end of turn.
+III — Each opponent loses 4 life and you gain 4 life.
+special_text: [i]The thrilling conclusion to a ten year saga.[/i]
+I — Exile the top twenty cards of your library. You may play cards exiled this way as long as they remain exiled.
+II — Create X Treasure tokens, where X is three times the number of lands you control.
+III — Your life total becomes 1. => [i]The thrilling conclusion to a ten year saga.[/i]
+I — Create three 2/2 black Nightmare creature tokens.
+II — Creatures you control get +1/+0 and gain trample until end of turn.
+III — Each opponent loses 4 life and you gain 4 life.
+
+The Girl Who Wouldn't Die
+
+Pilfered Process
+
+
+VERSION 2 CHANGELOG
 ====================
 
 The Carmichael Awards added.
