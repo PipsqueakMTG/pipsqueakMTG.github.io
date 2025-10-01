@@ -39,8 +39,8 @@
 			position: relative;
 		}
 		.sidebar-h-img {
-			display: none;
-			transform: rotate(90deg);
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
 			position: absolute;
 			left: 10%;
 			top: 10%;
@@ -126,12 +126,13 @@
 			background: rgba(23, 23, 23, 0.8);
 			border-radius: 8px;
 			position: absolute;
-			left: 10%;
+			left: 5%;
 			width: fit-content;
+			max-width: 90%;
 			margin: 20px 0;
 			padding: 5px 0;
-			display: flex;
-			flex-direction: column;
+			display: grid;
+			grid-template-columns: 1fr;
 			z-index: 3;
 		}
 		.dropdown .set-bar {
@@ -196,7 +197,7 @@
 		</div>
 	</div>
 
-	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
 		<a class="set-bar" href="101"><img src="/sets/101-files/icon.png">Storytime</a>
 	
@@ -224,156 +225,156 @@
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img alt="/sets\101-files\img\10_Happy Together.jpg" id="10_Happy Together" data-flag="@X" onclick="openSidebar('10_Happy Together',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\22_Against the Waves.jpg" id="22_Against the Waves" data-flag="@X" onclick="openSidebar('22_Against the Waves',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\40_Afterlife Heist.jpg" id="40_Afterlife Heist" data-flag="@X" onclick="openSidebar('40_Afterlife Heist',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\58_Academy Renegade.jpg" id="58_Academy Renegade" data-flag="@X" onclick="openSidebar('58_Academy Renegade',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\76_Apex's Oath.jpg" id="76_Apexs Oath" data-flag="@X" onclick="openSidebar('76_Apexs Oath',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\18_Storytime.jpg" id="18_Storytime" data-flag="@X" onclick="openSidebar('18_Storytime',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\23_Antimagic Formula.jpg" id="23_Antimagic Formula" data-flag="@X" onclick="openSidebar('23_Antimagic Formula',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\41_Berbarus Unsealed.jpg" id="41_Berbarus Unsealed" data-flag="@X" onclick="openSidebar('41_Berbarus Unsealed',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\59_Aquilifer Axelius.jpg" id="59_Aquilifer Axelius" data-flag="@X" onclick="openSidebar('59_Aquilifer Axelius',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\77_Arpechian Champion.jpg" id="77_Arpechian Champion" data-flag="@X" onclick="openSidebar('77_Arpechian Champion',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\2_Apotheosis.jpg" id="2_Apotheosis" data-flag="@X" onclick="openSidebar('2_Apotheosis',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\24_Charting the Cosmos.jpg" id="24_Charting the Cosmos" data-flag="@X" onclick="openSidebar('24_Charting the Cosmos',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\42_Curse-Blood Morrigan.jpg" id="42_Curse-Blood Morrigan" data-flag="@X" onclick="openSidebar('42_Curse-Blood Morrigan',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\60_Bretala of Redsky.jpg" id="60_Bretala of Redsky" data-flag="@X" onclick="openSidebar('60_Bretala of Redsky',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\78_Backwood Rangers.jpg" id="78_Backwood Rangers" data-flag="@X" onclick="openSidebar('78_Backwood Rangers',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\3_Arbiter of the Scales.jpg" id="3_Arbiter of the Scales" data-flag="@X" onclick="openSidebar('3_Arbiter of the Scales',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\25_Chronofracture.jpg" id="25_Chronofracture" data-flag="@X" onclick="openSidebar('25_Chronofracture',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\43_Embrace Madness.jpg" id="43_Embrace Madness" data-flag="@X" onclick="openSidebar('43_Embrace Madness',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\61_Calamitous Crash.jpg" id="61_Calamitous Crash" data-flag="@X" onclick="openSidebar('61_Calamitous Crash',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\80_Caller of Hunger.jpg" id="80_Caller of Hunger" data-flag="@X" onclick="openSidebar('80_Caller of Hunger',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\4_Autumn's Farewell.jpg" id="4_Autumns Farewell" data-flag="@X" onclick="openSidebar('4_Autumns Farewell',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\26_Edge of the Water.jpg" id="26_Edge of the Water" data-flag="@X" onclick="openSidebar('26_Edge of the Water',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\44_Glymna Blackrune.jpg" id="44_Glymna Blackrune" data-flag="@X" onclick="openSidebar('44_Glymna Blackrune',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\62_Captain Mattias Ochre.jpg" id="62_Captain Mattias Ochre" data-flag="@X" onclick="openSidebar('62_Captain Mattias Ochre',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\81_Chratteri Restoration.jpg" id="81_Chratteri Restoration" data-flag="@X" onclick="openSidebar('81_Chratteri Restoration',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\5_Brave the Issbarrens.jpg" id="5_Brave the Issbarrens" data-flag="@X" onclick="openSidebar('5_Brave the Issbarrens',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\27_Fish Out of Water.jpg" id="27_Fish Out of Water" data-flag="@X" onclick="openSidebar('27_Fish Out of Water',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\45_Jara Champion.jpg" id="45_Jara Champion" data-flag="@X" onclick="openSidebar('45_Jara Champion',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\63_Dragoncalling.jpg" id="63_Dragoncalling" data-flag="@X" onclick="openSidebar('63_Dragoncalling',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\82_Chratteri Valiant.jpg" id="82_Chratteri Valiant" data-flag="@X" onclick="openSidebar('82_Chratteri Valiant',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\6_Daring Skythief.jpg" id="6_Daring Skythief" data-flag="@X" onclick="openSidebar('6_Daring Skythief',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\28_Gorbes Index.jpg" id="28_Gorbes Index" data-flag="@X" onclick="openSidebar('28_Gorbes Index',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\46_Just Business.jpg" id="46_Just Business" data-flag="@X" onclick="openSidebar('46_Just Business',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\64_Epic Score.jpg" id="64_Epic Score" data-flag="@X" onclick="openSidebar('64_Epic Score',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\83_Daisy, the Heart of Chasmek.jpg" id="83_Daisy, the Heart of Chasmek" data-flag="@X" onclick="openSidebar('83_Daisy, the Heart of Chasmek',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\7_Final Reckoning.jpg" id="7_Final Reckoning" data-flag="@X" onclick="openSidebar('7_Final Reckoning',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\29_Legacy's Malediction.jpg" id="29_Legacys Malediction" data-flag="@X" onclick="openSidebar('29_Legacys Malediction',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\47_The Lord of All Beyond.jpg" id="47_The Lord of All Beyond" data-flag="@X" onclick="openSidebar('47_The Lord of All Beyond',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\65_Finale of Cinders.jpg" id="65_Finale of Cinders" data-flag="@X" onclick="openSidebar('65_Finale of Cinders',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\84_Elder's Wisdom.jpg" id="84_Elders Wisdom" data-flag="@X" onclick="openSidebar('84_Elders Wisdom',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\8_Golden Company Tactics.jpg" id="8_Golden Company Tactics" data-flag="@X" onclick="openSidebar('8_Golden Company Tactics',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\30_Meadow's Melody.jpg" id="30_Meadows Melody" data-flag="@X" onclick="openSidebar('30_Meadows Melody',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\48_Memento Mori.jpg" id="48_Memento Mori" data-flag="@X" onclick="openSidebar('48_Memento Mori',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\66_Glorysinger.jpg" id="66_Glorysinger" data-flag="@X" onclick="openSidebar('66_Glorysinger',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\85_Great and Small.jpg" id="85_Great and Small" data-flag="@X" onclick="openSidebar('85_Great and Small',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\9_Golden Company Valiant.jpg" id="9_Golden Company Valiant" data-flag="@X" onclick="openSidebar('9_Golden Company Valiant',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\31_Oscanthor, Trader's Ruin.jpg" id="31_Oscanthor, Traders Ruin" data-flag="@X" onclick="openSidebar('31_Oscanthor, Traders Ruin',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\49_Puppeteering.jpg" id="49_Puppeteering" data-flag="@X" onclick="openSidebar('49_Puppeteering',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\67_Jak, Daring Vanguard.jpg" id="67_Jak, Daring Vanguard" data-flag="@X" onclick="openSidebar('67_Jak, Daring Vanguard',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\86_Greenwood Outrider.jpg" id="86_Greenwood Outrider" data-flag="@X" onclick="openSidebar('86_Greenwood Outrider',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\11_Herald of Heroes.jpg" id="11_Herald of Heroes" data-flag="@X" onclick="openSidebar('11_Herald of Heroes',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\32_Outsmart.jpg" id="32_Outsmart" data-flag="@X" onclick="openSidebar('32_Outsmart',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\50_Rend the Mind.jpg" id="50_Rend the Mind" data-flag="@X" onclick="openSidebar('50_Rend the Mind',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\68_Lady Ashtongue.jpg" id="68_Lady Ashtongue" data-flag="@X" onclick="openSidebar('68_Lady Ashtongue',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\87_Hunter's Hideout.jpg" id="87_Hunters Hideout" data-flag="@X" onclick="openSidebar('87_Hunters Hideout',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\12_In Memoriam.jpg" id="12_In Memoriam" data-flag="@X" onclick="openSidebar('12_In Memoriam',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\33_Start Anew.jpg" id="33_Start Anew" data-flag="@X" onclick="openSidebar('33_Start Anew',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\51_Seventh Circle Cultist.jpg" id="51_Seventh Circle Cultist" data-flag="@X" onclick="openSidebar('51_Seventh Circle Cultist',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\69_Meteor Fall.jpg" id="69_Meteor Fall" data-flag="@X" onclick="openSidebar('69_Meteor Fall',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\88_Lost to the Ages.jpg" id="88_Lost to the Ages" data-flag="@X" onclick="openSidebar('88_Lost to the Ages',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\13_Magdel, Caller of Souls.jpg" id="13_Magdel, Caller of Souls" data-flag="@X" onclick="openSidebar('13_Magdel, Caller of Souls',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\34_Tempus Fugit.jpg" id="34_Tempus Fugit" data-flag="@X" onclick="openSidebar('34_Tempus Fugit',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\52_Sinister Heir.jpg" id="52_Sinister Heir" data-flag="@X" onclick="openSidebar('52_Sinister Heir',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\70_Overclock.jpg" id="70_Overclock" data-flag="@X" onclick="openSidebar('70_Overclock',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\89_Meadow Songstress.jpg" id="89_Meadow Songstress" data-flag="@X" onclick="openSidebar('89_Meadow Songstress',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\14_Right to Rule.jpg" id="14_Right to Rule" data-flag="@X" onclick="openSidebar('14_Right to Rule',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\35_Terror of Palta Gorge.jpg" id="35_Terror of Palta Gorge" data-flag="@X" onclick="openSidebar('35_Terror of Palta Gorge',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\53_Ultim Nox.jpg" id="53_Ultim Nox" data-flag="@X" onclick="openSidebar('53_Ultim Nox',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\71_Overwhelming Armies.jpg" id="71_Overwhelming Armies" data-flag="@X" onclick="openSidebar('71_Overwhelming Armies',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\90_Mossy Companion.jpg" id="90_Mossy Companion" data-flag="@X" onclick="openSidebar('90_Mossy Companion',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\17_The Start of Something.jpg" id="17_The Start of Something" data-flag="@X" onclick="openSidebar('17_The Start of Something',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\36_Tianyuren Skycharter.jpg" id="36_Tianyuren Skycharter" data-flag="@X" onclick="openSidebar('36_Tianyuren Skycharter',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\54_Villainy.jpg" id="54_Villainy" data-flag="@X" onclick="openSidebar('54_Villainy',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\72_Regal Ignition.jpg" id="72_Regal Ignition" data-flag="@X" onclick="openSidebar('72_Regal Ignition',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\91_Ol' Sycamore.jpg" id="91_Ol Sycamore" data-flag="@X" onclick="openSidebar('91_Ol Sycamore',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\19_Titan's Will.jpg" id="19_Titans Will" data-flag="@X" onclick="openSidebar('19_Titans Will',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\37_Tidal Spite.jpg" id="37_Tidal Spite" data-flag="@X" onclick="openSidebar('37_Tidal Spite',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\55_Warden of the Dead.jpg" id="55_Warden of the Dead" data-flag="@X" onclick="openSidebar('55_Warden of the Dead',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\73_Takeda Taro.jpg" id="73_Takeda Taro" data-flag="@X" onclick="openSidebar('73_Takeda Taro',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\92_Remnant of the Wild.jpg" id="92_Remnant of the Wild" data-flag="@X" onclick="openSidebar('92_Remnant of the Wild',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\20_Turela, Defiant Angel.jpg" id="20_Turela, Defiant Angel" data-flag="@X" onclick="openSidebar('20_Turela, Defiant Angel',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\38_Unbound Academic.jpg" id="38_Unbound Academic" data-flag="@X" onclick="openSidebar('38_Unbound Academic',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\56_Welcome Return.jpg" id="56_Welcome Return" data-flag="@X" onclick="openSidebar('56_Welcome Return',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\74_Unceasing Flames.jpg" id="74_Unceasing Flames" data-flag="@X" onclick="openSidebar('74_Unceasing Flames',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\93_Rujan, the Great Pumpkin.jpg" id="93_Rujan, the Great Pumpkin" data-flag="@X" onclick="openSidebar('93_Rujan, the Great Pumpkin',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\21_Wandering Souls.jpg" id="21_Wandering Souls" data-flag="@X" onclick="openSidebar('21_Wandering Souls',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\39_Vengeful Messenger.jpg" id="39_Vengeful Messenger" data-flag="@X" onclick="openSidebar('39_Vengeful Messenger',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\57_Words of Eternity.jpg" id="57_Words of Eternity" data-flag="@X" onclick="openSidebar('57_Words of Eternity',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\75_Warrior's Request.jpg" id="75_Warriors Request" data-flag="@X" onclick="openSidebar('75_Warriors Request',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\94_Spring Renewal.jpg" id="94_Spring Renewal" data-flag="@X" onclick="openSidebar('94_Spring Renewal',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\15_Soldier.jpg" id="15_Soldier" data-flag="@X" onclick="openSidebar('15_Soldier',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\79_Beast.jpg" id="79_Beast" data-flag="@X" onclick="openSidebar('79_Beast',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\16_Spirit.jpg" id="16_Spirit" data-flag="@X" onclick="openSidebar('16_Spirit',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\95_Emperor Tzhai.jpg" id="95_Emperor Tzhai" data-flag="@X" onclick="openSidebar('95_Emperor Tzhai',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="/sets\101-files\img\10_Happy Together.jpg" id="10_Happy Together" data-flag="@X" onclick="openSidebar('10_Happy Together',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\22_Against the Waves.jpg" id="22_Against the Waves" data-flag="@X" onclick="openSidebar('22_Against the Waves',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\40_Afterlife Heist.jpg" id="40_Afterlife Heist" data-flag="@X" onclick="openSidebar('40_Afterlife Heist',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\58_Academy Renegade.jpg" id="58_Academy Renegade" data-flag="@X" onclick="openSidebar('58_Academy Renegade',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\76_Apex's Oath.jpg" id="76_Apexs Oath" data-flag="@X" onclick="openSidebar('76_Apexs Oath',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\18_Storytime.jpg" id="18_Storytime" data-flag="@X" onclick="openSidebar('18_Storytime',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\23_Antimagic Formula.jpg" id="23_Antimagic Formula" data-flag="@X" onclick="openSidebar('23_Antimagic Formula',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\41_Berbarus Unsealed.jpg" id="41_Berbarus Unsealed" data-flag="@X" onclick="openSidebar('41_Berbarus Unsealed',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\59_Aquilifer Axelius.jpg" id="59_Aquilifer Axelius" data-flag="@X" onclick="openSidebar('59_Aquilifer Axelius',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\77_Arpechian Champion.jpg" id="77_Arpechian Champion" data-flag="@X" onclick="openSidebar('77_Arpechian Champion',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\2_Apotheosis.jpg" id="2_Apotheosis" data-flag="@X" onclick="openSidebar('2_Apotheosis',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\24_Charting the Cosmos.jpg" id="24_Charting the Cosmos" data-flag="@X" onclick="openSidebar('24_Charting the Cosmos',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\42_Curse-Blood Morrigan.jpg" id="42_Curse-Blood Morrigan" data-flag="@X" onclick="openSidebar('42_Curse-Blood Morrigan',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\60_Bretala of Redsky.jpg" id="60_Bretala of Redsky" data-flag="@X" onclick="openSidebar('60_Bretala of Redsky',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\78_Backwood Rangers.jpg" id="78_Backwood Rangers" data-flag="@X" onclick="openSidebar('78_Backwood Rangers',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\3_Arbiter of the Scales.jpg" id="3_Arbiter of the Scales" data-flag="@X" onclick="openSidebar('3_Arbiter of the Scales',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\25_Chronofracture.jpg" id="25_Chronofracture" data-flag="@X" onclick="openSidebar('25_Chronofracture',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\43_Embrace Madness.jpg" id="43_Embrace Madness" data-flag="@X" onclick="openSidebar('43_Embrace Madness',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\61_Calamitous Crash.jpg" id="61_Calamitous Crash" data-flag="@X" onclick="openSidebar('61_Calamitous Crash',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\80_Caller of Hunger.jpg" id="80_Caller of Hunger" data-flag="@X" onclick="openSidebar('80_Caller of Hunger',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\4_Autumn's Farewell.jpg" id="4_Autumns Farewell" data-flag="@X" onclick="openSidebar('4_Autumns Farewell',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\26_Edge of the Water.jpg" id="26_Edge of the Water" data-flag="@X" onclick="openSidebar('26_Edge of the Water',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\44_Glymna Blackrune.jpg" id="44_Glymna Blackrune" data-flag="@X" onclick="openSidebar('44_Glymna Blackrune',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\62_Captain Mattias Ochre.jpg" id="62_Captain Mattias Ochre" data-flag="@X" onclick="openSidebar('62_Captain Mattias Ochre',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\81_Chratteri Restoration.jpg" id="81_Chratteri Restoration" data-flag="@X" onclick="openSidebar('81_Chratteri Restoration',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\5_Brave the Issbarrens.jpg" id="5_Brave the Issbarrens" data-flag="@X" onclick="openSidebar('5_Brave the Issbarrens',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\27_Fish Out of Water.jpg" id="27_Fish Out of Water" data-flag="@X" onclick="openSidebar('27_Fish Out of Water',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\45_Jara Champion.jpg" id="45_Jara Champion" data-flag="@X" onclick="openSidebar('45_Jara Champion',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\63_Dragoncalling.jpg" id="63_Dragoncalling" data-flag="@X" onclick="openSidebar('63_Dragoncalling',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\82_Chratteri Valiant.jpg" id="82_Chratteri Valiant" data-flag="@X" onclick="openSidebar('82_Chratteri Valiant',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\6_Daring Skythief.jpg" id="6_Daring Skythief" data-flag="@X" onclick="openSidebar('6_Daring Skythief',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\28_Gorbes Index.jpg" id="28_Gorbes Index" data-flag="@X" onclick="openSidebar('28_Gorbes Index',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\46_Just Business.jpg" id="46_Just Business" data-flag="@X" onclick="openSidebar('46_Just Business',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\64_Epic Score.jpg" id="64_Epic Score" data-flag="@X" onclick="openSidebar('64_Epic Score',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\83_Daisy, the Heart of Chasmek.jpg" id="83_Daisy, the Heart of Chasmek" data-flag="@X" onclick="openSidebar('83_Daisy, the Heart of Chasmek',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\7_Final Reckoning.jpg" id="7_Final Reckoning" data-flag="@X" onclick="openSidebar('7_Final Reckoning',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\29_Legacy's Malediction.jpg" id="29_Legacys Malediction" data-flag="@X" onclick="openSidebar('29_Legacys Malediction',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\47_The Lord of All Beyond.jpg" id="47_The Lord of All Beyond" data-flag="@X" onclick="openSidebar('47_The Lord of All Beyond',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\65_Finale of Cinders.jpg" id="65_Finale of Cinders" data-flag="@X" onclick="openSidebar('65_Finale of Cinders',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\84_Elder's Wisdom.jpg" id="84_Elders Wisdom" data-flag="@X" onclick="openSidebar('84_Elders Wisdom',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\8_Golden Company Tactics.jpg" id="8_Golden Company Tactics" data-flag="@X" onclick="openSidebar('8_Golden Company Tactics',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\30_Meadow's Melody.jpg" id="30_Meadows Melody" data-flag="@X" onclick="openSidebar('30_Meadows Melody',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\48_Memento Mori.jpg" id="48_Memento Mori" data-flag="@X" onclick="openSidebar('48_Memento Mori',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\66_Glorysinger.jpg" id="66_Glorysinger" data-flag="@X" onclick="openSidebar('66_Glorysinger',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\85_Great and Small.jpg" id="85_Great and Small" data-flag="@X" onclick="openSidebar('85_Great and Small',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\9_Golden Company Valiant.jpg" id="9_Golden Company Valiant" data-flag="@X" onclick="openSidebar('9_Golden Company Valiant',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\31_Oscanthor, Trader's Ruin.jpg" id="31_Oscanthor, Traders Ruin" data-flag="@X" onclick="openSidebar('31_Oscanthor, Traders Ruin',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\49_Puppeteering.jpg" id="49_Puppeteering" data-flag="@X" onclick="openSidebar('49_Puppeteering',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\67_Jak, Daring Vanguard.jpg" id="67_Jak, Daring Vanguard" data-flag="@X" onclick="openSidebar('67_Jak, Daring Vanguard',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\86_Greenwood Outrider.jpg" id="86_Greenwood Outrider" data-flag="@X" onclick="openSidebar('86_Greenwood Outrider',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\11_Herald of Heroes.jpg" id="11_Herald of Heroes" data-flag="@X" onclick="openSidebar('11_Herald of Heroes',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\32_Outsmart.jpg" id="32_Outsmart" data-flag="@X" onclick="openSidebar('32_Outsmart',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\50_Rend the Mind.jpg" id="50_Rend the Mind" data-flag="@X" onclick="openSidebar('50_Rend the Mind',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\68_Lady Ashtongue.jpg" id="68_Lady Ashtongue" data-flag="@X" onclick="openSidebar('68_Lady Ashtongue',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\87_Hunter's Hideout.jpg" id="87_Hunters Hideout" data-flag="@X" onclick="openSidebar('87_Hunters Hideout',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\12_In Memoriam.jpg" id="12_In Memoriam" data-flag="@X" onclick="openSidebar('12_In Memoriam',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\33_Start Anew.jpg" id="33_Start Anew" data-flag="@X" onclick="openSidebar('33_Start Anew',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\51_Seventh Circle Cultist.jpg" id="51_Seventh Circle Cultist" data-flag="@X" onclick="openSidebar('51_Seventh Circle Cultist',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\69_Meteor Fall.jpg" id="69_Meteor Fall" data-flag="@X" onclick="openSidebar('69_Meteor Fall',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\88_Lost to the Ages.jpg" id="88_Lost to the Ages" data-flag="@X" onclick="openSidebar('88_Lost to the Ages',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\13_Magdel, Caller of Souls.jpg" id="13_Magdel, Caller of Souls" data-flag="@X" onclick="openSidebar('13_Magdel, Caller of Souls',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\34_Tempus Fugit.jpg" id="34_Tempus Fugit" data-flag="@X" onclick="openSidebar('34_Tempus Fugit',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\52_Sinister Heir.jpg" id="52_Sinister Heir" data-flag="@X" onclick="openSidebar('52_Sinister Heir',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\70_Overclock.jpg" id="70_Overclock" data-flag="@X" onclick="openSidebar('70_Overclock',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\89_Meadow Songstress.jpg" id="89_Meadow Songstress" data-flag="@X" onclick="openSidebar('89_Meadow Songstress',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\14_Right to Rule.jpg" id="14_Right to Rule" data-flag="@X" onclick="openSidebar('14_Right to Rule',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\35_Terror of Palta Gorge.jpg" id="35_Terror of Palta Gorge" data-flag="@X" onclick="openSidebar('35_Terror of Palta Gorge',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\53_Ultim Nox.jpg" id="53_Ultim Nox" data-flag="@X" onclick="openSidebar('53_Ultim Nox',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\71_Overwhelming Armies.jpg" id="71_Overwhelming Armies" data-flag="@X" onclick="openSidebar('71_Overwhelming Armies',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\90_Mossy Companion.jpg" id="90_Mossy Companion" data-flag="@X" onclick="openSidebar('90_Mossy Companion',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\17_The Start of Something.jpg" id="17_The Start of Something" data-flag="@X" onclick="openSidebar('17_The Start of Something',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\36_Tianyuren Skycharter.jpg" id="36_Tianyuren Skycharter" data-flag="@X" onclick="openSidebar('36_Tianyuren Skycharter',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\54_Villainy.jpg" id="54_Villainy" data-flag="@X" onclick="openSidebar('54_Villainy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\72_Regal Ignition.jpg" id="72_Regal Ignition" data-flag="@X" onclick="openSidebar('72_Regal Ignition',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\91_Ol' Sycamore.jpg" id="91_Ol Sycamore" data-flag="@X" onclick="openSidebar('91_Ol Sycamore',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\19_Titan's Will.jpg" id="19_Titans Will" data-flag="@X" onclick="openSidebar('19_Titans Will',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\37_Tidal Spite.jpg" id="37_Tidal Spite" data-flag="@X" onclick="openSidebar('37_Tidal Spite',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\55_Warden of the Dead.jpg" id="55_Warden of the Dead" data-flag="@X" onclick="openSidebar('55_Warden of the Dead',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\73_Takeda Taro.jpg" id="73_Takeda Taro" data-flag="@X" onclick="openSidebar('73_Takeda Taro',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\92_Remnant of the Wild.jpg" id="92_Remnant of the Wild" data-flag="@X" onclick="openSidebar('92_Remnant of the Wild',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\20_Turela, Defiant Angel.jpg" id="20_Turela, Defiant Angel" data-flag="@X" onclick="openSidebar('20_Turela, Defiant Angel',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\38_Unbound Academic.jpg" id="38_Unbound Academic" data-flag="@X" onclick="openSidebar('38_Unbound Academic',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\56_Welcome Return.jpg" id="56_Welcome Return" data-flag="@X" onclick="openSidebar('56_Welcome Return',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\74_Unceasing Flames.jpg" id="74_Unceasing Flames" data-flag="@X" onclick="openSidebar('74_Unceasing Flames',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\93_Rujan, the Great Pumpkin.jpg" id="93_Rujan, the Great Pumpkin" data-flag="@X" onclick="openSidebar('93_Rujan, the Great Pumpkin',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\21_Wandering Souls.jpg" id="21_Wandering Souls" data-flag="@X" onclick="openSidebar('21_Wandering Souls',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\39_Vengeful Messenger.jpg" id="39_Vengeful Messenger" data-flag="@X" onclick="openSidebar('39_Vengeful Messenger',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\57_Words of Eternity.jpg" id="57_Words of Eternity" data-flag="@X" onclick="openSidebar('57_Words of Eternity',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\75_Warrior's Request.jpg" id="75_Warriors Request" data-flag="@X" onclick="openSidebar('75_Warriors Request',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\94_Spring Renewal.jpg" id="94_Spring Renewal" data-flag="@X" onclick="openSidebar('94_Spring Renewal',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\15_Soldier.jpg" id="15_Soldier" data-flag="@X" onclick="openSidebar('15_Soldier',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\79_Beast.jpg" id="79_Beast" data-flag="@X" onclick="openSidebar('79_Beast',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\16_Spirit.jpg" id="16_Spirit" data-flag="@X" onclick="openSidebar('16_Spirit',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\95_Emperor Tzhai.jpg" id="95_Emperor Tzhai" data-flag="@X" onclick="openSidebar('95_Emperor Tzhai',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img alt="/sets\101-files\img\1_Azamir, Wayward Titan.jpg" id="1_Azamir, Wayward Titan" data-flag="@X" onclick="openSidebar('1_Azamir, Wayward Titan',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\96_Academic's Claymore.jpg" id="96_Academics Claymore" data-flag="@X" onclick="openSidebar('96_Academics Claymore',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\97_The Aether Lens.jpg" id="97_The Aether Lens" data-flag="@X" onclick="openSidebar('97_The Aether Lens',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\98_The Knowledge Hub.jpg" id="98_The Knowledge Hub" data-flag="@X" onclick="openSidebar('98_The Knowledge Hub',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\99_Voidlife Orbs.jpg" id="99_Voidlife Orbs" data-flag="@X" onclick="openSidebar('99_Voidlife Orbs',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\100_Crystal Garden.jpg" id="100_Crystal Garden" data-flag="@X" onclick="openSidebar('100_Crystal Garden',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\101_Leyline Alignment Field.jpg" id="101_Leyline Alignment Field" data-flag="@X" onclick="openSidebar('101_Leyline Alignment Field',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\102_Mirrorgate.jpg" id="102_Mirrorgate" data-flag="@X" onclick="openSidebar('102_Mirrorgate',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\103_Overloaded Aethergate.jpg" id="103_Overloaded Aethergate" data-flag="@X" onclick="openSidebar('103_Overloaded Aethergate',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\104_Titan's Palace.jpg" id="104_Titans Palace" data-flag="@X" onclick="openSidebar('104_Titans Palace',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\1_Azamir, Wayward Titan.jpg" id="1_Azamir, Wayward Titan" data-flag="@X" onclick="openSidebar('1_Azamir, Wayward Titan',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\96_Academic's Claymore.jpg" id="96_Academics Claymore" data-flag="@X" onclick="openSidebar('96_Academics Claymore',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\97_The Aether Lens.jpg" id="97_The Aether Lens" data-flag="@X" onclick="openSidebar('97_The Aether Lens',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\98_The Knowledge Hub.jpg" id="98_The Knowledge Hub" data-flag="@X" onclick="openSidebar('98_The Knowledge Hub',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\99_Voidlife Orbs.jpg" id="99_Voidlife Orbs" data-flag="@X" onclick="openSidebar('99_Voidlife Orbs',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\100_Crystal Garden.jpg" id="100_Crystal Garden" data-flag="@X" onclick="openSidebar('100_Crystal Garden',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\101_Leyline Alignment Field.jpg" id="101_Leyline Alignment Field" data-flag="@X" onclick="openSidebar('101_Leyline Alignment Field',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\102_Mirrorgate.jpg" id="102_Mirrorgate" data-flag="@X" onclick="openSidebar('102_Mirrorgate',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\103_Overloaded Aethergate.jpg" id="103_Overloaded Aethergate" data-flag="@X" onclick="openSidebar('103_Overloaded Aethergate',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\104_Titan's Palace.jpg" id="104_Titans Palace" data-flag="@X" onclick="openSidebar('104_Titans Palace',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="token" class="anchor"></div>
-				<div class="container"><img alt="/sets\101-files\img\6t_Warden of the Dead Emblem.jpg" id="6t_Warden of the Dead Emblem" data-flag="@X" onclick="openSidebar('6t_Warden of the Dead Emblem',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\1t_Wandering Souls Reminder.jpg" id="1t_Wandering Souls Reminder" data-flag="@X" onclick="openSidebar('1t_Wandering Souls Reminder',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\2t_Against the Waves Reminder.jpg" id="2t_Against the Waves Reminder" data-flag="@X" onclick="openSidebar('2t_Against the Waves Reminder',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\3t_Warden of the Dead Reminder.jpg" id="3t_Warden of the Dead Reminder" data-flag="@X" onclick="openSidebar('3t_Warden of the Dead Reminder',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\4t_Unceasings Flames Reminder.jpg" id="4t_Unceasings Flames Reminder" data-flag="@X" onclick="openSidebar('4t_Unceasings Flames Reminder',false)"></div>
-				<div class="container"><img alt="/sets\101-files\img\5t_Meadow Songstress Reminder.jpg" id="5t_Meadow Songstress Reminder" data-flag="@X" onclick="openSidebar('5t_Meadow Songstress Reminder',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\6t_Warden of the Dead Emblem.jpg" id="6t_Warden of the Dead Emblem" data-flag="@X" onclick="openSidebar('6t_Warden of the Dead Emblem',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\1t_Wandering Souls Reminder.jpg" id="1t_Wandering Souls Reminder" data-flag="@X" onclick="openSidebar('1t_Wandering Souls Reminder',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\2t_Against the Waves Reminder.jpg" id="2t_Against the Waves Reminder" data-flag="@X" onclick="openSidebar('2t_Against the Waves Reminder',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\3t_Warden of the Dead Reminder.jpg" id="3t_Warden of the Dead Reminder" data-flag="@X" onclick="openSidebar('3t_Warden of the Dead Reminder',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\4t_Unceasings Flames Reminder.jpg" id="4t_Unceasings Flames Reminder" data-flag="@X" onclick="openSidebar('4t_Unceasings Flames Reminder',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\101-files\img\5t_Meadow Songstress Reminder.jpg" id="5t_Meadow Songstress Reminder" data-flag="@X" onclick="openSidebar('5t_Meadow Songstress Reminder',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
@@ -470,27 +471,51 @@
 	let horizontal = false;
 
 	function imgFlip(num) {
-		tmp = document.getElementById(num).src;
-		console.log(num);
-		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
-		document.getElementById(num).dataset.alt_src = tmp;
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
 
-		if (num == 'sidebar_img')
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
 		{
-			const rotated_img = document.getElementById('sidebar_h_img');
 			const sidebar_img = document.getElementById('sidebar_img');
 
-			if (horizontal && rotated_img.style.display == 'none')
-			{
-				rotated_img.style.display = "block";
-				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
-			}
-			else
-			{
-				rotated_img.style.display = "none";
-				sidebar_img.style.filter = "";
-			}
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
 		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
 	}
 
 	function openSidebar(id, h = false) {
@@ -502,17 +527,19 @@
 		const rotated_img = document.getElementById('sidebar_h_img');
 		const sidebar_img = document.getElementById('sidebar_img');
 
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
 		sidebar_img.src = document.getElementById(id).src;
 		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
 
 		if (horizontal && !sidebar_img.src.includes("_back"))
 		{
-			rotated_img.style.display = "block";
+			rotated_img.style.opacity = "1";
 			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
 		}
 		else
 		{
-			rotated_img.style.display = "none";
+			rotated_img.style.opacity = "0";
 			sidebar_img.style.filter = "";
 		}
 
@@ -545,6 +572,7 @@
 	}
 
 	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -554,6 +582,7 @@
 	}
 
 	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
