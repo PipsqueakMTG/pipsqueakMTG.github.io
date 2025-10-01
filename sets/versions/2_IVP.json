@@ -1,7 +1,7 @@
 ﻿{
     "name": "Invalid Precedent",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "none",
     "unpreviewed": "card back",
@@ -1773,6 +1773,5 @@
             "alias": "",
             "notes": ""
         }
-    ],
-    "version": 2
+    ]
 }

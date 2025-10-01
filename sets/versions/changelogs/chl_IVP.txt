@@ -1,4 +1,166 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+The Carmichael Awards added.
+Armund, Wayward Killer added.
+Isamu, Hapless Researcher added.
+Liactru, Big Damn Hero added.
+Mei, Expert Negotiator added.
+Nora, Actress in Waiting added.
+Ryan Opal Is...Calamity Smith added.
+Penelope, Spirit Caller added.
+Rohith, Lost Rakshasa added.
+Roxy Robare, Nonstop added.
+Salo, Lax Missionary added.
+Sihari, Location Consultant added.
+Sindy, On Overdue Vacation added.
+Sonya, Technical Tourist added.
+Sylvia, Rabble Rouser added.
+Vande, Ruthless Critic added.
+Xanigan, Power Broker added.
+Zoraya, Beat Dropper added.
+Camping Trip added.
+High Budget Parody added.
+Showing Up Stylish added.
+Viral Marketing added.
+Skincare Routine added.
+Radiant Beauty added.
+Dusk Beckons added.
+A Day in the Park added.
+Ivory Tower Industry added.
+Ulnian Insights added.
+Opening Night added.
+Location Scout added.
+Graffiti Guide added.
+Garden Fountain added.
+Oakgrove Superstar added.
+Life of the Party added.
+Scarlet District Punk added.
+Apex Films Dealbroker added.
+Bum a Light added.
+Living the Yaneta Lifestyle added.
+Shoreline Joyrider added.
+Fusion Maestro added.
+Millenia Studios Secretary added.
+Northside Ghost added.
+Holographic Celebrity added.
+Oakgrove Scion added.
+Oni Punk added.
+Talented Tagger added.
+Ulnian Tourist added.
+Take a Trip added.
+Luxurious Estate added.
+Brutal Cradle added.
+Joshua Tree Pass added.
+Remote Lookout added.
+Sandswept Vista added.
+Solkern Lookout added.
+Solkern Wastes added.
+Solkern Highway added.
+Suntouched Bluffs added.
+Reckless Vacationing added.
+Stay Steady added.
+Sunset Chaser added.
+Actor added.
+Calling Back Home added.
+Right and Royalty added.
+Enter the Endgame added.
+The Girl Who Wouldn't Die added.
+Pilfered Process added.
+
+Automaton Epicure removed.
+Dormant Doomsday Device removed.
+Hanna of the Weatherlight removed.
+Winged Amulet removed.
+Kaito, Shadow Assassin removed.
+Abundant Blessings removed.
+Sarkhan's Rebuttal removed.
+Survival of the Strangest removed.
+Reverberation removed.
+Nissa, Visionary Animist removed.
+Selective Amnesia removed.
+Reprint removed.
+Paint the Future removed.
+Joraga Beastmaster removed.
+Gideon's Sural removed.
+Grand Entrance removed.
+Consult the Dead removed.
+Cuxuri Treachery removed.
+Weave Flame Like Tapestry removed.
+Refracted Reflection removed.
+All That You Dreamed Of removed.
+Ryan Opal, Method Actor removed.
+Gun Them Down removed.
+Defile Sanctuary removed.
+Fight Monsters with Mind removed.
+Fearlessness of Youth removed.
+Gestate Evil removed.
+March of Paranoia removed.
+Omen of the Harvest God removed.
+Back to School removed.
+Staggering Performance removed.
+Qing Long's Teachings removed.
+Tasteless Violence removed.
+Ulanian Tourist removed.
+Smash and Grab removed.
+Beachside Joyrider removed.
+
+Favors
+
+Get the Bag
+
+Oakgrove Gossip
+
+Miguel Florens, Headliner
+
+Sway of the Dark Church
+
+Long Hours
+
+Treasure
+
+Smog
+
+Angel
+
+Human
+
+Nightmare
+
+Souvenir
+
+Azamir, Among the Angels
+
+Mirai, Spring Breaking
+
+An Accidental Anarchist
+
+Tove, Modern Curiosity
+
+Jessica, In Her Element
+
+Soak up the Sun
+
+The Faerie Queen
+
+Traffic Jam
+
+On the Grind
+
+Trendy Spirituality
+
+Oakgrove Agent
+
+RCE Producer
+
+Routine Inspection
+
+Burning Rubber
+
+Take in the Sights
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
