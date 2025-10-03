@@ -29,7 +29,7 @@
     },
     {
         "card_name": "Fusion Maestro",
-        "number": 50,
+        "number": 51,
         "shape": "normal",
         "set": "IVP",
         "position": "61"
@@ -64,7 +64,7 @@
     },
     {
         "card_name": "Location Scout",
-        "number": 51,
+        "number": 53,
         "shape": "normal",
         "set": "IVP",
         "position": "51"
@@ -133,11 +133,11 @@
         "position": "59"
     },
     {
-        "card_name": "A Day in the Park",
-        "number": 49,
-        "shape": "normal",
+        "card_name": "The Forest's Edge",
+        "number": 50,
+        "shape": "saga",
         "set": "IVP",
-        "position": "44"
+        "position": "95"
     },
     {
         "card_name": "Opening Night",
@@ -168,11 +168,11 @@
         "position": "55"
     },
     {
-        "card_name": "Oakgrove Agent",
-        "number": 52,
+        "card_name": "Solkern Gila",
+        "number": 56,
         "shape": "normal",
         "set": "IVP",
-        "position": "63"
+        "position": "93"
     },
     {
         "card_name": "RCE Producer",
@@ -203,11 +203,11 @@
         "position": "56"
     },
     {
-        "card_name": "Oakgrove Gossip",
-        "number": 53,
+        "card_name": "A Day in the Park",
+        "number": 49,
         "shape": "normal",
         "set": "IVP",
-        "position": "2"
+        "position": "44"
     },
     {
         "card_name": "Reckless Vacationing",
@@ -238,7 +238,11 @@
         "position": "58"
     },
     {
-        "card_name": "e"
+        "card_name": "Leading Lady",
+        "number": 52,
+        "shape": "normal",
+        "set": "IVP",
+        "position": "94"
     },
     {
         "card_name": "Right and Royalty",
@@ -269,7 +273,11 @@
         "position": "82"
     },
     {
-        "card_name": "e"
+        "card_name": "Oakgrove Agent",
+        "number": 54,
+        "shape": "normal",
+        "set": "IVP",
+        "position": "63"
     },
     {
         "card_name": "Skincare Routine",
@@ -300,7 +308,11 @@
         "position": "86"
     },
     {
-        "card_name": "e"
+        "card_name": "Oakgrove Gossip",
+        "number": 55,
+        "shape": "normal",
+        "set": "IVP",
+        "position": "2"
     },
     {
         "card_name": "Stay Steady",
@@ -413,63 +425,63 @@
     "a->gold",
     {
         "card_name": "Salo, Lax Missionary",
-        "number": 69,
+        "number": 72,
         "shape": "planeswalker",
         "set": "IVP",
         "position": "25"
     },
     {
         "card_name": "Apex Films Dealbroker",
-        "number": 55,
+        "number": 58,
         "shape": "normal",
         "set": "IVP",
         "position": "57"
     },
     {
         "card_name": "An Accidental Anarchist",
-        "number": 54,
+        "number": 57,
         "shape": "planeswalker",
         "set": "IVP",
         "position": "20"
     },
     {
         "card_name": "Rohith, Lost Rakshasa",
-        "number": 67,
+        "number": 70,
         "shape": "planeswalker",
         "set": "IVP",
         "position": "23"
     },
     {
         "card_name": "Sindy, On Overdue Vacation",
-        "number": 71,
+        "number": 74,
         "shape": "planeswalker",
         "set": "IVP",
         "position": "27"
     },
     {
         "card_name": "Sonya, Technical Tourist",
-        "number": 72,
+        "number": 75,
         "shape": "planeswalker",
         "set": "IVP",
         "position": "28"
     },
     {
         "card_name": "Mei, Soul of Discretion",
-        "number": 64,
+        "number": 67,
         "shape": "planeswalker",
         "set": "IVP",
         "position": "17"
     },
     {
         "card_name": "Graffiti Guide",
-        "number": 59,
+        "number": 62,
         "shape": "normal",
         "set": "IVP",
         "position": "52"
     },
     {
         "card_name": "Sihari, Location Consultant",
-        "number": 70,
+        "number": 73,
         "shape": "planeswalker",
         "set": "IVP",
         "position": "26"
@@ -482,7 +494,7 @@
     },
     {
         "card_name": "Penelope, Spirit Caller",
-        "number": 66,
+        "number": 69,
         "shape": "planeswalker",
         "set": "IVP",
         "position": "22"
@@ -513,56 +525,56 @@
     },
     {
         "card_name": "Vande, Ruthless Critic",
-        "number": 74,
+        "number": 77,
         "shape": "planeswalker",
         "set": "IVP",
         "position": "32"
     },
     {
         "card_name": "Jessica, In Her Element",
-        "number": 62,
+        "number": 65,
         "shape": "planeswalker",
         "set": "IVP",
         "position": "31"
     },
     {
         "card_name": "Enter the Endgame",
-        "number": 58,
+        "number": 61,
         "shape": "saga",
         "set": "IVP",
         "position": "90"
     },
     {
         "card_name": "Roxy Robare, Nonstop",
-        "number": 68,
+        "number": 71,
         "shape": "planeswalker",
         "set": "IVP",
         "position": "24"
     },
     {
         "card_name": "Calling Back Home",
-        "number": 57,
+        "number": 60,
         "shape": "normal",
         "set": "IVP",
         "position": "88"
     },
     {
         "card_name": "Ivory Tower Industry",
-        "number": 61,
+        "number": 64,
         "shape": "normal",
         "set": "IVP",
         "position": "45"
     },
     {
         "card_name": "Liactru, Big Damn Hero",
-        "number": 63,
+        "number": 66,
         "shape": "planeswalker",
         "set": "IVP",
         "position": "16"
     },
     {
         "card_name": "Isamu, Hapless Researcher",
-        "number": 60,
+        "number": 63,
         "shape": "planeswalker",
         "set": "IVP",
         "position": "15"
@@ -581,7 +593,7 @@
     },
     {
         "card_name": "Viral Marketing",
-        "number": 75,
+        "number": 78,
         "shape": "normal",
         "set": "IVP",
         "position": "38"
@@ -609,28 +621,28 @@
     },
     {
         "card_name": "Armund, Wayward Killer",
-        "number": 56,
+        "number": 59,
         "shape": "planeswalker",
         "set": "IVP",
         "position": "13"
     },
     {
         "card_name": "Nora, Actress in Waiting",
-        "number": 65,
+        "number": 68,
         "shape": "planeswalker",
         "set": "IVP",
         "position": "19"
     },
     {
         "card_name": "Tove, Modern Curiosity",
-        "number": 73,
+        "number": 76,
         "shape": "planeswalker",
         "set": "IVP",
         "position": "30"
     },
     {
         "card_name": "Zoraya, Beat Dropper",
-        "number": 76,
+        "number": 79,
         "shape": "planeswalker",
         "set": "IVP",
         "position": "34"
@@ -691,63 +703,63 @@
     },
     {
         "card_name": "Brutal Cradle",
-        "number": 77,
+        "number": 80,
         "shape": "normal",
         "set": "IVP",
         "position": "73"
     },
     {
         "card_name": "Solkern Wastes",
-        "number": 84,
+        "number": 87,
         "shape": "normal",
         "set": "IVP",
         "position": "78"
     },
     {
         "card_name": "Joshua Tree Pass",
-        "number": 78,
+        "number": 81,
         "shape": "normal",
         "set": "IVP",
         "position": "74"
     },
     {
         "card_name": "Sandswept Vista",
-        "number": 81,
+        "number": 84,
         "shape": "normal",
         "set": "IVP",
         "position": "76"
     },
     {
         "card_name": "Solkern Lookout",
-        "number": 83,
+        "number": 86,
         "shape": "normal",
         "set": "IVP",
         "position": "77"
     },
     {
         "card_name": "Luxurious Estate",
-        "number": 79,
+        "number": 82,
         "shape": "normal",
         "set": "IVP",
         "position": "72"
     },
     {
         "card_name": "Remote Lookout",
-        "number": 80,
+        "number": 83,
         "shape": "normal",
         "set": "IVP",
         "position": "75"
     },
     {
         "card_name": "Solkern Highway",
-        "number": 82,
+        "number": 85,
         "shape": "normal",
         "set": "IVP",
         "position": "79"
     },
     {
         "card_name": "Suntouched Bluffs",
-        "number": 85,
+        "number": 88,
         "shape": "normal",
         "set": "IVP",
         "position": "80"
