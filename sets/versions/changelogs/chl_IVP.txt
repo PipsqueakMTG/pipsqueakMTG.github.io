@@ -1,4 +1,293 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Nasty Pair added.
+Ace Amateur added.
+City Restoration Project added.
+The Chosen of the Ghosts added.
+Snowfall added.
+Endless Opportunities added.
+Carmichael Beach Lifeguard added.
+Personal Shopper added.
+Rising Star added.
+Road Rager added.
+Reflecting Canyon added.
+The Night Hungers added.
+Boundless Playa added.
+Mystic Arroyo added.
+Eroded Spires added.
+Towering Butte added.
+Sprawling Chaparral added.
+Sand added.
+
+Human removed.
+Remote Lookout removed.
+Sandswept Vista removed.
+Solkern Lookout removed.
+Solkern Wastes removed.
+
+Nightmare
+
+Souvenir
+
+The Carmichael Awards
+cost: {2}{B}{B} => {1}{B}{B}
+
+Armund, Wayward Killer
+
+Azamir, Among the Angels
+
+Isamu, Hapless Researcher
+
+Liactru, Big Damn Hero
+
+Mei, Soul of Discretion
+
+Mirai, Spring Breaking
+
+Nora, Actress in Waiting
+
+An Accidental Anarchist
+
+Ryan Opal Is...Calamity Smith
+
+Penelope, Spirit Caller
+
+Rohith, Lost Rakshasa
+
+Roxy Robare, Nonstop
+
+Salo, Lax Missionary
+
+Sihari, Location Consultant
+rules_text: Tap an untapped Desert you control: You may activate one of Sihari's loyalty abilities an additional time this turn.
+[+1]: Reveal the top card of your library. If it is a land card, put it onto the battlefield. Otherwise, put it into your hand.
+[-2]: Create an X/X red Sand creature token, where X is the number of lands you control. => Whenever you cast a spell, if mana from a Desert was spent to cast it, you may activate one of Sihari's loyalty abilities an additional time this turn.
+[+1]: Reveal the top card of your library. If it is a land card, put it onto the battlefield. Otherwise, put it into your hand.
+[-2]: Create two 2/2 red Sand creature tokens.
+special_text: Tap an untapped Desert you control: You may activate one of Sihari's loyalty abilities an additional time this turn.
+[+1]: Reveal the top card of your library. If it is a land card, put it onto the battlefield. Otherwise, put it into your hand.
+[-2]: Create an X/X red Sand creature token, where X is the number of lands you control. => Whenever you cast a spell, if mana from a Desert was spent to cast it, you may activate one of Sihari's loyalty abilities an additional time this turn.
+[+1]: Reveal the top card of your library. If it is a land card, put it onto the battlefield. Otherwise, put it into your hand.
+[-2]: Create two 2/2 red Sand creature tokens.
+
+Sindy, On Overdue Vacation
+
+Sonya, Technical Tourist
+
+Sylvia, Rabble Rouser
+rules_text: [+2]: Exile the top card of your library. You may cast it until end of turn. If it's a creature or planeswalker card, Sylvia deals 2 damage to each opponent.
+[-1]: Sylvia becomes a 2/2 Cat Warrior creature with indestructible, double strike, and haste until end of turn.
+[-3]: Destroy target artifact or nonbasic land. => [+1]: Exile the top card of your library. You may play it until end of turn. Permanents cast this way gain haste until end of turn.
+[0]: Sylvia becomes a 2/2 Cat Warrior creature with indestructible, double strike, and haste until end of turn.
+[-3]: Destroy target artifact or nonbasic land.
+special_text: [+2]: Exile the top card of your library. You may cast it until end of turn. If it's a creature or planeswalker card, Sylvia deals 2 damage to each opponent.
+[-1]: Sylvia becomes a 2/2 Cat Warrior creature with indestructible, double strike, and haste until end of turn.
+[-3]: Destroy target artifact or nonbasic land. => [+1]: Exile the top card of your library. You may play it until end of turn. Permanents cast this way gain haste until end of turn.
+[0]: Sylvia becomes a 2/2 Cat Warrior creature with indestructible, double strike, and haste until end of turn.
+[-3]: Destroy target artifact or nonbasic land.
+
+Tove, Modern Curiosity
+
+Jessica, In Her Element
+rules_text: Whenever you cast an instant or sorcery spell with mana value 1, copy it. You may choose new targets for the copy.
+[+1]: Jessica deals 2 damage to each opponent.
+[-2]: Draw two cards, then discard two cards unless you discard an instant or sorcery card. => Once each turn, whenever you cast an instant or sorcery spell with mana value 1, you may copy it. You may choose new targets for the copy.
+[+1]: Jessica deals 2 damage to each opponent.
+[-2]: Draw two cards, then discard two cards unless you discard an instant or sorcery card.
+special_text: Whenever you cast an instant or sorcery spell with mana value 1, copy it. You may choose new targets for the copy.
+[+1]: Jessica deals 2 damage to each opponent.
+[-2]: Draw two cards, then discard two cards unless you discard an instant or sorcery card. => Once each turn, whenever you cast an instant or sorcery spell with mana value 1, you may copy it. You may choose new targets for the copy.
+[+1]: Jessica deals 2 damage to each opponent.
+[-2]: Draw two cards, then discard two cards unless you discard an instant or sorcery card.
+
+Vande, Ruthless Critic
+
+Xanigan, Power Broker
+
+Zoraya, Beat Dropper
+
+Camping Trip
+rules_text: Search your library for a Desert card and a basic land card and reveal them. Put up to one of them onto the battlefield, and the rest into your hand, then shuffle. => Search your library for a Desert card and a basic land card and reveal them. Put up to one of them onto the battlefield tapped, and the rest into your hand, then shuffle.
+
+High Budget Parody
+
+Showing Up Stylish
+
+Viral Marketing
+cost: {1}{B}{G} => {B}{G}
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a Saga card, put it onto the battlefield, then shuffle. => Search your library for a Saga card, reveal it, put it into your hand, then shuffle.
+{3}{B}{G}, Sacrifice a creature, Exile Viral Marketing from your graveyard: Put a Saga from your hand or graveyard onto the battlefield. Activate only as a sorcery.
+
+Soak up the Sun
+
+Skincare Routine
+
+Radiant Beauty
+
+The Faerie Queen
+
+Dusk Beckons
+
+A Day in the Park
+
+Ivory Tower Industry
+
+Traffic Jam
+
+Ulnian Insights
+
+Opening Night
+
+On the Grind
+rules_text: Whenever you cast a spell that targets an opponent or a permanent an opponent controls, put a mastery counter on On the Grind. Then you may have each player lose life equal to the number of mastery counters on On the Grind. => [i]Sabotage[/i] — Whenever you cast a spell that targets an opponent or a permanent an opponent controls, put a mastery counter on this enchantment, then each player loses life equal to the number of counters on it.
+{B}, Sacrifice this: Draw a card.
+
+Trendy Spirituality
+
+Location Scout
+
+Graffiti Guide
+
+Garden Fountain
+
+Oakgrove Superstar
+
+Party Queen
+
+Scarlet District Punk
+
+Apex Films Dealbroker
+
+Bum a Light
+
+Living the Yaneta Lifestyle
+
+Shoreline Joyrider
+
+Fusion Maestro
+
+Millenia Studios Secretary
+
+Oakgrove Agent
+
+RCE Producer
+
+Northside Ghost
+
+Holographic Celebrity
+
+Oakgrove Scion
+
+Oni Punk
+
+Talented Tagger
+rules_text: [i]Sabotage[/i] — Whenever an opponent or a permanent an opponent controls becomes the target of a spell you control, Talented Tagger deals 1 damage to that opponent. => Prowess
+[i]Sabotage[/i] — Whenever an opponent or a permanent an opponent controls becomes the target of a spell you control, Talented Tagger deals 1 damage to that opponent.
+pt: 2/1 => 2/2
+
+Ulnian Tourist
+
+Take a Trip
+rules_text: Exile target creature, then return it to the battlefield under its owner's control. You may tap it.
+Ignition {4}{W} [i]({4}{W}: Return this from the graveyard to the battlefield as a Vehicle artifact with crew 3. Exile it if it would leave the battlefield. Activate only as a sorcery.)[/i] => Exile target creature, then return it to the battlefield under its owner's control. You may tap it.
+Ignition {1}{W} [i]({1}{W}: Return this from the graveyard to the battlefield as a Vehicle artifact with crew 3. Exile it if it would leave the battlefield. Activate only as a sorcery.)[/i]
+
+Luxurious Estate
+
+Brutal Cradle
+rules_text: When Brutal Cradle enters the battlefield, you gain X life where X is the number of Deserts you control.
+{T}: Add {C}.
+{4}, {T}, Pay 4 life: Create a tapped colorless 2/2 Sand creature token. => {T}: Add {C}.
+{10}, {T}: Create a 2/2 red Sand creature token. It can't block this turn. This ability costs {1} less to activate for each other Desert you control.
+
+Joshua Tree Pass
+rules_text: {T}: Add {C}.
+{3}, {T}: Add X mana of any one color, where X is the number of Deserts you control. => {T}: Add {C}.
+{T}: Add two mana of any one color. Activate only if you control four or more Deserts.
+
+Solkern Highway
+rules_text: Solkern Highway enters the battlefield tapped.
+As Solkern Highway enters the battlefield, chose a color.
+{T}: Add one mana of the chosen color. => Solkern Highway enters the battlefield tapped.
+As Solkern Highway enters the battlefield, choose a color.
+Solkern Highway and other Deserts you control have “{T}: Add one mana of the chosen color.”
+
+Suntouched Bluffs
+
+Routine Inspection
+rules_text: Mill two cards, then draw a card.
+Ignition {4}{U} [i]({4}{U}: Return this from the graveyard to the battlefield as a Vehicle artifact with crew 3. Exile it if it would leave the battlefield. Activate only as a sorcery.)[/i]
+Flying => Mill two cards, then draw a card.
+Ignition {1}{U} [i]({1}{U}: Return this from the graveyard to the battlefield as a Vehicle artifact with crew 3. Exile it if it would leave the battlefield. Activate only as a sorcery.)[/i]
+Flying
+
+Burning Rubber
+rules_text: Burning Rubber deals 3 damage to any target.
+Ignition {4}{R} [i]({4}{R}: Return this from the graveyard to the battlefield as a Vehicle artifact with crew 3. Exile it if it would leave the battlefield. Activate only as a sorcery.)[/i] => Burning Rubber deals 3 damage to any target.
+Ignition {2}{R} [i]({2}{R}: Return this from the graveyard to the battlefield as a Vehicle artifact with crew 3. Exile it if it would leave the battlefield. Activate only as a sorcery.)[/i]
+Trample
+pt: 5/2 => 5/3
+
+Take in the Sights
+rules_text: Discard a card, then draw two cards.
+Ignition {3}{R}{R} [i]({3}{R}{R}: Return this from the graveyard to the battlefield as a Vehicle artifact with crew 3. Exile it if it would leave the battlefield. Activate only as a sorcery.)[/i]
+Menace => Discard a card, then draw two cards.
+Ignition {1}{R}{R} [i]({1}{R}{R}: Return this from the graveyard to the battlefield as a Vehicle artifact with crew 3. Exile it if it would leave the battlefield. Activate only as a sorcery.)[/i]
+Menace
+
+Reckless Vacationing
+rules_text: Choose one—
+• Destroy target artifact or enchantment.
+• You gain 3 life.
+Ignition {4}{W} [i]({4}{W}: Return this from the graveyard to the battlefield as a Vehicle artifact with crew 3. Exile it if it would leave the battlefield. Activate only as a sorcery.)[/i] => Choose one—
+• Destroy target artifact or enchantment.
+• You gain 3 life.
+Ignition {1}{W} [i]({1}{W}: Return this from the graveyard to the battlefield as a Vehicle artifact with crew 3. Exile it if it would leave the battlefield. Activate only as a sorcery.)[/i]
+
+Stay Steady
+rules_text: Stay Steady deals 4 damage to target tapped creature.
+Ignition {3}{W} [i]({3}{W}: Return this from the graveyard to the battlefield as a Vehicle artifact with crew 3. Exile it if it would leave the battlefield. Activate only as a sorcery.)[/i]
+Vigilance => Stay Steady deals 4 damage to target tapped creature.
+Ignition {2}{W} [i]({2}{W}: Return this from the graveyard to the battlefield as a Vehicle artifact with crew 3. Exile it if it would leave the battlefield. Activate only as a sorcery.)[/i]
+Vigilance
+
+Sunset Chaser
+
+Actor
+
+Calling Back Home
+
+Right and Royalty
+
+Enter the Endgame
+
+The Girl Who Wouldn't Die
+
+Pilfered Process
+rules_text: 
+I, II — Target opponent mills three cards.
+III — You may cast target nonland card from a graveyard this turn and you may spend blue mana as though it were mana of any color to cast it. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Target opponent mills three cards.
+III — You may cast target nonland card from a graveyard this turn and you may spend blue mana as though it were mana of any color to cast it. 
+​
+special_text: 
+I, II — Target opponent mills three cards.
+III — You may cast target nonland card from a graveyard this turn and you may spend blue mana as though it were mana of any color to cast it. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Target opponent mills three cards.
+III — You may cast target nonland card from a graveyard this turn and you may spend blue mana as though it were mana of any color to cast it. 
+​
+
+Solkern Gila
+pt: 6/6 => 5/4
+
+Leading Lady
+
+The Forest's Edge
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Solkern Gila added.
