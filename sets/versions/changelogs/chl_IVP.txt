@@ -1,4 +1,154 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+The Faerie Queen
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile target creature or planeswalker you control, then return it to the battlefield under your control.
+III — Network, then network again. [i](To network, you get {star.png}. You can call in a favor as a sorcery for five {star.png}.)[/i]
+​ => 
+I, II — Exile target creature or planeswalker you control, then return it to the battlefield under your control.
+III — Network, then network again. [i](To network, you get {star.png}. You can call in a favor as a sorcery for five {star.png}.)[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile target creature or planeswalker you control, then return it to the battlefield under your control.
+III — Network, then network again. [i](To network, you get {star.png}. You can call in a favor as a sorcery for five {star.png}.)[/i]
+​ => 
+I, II — Exile target creature or planeswalker you control, then return it to the battlefield under your control.
+III — Network, then network again. [i](To network, you get {star.png}. You can call in a favor as a sorcery for five {star.png}.)[/i]
+
+Joshua Tree Pass
+
+Right and Royalty
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create a 1/1 Actor creature token that is all colors.
+III — Tap up to two target creatures.
+​ => 
+I, II — Create a 1/1 Actor creature token that is all colors.
+III — Tap up to two target creatures.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create a 1/1 Actor creature token that is all colors.
+III — Tap up to two target creatures.
+​ => 
+I, II — Create a 1/1 Actor creature token that is all colors.
+III — Tap up to two target creatures.
+
+The Girl Who Wouldn't Die
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+II — Each opponent loses 2 life and you gain 2 life.
+III — Return target creature card with mana value 2 or less from your graveyard to the battlefield. => 
+I — Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+II — Each opponent loses 2 life and you gain 2 life.
+III — Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+II — Each opponent loses 2 life and you gain 2 life.
+III — Return target creature card with mana value 2 or less from your graveyard to the battlefield. => 
+I — Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+II — Each opponent loses 2 life and you gain 2 life.
+III — Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+
+Pilfered Process
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Target opponent mills three cards.
+III — You may cast target nonland card from a graveyard this turn and you may spend blue mana as though it were mana of any color to cast it. 
+​ => 
+I, II — Target opponent mills three cards.
+III — You may cast target nonland card from a graveyard this turn and you may spend blue mana as though it were mana of any color to cast it.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Target opponent mills three cards.
+III — You may cast target nonland card from a graveyard this turn and you may spend blue mana as though it were mana of any color to cast it. 
+​ => 
+I, II — Target opponent mills three cards.
+III — You may cast target nonland card from a graveyard this turn and you may spend blue mana as though it were mana of any color to cast it.
+
+The Forest's Edge
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. 
+III — Create a Treasure token.
+​ => 
+Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. 
+Create a Treasure token.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. 
+III — Create a Treasure token.
+​ => 
+Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. 
+Create a Treasure token.
+
+The Chosen of the Ghosts
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy up to one target tapped creature.
+II — Create a 1/1 Actor creature token that's all colors.
+III — Put a +1/+1 counter on each creature you control. => 
+I — Destroy up to one target tapped creature.
+II — Create a 1/1 Actor creature token that's all colors.
+III — Put a +1/+1 counter on each creature you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy up to one target tapped creature.
+II — Create a 1/1 Actor creature token that's all colors.
+III — Put a +1/+1 counter on each creature you control. => 
+I — Destroy up to one target tapped creature.
+II — Create a 1/1 Actor creature token that's all colors.
+III — Put a +1/+1 counter on each creature you control.
+
+Snowfall
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Tap target creature you don't control. It doesn't untap as long as you control this enchantment.
+III — Draw a card.
+​ => 
+I, II — Tap target creature you don't control. It doesn't untap as long as you control this enchantment.
+III — Draw a card.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Tap target creature you don't control. It doesn't untap as long as you control this enchantment.
+III — Draw a card.
+​ => 
+I, II — Tap target creature you don't control. It doesn't untap as long as you control this enchantment.
+III — Draw a card.
+
+Reflecting Canyon
+rules_text: When Reflecting Canyon enters the battlefield, you lose 2 life, then choose two colors.
+{T}: Add one mana of either of the chosen colors. => As Reflecting Canyon enters the battlefield, you lose 2 life, then choose two colors.
+{T}: Add one mana of either of the chosen colors.
+
+Boundless Playa
+rules_text: {T}: Add {C}.
+{T}: Add {W}. You lose 1 life.
+{3}{W}, {T}, Sacrifice a Desert: Return target creature card with mana value 2 or less from your graveyard to the battlefield. Activate only as a sorcery. => {T}: Add {C}.
+{T}, Pay 1 life: Add {W}. 
+{2}{W}, {T}, Sacrifice a Desert: Return target creature card with mana value 2 or less from your graveyard to the battlefield. Activate only as a sorcery.
+
+Mystic Arroyo
+rules_text: {T}: Add {C}.
+{T}: Add {U}. You lose 1 life.
+{3}{U}, {T}, Sacrifice a Desert: Return target instant or sorcery card from your graveyard to your hand. Activate only as a sorcery. => {T}: Add {C}.
+{T}, Pay 1 life: Add {U}.
+{3}{U}, {T}, Sacrifice a Desert: Return target instant or sorcery card from your graveyard to your hand. Activate only as a sorcery.
+
+Eroded Spires
+rules_text: {T}: Add {C}.
+{T}: Add {B}. You lose 1 life.
+{3}{B}, {T}, Sacrifice a Desert: Each opponent loses 2 life and you gain 2 life. => {T}: Add {C}.
+{T}: Add {B}. You lose 1 life.
+{2}{B}{B}, {T}, Sacrifice a Desert: Each opponent loses 2 life and you gain 2 life. Activate only as a sorcery.
+
+Towering Butte
+rules_text: {T}: Add {C}.
+{T}: Add {R}. You lose 1 life.
+{3}{R}, {T}, Sacrifice a Desert: Create a 2/2 red Sand creature token. It gains haste until end of turn. Activate only as a sorcery. => {T}: Add {C}.
+{T}, Pay 1 life: Add {R}.
+{3}{R}, {T}, Sacrifice a Desert: Create a 2/2 red Sand creature token. It gains haste until end of turn. Activate only as a sorcery.
+
+Sprawling Chaparral
+rules_text: {T}: Add {C}.
+{T}: Add {G}. You lose 1 life.
+{3}{G}, {T}, Sacrifice a Desert: Create a token that's a copy of target creature you control. Activate only as a sorcery. => {T}: Add {C}.
+{T}, Pay 1 life: Add {G}.
+{4}{G}, {T}, Sacrifice a Desert: Create a token that's a copy of target creature you control. Activate only as a sorcery.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Nasty Pair added.

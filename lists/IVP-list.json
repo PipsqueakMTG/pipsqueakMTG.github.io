@@ -816,18 +816,18 @@
         "position": "72"
     },
     {
-        "card_name": "Reflecting Canyon",
-        "number": 97,
-        "shape": "normal",
-        "set": "IVP",
-        "position": "101"
-    },
-    {
         "card_name": "Joshua Tree Pass",
         "number": 94,
         "shape": "normal",
         "set": "IVP",
         "position": "73"
+    },
+    {
+        "card_name": "Reflecting Canyon",
+        "number": 97,
+        "shape": "normal",
+        "set": "IVP",
+        "position": "101"
     },
     {
         "card_name": "Luxurious Estate",
@@ -861,6 +861,56 @@
     },
     {
         "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Plains",
+        "number": 102,
+        "shape": "normal",
+        "set": "IVP",
+        "position": "109"
+    },
+    {
+        "card_name": "Island",
+        "number": 103,
+        "shape": "normal",
+        "set": "IVP",
+        "position": "110"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 104,
+        "shape": "normal",
+        "set": "IVP",
+        "position": "111"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 105,
+        "shape": "normal",
+        "set": "IVP",
+        "position": "112"
+    },
+    {
+        "card_name": "Forest",
+        "number": 106,
+        "shape": "normal",
+        "set": "IVP",
+        "position": "113"
     },
     {
         "card_name": "er"
