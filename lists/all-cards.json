@@ -37137,15 +37137,17 @@
             "loyalty": "",
             "artist": "Tim Simpson",
             "alias": "",
+            "position": "0",
             "notes": "Maybe EOE-ify it",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ubitsa Forge",
             "color": "",
             "rarity": "cube",
             "type": "Artifact",
-            "number": 190,
+            "number": 191,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "Spirited [i](When this enters, you may activate one of its activated abilities without paying its cost.)[/i]\n{5}, {T}, Discard a card: Create a 0/0 colorless Construct artifact creature token with \u201cThis gets +1/+1 for each artifact you control.\u201d It can't block this turn.",
@@ -37157,15 +37159,17 @@
             "loyalty": "",
             "artist": "Aleksey Litvishkov",
             "alias": "",
+            "position": "1",
             "notes": "maybe rename/reflavor?",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Arid Mesa",
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 192,
+            "number": 193,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle.",
@@ -37177,15 +37181,17 @@
             "loyalty": "",
             "artist": "jason scheier",
             "alias": "",
+            "position": "2",
             "notes": "Dual\nCanon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Badlands",
             "color": "",
             "rarity": "cube",
             "type": "Land \u2013 Swamp Mountain",
-            "number": 193,
+            "number": 194,
             "color_identity": "BR",
             "cost": "",
             "rules_text": "[i]({T}: Add {B} or {R}.)[/i]",
@@ -37197,15 +37203,17 @@
             "loyalty": "",
             "artist": "JulesMartinVos",
             "alias": "",
+            "position": "3",
             "notes": "Dual\nCanon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bayou",
             "color": "",
             "rarity": "cube",
             "type": "Land \u2013 Swamp Forest",
-            "number": 194,
+            "number": 195,
             "color_identity": "BG",
             "cost": "",
             "rules_text": "[i]({T}: Add {B} or {G}.)[/i]",
@@ -37217,15 +37225,17 @@
             "loyalty": "",
             "artist": "JulesMartinVos",
             "alias": "",
+            "position": "4",
             "notes": "Dual\nCanon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bloodstained Mire",
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 195,
+            "number": 196,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain, put it onto the battlefield, then shuffle.",
@@ -37237,15 +37247,17 @@
             "loyalty": "",
             "artist": "Travis Lacey",
             "alias": "",
+            "position": "5",
             "notes": "Dual\nCanon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Flooded Strand",
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 198,
+            "number": 199,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.",
@@ -37257,15 +37269,17 @@
             "loyalty": "",
             "artist": "Evgeniy Kazantsev",
             "alias": "",
+            "position": "6",
             "notes": "Dual\nCanon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Marsh Flats",
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 209,
+            "number": 210,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.",
@@ -37277,15 +37291,17 @@
             "loyalty": "",
             "artist": "Chris Cold",
             "alias": "",
+            "position": "7",
             "notes": "Dual\nCanon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Misty Rainforest",
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 210,
+            "number": 211,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle.",
@@ -37297,18 +37313,20 @@
             "loyalty": "",
             "artist": "Alfven Ato",
             "alias": "",
+            "position": "8",
             "notes": "Dual\nCanon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plateau",
             "color": "",
             "rarity": "cube",
             "type": "Land \u2013 Mountain Plains",
-            "number": 212,
+            "number": 213,
             "color_identity": "WR",
             "cost": "",
-            "rules_text": "[i]({T}: Add {W} or {R}.)[/i]",
+            "rules_text": "[i]({T}: Add {R} or {W}.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -37317,15 +37335,17 @@
             "loyalty": "",
             "artist": "JulesMartinVos",
             "alias": "",
+            "position": "9",
             "notes": "Dual\nCanon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Polluted Delta",
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 213,
+            "number": 214,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.",
@@ -37337,15 +37357,17 @@
             "loyalty": "",
             "artist": "Evgeniy Kazantsev",
             "alias": "",
+            "position": "10",
             "notes": "Dual\nCanon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Savannah",
             "color": "",
             "rarity": "cube",
             "type": "Land \u2013 Forest Plains",
-            "number": 215,
+            "number": 216,
             "color_identity": "WG",
             "cost": "",
             "rules_text": "[i]({T}: Add {G} or {W}.)[/i]",
@@ -37357,15 +37379,17 @@
             "loyalty": "",
             "artist": "JulesMartinVos",
             "alias": "",
+            "position": "11",
             "notes": "Dual\nCanon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scalding Tarn",
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 216,
+            "number": 217,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.",
@@ -37377,15 +37401,17 @@
             "loyalty": "",
             "artist": "Mikail IL",
             "alias": "",
+            "position": "12",
             "notes": "Dual\nCanon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scrubland",
             "color": "",
             "rarity": "cube",
             "type": "Land \u2013 Plains Swamp",
-            "number": 217,
+            "number": 218,
             "color_identity": "WB",
             "cost": "",
             "rules_text": "[i]({T}: Add {W} or {B}.)[/i]",
@@ -37397,15 +37423,17 @@
             "loyalty": "",
             "artist": "JulesMartinVos",
             "alias": "",
+            "position": "13",
             "notes": "Dual\nCanon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Taiga",
             "color": "",
             "rarity": "cube",
             "type": "Land \u2013 Mountain Forest",
-            "number": 218,
+            "number": 219,
             "color_identity": "RG",
             "cost": "",
             "rules_text": "[i]({T}: Add {R} or {G}.)[/i]",
@@ -37417,15 +37445,17 @@
             "loyalty": "",
             "artist": "JulesMartinVos",
             "alias": "",
+            "position": "14",
             "notes": "Dual\nCanon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tropical Island",
             "color": "",
             "rarity": "cube",
             "type": "Land \u2013 Forest Island",
-            "number": 220,
+            "number": 221,
             "color_identity": "UG",
             "cost": "",
             "rules_text": "[i]({T}: Add {G} or {U}.)[/i]",
@@ -37437,15 +37467,17 @@
             "loyalty": "",
             "artist": "JulesMartinVos",
             "alias": "",
+            "position": "15",
             "notes": "Dual\nCanon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tundra",
             "color": "",
             "rarity": "cube",
             "type": "Land \u2013 Plains Island",
-            "number": 221,
+            "number": 222,
             "color_identity": "WU",
             "cost": "",
             "rules_text": "[i]({T}: Add {W} or {U}.)[/i]",
@@ -37457,15 +37489,17 @@
             "loyalty": "",
             "artist": "JulesMartinVos",
             "alias": "",
+            "position": "16",
             "notes": "Dual\nCanon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Underground Sea",
             "color": "",
             "rarity": "cube",
             "type": "Land \u2013 Island Swamp",
-            "number": 222,
+            "number": 223,
             "color_identity": "UB",
             "cost": "",
             "rules_text": "[i]({T}: Add {U} or {B}.)[/i]",
@@ -37477,15 +37511,17 @@
             "loyalty": "",
             "artist": "JulesMartinVos",
             "alias": "",
+            "position": "17",
             "notes": "Dual\nCanon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Verdant Catacombs",
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 223,
+            "number": 224,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.",
@@ -37497,15 +37533,17 @@
             "loyalty": "",
             "artist": "Nicolas Klug",
             "alias": "",
+            "position": "18",
             "notes": "Dual\nCanon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Volcanic Island",
             "color": "",
             "rarity": "cube",
             "type": "Land \u2013 Island Mountain",
-            "number": 224,
+            "number": 225,
             "color_identity": "UR",
             "cost": "",
             "rules_text": "[i]({T}: Add {U} or {R}.)[/i]",
@@ -37517,15 +37555,17 @@
             "loyalty": "",
             "artist": "JulesMartinVos",
             "alias": "",
+            "position": "19",
             "notes": "Dual\nCanon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Windswept Heath",
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 225,
+            "number": 226,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.",
@@ -37537,15 +37577,17 @@
             "loyalty": "",
             "artist": "Philipp A. Urlich",
             "alias": "",
+            "position": "20",
             "notes": "Dual\nCanon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wooded Foothills",
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 226,
+            "number": 227,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.",
@@ -37557,8 +37599,10 @@
             "loyalty": "",
             "artist": "jason scheier",
             "alias": "",
+            "position": "21",
             "notes": "Dual\nCanon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chromatic Cube",
@@ -37577,15 +37621,17 @@
             "loyalty": "",
             "artist": "Zhenjun Song",
             "alias": "",
+            "position": "22",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shimmering Mox",
             "color": "",
             "rarity": "cube",
             "type": "Artifact",
-            "number": 189,
+            "number": 190,
             "color_identity": "C",
             "cost": "{0}",
             "rules_text": "When Shimmering Mox enters the battlefield, you may search your library for a multicolored card and exile it, then shuffle your library.\n{T}: Add one mana of any of the exiled card's colors.",
@@ -37597,8 +37643,10 @@
             "loyalty": "",
             "artist": "Amilton Macedo",
             "alias": "",
+            "position": "23",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pactbound Mox",
@@ -37617,15 +37665,17 @@
             "loyalty": "",
             "artist": "Daniel Kamarudin",
             "alias": "",
+            "position": "24",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Seed of Everything",
             "color": "",
             "rarity": "cube",
             "type": "Legendary Artifact",
-            "number": 188,
+            "number": 189,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "This artifact has all activated abilities of permanents you control with {T} in their activation cost. [i](This includes mana abilities of basic lands.)[/i]",
@@ -37637,8 +37687,10 @@
             "loyalty": "",
             "artist": "Britta Jacobs",
             "alias": "",
+            "position": "25",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Imperial Treasury",
@@ -37657,8 +37709,10 @@
             "loyalty": "",
             "artist": "Armando Savoia",
             "alias": "",
+            "position": "26",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tranquil Mystic",
@@ -37677,8 +37731,10 @@
             "loyalty": "",
             "artist": "Linda Lith\u00e9n",
             "alias": "",
+            "position": "27",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forebode",
@@ -37697,8 +37753,10 @@
             "loyalty": "",
             "artist": "Joanne Tran",
             "alias": "",
+            "position": "28",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plot",
@@ -37717,8 +37775,10 @@
             "loyalty": "",
             "artist": "Alexandr Leskinen",
             "alias": "",
+            "position": "29",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rewritten Dreams",
@@ -37737,15 +37797,17 @@
             "loyalty": "",
             "artist": "Jim \"Dreadjim\" Ling",
             "alias": "",
+            "position": "30",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vibrant Mox",
             "color": "",
             "rarity": "cube",
             "type": "Artifact",
-            "number": 191,
+            "number": 192,
             "color_identity": "C",
             "cost": "{0}",
             "rules_text": "{T}, Pay 1 life: Add one mana of any color. Spend this only to cast a creature spell. If it's spent to cast a legendary creature, that creature enters with a +1/+1 counter.",
@@ -37757,8 +37819,10 @@
             "loyalty": "",
             "artist": "Amilton Macedo",
             "alias": "",
+            "position": "31",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Leaking Memories",
@@ -37777,8 +37841,10 @@
             "loyalty": "",
             "artist": "F T",
             "alias": "",
+            "position": "32",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ego Death",
@@ -37797,8 +37863,10 @@
             "loyalty": "",
             "artist": "Branden Singletary",
             "alias": "",
+            "position": "33",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Otterslide",
@@ -37817,8 +37885,10 @@
             "loyalty": "",
             "artist": "ALRadeck",
             "alias": "",
+            "position": "34",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Expose",
@@ -37837,8 +37907,10 @@
             "loyalty": "",
             "artist": "Ned the Knight",
             "alias": "",
+            "position": "35",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ichor Chalice",
@@ -37857,8 +37929,10 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
+            "position": "36",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Walk with Grace",
@@ -37877,8 +37951,10 @@
             "loyalty": "",
             "artist": "Julia Zhdanova",
             "alias": "",
+            "position": "37",
             "notes": "Reart/reflavor",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Suppose",
@@ -37897,8 +37973,10 @@
             "loyalty": "",
             "artist": "Fedor Barkhatov",
             "alias": "",
+            "position": "38",
             "notes": "Reflavor",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Banish",
@@ -37917,8 +37995,10 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
+            "position": "39",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Massive Impact",
@@ -37937,8 +38017,10 @@
             "loyalty": "",
             "artist": "BLAKE .",
             "alias": "",
+            "position": "40",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Avenge",
@@ -37957,8 +38039,10 @@
             "loyalty": "",
             "artist": "Marta Danecka",
             "alias": "",
+            "position": "41",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Devour Reality",
@@ -37977,8 +38061,10 @@
             "loyalty": "",
             "artist": "Jordan Head",
             "alias": "",
+            "position": "42",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Prismatic Beacon",
@@ -37997,8 +38083,10 @@
             "loyalty": "",
             "artist": "Nele Diel",
             "alias": "",
+            "position": "43",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Warden of Orazca",
@@ -38017,8 +38105,10 @@
             "loyalty": "",
             "artist": "Lorenzo Lanfranconi",
             "alias": "",
+            "position": "44",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mul Daya Speaker",
@@ -38037,8 +38127,10 @@
             "loyalty": "",
             "artist": "ji zhang",
             "alias": "",
+            "position": "45",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pontiff of Accumulation",
@@ -38057,8 +38149,10 @@
             "loyalty": "",
             "artist": "Bruno Jacob",
             "alias": "",
+            "position": "46",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kiki-Jiki, the First Illusionist",
@@ -38077,8 +38171,10 @@
             "loyalty": "",
             "artist": "Dios Revoredo",
             "alias": "",
+            "position": "47",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vitu-Ghazi Envoy",
@@ -38097,8 +38193,10 @@
             "loyalty": "",
             "artist": "Zara Alfonso",
             "alias": "",
+            "position": "48",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stromkirk Visions",
@@ -38117,8 +38215,10 @@
             "loyalty": "",
             "artist": "Robson Michel",
             "alias": "",
+            "position": "49",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ghostly Espionage",
@@ -38137,8 +38237,10 @@
             "loyalty": "",
             "artist": "Rainer Petter",
             "alias": "",
+            "position": "50",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rubblebelt Martyr",
@@ -38157,8 +38259,10 @@
             "loyalty": "",
             "artist": "Andrea Schepisi",
             "alias": "",
+            "position": "51",
             "notes": "DM THIS",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Road Rager",
@@ -38177,8 +38281,10 @@
             "loyalty": "",
             "artist": "Unit Motion Design",
             "alias": "",
+            "position": "52",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Necrogen Rebirth",
@@ -38197,8 +38303,10 @@
             "loyalty": "",
             "artist": "Daniel Caballero",
             "alias": "",
+            "position": "53",
             "notes": "(Unbury)",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Suffocating Light",
@@ -38217,8 +38325,10 @@
             "loyalty": "",
             "artist": "Ling Jun Lin",
             "alias": "",
+            "position": "54",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scourge of Bala Ged",
@@ -38237,8 +38347,10 @@
             "loyalty": "",
             "artist": "johan grenier",
             "alias": "",
+            "position": "55",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blood Demands Blood",
@@ -38257,8 +38369,10 @@
             "loyalty": "",
             "artist": "Sebastian Horoszko",
             "alias": "",
+            "position": "56",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vedalken Astronomer",
@@ -38277,8 +38391,10 @@
             "loyalty": "",
             "artist": "Rick Hertel",
             "alias": "",
+            "position": "57",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mindcrackle",
@@ -38297,8 +38413,10 @@
             "loyalty": "",
             "artist": "Karen Papazian",
             "alias": "",
+            "position": "58",
             "notes": "DM THIS",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Urza, Royal Machinist",
@@ -38317,8 +38435,10 @@
             "loyalty": "",
             "artist": "kinggainer555",
             "alias": "",
+            "position": "59",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Unseal the Underworld",
@@ -38337,8 +38457,10 @@
             "loyalty": "",
             "artist": "Emily Hancock",
             "alias": "",
+            "position": "60",
             "notes": "DM THIS",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Untamed One",
@@ -38357,8 +38479,10 @@
             "loyalty": "",
             "artist": "Rachel Thompson",
             "alias": "",
+            "position": "61",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lost Girl",
@@ -38377,8 +38501,10 @@
             "loyalty": "",
             "artist": "Felipe Lima",
             "alias": "",
+            "position": "62",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Roar of Compleation",
@@ -38397,8 +38523,10 @@
             "loyalty": "",
             "artist": "Kristian N\u00fcsser",
             "alias": "",
+            "position": "63",
             "notes": "(Dying Life)",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Drink Your Fill",
@@ -38417,8 +38545,10 @@
             "loyalty": "",
             "artist": "Marzena Nereida Piwowar",
             "alias": "",
+            "position": "64",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dance of the Kami",
@@ -38437,8 +38567,10 @@
             "loyalty": "",
             "artist": "Francell Garrote",
             "alias": "",
+            "position": "65",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Alpha Baloth",
@@ -38457,8 +38589,10 @@
             "loyalty": "",
             "artist": "Allen Michael Geneta",
             "alias": "",
+            "position": "66",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dreadhorde Invocation",
@@ -38477,8 +38611,10 @@
             "loyalty": "",
             "artist": "Daniel Lee",
             "alias": "",
+            "position": "67",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Prismari Perfomance",
@@ -38497,8 +38633,10 @@
             "loyalty": "",
             "artist": "Drew Soman",
             "alias": "",
+            "position": "68",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lineage of the Way",
@@ -38509,7 +38647,7 @@
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Create a 1/1 blue and red Wizard creature token with prowess. If you drew three or more cards this turn, create two of those tokens instead.",
-            "flavor_text": "[i]Thousands of years ago, Shu Yun's teachings revitalized the Jeskai way. Today, his presence his still felt.[/i]",
+            "flavor_text": "[i]Thousands of years ago, Shu Yun's teachings revitalized the Jeskai way. Today, his presence is still felt.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -38517,8 +38655,10 @@
             "loyalty": "",
             "artist": "Dan Rossi",
             "alias": "",
+            "position": "69",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Make A Symbol",
@@ -38537,8 +38677,10 @@
             "loyalty": "",
             "artist": "Maxim Erokhin",
             "alias": "",
+            "position": "70",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sum of All Fears",
@@ -38557,8 +38699,10 @@
             "loyalty": "",
             "artist": "Vlad Marica",
             "alias": "",
+            "position": "71",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nixie's Trick",
@@ -38577,8 +38721,10 @@
             "loyalty": "",
             "artist": "C\u00e9dric \"Tyron\" Roux",
             "alias": "",
+            "position": "72",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wild Prince",
@@ -38597,8 +38743,10 @@
             "loyalty": "",
             "artist": "alena kuzminykh",
             "alias": "",
+            "position": "73",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fountainport Guildmaster",
@@ -38617,8 +38765,10 @@
             "loyalty": "",
             "artist": "Jerom Jacinto",
             "alias": "",
+            "position": "74",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fin-Clade Renegade",
@@ -38637,8 +38787,10 @@
             "loyalty": "",
             "artist": "Yan POLKOTYCKI",
             "alias": "",
+            "position": "75",
             "notes": "DM THIS",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Volcanic Challenger",
@@ -38657,8 +38809,10 @@
             "loyalty": "",
             "artist": "Marie Baumgarten",
             "alias": "",
+            "position": "76",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lord of the Maze",
@@ -38677,8 +38831,10 @@
             "loyalty": "",
             "artist": "M Rafi",
             "alias": "",
+            "position": "77",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Adarkar Impostor",
@@ -38697,8 +38853,10 @@
             "loyalty": "",
             "artist": "Jacopo Schiavo",
             "alias": "",
+            "position": "78",
             "notes": "\"Savanah Liar\" is a rly good name though",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Littjara Channeler",
@@ -38717,8 +38875,10 @@
             "loyalty": "",
             "artist": "Reuben Yeo",
             "alias": "",
+            "position": "79",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cast In Silver",
@@ -38737,8 +38897,10 @@
             "loyalty": "",
             "artist": "Luc Samori",
             "alias": "",
+            "position": "80",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Territory Dispute",
@@ -38757,8 +38919,10 @@
             "loyalty": "",
             "artist": "Von Milano",
             "alias": "",
+            "position": "81",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Goreform",
@@ -38777,8 +38941,10 @@
             "loyalty": "",
             "artist": "Grafit Studio",
             "alias": "",
+            "position": "82",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Liberated Seraph",
@@ -38797,8 +38963,10 @@
             "loyalty": "",
             "artist": "Zara Alfonso",
             "alias": "",
+            "position": "83",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Start Anew",
@@ -38817,8 +38985,10 @@
             "loyalty": "",
             "artist": "Alena Aenami",
             "alias": "",
+            "position": "84",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blood",
@@ -38837,8 +39007,10 @@
             "loyalty": "",
             "artist": "Andrea Butera",
             "alias": "",
+            "position": "85",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Idol",
@@ -38857,8 +39029,10 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "86",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spirit",
@@ -38877,8 +39051,10 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "87",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Construct",
@@ -38897,8 +39073,10 @@
             "loyalty": "",
             "artist": "Kerem Beyit",
             "alias": "",
+            "position": "88",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wizard",
@@ -38917,8 +39095,10 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "89",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Otter",
@@ -38937,8 +39117,10 @@
             "loyalty": "",
             "artist": "Johanna Tarkela",
             "alias": "",
+            "position": "90",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shapeshifter",
@@ -38957,8 +39139,10 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "91",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Treasure",
@@ -38977,8 +39161,10 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "92",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spiritual Experience",
@@ -38997,8 +39183,10 @@
             "loyalty": "",
             "artist": "Ismail Inceoglu",
             "alias": "",
+            "position": "93",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rot",
@@ -39017,8 +39205,10 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin",
             "alias": "",
+            "position": "94",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Destructive Ambition",
@@ -39037,8 +39227,10 @@
             "loyalty": "",
             "artist": "Chris Cold",
             "alias": "",
+            "position": "95",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Infernal Recall",
@@ -39057,15 +39249,17 @@
             "loyalty": "",
             "artist": "Olya Bossak",
             "alias": "",
+            "position": "96",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forgotten Passage",
             "color": "",
             "rarity": "cube",
             "type": "Land \u2013 Island Swamp",
-            "number": 206,
+            "number": 207,
             "color_identity": "UB",
             "cost": "",
             "rules_text": "[i]({T}: Add {U} or {B})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -39077,15 +39271,17 @@
             "loyalty": "",
             "artist": "Stas Yurev",
             "alias": "",
+            "position": "97",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forgotten Aquifer",
             "color": "",
             "rarity": "cube",
             "type": "Land \u2013 Plains Island",
-            "number": 199,
+            "number": 200,
             "color_identity": "WU",
             "cost": "",
             "rules_text": "[i]({T}: Add {W} or {U})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -39097,15 +39293,17 @@
             "loyalty": "",
             "artist": "Leon Tukker",
             "alias": "",
+            "position": "98",
             "notes": "DM THIS",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "New Divide",
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 211,
+            "number": 212,
             "color_identity": "C",
             "cost": "",
             "rules_text": "As this land enters, you may pay 2 life. If you don't, it enters tapped.\n{T}, Sacrifice New Divide: Search your library for a basic land card, put it onto the battlefield, then shuffle.",
@@ -39117,15 +39315,17 @@
             "loyalty": "",
             "artist": "Acidify Art",
             "alias": "",
+            "position": "99",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "City of Gold",
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 196,
+            "number": 197,
             "color_identity": "C",
             "cost": "",
             "rules_text": "As this land enters the battlefield, choose one or more colors. You lose life equal to the number of colors chosen this way.\n{T}: Add one mana of any of the chosen colors.",
@@ -39137,8 +39337,10 @@
             "loyalty": "",
             "artist": "Asur Misoa",
             "alias": "",
+            "position": "100",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kor Archaeologist",
@@ -39157,8 +39359,10 @@
             "loyalty": "",
             "artist": "Davide Luc\u00e0",
             "alias": "",
+            "position": "101",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Break Reality",
@@ -39177,8 +39381,10 @@
             "loyalty": "",
             "artist": "Romain Kurdi",
             "alias": "",
+            "position": "102",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Reprint",
@@ -39197,8 +39403,10 @@
             "loyalty": "",
             "artist": "Gauthier Redon",
             "alias": "",
+            "position": "103",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Robrashk, Usurper of Rohgahh",
@@ -39217,8 +39425,10 @@
             "loyalty": "",
             "artist": "Oriana Menendez",
             "alias": "",
+            "position": "104",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Jodah's Scorn",
@@ -39237,8 +39447,10 @@
             "loyalty": "",
             "artist": "Maddox Hosegood",
             "alias": "",
+            "position": "105",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fragment of Emptiness",
@@ -39257,8 +39469,10 @@
             "loyalty": "",
             "artist": "Ludovic Sanson",
             "alias": "",
+            "position": "106",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fragment of Curiosity",
@@ -39277,8 +39491,10 @@
             "loyalty": "",
             "artist": "Gordon Christian",
             "alias": "",
+            "position": "107",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fragment of Hope",
@@ -39297,8 +39513,10 @@
             "loyalty": "",
             "artist": "margaw",
             "alias": "",
+            "position": "108",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fragment of Rage",
@@ -39317,8 +39535,10 @@
             "loyalty": "",
             "artist": "Forrest Imel",
             "alias": "",
+            "position": "109",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blade of Banishing",
@@ -39337,8 +39557,10 @@
             "loyalty": "",
             "artist": "Willian Gomes",
             "alias": "",
+            "position": "110",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fragment of Growth",
@@ -39357,8 +39579,10 @@
             "loyalty": "",
             "artist": "Dustin Panzino",
             "alias": "",
+            "position": "111",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cosmium Keeper",
@@ -39377,8 +39601,10 @@
             "loyalty": "",
             "artist": "Anthony Devine",
             "alias": "",
+            "position": "112",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Elementalist's Charm",
@@ -39397,8 +39623,10 @@
             "loyalty": "",
             "artist": "Romain Kurdi",
             "alias": "",
+            "position": "113",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Magda, Axgard Outcast",
@@ -39417,8 +39645,10 @@
             "loyalty": "",
             "artist": "Indrakiin",
             "alias": "",
+            "position": "114",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ferocious Flame",
@@ -39437,8 +39667,10 @@
             "loyalty": "",
             "artist": "Evgeny Dvoretckiy",
             "alias": "",
+            "position": "115",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Galvanic Gambit",
@@ -39457,8 +39689,10 @@
             "loyalty": "",
             "artist": "Kevin Sidharta",
             "alias": "",
+            "position": "116",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Devious Pyromancer",
@@ -39477,8 +39711,10 @@
             "loyalty": "",
             "artist": "Tam\u00e1s Patk\u00f3s",
             "alias": "",
+            "position": "117",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gleeful Arson",
@@ -39497,8 +39733,10 @@
             "loyalty": "",
             "artist": "Bokun An",
             "alias": "",
+            "position": "118",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Karrthus' Tyranny",
@@ -39517,8 +39755,10 @@
             "loyalty": "",
             "artist": "Kent Davis",
             "alias": "",
+            "position": "119",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Unforced Error",
@@ -39537,8 +39777,10 @@
             "loyalty": "",
             "artist": "Flaviots",
             "alias": "",
+            "position": "120",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Grafdigger",
@@ -39557,8 +39799,10 @@
             "loyalty": "",
             "artist": "Oleksandr Kozachenko",
             "alias": "",
+            "position": "121",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rivercrack Mentor",
@@ -39577,8 +39821,10 @@
             "loyalty": "",
             "artist": "Wolf Daemon",
             "alias": "",
+            "position": "122",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Necromantic Dabbler",
@@ -39597,8 +39843,10 @@
             "loyalty": "",
             "artist": "F3LC4T",
             "alias": "",
+            "position": "123",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nahiri, Vengeful Lithomancer",
@@ -39617,8 +39865,10 @@
             "loyalty": "",
             "artist": "Simon Marczyk",
             "alias": "",
+            "position": "124",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gnottvold Grizzly",
@@ -39637,8 +39887,10 @@
             "loyalty": "",
             "artist": "Russell Dongjun Lu",
             "alias": "",
+            "position": "125",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hedron Gatherer",
@@ -39657,8 +39909,10 @@
             "loyalty": "",
             "artist": "Josh Eli",
             "alias": "",
+            "position": "126",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Fleshwright",
@@ -39677,8 +39931,10 @@
             "loyalty": "",
             "artist": "Reiko Gro\u00df",
             "alias": "",
+            "position": "127",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Masterful Stitching",
@@ -39697,8 +39953,10 @@
             "loyalty": "",
             "artist": "Alex V. Ngo",
             "alias": "",
+            "position": "128",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Worship the Ashes",
@@ -39717,8 +39975,10 @@
             "loyalty": "",
             "artist": "Artem Chebokha",
             "alias": "",
+            "position": "129",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mirari's Wrath",
@@ -39737,8 +39997,10 @@
             "loyalty": "",
             "artist": "Ronald Kuang",
             "alias": "",
+            "position": "130",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dormant Doomsday Device",
@@ -39757,8 +40019,10 @@
             "loyalty": "",
             "artist": "Mateusz Bogucki",
             "alias": "",
+            "position": "131",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Overworked Academic",
@@ -39777,8 +40041,10 @@
             "loyalty": "",
             "artist": "Bear Frymire",
             "alias": "",
+            "position": "132",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cabal Cryptkeeper",
@@ -39797,8 +40063,10 @@
             "loyalty": "",
             "artist": "Acidify Art",
             "alias": "",
+            "position": "133",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "West Academy Researcher",
@@ -39817,8 +40085,10 @@
             "loyalty": "",
             "artist": "Konstantinos Skenteridis",
             "alias": "",
+            "position": "134",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fear of Burnout",
@@ -39837,8 +40107,10 @@
             "loyalty": "",
             "artist": "Sally Jackson",
             "alias": "",
+            "position": "135",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Basilica Phantasm",
@@ -39857,8 +40129,10 @@
             "loyalty": "",
             "artist": "Lucas Torquato",
             "alias": "",
+            "position": "136",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nefarox's Emissary",
@@ -39877,8 +40151,10 @@
             "loyalty": "",
             "artist": "Erskine Designs",
             "alias": "",
+            "position": "137",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tidepool Teachings",
@@ -39897,8 +40173,10 @@
             "loyalty": "",
             "artist": "Brian Valeza",
             "alias": "",
+            "position": "138",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tajuru Wildseeker",
@@ -39917,8 +40195,10 @@
             "loyalty": "",
             "artist": "Alessandro Calbini",
             "alias": "",
+            "position": "139",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Untameable Growth",
@@ -39937,8 +40217,10 @@
             "loyalty": "",
             "artist": "Lee b",
             "alias": "",
+            "position": "140",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Reverberation",
@@ -39957,8 +40239,10 @@
             "loyalty": "",
             "artist": "Billy Christian",
             "alias": "",
+            "position": "141",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "What Could Be",
@@ -39977,8 +40261,10 @@
             "loyalty": "",
             "artist": "Alessandro Calbini",
             "alias": "",
+            "position": "142",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Liliana, Queen of the Dead",
@@ -39997,8 +40283,10 @@
             "loyalty": "4",
             "artist": "Filipe Pagliuso",
             "alias": "",
+            "position": "143",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ashiok, Oblivion Liege",
@@ -40017,8 +40305,10 @@
             "loyalty": "4",
             "artist": "Kyle Pearson",
             "alias": "",
+            "position": "144",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nissa, Visionary Animist",
@@ -40037,8 +40327,10 @@
             "loyalty": "4",
             "artist": "Leonardo Santanna",
             "alias": "",
+            "position": "145",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Azami, Aspiring Archivist",
@@ -40057,8 +40349,10 @@
             "loyalty": "",
             "artist": "Asur Misoa",
             "alias": "",
+            "position": "146",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Akroma, Ixidor's Wrath",
@@ -40077,8 +40371,10 @@
             "loyalty": "",
             "artist": "Sara Gonz\u00e1lez",
             "alias": "",
+            "position": "147",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chandra of Keral Keep",
@@ -40097,8 +40393,10 @@
             "loyalty": "3",
             "artist": "Joshua Raphael",
             "alias": "",
+            "position": "148",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vastwood Attunement",
@@ -40117,8 +40415,10 @@
             "loyalty": "",
             "artist": "Victor Maristane",
             "alias": "",
+            "position": "149",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hanna of the Weatherlight",
@@ -40137,8 +40437,10 @@
             "loyalty": "",
             "artist": "Olie Boldador",
             "alias": "",
+            "position": "150",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Seeing Double",
@@ -40157,8 +40459,10 @@
             "loyalty": "",
             "artist": "Blake E. Davis",
             "alias": "",
+            "position": "151",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Survival of the Strangest",
@@ -40177,8 +40481,10 @@
             "loyalty": "",
             "artist": "Nikola Sinitsa",
             "alias": "",
+            "position": "152",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Isao, Jukai Hermit",
@@ -40197,8 +40503,10 @@
             "loyalty": "",
             "artist": "Nolan Lu",
             "alias": "",
+            "position": "153",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Prismatic Bridge Calls",
@@ -40217,8 +40525,10 @@
             "loyalty": "",
             "artist": "Ari-Matti Toivonen",
             "alias": "",
+            "position": "154",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ashmouth Tyrant",
@@ -40237,8 +40547,10 @@
             "loyalty": "",
             "artist": "Panjoool",
             "alias": "",
+            "position": "155",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Messenger of Unx",
@@ -40257,8 +40569,10 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin",
             "alias": "",
+            "position": "156",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Feldon's Bauble",
@@ -40277,8 +40591,10 @@
             "loyalty": "",
             "artist": "Indar Gunawan",
             "alias": "",
+            "position": "157",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Savior of the Pious",
@@ -40297,8 +40613,10 @@
             "loyalty": "",
             "artist": "Conor Burke",
             "alias": "",
+            "position": "158",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Winged Amulet",
@@ -40317,8 +40635,10 @@
             "loyalty": "",
             "artist": "Henrique Lindner",
             "alias": "",
+            "position": "159",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blade Bearer",
@@ -40337,8 +40657,10 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
+            "position": "160",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ajani, Hero of Velis Vel",
@@ -40357,8 +40679,10 @@
             "loyalty": "4",
             "artist": "Darko Stojanovic",
             "alias": "",
+            "position": "161",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Joraga Beastmaster",
@@ -40377,8 +40701,10 @@
             "loyalty": "",
             "artist": "BoissB - Blanca.J",
             "alias": "",
+            "position": "162",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Paint the Future",
@@ -40397,15 +40723,17 @@
             "loyalty": "",
             "artist": "Artem Chebokha",
             "alias": "",
+            "position": "163",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "That Wild Yonder",
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 219,
+            "number": 220,
             "color_identity": "C",
             "cost": "",
             "rules_text": "This land enters tapped.\nThis land is every basic land type. [i](It can tap for {W}, {U}, {B}, {R}, and {G}. Effects that find typed lands can find it.)[/i]",
@@ -40417,8 +40745,10 @@
             "loyalty": "",
             "artist": "Kent Davis",
             "alias": "",
+            "position": "164",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kaito, Shadow Assassin",
@@ -40437,8 +40767,10 @@
             "loyalty": "3",
             "artist": "lie setiawan",
             "alias": "",
+            "position": "165",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mercurial Model",
@@ -40457,8 +40789,10 @@
             "loyalty": "",
             "artist": "Sina Pakzad Kasra",
             "alias": "",
+            "position": "166",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Convergence of Souls",
@@ -40477,8 +40811,10 @@
             "loyalty": "",
             "artist": "Michael Bierek",
             "alias": "",
+            "position": "167",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Burning Augury",
@@ -40497,8 +40833,10 @@
             "loyalty": "",
             "artist": "Yanmo Zhang",
             "alias": "",
+            "position": "168",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lotleth Collector",
@@ -40517,8 +40855,10 @@
             "loyalty": "",
             "artist": "Kevin McKenna",
             "alias": "",
+            "position": "169",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Climb the World Tree",
@@ -40537,8 +40877,10 @@
             "loyalty": "",
             "artist": "Bart Tchorzewski",
             "alias": "",
+            "position": "170",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Menagerie Keeper",
@@ -40557,8 +40899,10 @@
             "loyalty": "",
             "artist": "Gianluca Rolli",
             "alias": "",
+            "position": "171",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "At Any Cost",
@@ -40577,8 +40921,10 @@
             "loyalty": "",
             "artist": "Jarreau Wimberly",
             "alias": "",
+            "position": "172",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Consume",
@@ -40597,8 +40943,10 @@
             "loyalty": "",
             "artist": "Erick Efata",
             "alias": "",
+            "position": "173",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tor Wauki the Elder",
@@ -40617,8 +40965,10 @@
             "loyalty": "",
             "artist": "zhang lu",
             "alias": "",
+            "position": "174",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Eladamri, Skyshroud Liege",
@@ -40637,8 +40987,10 @@
             "loyalty": "",
             "artist": "Antonio Pi\u00f1ero \"ToniPieva\"",
             "alias": "",
+            "position": "175",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Death Knows His Own",
@@ -40657,8 +41009,10 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
+            "position": "176",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Still Waters",
@@ -40677,8 +41031,10 @@
             "loyalty": "",
             "artist": "Kerem Beyit",
             "alias": "",
+            "position": "177",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Extract Sin",
@@ -40697,8 +41053,10 @@
             "loyalty": "",
             "artist": "Karen Papazian",
             "alias": "",
+            "position": "178",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Abundant Blessings",
@@ -40717,8 +41075,10 @@
             "loyalty": "",
             "artist": "Juhyung Kang",
             "alias": "",
+            "position": "179",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Martial Inferno",
@@ -40737,8 +41097,10 @@
             "loyalty": "",
             "artist": "Rob Smyth",
             "alias": "",
+            "position": "180",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sarkhan's Rebuttal",
@@ -40757,8 +41119,10 @@
             "loyalty": "",
             "artist": "Ivan Shavrin",
             "alias": "",
+            "position": "181",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Living Bulwark",
@@ -40777,8 +41141,10 @@
             "loyalty": "",
             "artist": "Kerem Beyit",
             "alias": "",
+            "position": "182",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Quintorius, Sharp Scholar",
@@ -40797,8 +41163,10 @@
             "loyalty": "",
             "artist": "Renan Moraes",
             "alias": "",
+            "position": "183",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Selective Amnesia",
@@ -40817,15 +41185,17 @@
             "loyalty": "",
             "artist": "ilham priyo",
             "alias": "",
+            "position": "184",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forgotten Lavafield",
             "color": "",
             "rarity": "cube",
             "type": "Land \u2013 Swamp Mountain",
-            "number": 205,
+            "number": 206,
             "color_identity": "BR",
             "cost": "",
             "rules_text": "[i]({T}: Add {B} or {R})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -40837,15 +41207,17 @@
             "loyalty": "",
             "artist": "Finnian MacManus",
             "alias": "",
+            "position": "185",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forgotten Summit",
             "color": "",
             "rarity": "cube",
             "type": "Land \u2013 Mountain Forest",
-            "number": 208,
+            "number": 209,
             "color_identity": "RG",
             "cost": "",
             "rules_text": "[i]({T}: Add {R} or {G})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -40857,15 +41229,17 @@
             "loyalty": "",
             "artist": "Brushsauce Studio",
             "alias": "",
+            "position": "186",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forgotten Grove",
             "color": "",
             "rarity": "cube",
             "type": "Land \u2013 Forest Plains",
-            "number": 204,
+            "number": 205,
             "color_identity": "WG",
             "cost": "",
             "rules_text": "[i]({T}: Add {G} or {W})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -40877,15 +41251,17 @@
             "loyalty": "",
             "artist": "Nele Diel",
             "alias": "",
+            "position": "187",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forgotten Barrens",
             "color": "",
             "rarity": "cube",
             "type": "Land \u2013 Plains Swamp",
-            "number": 200,
+            "number": 201,
             "color_identity": "WB",
             "cost": "",
             "rules_text": "[i]({T}: Add {W} or {B})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -40897,15 +41273,17 @@
             "loyalty": "",
             "artist": "Adrian Virlan",
             "alias": "",
+            "position": "188",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forgotten River",
             "color": "",
             "rarity": "cube",
             "type": "Land \u2013 Island Mountain",
-            "number": 207,
+            "number": 208,
             "color_identity": "UR",
             "cost": "",
             "rules_text": "[i]({T}: Add {U} or {R})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -40917,15 +41295,17 @@
             "loyalty": "",
             "artist": "Ayan Nag",
             "alias": "",
+            "position": "189",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forgotten Copse",
             "color": "",
             "rarity": "cube",
             "type": "Land \u2013 Swamp Forest",
-            "number": 202,
+            "number": 203,
             "color_identity": "BG",
             "cost": "",
             "rules_text": "[i]({T}: Add {B} or {G})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -40937,15 +41317,17 @@
             "loyalty": "",
             "artist": "Robert Berg",
             "alias": "",
+            "position": "190",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forgotten Gazebo",
             "color": "",
             "rarity": "cube",
             "type": "Land \u2013 Mountain Plains",
-            "number": 203,
+            "number": 204,
             "color_identity": "WR",
             "cost": "",
             "rules_text": "[i]({T}: Add {R} or {W})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -40957,15 +41339,17 @@
             "loyalty": "",
             "artist": "Nele Diel",
             "alias": "",
+            "position": "191",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forgotten Coast",
             "color": "",
             "rarity": "cube",
             "type": "Land \u2013 Forest Island",
-            "number": 201,
+            "number": 202,
             "color_identity": "UG",
             "cost": "",
             "rules_text": "[i]({T}: Add {G} or {U})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -40977,8 +41361,10 @@
             "loyalty": "",
             "artist": "Nele Diel",
             "alias": "",
+            "position": "192",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gideon's Sural",
@@ -40997,8 +41383,10 @@
             "loyalty": "",
             "artist": "Tyler Jacobson",
             "alias": "",
+            "position": "193",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Quandrix Conundrum",
@@ -41017,8 +41405,10 @@
             "loyalty": "",
             "artist": "Andrew Soman",
             "alias": "",
+            "position": "194",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Twisted Shapestealer",
@@ -41037,8 +41427,10 @@
             "loyalty": "",
             "artist": "Verena G.",
             "alias": "",
+            "position": "195",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Consult the Dead",
@@ -41057,8 +41449,10 @@
             "loyalty": "",
             "artist": "David Bibi\u00e1n Fern\u00e1ndez",
             "alias": "",
+            "position": "196",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Reappropriate",
@@ -41077,8 +41471,10 @@
             "loyalty": "",
             "artist": "Cynthia Sheppard",
             "alias": "",
+            "position": "197",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Aeonic Conduit",
@@ -41097,8 +41493,10 @@
             "loyalty": "",
             "artist": "Dorje Bellbrook",
             "alias": "",
+            "position": "198",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Prophetic Sculpture",
@@ -41117,8 +41515,10 @@
             "loyalty": "",
             "artist": "H Velkut",
             "alias": "",
+            "position": "199",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rite of Shilgengar",
@@ -41137,8 +41537,10 @@
             "loyalty": "",
             "artist": "K 'LeSoldat Mort' B",
             "alias": "",
+            "position": "200",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Teferi, Timestream Savant",
@@ -41157,8 +41559,10 @@
             "loyalty": "4",
             "artist": "Narendra B Adi",
             "alias": "",
+            "position": "201",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Jace, Mnemonic Master",
@@ -41177,8 +41581,10 @@
             "loyalty": "5",
             "artist": "Godfrey Escota",
             "alias": "",
+            "position": "202",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Malevolent Tutor",
@@ -41197,8 +41603,10 @@
             "loyalty": "",
             "artist": "SOUL of VLAD",
             "alias": "",
+            "position": "203",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scorch",
@@ -41217,8 +41625,10 @@
             "loyalty": "",
             "artist": "Ardika Priyata",
             "alias": "",
+            "position": "204",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sink or Swim",
@@ -41237,8 +41647,10 @@
             "loyalty": "",
             "artist": "Mateusz Michalski",
             "alias": "",
+            "position": "205",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bridal Shower",
@@ -41257,8 +41669,10 @@
             "loyalty": "",
             "artist": "JustynaDura",
             "alias": "",
+            "position": "206",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Danika, Falkenrath Consort",
@@ -41277,8 +41691,10 @@
             "loyalty": "",
             "artist": "Xiaofan Zhang",
             "alias": "",
+            "position": "207",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Beast",
@@ -41297,8 +41713,10 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "208",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Abzan Revolution",
@@ -41317,8 +41735,10 @@
             "loyalty": "",
             "artist": "Joel Chaim Holtzman",
             "alias": "",
+            "position": "209",
             "notes": "https://www.artstation.com/artwork/nEr6O6",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Guidance of Saint Traft",
@@ -41337,8 +41757,10 @@
             "loyalty": "",
             "artist": "Rohland DeMoss",
             "alias": "",
+            "position": "210",
             "notes": "https://www.artstation.com/artwork/yJnzoO",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Song of All",
@@ -41357,8 +41779,10 @@
             "loyalty": "",
             "artist": "Daneen Wilkerson",
             "alias": "",
+            "position": "211",
             "notes": "https://www.daneenart.com/?pgid=kljppruj-caf62423-1721-4822-9d84-2553ed654c9b",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Beautiful Tomorrows",
@@ -41377,8 +41801,10 @@
             "loyalty": "",
             "artist": "Matteo Marjoram",
             "alias": "",
+            "position": "212",
             "notes": "https://www.artstation.com/artwork/WGyB3",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Culinary Arts",
@@ -41397,8 +41823,10 @@
             "loyalty": "",
             "artist": "Stephen Stark",
             "alias": "",
+            "position": "213",
             "notes": "https://www.artstation.com/artwork/nYQoZ9",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Extraversal Fragment",
@@ -41417,8 +41845,10 @@
             "loyalty": "",
             "artist": "Ravi Kanth",
             "alias": "",
+            "position": "214",
             "notes": "https://www.artstation.com/artwork/vrX8a",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fang-Druid's Summons",
@@ -41437,8 +41867,10 @@
             "loyalty": "",
             "artist": "Corva Ignacio",
             "alias": "",
+            "position": "215",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Grand Entrance",
@@ -41457,8 +41889,10 @@
             "loyalty": "",
             "artist": "Tim Razumovsky",
             "alias": "",
+            "position": "216",
             "notes": "https://cara.app/post/da0a13d3-b7ad-400b-9f2d-aaf68ff7c0e4",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Jaspera Rune-Reader",
@@ -41477,8 +41911,10 @@
             "loyalty": "",
             "artist": "Patcas",
             "alias": "",
+            "position": "217",
             "notes": "https://www.artstation.com/artwork/Xxz0n",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pull of the Gravetide",
@@ -41497,8 +41933,10 @@
             "loyalty": "",
             "artist": "Lorenzo Bruzzese",
             "alias": "",
+            "position": "218",
             "notes": "Lorenzo Bruzzese",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Automaton Epicure",
@@ -41517,15 +41955,17 @@
             "loyalty": "",
             "artist": "Harkale Linai",
             "alias": "",
+            "position": "219",
             "notes": "https://twitter.com/Harkale_Linai/status/1772989331465994480",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Endless Cityscape",
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 197,
+            "number": 198,
             "color_identity": "C",
             "cost": "",
             "rules_text": "This land enters tapped.\nWhen this land enters, return another land you control to its owner's hand, then create a tapped token that's a copy of that land.\n{T}: Add one mana of any color.",
@@ -41537,15 +41977,17 @@
             "loyalty": "",
             "artist": "Max Steksov",
             "alias": "",
+            "position": "220",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Port of Meletis",
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 214,
+            "number": 215,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}: Add {C}.\n{1}, {T}: Tap target nonbasic land. If that land was already tapped, you may sacrifice this land. If you do, destroy that land.",
@@ -41557,8 +41999,10 @@
             "loyalty": "",
             "artist": "Connor Sheehan",
             "alias": "",
+            "position": "221",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Seedship Scout",
@@ -41577,8 +42021,10 @@
             "loyalty": "",
             "artist": "Jonathan Dawo",
             "alias": "",
+            "position": "222",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Garruk of Silent Groves",
@@ -41597,8 +42043,10 @@
             "loyalty": "5",
             "artist": "Alex Boca",
             "alias": "",
+            "position": "223",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Reject the Notion",
@@ -41617,8 +42065,10 @@
             "loyalty": "",
             "artist": "Jacopo Schiavo",
             "alias": "",
+            "position": "224",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nexus Gate",
@@ -41637,8 +42087,10 @@
             "loyalty": "",
             "artist": "Antoine Collignon",
             "alias": "",
+            "position": "225",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Estatic Alchemist",
@@ -41657,8 +42109,10 @@
             "loyalty": "",
             "artist": "Enmanuel Martinez",
             "alias": "",
+            "position": "226",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bondseeker Magpie",
@@ -41677,8 +42131,10 @@
             "loyalty": "",
             "artist": "Bogna Gawro\u0144ska",
             "alias": "",
+            "position": "227",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Terror of Uncrossed Strait",
@@ -41697,8 +42153,10 @@
             "loyalty": "",
             "artist": "Surendra Rajawat",
             "alias": "",
+            "position": "228",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Refined Diamond",
@@ -41717,8 +42175,10 @@
             "loyalty": "",
             "artist": "Daria Rashev",
             "alias": "",
+            "position": "229",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Halo Oracle",
@@ -41737,8 +42197,10 @@
             "loyalty": "",
             "artist": "Nino Vecia",
             "alias": "",
+            "position": "230",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Goldmeadow Paragon",
@@ -41757,8 +42219,10 @@
             "loyalty": "",
             "artist": "Jesper Ejsing",
             "alias": "",
+            "position": "231",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vis Drain",
@@ -41777,8 +42241,10 @@
             "loyalty": "",
             "artist": "Pavel Kolomeyets",
             "alias": "",
+            "position": "232",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Highland Puca",
@@ -41797,8 +42263,10 @@
             "loyalty": "",
             "artist": "Adam Burke",
             "alias": "",
+            "position": "233",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Higure, Called Twilight",
@@ -41817,8 +42285,32 @@
             "loyalty": "",
             "artist": "Joel Chin",
             "alias": "",
+            "position": "234",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Runed Stalactite Callback",
+            "color": "",
+            "rarity": "cube",
+            "type": "Artifact \u2013 Equipment",
+            "number": 188,
+            "color_identity": "C",
+            "cost": "{2}",
+            "rules_text": "When this Equipment enters, create a 1/1 colorless Shapeshifter creature token with changeling. [i](It is every creature type.)[/i]\nEquipped creature gets +1/+0 and has changeling and \u201cWhen this dies, draw a card.\u201d\nEquip {1}",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "235",
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Jack, Harvester",

@@ -5,6 +5,8 @@
     "image_type": "png",
     "draft_structure": "cube",
     "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Refractor Matrix",
@@ -23,6 +25,7 @@
             "loyalty": "",
             "artist": "Tim Simpson",
             "alias": "",
+            "position": "0",
             "notes": "Maybe EOE-ify it"
         },
         {
@@ -30,7 +33,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Artifact",
-            "number": 190,
+            "number": 191,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "Spirited [i](When this enters, you may activate one of its activated abilities without paying its cost.)[/i]\n{5}, {T}, Discard a card: Create a 0/0 colorless Construct artifact creature token with \u201cThis gets +1/+1 for each artifact you control.\u201d It can't block this turn.",
@@ -42,6 +45,7 @@
             "loyalty": "",
             "artist": "Aleksey Litvishkov",
             "alias": "",
+            "position": "1",
             "notes": "maybe rename/reflavor?"
         },
         {
@@ -49,7 +53,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 192,
+            "number": 193,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle.",
@@ -61,6 +65,7 @@
             "loyalty": "",
             "artist": "jason scheier",
             "alias": "",
+            "position": "2",
             "notes": "Dual\nCanon"
         },
         {
@@ -68,7 +73,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Swamp Mountain",
-            "number": 193,
+            "number": 194,
             "color_identity": "BR",
             "cost": "",
             "rules_text": "[i]({T}: Add {B} or {R}.)[/i]",
@@ -80,6 +85,7 @@
             "loyalty": "",
             "artist": "JulesMartinVos",
             "alias": "",
+            "position": "3",
             "notes": "Dual\nCanon"
         },
         {
@@ -87,7 +93,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Swamp Forest",
-            "number": 194,
+            "number": 195,
             "color_identity": "BG",
             "cost": "",
             "rules_text": "[i]({T}: Add {B} or {G}.)[/i]",
@@ -99,6 +105,7 @@
             "loyalty": "",
             "artist": "JulesMartinVos",
             "alias": "",
+            "position": "4",
             "notes": "Dual\nCanon"
         },
         {
@@ -106,7 +113,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 195,
+            "number": 196,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain, put it onto the battlefield, then shuffle.",
@@ -118,6 +125,7 @@
             "loyalty": "",
             "artist": "Travis Lacey",
             "alias": "",
+            "position": "5",
             "notes": "Dual\nCanon"
         },
         {
@@ -125,7 +133,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 198,
+            "number": 199,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.",
@@ -137,6 +145,7 @@
             "loyalty": "",
             "artist": "Evgeniy Kazantsev",
             "alias": "",
+            "position": "6",
             "notes": "Dual\nCanon"
         },
         {
@@ -144,7 +153,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 209,
+            "number": 210,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.",
@@ -156,6 +165,7 @@
             "loyalty": "",
             "artist": "Chris Cold",
             "alias": "",
+            "position": "7",
             "notes": "Dual\nCanon"
         },
         {
@@ -163,7 +173,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 210,
+            "number": 211,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle.",
@@ -175,6 +185,7 @@
             "loyalty": "",
             "artist": "Alfven Ato",
             "alias": "",
+            "position": "8",
             "notes": "Dual\nCanon"
         },
         {
@@ -182,10 +193,10 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Mountain Plains",
-            "number": 212,
+            "number": 213,
             "color_identity": "WR",
             "cost": "",
-            "rules_text": "[i]({T}: Add {W} or {R}.)[/i]",
+            "rules_text": "[i]({T}: Add {R} or {W}.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -194,6 +205,7 @@
             "loyalty": "",
             "artist": "JulesMartinVos",
             "alias": "",
+            "position": "9",
             "notes": "Dual\nCanon"
         },
         {
@@ -201,7 +213,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 213,
+            "number": 214,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.",
@@ -213,6 +225,7 @@
             "loyalty": "",
             "artist": "Evgeniy Kazantsev",
             "alias": "",
+            "position": "10",
             "notes": "Dual\nCanon"
         },
         {
@@ -220,7 +233,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Forest Plains",
-            "number": 215,
+            "number": 216,
             "color_identity": "WG",
             "cost": "",
             "rules_text": "[i]({T}: Add {G} or {W}.)[/i]",
@@ -232,6 +245,7 @@
             "loyalty": "",
             "artist": "JulesMartinVos",
             "alias": "",
+            "position": "11",
             "notes": "Dual\nCanon"
         },
         {
@@ -239,7 +253,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 216,
+            "number": 217,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.",
@@ -251,6 +265,7 @@
             "loyalty": "",
             "artist": "Mikail IL",
             "alias": "",
+            "position": "12",
             "notes": "Dual\nCanon"
         },
         {
@@ -258,7 +273,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Plains Swamp",
-            "number": 217,
+            "number": 218,
             "color_identity": "WB",
             "cost": "",
             "rules_text": "[i]({T}: Add {W} or {B}.)[/i]",
@@ -270,6 +285,7 @@
             "loyalty": "",
             "artist": "JulesMartinVos",
             "alias": "",
+            "position": "13",
             "notes": "Dual\nCanon"
         },
         {
@@ -277,7 +293,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Mountain Forest",
-            "number": 218,
+            "number": 219,
             "color_identity": "RG",
             "cost": "",
             "rules_text": "[i]({T}: Add {R} or {G}.)[/i]",
@@ -289,6 +305,7 @@
             "loyalty": "",
             "artist": "JulesMartinVos",
             "alias": "",
+            "position": "14",
             "notes": "Dual\nCanon"
         },
         {
@@ -296,7 +313,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Forest Island",
-            "number": 220,
+            "number": 221,
             "color_identity": "UG",
             "cost": "",
             "rules_text": "[i]({T}: Add {G} or {U}.)[/i]",
@@ -308,6 +325,7 @@
             "loyalty": "",
             "artist": "JulesMartinVos",
             "alias": "",
+            "position": "15",
             "notes": "Dual\nCanon"
         },
         {
@@ -315,7 +333,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Plains Island",
-            "number": 221,
+            "number": 222,
             "color_identity": "WU",
             "cost": "",
             "rules_text": "[i]({T}: Add {W} or {U}.)[/i]",
@@ -327,6 +345,7 @@
             "loyalty": "",
             "artist": "JulesMartinVos",
             "alias": "",
+            "position": "16",
             "notes": "Dual\nCanon"
         },
         {
@@ -334,7 +353,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Island Swamp",
-            "number": 222,
+            "number": 223,
             "color_identity": "UB",
             "cost": "",
             "rules_text": "[i]({T}: Add {U} or {B}.)[/i]",
@@ -346,6 +365,7 @@
             "loyalty": "",
             "artist": "JulesMartinVos",
             "alias": "",
+            "position": "17",
             "notes": "Dual\nCanon"
         },
         {
@@ -353,7 +373,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 223,
+            "number": 224,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.",
@@ -365,6 +385,7 @@
             "loyalty": "",
             "artist": "Nicolas Klug",
             "alias": "",
+            "position": "18",
             "notes": "Dual\nCanon"
         },
         {
@@ -372,7 +393,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Island Mountain",
-            "number": 224,
+            "number": 225,
             "color_identity": "UR",
             "cost": "",
             "rules_text": "[i]({T}: Add {U} or {R}.)[/i]",
@@ -384,6 +405,7 @@
             "loyalty": "",
             "artist": "JulesMartinVos",
             "alias": "",
+            "position": "19",
             "notes": "Dual\nCanon"
         },
         {
@@ -391,7 +413,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 225,
+            "number": 226,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.",
@@ -403,6 +425,7 @@
             "loyalty": "",
             "artist": "Philipp A. Urlich",
             "alias": "",
+            "position": "20",
             "notes": "Dual\nCanon"
         },
         {
@@ -410,7 +433,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 226,
+            "number": 227,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.",
@@ -422,6 +445,7 @@
             "loyalty": "",
             "artist": "jason scheier",
             "alias": "",
+            "position": "21",
             "notes": "Dual\nCanon"
         },
         {
@@ -441,6 +465,7 @@
             "loyalty": "",
             "artist": "Zhenjun Song",
             "alias": "",
+            "position": "22",
             "notes": ""
         },
         {
@@ -448,7 +473,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Artifact",
-            "number": 189,
+            "number": 190,
             "color_identity": "C",
             "cost": "{0}",
             "rules_text": "When Shimmering Mox enters the battlefield, you may search your library for a multicolored card and exile it, then shuffle your library.\n{T}: Add one mana of any of the exiled card's colors.",
@@ -460,6 +485,7 @@
             "loyalty": "",
             "artist": "Amilton Macedo",
             "alias": "",
+            "position": "23",
             "notes": ""
         },
         {
@@ -479,6 +505,7 @@
             "loyalty": "",
             "artist": "Daniel Kamarudin",
             "alias": "",
+            "position": "24",
             "notes": ""
         },
         {
@@ -486,7 +513,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Artifact",
-            "number": 188,
+            "number": 189,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "This artifact has all activated abilities of permanents you control with {T} in their activation cost. [i](This includes mana abilities of basic lands.)[/i]",
@@ -498,6 +525,7 @@
             "loyalty": "",
             "artist": "Britta Jacobs",
             "alias": "",
+            "position": "25",
             "notes": ""
         },
         {
@@ -517,6 +545,7 @@
             "loyalty": "",
             "artist": "Armando Savoia",
             "alias": "",
+            "position": "26",
             "notes": ""
         },
         {
@@ -536,6 +565,7 @@
             "loyalty": "",
             "artist": "Linda Lith\u00e9n",
             "alias": "",
+            "position": "27",
             "notes": ""
         },
         {
@@ -555,6 +585,7 @@
             "loyalty": "",
             "artist": "Joanne Tran",
             "alias": "",
+            "position": "28",
             "notes": ""
         },
         {
@@ -574,6 +605,7 @@
             "loyalty": "",
             "artist": "Alexandr Leskinen",
             "alias": "",
+            "position": "29",
             "notes": ""
         },
         {
@@ -593,6 +625,7 @@
             "loyalty": "",
             "artist": "Jim \"Dreadjim\" Ling",
             "alias": "",
+            "position": "30",
             "notes": ""
         },
         {
@@ -600,7 +633,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Artifact",
-            "number": 191,
+            "number": 192,
             "color_identity": "C",
             "cost": "{0}",
             "rules_text": "{T}, Pay 1 life: Add one mana of any color. Spend this only to cast a creature spell. If it's spent to cast a legendary creature, that creature enters with a +1/+1 counter.",
@@ -612,6 +645,7 @@
             "loyalty": "",
             "artist": "Amilton Macedo",
             "alias": "",
+            "position": "31",
             "notes": ""
         },
         {
@@ -631,6 +665,7 @@
             "loyalty": "",
             "artist": "F T",
             "alias": "",
+            "position": "32",
             "notes": ""
         },
         {
@@ -650,6 +685,7 @@
             "loyalty": "",
             "artist": "Branden Singletary",
             "alias": "",
+            "position": "33",
             "notes": ""
         },
         {
@@ -669,6 +705,7 @@
             "loyalty": "",
             "artist": "ALRadeck",
             "alias": "",
+            "position": "34",
             "notes": ""
         },
         {
@@ -688,6 +725,7 @@
             "loyalty": "",
             "artist": "Ned the Knight",
             "alias": "",
+            "position": "35",
             "notes": ""
         },
         {
@@ -707,6 +745,7 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
+            "position": "36",
             "notes": ""
         },
         {
@@ -726,6 +765,7 @@
             "loyalty": "",
             "artist": "Julia Zhdanova",
             "alias": "",
+            "position": "37",
             "notes": "Reart/reflavor"
         },
         {
@@ -745,6 +785,7 @@
             "loyalty": "",
             "artist": "Fedor Barkhatov",
             "alias": "",
+            "position": "38",
             "notes": "Reflavor"
         },
         {
@@ -764,6 +805,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
+            "position": "39",
             "notes": ""
         },
         {
@@ -783,6 +825,7 @@
             "loyalty": "",
             "artist": "BLAKE .",
             "alias": "",
+            "position": "40",
             "notes": ""
         },
         {
@@ -802,6 +845,7 @@
             "loyalty": "",
             "artist": "Marta Danecka",
             "alias": "",
+            "position": "41",
             "notes": ""
         },
         {
@@ -821,6 +865,7 @@
             "loyalty": "",
             "artist": "Jordan Head",
             "alias": "",
+            "position": "42",
             "notes": ""
         },
         {
@@ -840,6 +885,7 @@
             "loyalty": "",
             "artist": "Nele Diel",
             "alias": "",
+            "position": "43",
             "notes": ""
         },
         {
@@ -859,6 +905,7 @@
             "loyalty": "",
             "artist": "Lorenzo Lanfranconi",
             "alias": "",
+            "position": "44",
             "notes": ""
         },
         {
@@ -878,6 +925,7 @@
             "loyalty": "",
             "artist": "ji zhang",
             "alias": "",
+            "position": "45",
             "notes": ""
         },
         {
@@ -897,6 +945,7 @@
             "loyalty": "",
             "artist": "Bruno Jacob",
             "alias": "",
+            "position": "46",
             "notes": ""
         },
         {
@@ -916,6 +965,7 @@
             "loyalty": "",
             "artist": "Dios Revoredo",
             "alias": "",
+            "position": "47",
             "notes": ""
         },
         {
@@ -935,6 +985,7 @@
             "loyalty": "",
             "artist": "Zara Alfonso",
             "alias": "",
+            "position": "48",
             "notes": ""
         },
         {
@@ -954,6 +1005,7 @@
             "loyalty": "",
             "artist": "Robson Michel",
             "alias": "",
+            "position": "49",
             "notes": ""
         },
         {
@@ -973,6 +1025,7 @@
             "loyalty": "",
             "artist": "Rainer Petter",
             "alias": "",
+            "position": "50",
             "notes": ""
         },
         {
@@ -992,6 +1045,7 @@
             "loyalty": "",
             "artist": "Andrea Schepisi",
             "alias": "",
+            "position": "51",
             "notes": "DM THIS"
         },
         {
@@ -1011,6 +1065,7 @@
             "loyalty": "",
             "artist": "Unit Motion Design",
             "alias": "",
+            "position": "52",
             "notes": ""
         },
         {
@@ -1030,6 +1085,7 @@
             "loyalty": "",
             "artist": "Daniel Caballero",
             "alias": "",
+            "position": "53",
             "notes": "(Unbury)"
         },
         {
@@ -1049,6 +1105,7 @@
             "loyalty": "",
             "artist": "Ling Jun Lin",
             "alias": "",
+            "position": "54",
             "notes": ""
         },
         {
@@ -1068,6 +1125,7 @@
             "loyalty": "",
             "artist": "johan grenier",
             "alias": "",
+            "position": "55",
             "notes": ""
         },
         {
@@ -1087,6 +1145,7 @@
             "loyalty": "",
             "artist": "Sebastian Horoszko",
             "alias": "",
+            "position": "56",
             "notes": ""
         },
         {
@@ -1106,6 +1165,7 @@
             "loyalty": "",
             "artist": "Rick Hertel",
             "alias": "",
+            "position": "57",
             "notes": ""
         },
         {
@@ -1125,6 +1185,7 @@
             "loyalty": "",
             "artist": "Karen Papazian",
             "alias": "",
+            "position": "58",
             "notes": "DM THIS"
         },
         {
@@ -1144,6 +1205,7 @@
             "loyalty": "",
             "artist": "kinggainer555",
             "alias": "",
+            "position": "59",
             "notes": ""
         },
         {
@@ -1163,6 +1225,7 @@
             "loyalty": "",
             "artist": "Emily Hancock",
             "alias": "",
+            "position": "60",
             "notes": "DM THIS"
         },
         {
@@ -1182,6 +1245,7 @@
             "loyalty": "",
             "artist": "Rachel Thompson",
             "alias": "",
+            "position": "61",
             "notes": ""
         },
         {
@@ -1201,6 +1265,7 @@
             "loyalty": "",
             "artist": "Felipe Lima",
             "alias": "",
+            "position": "62",
             "notes": ""
         },
         {
@@ -1220,6 +1285,7 @@
             "loyalty": "",
             "artist": "Kristian N\u00fcsser",
             "alias": "",
+            "position": "63",
             "notes": "(Dying Life)"
         },
         {
@@ -1239,6 +1305,7 @@
             "loyalty": "",
             "artist": "Marzena Nereida Piwowar",
             "alias": "",
+            "position": "64",
             "notes": ""
         },
         {
@@ -1258,6 +1325,7 @@
             "loyalty": "",
             "artist": "Francell Garrote",
             "alias": "",
+            "position": "65",
             "notes": ""
         },
         {
@@ -1277,6 +1345,7 @@
             "loyalty": "",
             "artist": "Allen Michael Geneta",
             "alias": "",
+            "position": "66",
             "notes": ""
         },
         {
@@ -1296,6 +1365,7 @@
             "loyalty": "",
             "artist": "Daniel Lee",
             "alias": "",
+            "position": "67",
             "notes": ""
         },
         {
@@ -1315,6 +1385,7 @@
             "loyalty": "",
             "artist": "Drew Soman",
             "alias": "",
+            "position": "68",
             "notes": ""
         },
         {
@@ -1326,7 +1397,7 @@
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Create a 1/1 blue and red Wizard creature token with prowess. If you drew three or more cards this turn, create two of those tokens instead.",
-            "flavor_text": "[i]Thousands of years ago, Shu Yun's teachings revitalized the Jeskai way. Today, his presence his still felt.[/i]",
+            "flavor_text": "[i]Thousands of years ago, Shu Yun's teachings revitalized the Jeskai way. Today, his presence is still felt.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -1334,6 +1405,7 @@
             "loyalty": "",
             "artist": "Dan Rossi",
             "alias": "",
+            "position": "69",
             "notes": ""
         },
         {
@@ -1353,6 +1425,7 @@
             "loyalty": "",
             "artist": "Maxim Erokhin",
             "alias": "",
+            "position": "70",
             "notes": ""
         },
         {
@@ -1372,6 +1445,7 @@
             "loyalty": "",
             "artist": "Vlad Marica",
             "alias": "",
+            "position": "71",
             "notes": ""
         },
         {
@@ -1391,6 +1465,7 @@
             "loyalty": "",
             "artist": "C\u00e9dric \"Tyron\" Roux",
             "alias": "",
+            "position": "72",
             "notes": ""
         },
         {
@@ -1410,6 +1485,7 @@
             "loyalty": "",
             "artist": "alena kuzminykh",
             "alias": "",
+            "position": "73",
             "notes": ""
         },
         {
@@ -1429,6 +1505,7 @@
             "loyalty": "",
             "artist": "Jerom Jacinto",
             "alias": "",
+            "position": "74",
             "notes": ""
         },
         {
@@ -1448,6 +1525,7 @@
             "loyalty": "",
             "artist": "Yan POLKOTYCKI",
             "alias": "",
+            "position": "75",
             "notes": "DM THIS"
         },
         {
@@ -1467,6 +1545,7 @@
             "loyalty": "",
             "artist": "Marie Baumgarten",
             "alias": "",
+            "position": "76",
             "notes": ""
         },
         {
@@ -1486,6 +1565,7 @@
             "loyalty": "",
             "artist": "M Rafi",
             "alias": "",
+            "position": "77",
             "notes": ""
         },
         {
@@ -1505,6 +1585,7 @@
             "loyalty": "",
             "artist": "Jacopo Schiavo",
             "alias": "",
+            "position": "78",
             "notes": "\"Savanah Liar\" is a rly good name though"
         },
         {
@@ -1524,6 +1605,7 @@
             "loyalty": "",
             "artist": "Reuben Yeo",
             "alias": "",
+            "position": "79",
             "notes": ""
         },
         {
@@ -1543,6 +1625,7 @@
             "loyalty": "",
             "artist": "Luc Samori",
             "alias": "",
+            "position": "80",
             "notes": ""
         },
         {
@@ -1562,6 +1645,7 @@
             "loyalty": "",
             "artist": "Von Milano",
             "alias": "",
+            "position": "81",
             "notes": ""
         },
         {
@@ -1581,6 +1665,7 @@
             "loyalty": "",
             "artist": "Grafit Studio",
             "alias": "",
+            "position": "82",
             "notes": ""
         },
         {
@@ -1600,6 +1685,7 @@
             "loyalty": "",
             "artist": "Zara Alfonso",
             "alias": "",
+            "position": "83",
             "notes": ""
         },
         {
@@ -1619,6 +1705,7 @@
             "loyalty": "",
             "artist": "Alena Aenami",
             "alias": "",
+            "position": "84",
             "notes": ""
         },
         {
@@ -1638,6 +1725,7 @@
             "loyalty": "",
             "artist": "Andrea Butera",
             "alias": "",
+            "position": "85",
             "notes": ""
         },
         {
@@ -1657,6 +1745,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "86",
             "notes": ""
         },
         {
@@ -1676,6 +1765,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "87",
             "notes": ""
         },
         {
@@ -1695,6 +1785,7 @@
             "loyalty": "",
             "artist": "Kerem Beyit",
             "alias": "",
+            "position": "88",
             "notes": ""
         },
         {
@@ -1714,6 +1805,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "89",
             "notes": ""
         },
         {
@@ -1733,6 +1825,7 @@
             "loyalty": "",
             "artist": "Johanna Tarkela",
             "alias": "",
+            "position": "90",
             "notes": ""
         },
         {
@@ -1752,6 +1845,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "91",
             "notes": ""
         },
         {
@@ -1771,6 +1865,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "92",
             "notes": ""
         },
         {
@@ -1790,6 +1885,7 @@
             "loyalty": "",
             "artist": "Ismail Inceoglu",
             "alias": "",
+            "position": "93",
             "notes": ""
         },
         {
@@ -1809,6 +1905,7 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin",
             "alias": "",
+            "position": "94",
             "notes": ""
         },
         {
@@ -1828,6 +1925,7 @@
             "loyalty": "",
             "artist": "Chris Cold",
             "alias": "",
+            "position": "95",
             "notes": ""
         },
         {
@@ -1847,6 +1945,7 @@
             "loyalty": "",
             "artist": "Olya Bossak",
             "alias": "",
+            "position": "96",
             "notes": ""
         },
         {
@@ -1854,7 +1953,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Island Swamp",
-            "number": 206,
+            "number": 207,
             "color_identity": "UB",
             "cost": "",
             "rules_text": "[i]({T}: Add {U} or {B})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -1866,6 +1965,7 @@
             "loyalty": "",
             "artist": "Stas Yurev",
             "alias": "",
+            "position": "97",
             "notes": ""
         },
         {
@@ -1873,7 +1973,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Plains Island",
-            "number": 199,
+            "number": 200,
             "color_identity": "WU",
             "cost": "",
             "rules_text": "[i]({T}: Add {W} or {U})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -1885,6 +1985,7 @@
             "loyalty": "",
             "artist": "Leon Tukker",
             "alias": "",
+            "position": "98",
             "notes": "DM THIS"
         },
         {
@@ -1892,7 +1993,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 211,
+            "number": 212,
             "color_identity": "C",
             "cost": "",
             "rules_text": "As this land enters, you may pay 2 life. If you don't, it enters tapped.\n{T}, Sacrifice New Divide: Search your library for a basic land card, put it onto the battlefield, then shuffle.",
@@ -1904,6 +2005,7 @@
             "loyalty": "",
             "artist": "Acidify Art",
             "alias": "",
+            "position": "99",
             "notes": ""
         },
         {
@@ -1911,7 +2013,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 196,
+            "number": 197,
             "color_identity": "C",
             "cost": "",
             "rules_text": "As this land enters the battlefield, choose one or more colors. You lose life equal to the number of colors chosen this way.\n{T}: Add one mana of any of the chosen colors.",
@@ -1923,6 +2025,7 @@
             "loyalty": "",
             "artist": "Asur Misoa",
             "alias": "",
+            "position": "100",
             "notes": ""
         },
         {
@@ -1942,6 +2045,7 @@
             "loyalty": "",
             "artist": "Davide Luc\u00e0",
             "alias": "",
+            "position": "101",
             "notes": ""
         },
         {
@@ -1961,6 +2065,7 @@
             "loyalty": "",
             "artist": "Romain Kurdi",
             "alias": "",
+            "position": "102",
             "notes": ""
         },
         {
@@ -1980,6 +2085,7 @@
             "loyalty": "",
             "artist": "Gauthier Redon",
             "alias": "",
+            "position": "103",
             "notes": ""
         },
         {
@@ -1999,6 +2105,7 @@
             "loyalty": "",
             "artist": "Oriana Menendez",
             "alias": "",
+            "position": "104",
             "notes": ""
         },
         {
@@ -2018,6 +2125,7 @@
             "loyalty": "",
             "artist": "Maddox Hosegood",
             "alias": "",
+            "position": "105",
             "notes": ""
         },
         {
@@ -2037,6 +2145,7 @@
             "loyalty": "",
             "artist": "Ludovic Sanson",
             "alias": "",
+            "position": "106",
             "notes": ""
         },
         {
@@ -2056,6 +2165,7 @@
             "loyalty": "",
             "artist": "Gordon Christian",
             "alias": "",
+            "position": "107",
             "notes": ""
         },
         {
@@ -2075,6 +2185,7 @@
             "loyalty": "",
             "artist": "margaw",
             "alias": "",
+            "position": "108",
             "notes": ""
         },
         {
@@ -2094,6 +2205,7 @@
             "loyalty": "",
             "artist": "Forrest Imel",
             "alias": "",
+            "position": "109",
             "notes": ""
         },
         {
@@ -2113,6 +2225,7 @@
             "loyalty": "",
             "artist": "Willian Gomes",
             "alias": "",
+            "position": "110",
             "notes": ""
         },
         {
@@ -2132,6 +2245,7 @@
             "loyalty": "",
             "artist": "Dustin Panzino",
             "alias": "",
+            "position": "111",
             "notes": ""
         },
         {
@@ -2151,6 +2265,7 @@
             "loyalty": "",
             "artist": "Anthony Devine",
             "alias": "",
+            "position": "112",
             "notes": ""
         },
         {
@@ -2170,6 +2285,7 @@
             "loyalty": "",
             "artist": "Romain Kurdi",
             "alias": "",
+            "position": "113",
             "notes": ""
         },
         {
@@ -2189,6 +2305,7 @@
             "loyalty": "",
             "artist": "Indrakiin",
             "alias": "",
+            "position": "114",
             "notes": ""
         },
         {
@@ -2208,6 +2325,7 @@
             "loyalty": "",
             "artist": "Evgeny Dvoretckiy",
             "alias": "",
+            "position": "115",
             "notes": ""
         },
         {
@@ -2227,6 +2345,7 @@
             "loyalty": "",
             "artist": "Kevin Sidharta",
             "alias": "",
+            "position": "116",
             "notes": ""
         },
         {
@@ -2246,6 +2365,7 @@
             "loyalty": "",
             "artist": "Tam\u00e1s Patk\u00f3s",
             "alias": "",
+            "position": "117",
             "notes": ""
         },
         {
@@ -2265,6 +2385,7 @@
             "loyalty": "",
             "artist": "Bokun An",
             "alias": "",
+            "position": "118",
             "notes": ""
         },
         {
@@ -2284,6 +2405,7 @@
             "loyalty": "",
             "artist": "Kent Davis",
             "alias": "",
+            "position": "119",
             "notes": ""
         },
         {
@@ -2303,6 +2425,7 @@
             "loyalty": "",
             "artist": "Flaviots",
             "alias": "",
+            "position": "120",
             "notes": ""
         },
         {
@@ -2322,6 +2445,7 @@
             "loyalty": "",
             "artist": "Oleksandr Kozachenko",
             "alias": "",
+            "position": "121",
             "notes": ""
         },
         {
@@ -2341,6 +2465,7 @@
             "loyalty": "",
             "artist": "Wolf Daemon",
             "alias": "",
+            "position": "122",
             "notes": ""
         },
         {
@@ -2360,6 +2485,7 @@
             "loyalty": "",
             "artist": "F3LC4T",
             "alias": "",
+            "position": "123",
             "notes": ""
         },
         {
@@ -2379,6 +2505,7 @@
             "loyalty": "",
             "artist": "Simon Marczyk",
             "alias": "",
+            "position": "124",
             "notes": ""
         },
         {
@@ -2398,6 +2525,7 @@
             "loyalty": "",
             "artist": "Russell Dongjun Lu",
             "alias": "",
+            "position": "125",
             "notes": ""
         },
         {
@@ -2417,6 +2545,7 @@
             "loyalty": "",
             "artist": "Josh Eli",
             "alias": "",
+            "position": "126",
             "notes": ""
         },
         {
@@ -2436,6 +2565,7 @@
             "loyalty": "",
             "artist": "Reiko Gro\u00df",
             "alias": "",
+            "position": "127",
             "notes": ""
         },
         {
@@ -2455,6 +2585,7 @@
             "loyalty": "",
             "artist": "Alex V. Ngo",
             "alias": "",
+            "position": "128",
             "notes": ""
         },
         {
@@ -2474,6 +2605,7 @@
             "loyalty": "",
             "artist": "Artem Chebokha",
             "alias": "",
+            "position": "129",
             "notes": ""
         },
         {
@@ -2493,6 +2625,7 @@
             "loyalty": "",
             "artist": "Ronald Kuang",
             "alias": "",
+            "position": "130",
             "notes": ""
         },
         {
@@ -2512,6 +2645,7 @@
             "loyalty": "",
             "artist": "Mateusz Bogucki",
             "alias": "",
+            "position": "131",
             "notes": ""
         },
         {
@@ -2531,6 +2665,7 @@
             "loyalty": "",
             "artist": "Bear Frymire",
             "alias": "",
+            "position": "132",
             "notes": ""
         },
         {
@@ -2550,6 +2685,7 @@
             "loyalty": "",
             "artist": "Acidify Art",
             "alias": "",
+            "position": "133",
             "notes": ""
         },
         {
@@ -2569,6 +2705,7 @@
             "loyalty": "",
             "artist": "Konstantinos Skenteridis",
             "alias": "",
+            "position": "134",
             "notes": ""
         },
         {
@@ -2588,6 +2725,7 @@
             "loyalty": "",
             "artist": "Sally Jackson",
             "alias": "",
+            "position": "135",
             "notes": ""
         },
         {
@@ -2607,6 +2745,7 @@
             "loyalty": "",
             "artist": "Lucas Torquato",
             "alias": "",
+            "position": "136",
             "notes": ""
         },
         {
@@ -2626,6 +2765,7 @@
             "loyalty": "",
             "artist": "Erskine Designs",
             "alias": "",
+            "position": "137",
             "notes": ""
         },
         {
@@ -2645,6 +2785,7 @@
             "loyalty": "",
             "artist": "Brian Valeza",
             "alias": "",
+            "position": "138",
             "notes": ""
         },
         {
@@ -2664,6 +2805,7 @@
             "loyalty": "",
             "artist": "Alessandro Calbini",
             "alias": "",
+            "position": "139",
             "notes": ""
         },
         {
@@ -2683,6 +2825,7 @@
             "loyalty": "",
             "artist": "Lee b",
             "alias": "",
+            "position": "140",
             "notes": ""
         },
         {
@@ -2702,6 +2845,7 @@
             "loyalty": "",
             "artist": "Billy Christian",
             "alias": "",
+            "position": "141",
             "notes": ""
         },
         {
@@ -2721,6 +2865,7 @@
             "loyalty": "",
             "artist": "Alessandro Calbini",
             "alias": "",
+            "position": "142",
             "notes": ""
         },
         {
@@ -2740,6 +2885,7 @@
             "loyalty": "4",
             "artist": "Filipe Pagliuso",
             "alias": "",
+            "position": "143",
             "notes": ""
         },
         {
@@ -2759,6 +2905,7 @@
             "loyalty": "4",
             "artist": "Kyle Pearson",
             "alias": "",
+            "position": "144",
             "notes": ""
         },
         {
@@ -2778,6 +2925,7 @@
             "loyalty": "4",
             "artist": "Leonardo Santanna",
             "alias": "",
+            "position": "145",
             "notes": ""
         },
         {
@@ -2797,6 +2945,7 @@
             "loyalty": "",
             "artist": "Asur Misoa",
             "alias": "",
+            "position": "146",
             "notes": ""
         },
         {
@@ -2816,6 +2965,7 @@
             "loyalty": "",
             "artist": "Sara Gonz\u00e1lez",
             "alias": "",
+            "position": "147",
             "notes": ""
         },
         {
@@ -2835,6 +2985,7 @@
             "loyalty": "3",
             "artist": "Joshua Raphael",
             "alias": "",
+            "position": "148",
             "notes": ""
         },
         {
@@ -2854,6 +3005,7 @@
             "loyalty": "",
             "artist": "Victor Maristane",
             "alias": "",
+            "position": "149",
             "notes": ""
         },
         {
@@ -2873,6 +3025,7 @@
             "loyalty": "",
             "artist": "Olie Boldador",
             "alias": "",
+            "position": "150",
             "notes": ""
         },
         {
@@ -2892,6 +3045,7 @@
             "loyalty": "",
             "artist": "Blake E. Davis",
             "alias": "",
+            "position": "151",
             "notes": ""
         },
         {
@@ -2911,6 +3065,7 @@
             "loyalty": "",
             "artist": "Nikola Sinitsa",
             "alias": "",
+            "position": "152",
             "notes": ""
         },
         {
@@ -2930,6 +3085,7 @@
             "loyalty": "",
             "artist": "Nolan Lu",
             "alias": "",
+            "position": "153",
             "notes": ""
         },
         {
@@ -2949,6 +3105,7 @@
             "loyalty": "",
             "artist": "Ari-Matti Toivonen",
             "alias": "",
+            "position": "154",
             "notes": ""
         },
         {
@@ -2968,6 +3125,7 @@
             "loyalty": "",
             "artist": "Panjoool",
             "alias": "",
+            "position": "155",
             "notes": ""
         },
         {
@@ -2987,6 +3145,7 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin",
             "alias": "",
+            "position": "156",
             "notes": ""
         },
         {
@@ -3006,6 +3165,7 @@
             "loyalty": "",
             "artist": "Indar Gunawan",
             "alias": "",
+            "position": "157",
             "notes": ""
         },
         {
@@ -3025,6 +3185,7 @@
             "loyalty": "",
             "artist": "Conor Burke",
             "alias": "",
+            "position": "158",
             "notes": ""
         },
         {
@@ -3044,6 +3205,7 @@
             "loyalty": "",
             "artist": "Henrique Lindner",
             "alias": "",
+            "position": "159",
             "notes": ""
         },
         {
@@ -3063,6 +3225,7 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
+            "position": "160",
             "notes": ""
         },
         {
@@ -3082,6 +3245,7 @@
             "loyalty": "4",
             "artist": "Darko Stojanovic",
             "alias": "",
+            "position": "161",
             "notes": ""
         },
         {
@@ -3101,6 +3265,7 @@
             "loyalty": "",
             "artist": "BoissB - Blanca.J",
             "alias": "",
+            "position": "162",
             "notes": ""
         },
         {
@@ -3120,6 +3285,7 @@
             "loyalty": "",
             "artist": "Artem Chebokha",
             "alias": "",
+            "position": "163",
             "notes": ""
         },
         {
@@ -3127,7 +3293,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 219,
+            "number": 220,
             "color_identity": "C",
             "cost": "",
             "rules_text": "This land enters tapped.\nThis land is every basic land type. [i](It can tap for {W}, {U}, {B}, {R}, and {G}. Effects that find typed lands can find it.)[/i]",
@@ -3139,6 +3305,7 @@
             "loyalty": "",
             "artist": "Kent Davis",
             "alias": "",
+            "position": "164",
             "notes": ""
         },
         {
@@ -3158,6 +3325,7 @@
             "loyalty": "3",
             "artist": "lie setiawan",
             "alias": "",
+            "position": "165",
             "notes": ""
         },
         {
@@ -3177,6 +3345,7 @@
             "loyalty": "",
             "artist": "Sina Pakzad Kasra",
             "alias": "",
+            "position": "166",
             "notes": ""
         },
         {
@@ -3196,6 +3365,7 @@
             "loyalty": "",
             "artist": "Michael Bierek",
             "alias": "",
+            "position": "167",
             "notes": ""
         },
         {
@@ -3215,6 +3385,7 @@
             "loyalty": "",
             "artist": "Yanmo Zhang",
             "alias": "",
+            "position": "168",
             "notes": ""
         },
         {
@@ -3234,6 +3405,7 @@
             "loyalty": "",
             "artist": "Kevin McKenna",
             "alias": "",
+            "position": "169",
             "notes": ""
         },
         {
@@ -3253,6 +3425,7 @@
             "loyalty": "",
             "artist": "Bart Tchorzewski",
             "alias": "",
+            "position": "170",
             "notes": ""
         },
         {
@@ -3272,6 +3445,7 @@
             "loyalty": "",
             "artist": "Gianluca Rolli",
             "alias": "",
+            "position": "171",
             "notes": ""
         },
         {
@@ -3291,6 +3465,7 @@
             "loyalty": "",
             "artist": "Jarreau Wimberly",
             "alias": "",
+            "position": "172",
             "notes": ""
         },
         {
@@ -3310,6 +3485,7 @@
             "loyalty": "",
             "artist": "Erick Efata",
             "alias": "",
+            "position": "173",
             "notes": ""
         },
         {
@@ -3329,6 +3505,7 @@
             "loyalty": "",
             "artist": "zhang lu",
             "alias": "",
+            "position": "174",
             "notes": ""
         },
         {
@@ -3348,6 +3525,7 @@
             "loyalty": "",
             "artist": "Antonio Pi\u00f1ero \"ToniPieva\"",
             "alias": "",
+            "position": "175",
             "notes": ""
         },
         {
@@ -3367,6 +3545,7 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
+            "position": "176",
             "notes": ""
         },
         {
@@ -3386,6 +3565,7 @@
             "loyalty": "",
             "artist": "Kerem Beyit",
             "alias": "",
+            "position": "177",
             "notes": ""
         },
         {
@@ -3405,6 +3585,7 @@
             "loyalty": "",
             "artist": "Karen Papazian",
             "alias": "",
+            "position": "178",
             "notes": ""
         },
         {
@@ -3424,6 +3605,7 @@
             "loyalty": "",
             "artist": "Juhyung Kang",
             "alias": "",
+            "position": "179",
             "notes": ""
         },
         {
@@ -3443,6 +3625,7 @@
             "loyalty": "",
             "artist": "Rob Smyth",
             "alias": "",
+            "position": "180",
             "notes": ""
         },
         {
@@ -3462,6 +3645,7 @@
             "loyalty": "",
             "artist": "Ivan Shavrin",
             "alias": "",
+            "position": "181",
             "notes": ""
         },
         {
@@ -3481,6 +3665,7 @@
             "loyalty": "",
             "artist": "Kerem Beyit",
             "alias": "",
+            "position": "182",
             "notes": ""
         },
         {
@@ -3500,6 +3685,7 @@
             "loyalty": "",
             "artist": "Renan Moraes",
             "alias": "",
+            "position": "183",
             "notes": ""
         },
         {
@@ -3519,6 +3705,7 @@
             "loyalty": "",
             "artist": "ilham priyo",
             "alias": "",
+            "position": "184",
             "notes": ""
         },
         {
@@ -3526,7 +3713,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Swamp Mountain",
-            "number": 205,
+            "number": 206,
             "color_identity": "BR",
             "cost": "",
             "rules_text": "[i]({T}: Add {B} or {R})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -3538,6 +3725,7 @@
             "loyalty": "",
             "artist": "Finnian MacManus",
             "alias": "",
+            "position": "185",
             "notes": ""
         },
         {
@@ -3545,7 +3733,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Mountain Forest",
-            "number": 208,
+            "number": 209,
             "color_identity": "RG",
             "cost": "",
             "rules_text": "[i]({T}: Add {R} or {G})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -3557,6 +3745,7 @@
             "loyalty": "",
             "artist": "Brushsauce Studio",
             "alias": "",
+            "position": "186",
             "notes": ""
         },
         {
@@ -3564,7 +3753,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Forest Plains",
-            "number": 204,
+            "number": 205,
             "color_identity": "WG",
             "cost": "",
             "rules_text": "[i]({T}: Add {G} or {W})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -3576,6 +3765,7 @@
             "loyalty": "",
             "artist": "Nele Diel",
             "alias": "",
+            "position": "187",
             "notes": ""
         },
         {
@@ -3583,7 +3773,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Plains Swamp",
-            "number": 200,
+            "number": 201,
             "color_identity": "WB",
             "cost": "",
             "rules_text": "[i]({T}: Add {W} or {B})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -3595,6 +3785,7 @@
             "loyalty": "",
             "artist": "Adrian Virlan",
             "alias": "",
+            "position": "188",
             "notes": ""
         },
         {
@@ -3602,7 +3793,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Island Mountain",
-            "number": 207,
+            "number": 208,
             "color_identity": "UR",
             "cost": "",
             "rules_text": "[i]({T}: Add {U} or {R})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -3614,6 +3805,7 @@
             "loyalty": "",
             "artist": "Ayan Nag",
             "alias": "",
+            "position": "189",
             "notes": ""
         },
         {
@@ -3621,7 +3813,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Swamp Forest",
-            "number": 202,
+            "number": 203,
             "color_identity": "BG",
             "cost": "",
             "rules_text": "[i]({T}: Add {B} or {G})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -3633,6 +3825,7 @@
             "loyalty": "",
             "artist": "Robert Berg",
             "alias": "",
+            "position": "190",
             "notes": ""
         },
         {
@@ -3640,7 +3833,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Mountain Plains",
-            "number": 203,
+            "number": 204,
             "color_identity": "WR",
             "cost": "",
             "rules_text": "[i]({T}: Add {R} or {W})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -3652,6 +3845,7 @@
             "loyalty": "",
             "artist": "Nele Diel",
             "alias": "",
+            "position": "191",
             "notes": ""
         },
         {
@@ -3659,7 +3853,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Forest Island",
-            "number": 201,
+            "number": 202,
             "color_identity": "UG",
             "cost": "",
             "rules_text": "[i]({T}: Add {G} or {U})[/i]\nWhen this land enters, you lose 2 life unless you control two or more basic lands.",
@@ -3671,6 +3865,7 @@
             "loyalty": "",
             "artist": "Nele Diel",
             "alias": "",
+            "position": "192",
             "notes": ""
         },
         {
@@ -3690,6 +3885,7 @@
             "loyalty": "",
             "artist": "Tyler Jacobson",
             "alias": "",
+            "position": "193",
             "notes": ""
         },
         {
@@ -3709,6 +3905,7 @@
             "loyalty": "",
             "artist": "Andrew Soman",
             "alias": "",
+            "position": "194",
             "notes": ""
         },
         {
@@ -3728,6 +3925,7 @@
             "loyalty": "",
             "artist": "Verena G.",
             "alias": "",
+            "position": "195",
             "notes": ""
         },
         {
@@ -3747,6 +3945,7 @@
             "loyalty": "",
             "artist": "David Bibi\u00e1n Fern\u00e1ndez",
             "alias": "",
+            "position": "196",
             "notes": ""
         },
         {
@@ -3766,6 +3965,7 @@
             "loyalty": "",
             "artist": "Cynthia Sheppard",
             "alias": "",
+            "position": "197",
             "notes": ""
         },
         {
@@ -3785,6 +3985,7 @@
             "loyalty": "",
             "artist": "Dorje Bellbrook",
             "alias": "",
+            "position": "198",
             "notes": ""
         },
         {
@@ -3804,6 +4005,7 @@
             "loyalty": "",
             "artist": "H Velkut",
             "alias": "",
+            "position": "199",
             "notes": ""
         },
         {
@@ -3823,6 +4025,7 @@
             "loyalty": "",
             "artist": "K 'LeSoldat Mort' B",
             "alias": "",
+            "position": "200",
             "notes": ""
         },
         {
@@ -3842,6 +4045,7 @@
             "loyalty": "4",
             "artist": "Narendra B Adi",
             "alias": "",
+            "position": "201",
             "notes": ""
         },
         {
@@ -3861,6 +4065,7 @@
             "loyalty": "5",
             "artist": "Godfrey Escota",
             "alias": "",
+            "position": "202",
             "notes": ""
         },
         {
@@ -3880,6 +4085,7 @@
             "loyalty": "",
             "artist": "SOUL of VLAD",
             "alias": "",
+            "position": "203",
             "notes": ""
         },
         {
@@ -3899,6 +4105,7 @@
             "loyalty": "",
             "artist": "Ardika Priyata",
             "alias": "",
+            "position": "204",
             "notes": ""
         },
         {
@@ -3918,6 +4125,7 @@
             "loyalty": "",
             "artist": "Mateusz Michalski",
             "alias": "",
+            "position": "205",
             "notes": ""
         },
         {
@@ -3937,6 +4145,7 @@
             "loyalty": "",
             "artist": "JustynaDura",
             "alias": "",
+            "position": "206",
             "notes": ""
         },
         {
@@ -3956,6 +4165,7 @@
             "loyalty": "",
             "artist": "Xiaofan Zhang",
             "alias": "",
+            "position": "207",
             "notes": ""
         },
         {
@@ -3975,6 +4185,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "208",
             "notes": ""
         },
         {
@@ -3994,6 +4205,7 @@
             "loyalty": "",
             "artist": "Joel Chaim Holtzman",
             "alias": "",
+            "position": "209",
             "notes": "https://www.artstation.com/artwork/nEr6O6"
         },
         {
@@ -4013,6 +4225,7 @@
             "loyalty": "",
             "artist": "Rohland DeMoss",
             "alias": "",
+            "position": "210",
             "notes": "https://www.artstation.com/artwork/yJnzoO"
         },
         {
@@ -4032,6 +4245,7 @@
             "loyalty": "",
             "artist": "Daneen Wilkerson",
             "alias": "",
+            "position": "211",
             "notes": "https://www.daneenart.com/?pgid=kljppruj-caf62423-1721-4822-9d84-2553ed654c9b"
         },
         {
@@ -4051,6 +4265,7 @@
             "loyalty": "",
             "artist": "Matteo Marjoram",
             "alias": "",
+            "position": "212",
             "notes": "https://www.artstation.com/artwork/WGyB3"
         },
         {
@@ -4070,6 +4285,7 @@
             "loyalty": "",
             "artist": "Stephen Stark",
             "alias": "",
+            "position": "213",
             "notes": "https://www.artstation.com/artwork/nYQoZ9"
         },
         {
@@ -4089,6 +4305,7 @@
             "loyalty": "",
             "artist": "Ravi Kanth",
             "alias": "",
+            "position": "214",
             "notes": "https://www.artstation.com/artwork/vrX8a"
         },
         {
@@ -4108,6 +4325,7 @@
             "loyalty": "",
             "artist": "Corva Ignacio",
             "alias": "",
+            "position": "215",
             "notes": ""
         },
         {
@@ -4127,6 +4345,7 @@
             "loyalty": "",
             "artist": "Tim Razumovsky",
             "alias": "",
+            "position": "216",
             "notes": "https://cara.app/post/da0a13d3-b7ad-400b-9f2d-aaf68ff7c0e4"
         },
         {
@@ -4146,6 +4365,7 @@
             "loyalty": "",
             "artist": "Patcas",
             "alias": "",
+            "position": "217",
             "notes": "https://www.artstation.com/artwork/Xxz0n"
         },
         {
@@ -4165,6 +4385,7 @@
             "loyalty": "",
             "artist": "Lorenzo Bruzzese",
             "alias": "",
+            "position": "218",
             "notes": "Lorenzo Bruzzese"
         },
         {
@@ -4184,6 +4405,7 @@
             "loyalty": "",
             "artist": "Harkale Linai",
             "alias": "",
+            "position": "219",
             "notes": "https://twitter.com/Harkale_Linai/status/1772989331465994480"
         },
         {
@@ -4191,7 +4413,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 197,
+            "number": 198,
             "color_identity": "C",
             "cost": "",
             "rules_text": "This land enters tapped.\nWhen this land enters, return another land you control to its owner's hand, then create a tapped token that's a copy of that land.\n{T}: Add one mana of any color.",
@@ -4203,6 +4425,7 @@
             "loyalty": "",
             "artist": "Max Steksov",
             "alias": "",
+            "position": "220",
             "notes": ""
         },
         {
@@ -4210,7 +4433,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 214,
+            "number": 215,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}: Add {C}.\n{1}, {T}: Tap target nonbasic land. If that land was already tapped, you may sacrifice this land. If you do, destroy that land.",
@@ -4222,6 +4445,7 @@
             "loyalty": "",
             "artist": "Connor Sheehan",
             "alias": "",
+            "position": "221",
             "notes": ""
         },
         {
@@ -4241,6 +4465,7 @@
             "loyalty": "",
             "artist": "Jonathan Dawo",
             "alias": "",
+            "position": "222",
             "notes": ""
         },
         {
@@ -4260,6 +4485,7 @@
             "loyalty": "5",
             "artist": "Alex Boca",
             "alias": "",
+            "position": "223",
             "notes": ""
         },
         {
@@ -4279,6 +4505,7 @@
             "loyalty": "",
             "artist": "Jacopo Schiavo",
             "alias": "",
+            "position": "224",
             "notes": ""
         },
         {
@@ -4298,6 +4525,7 @@
             "loyalty": "",
             "artist": "Antoine Collignon",
             "alias": "",
+            "position": "225",
             "notes": ""
         },
         {
@@ -4317,6 +4545,7 @@
             "loyalty": "",
             "artist": "Enmanuel Martinez",
             "alias": "",
+            "position": "226",
             "notes": ""
         },
         {
@@ -4336,6 +4565,7 @@
             "loyalty": "",
             "artist": "Bogna Gawro\u0144ska",
             "alias": "",
+            "position": "227",
             "notes": ""
         },
         {
@@ -4355,6 +4585,7 @@
             "loyalty": "",
             "artist": "Surendra Rajawat",
             "alias": "",
+            "position": "228",
             "notes": ""
         },
         {
@@ -4374,6 +4605,7 @@
             "loyalty": "",
             "artist": "Daria Rashev",
             "alias": "",
+            "position": "229",
             "notes": ""
         },
         {
@@ -4393,6 +4625,7 @@
             "loyalty": "",
             "artist": "Nino Vecia",
             "alias": "",
+            "position": "230",
             "notes": ""
         },
         {
@@ -4412,6 +4645,7 @@
             "loyalty": "",
             "artist": "Jesper Ejsing",
             "alias": "",
+            "position": "231",
             "notes": ""
         },
         {
@@ -4431,6 +4665,7 @@
             "loyalty": "",
             "artist": "Pavel Kolomeyets",
             "alias": "",
+            "position": "232",
             "notes": ""
         },
         {
@@ -4450,6 +4685,7 @@
             "loyalty": "",
             "artist": "Adam Burke",
             "alias": "",
+            "position": "233",
             "notes": ""
         },
         {
@@ -4469,6 +4705,27 @@
             "loyalty": "",
             "artist": "Joel Chin",
             "alias": "",
+            "position": "234",
+            "notes": ""
+        },
+        {
+            "card_name": "Runed Stalactite Callback",
+            "color": "",
+            "rarity": "cube",
+            "type": "Artifact \u2014 Equipment",
+            "number": 188,
+            "color_identity": "C",
+            "cost": "{2}",
+            "rules_text": "When this Equipment enters, create a 1/1 colorless Shapeshifter creature token with changeling. [i](It is every creature type.)[/i]\nEquipped creature gets +1/+0 and has changeling and \u201cWhen this dies, draw a card.\u201d\nEquip {1}",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SOL",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "235",
             "notes": ""
         }
     ]

@@ -15,9 +15,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "190",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/190_Ubitsa Forge.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/191_Ubitsa Forge.png"
 			}
 		},
 		{
@@ -25,9 +25,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "192",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/192_Arid Mesa.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/193_Arid Mesa.png"
 			}
 		},
 		{
@@ -35,9 +35,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain",
-			"collector_number": "193",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/193_Badlands.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/194_Badlands.png"
 			}
 		},
 		{
@@ -45,9 +45,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest",
-			"collector_number": "194",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/194_Bayou.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/195_Bayou.png"
 			}
 		},
 		{
@@ -55,9 +55,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "195",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/195_Bloodstained Mire.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/196_Bloodstained Mire.png"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "198",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/198_Flooded Strand.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/199_Flooded Strand.png"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "209",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/209_Marsh Flats.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/210_Marsh Flats.png"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "210",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/210_Misty Rainforest.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/211_Misty Rainforest.png"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains",
-			"collector_number": "212",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/212_Plateau.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/213_Plateau.png"
 			}
 		},
 		{
@@ -105,9 +105,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "213",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/213_Polluted Delta.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/214_Polluted Delta.png"
 			}
 		},
 		{
@@ -115,9 +115,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Plains",
-			"collector_number": "215",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/215_Savannah.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/216_Savannah.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "216",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/216_Scalding Tarn.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/217_Scalding Tarn.png"
 			}
 		},
 		{
@@ -135,9 +135,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
-			"collector_number": "217",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/217_Scrubland.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/218_Scrubland.png"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
-			"collector_number": "218",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/218_Taiga.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/219_Taiga.png"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
-			"collector_number": "220",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/220_Tropical Island.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/221_Tropical Island.png"
 			}
 		},
 		{
@@ -165,9 +165,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Island",
-			"collector_number": "221",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/221_Tundra.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/222_Tundra.png"
 			}
 		},
 		{
@@ -175,9 +175,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Swamp",
-			"collector_number": "222",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/222_Underground Sea.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/223_Underground Sea.png"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "223",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/223_Verdant Catacombs.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/224_Verdant Catacombs.png"
 			}
 		},
 		{
@@ -195,9 +195,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Mountain",
-			"collector_number": "224",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/224_Volcanic Island.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/225_Volcanic Island.png"
 			}
 		},
 		{
@@ -205,9 +205,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "225",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/225_Windswept Heath.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/226_Windswept Heath.png"
 			}
 		},
 		{
@@ -215,9 +215,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "226",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/226_Wooded Foothills.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/227_Wooded Foothills.png"
 			}
 		},
 		{
@@ -235,9 +235,9 @@
 			"rarity": "special",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "189",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/189_Shimmering Mox.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/190_Shimmering Mox.png"
 			}
 		},
 		{
@@ -255,9 +255,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Legendary Artifact",
-			"collector_number": "188",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/188_The Seed of Everything.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/189_The Seed of Everything.png"
 			}
 		},
 		{
@@ -315,9 +315,9 @@
 			"rarity": "special",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "191",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/191_Vibrant Mox.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/192_Vibrant Mox.png"
 			}
 		},
 		{
@@ -975,9 +975,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Swamp",
-			"collector_number": "206",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/206_Forgotten Passage.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/207_Forgotten Passage.png"
 			}
 		},
 		{
@@ -985,9 +985,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Island",
-			"collector_number": "199",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/199_Forgotten Aquifer.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/200_Forgotten Aquifer.png"
 			}
 		},
 		{
@@ -995,9 +995,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "211",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/211_New Divide.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/212_New Divide.png"
 			}
 		},
 		{
@@ -1005,9 +1005,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "196",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/196_City of Gold.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/197_City of Gold.png"
 			}
 		},
 		{
@@ -1645,9 +1645,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "219",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/219_That Wild Yonder.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/220_That Wild Yonder.png"
 			}
 		},
 		{
@@ -1855,9 +1855,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain",
-			"collector_number": "205",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/205_Forgotten Lavafield.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/206_Forgotten Lavafield.png"
 			}
 		},
 		{
@@ -1865,9 +1865,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
-			"collector_number": "208",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/208_Forgotten Summit.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/209_Forgotten Summit.png"
 			}
 		},
 		{
@@ -1875,9 +1875,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Plains",
-			"collector_number": "204",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/204_Forgotten Grove.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/205_Forgotten Grove.png"
 			}
 		},
 		{
@@ -1885,9 +1885,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
-			"collector_number": "200",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/200_Forgotten Barrens.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/201_Forgotten Barrens.png"
 			}
 		},
 		{
@@ -1895,9 +1895,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Mountain",
-			"collector_number": "207",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/207_Forgotten River.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/208_Forgotten River.png"
 			}
 		},
 		{
@@ -1905,9 +1905,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest",
-			"collector_number": "202",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/202_Forgotten Copse.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/203_Forgotten Copse.png"
 			}
 		},
 		{
@@ -1915,9 +1915,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains",
-			"collector_number": "203",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/203_Forgotten Gazebo.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/204_Forgotten Gazebo.png"
 			}
 		},
 		{
@@ -1925,9 +1925,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
-			"collector_number": "201",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/201_Forgotten Coast.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/202_Forgotten Coast.png"
 			}
 		},
 		{
@@ -2205,9 +2205,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "197",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/197_Endless Cityscape.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/198_Endless Cityscape.png"
 			}
 		},
 		{
@@ -2215,9 +2215,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "214",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/214_Port of Meletis.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/215_Port of Meletis.png"
 			}
 		},
 		{
@@ -2348,6 +2348,16 @@
 			"collector_number": "37",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/37_Higure, Called Twilight.png"
+			}
+		},
+		{
+			"name": "Runed Stalactite Callback",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/188_Runed Stalactite Callback.png"
 			}
 		}
 	]
@@ -2579,3 +2589,4 @@
 	1 Vis Drain
 	1 Highland Puca
 	1 Higure, Called Twilight
+	1 Runed Stalactite Callback

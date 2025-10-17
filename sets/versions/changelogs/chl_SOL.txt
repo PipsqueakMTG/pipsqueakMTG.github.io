@@ -1,4 +1,482 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Runed Stalactite Callback added.
+
+
+Refractor Matrix
+
+Ubitsa Forge
+
+Arid Mesa
+
+Badlands
+
+Bayou
+
+Bloodstained Mire
+
+Flooded Strand
+
+Marsh Flats
+
+Misty Rainforest
+
+Plateau
+rules_text: [i]({T}: Add {W} or {R}.)[/i] => [i]({T}: Add {R} or {W}.)[/i]
+
+Polluted Delta
+
+Savannah
+
+Scalding Tarn
+
+Scrubland
+
+Taiga
+
+Tropical Island
+
+Tundra
+
+Underground Sea
+
+Verdant Catacombs
+
+Volcanic Island
+
+Windswept Heath
+
+Wooded Foothills
+
+Chromatic Cube
+
+Shimmering Mox
+
+Pactbound Mox
+
+The Seed of Everything
+
+Imperial Treasury
+
+Tranquil Mystic
+
+Forebode
+
+Plot
+
+Rewritten Dreams
+
+Vibrant Mox
+
+Leaking Memories
+
+Ego Death
+
+Otterslide
+
+Expose
+
+Ichor Chalice
+
+Walk with Grace
+
+Suppose
+
+Banish
+
+Massive Impact
+
+Avenge
+
+Devour Reality
+
+Prismatic Beacon
+
+Warden of Orazca
+
+Mul Daya Speaker
+
+Pontiff of Accumulation
+
+Kiki-Jiki, the First Illusionist
+
+Vitu-Ghazi Envoy
+
+Stromkirk Visions
+
+Ghostly Espionage
+
+Rubblebelt Martyr
+
+Road Rager
+
+Necrogen Rebirth
+
+Suffocating Light
+
+Scourge of Bala Ged
+
+Blood Demands Blood
+
+Vedalken Astronomer
+
+Mindcrackle
+
+Urza, Royal Machinist
+
+Unseal the Underworld
+
+Untamed One
+
+Lost Girl
+
+Roar of Compleation
+
+Drink Your Fill
+
+Dance of the Kami
+
+Alpha Baloth
+
+Dreadhorde Invocation
+
+Prismari Perfomance
+
+Lineage of the Way
+
+Make A Symbol
+
+Sum of All Fears
+
+Nixie's Trick
+
+Wild Prince
+
+Fountainport Guildmaster
+
+Fin-Clade Renegade
+
+Volcanic Challenger
+
+Lord of the Maze
+
+Adarkar Impostor
+
+Littjara Channeler
+
+Cast In Silver
+
+Territory Dispute
+
+Goreform
+
+Liberated Seraph
+
+Start Anew
+
+Blood
+
+Idol
+
+Spirit
+
+Construct
+
+Wizard
+
+Otter
+
+Shapeshifter
+
+Treasure
+
+Spiritual Experience
+
+Rot
+
+Destructive Ambition
+
+Infernal Recall
+
+Forgotten Passage
+
+Forgotten Aquifer
+
+New Divide
+
+City of Gold
+
+Kor Archaeologist
+
+Break Reality
+
+Reprint
+
+Robrashk, Usurper of Rohgahh
+
+Jodah's Scorn
+
+Fragment of Emptiness
+
+Fragment of Curiosity
+
+Fragment of Hope
+
+Fragment of Rage
+
+Blade of Banishing
+
+Fragment of Growth
+
+Cosmium Keeper
+
+Elementalist's Charm
+
+Magda, Axgard Outcast
+
+Ferocious Flame
+
+Galvanic Gambit
+
+Devious Pyromancer
+
+Gleeful Arson
+
+Karrthus' Tyranny
+
+Unforced Error
+
+Grafdigger
+
+Rivercrack Mentor
+
+Necromantic Dabbler
+
+Nahiri, Vengeful Lithomancer
+
+Gnottvold Grizzly
+
+Hedron Gatherer
+
+The Fleshwright
+
+Masterful Stitching
+
+Worship the Ashes
+
+Mirari's Wrath
+
+Dormant Doomsday Device
+
+Overworked Academic
+
+Cabal Cryptkeeper
+
+West Academy Researcher
+
+Fear of Burnout
+
+Basilica Phantasm
+
+Nefarox's Emissary
+
+Tidepool Teachings
+
+Tajuru Wildseeker
+
+Untameable Growth
+
+Reverberation
+
+What Could Be
+
+Liliana, Queen of the Dead
+
+Ashiok, Oblivion Liege
+
+Nissa, Visionary Animist
+
+Azami, Aspiring Archivist
+
+Akroma, Ixidor's Wrath
+
+Chandra of Keral Keep
+
+Vastwood Attunement
+
+Hanna of the Weatherlight
+
+Seeing Double
+
+Survival of the Strangest
+
+Isao, Jukai Hermit
+
+The Prismatic Bridge Calls
+
+Ashmouth Tyrant
+
+Messenger of Unx
+
+Feldon's Bauble
+
+Savior of the Pious
+
+Winged Amulet
+
+Blade Bearer
+
+Ajani, Hero of Velis Vel
+
+Joraga Beastmaster
+
+Paint the Future
+
+That Wild Yonder
+
+Kaito, Shadow Assassin
+
+Mercurial Model
+
+Convergence of Souls
+
+Burning Augury
+
+Lotleth Collector
+
+Climb the World Tree
+
+Menagerie Keeper
+
+At Any Cost
+
+Consume
+
+Tor Wauki the Elder
+
+Eladamri, Skyshroud Liege
+
+Death Knows His Own
+
+Still Waters
+
+Extract Sin
+
+Abundant Blessings
+
+Martial Inferno
+
+Sarkhan's Rebuttal
+
+Living Bulwark
+
+Quintorius, Sharp Scholar
+
+Selective Amnesia
+
+Forgotten Lavafield
+
+Forgotten Summit
+
+Forgotten Grove
+
+Forgotten Barrens
+
+Forgotten River
+
+Forgotten Copse
+
+Forgotten Gazebo
+
+Forgotten Coast
+
+Gideon's Sural
+
+Quandrix Conundrum
+
+Twisted Shapestealer
+
+Consult the Dead
+
+Reappropriate
+
+Aeonic Conduit
+
+Prophetic Sculpture
+
+Rite of Shilgengar
+
+Teferi, Timestream Savant
+
+Jace, Mnemonic Master
+
+Malevolent Tutor
+
+Scorch
+
+Sink or Swim
+
+Bridal Shower
+
+Danika, Falkenrath Consort
+
+Beast
+
+Abzan Revolution
+
+Guidance of Saint Traft
+
+Song of All
+
+Beautiful Tomorrows
+
+Culinary Arts
+
+Extraversal Fragment
+
+Fang-Druid's Summons
+
+Grand Entrance
+
+Jaspera Rune-Reader
+
+Pull of the Gravetide
+
+Automaton Epicure
+
+Endless Cityscape
+
+Port of Meletis
+
+Seedship Scout
+
+Garruk of Silent Groves
+
+Reject the Notion
+
+Nexus Gate
+
+Estatic Alchemist
+
+Bondseeker Magpie
+
+Terror of Uncrossed Strait
+
+Refined Diamond
+
+Halo Oracle
+
+Goldmeadow Paragon
+
+Vis Drain
+
+Highland Puca
+
+Higure, Called Twilight
+
+
+VERSION 8 CHANGELOG
 ====================
 
 
