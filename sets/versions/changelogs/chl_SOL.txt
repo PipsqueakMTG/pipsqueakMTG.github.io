@@ -1,4 +1,96 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Apex Omnibian added.
+Jolrael, Druidic Dissident added.
+Steward of Nylea added.
+Kalonian Lifeweaver added.
+Territorial Ironhide added.
+Agnomakhos, the Sun Tyrant added.
+Lord of the Abyss added.
+Reclusive Hypnotist added.
+Essence Scavengers added.
+Kami of Sorrow added.
+Bloodline Progenitor added.
+Street Smarts added.
+Multifarious Mask added.
+Primal Roundup added.
+Balemurk Harrower added.
+Saint Elenda of Garrano added.
+Talara, the Great Safewright added.
+Ramosian Negotiator added.
+Overlord of Mirrex added.
+Boros Mage-Priest added.
+Multiplicity Tome added.
+Alesha's Quartermaster added.
+
+Runed Stalactite Callback removed.
+
+Overworked Academic
+type: Creaature — Elf Wizard => Creature — Elf Wizard
+
+Chandra of Keral Keep
+rules_text: [+1]: Create a 1/1 red and blue Wizard creature token with prowess. If an opponent lost life this turn, create an additional token.
+[+1]: Chandra deals 2 damage to any target.
+[-7]: You get an emblem with “{R}, Discard a card: This emblem deals 3 damage to any target.” You may discard your hand. If you do, draw three cards. => [+1]: Create a 1/1 blue and red Wizard creature token with prowess. If an opponent lost life this turn, create an additional token.
+[+1]: Chandra deals 2 damage to any target.
+[-7]: You get an emblem with “{R}, Discard a card: This emblem deals 3 damage to any target.” You may discard your hand. If you do, draw three cards.
+special_text: [+1]: Create a 1/1 red and blue Wizard creature token with prowess. If an opponent lost life this turn, create an additional token.
+[+1]: Chandra deals 2 damage to any target.
+[-7]: You get an emblem with “{R}, Discard a card: This emblem deals 3 damage to any target.” You may discard your hand. If you do, draw three cards. => [+1]: Create a 1/1 blue and red Wizard creature token with prowess. If an opponent lost life this turn, create an additional token.
+[+1]: Chandra deals 2 damage to any target.
+[-7]: You get an emblem with “{R}, Discard a card: This emblem deals 3 damage to any target.” You may discard your hand. If you do, draw three cards.
+
+Burning Augury
+rules_text: Discard a card, then draw a card. If you discarded a nonland card this way, create a 1/1 red and blue Wizard creature token with prowess.
+Retrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i] => Discard a card, then draw a card. If you discarded a nonland card this way, create a 1/1 blue and red Wizard creature token with prowess.
+Retrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i]
+
+Eladamri, Skyshroud Liege
+pt: 2/4 => 3/3
+
+Jaspera Rune-Reader
+
+Pull of the Gravetide
+
+Automaton Epicure
+
+Endless Cityscape
+
+Port of Meletis
+
+Seedship Scout
+
+Garruk of Silent Groves
+
+Reject the Notion
+
+Nexus Gate
+
+Estatic Alchemist
+
+Bondseeker Magpie
+
+Terror of Uncrossed Strait
+
+Refined Diamond
+
+Halo Oracle
+
+Goldmeadow Paragon
+
+Vis Drain
+
+Highland Puca
+
+Higure, Called Twilight
+
+Grand Entrance
+cost: {4}{G}{G} => {1}{G}
+rules_text: Look at the top six cards of your library. Put any number of permanent cards from among them with total mana value 8 or less onto the battlefield. Put the rest on the bottom of your library in a random order. => Search your library for a creature card, reveal it, and put it into your hand, then shuffle. If its mana value was 5 or greater, create a Treasure token.
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Runed Stalactite Callback added.
