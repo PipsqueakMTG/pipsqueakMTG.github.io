@@ -1,4 +1,63 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Thrull Mastermind added.
+Duskmantle Agent added.
+Marina Vendrell, Secret Keeper added.
+Wyleth, Swordcraft Veteran added.
+Champion of Progenitus added.
+Keeper of the Crucible added.
+Frenzied Experimenter added.
+Protostar Phoenix added.
+Savai Cracklemaw added.
+Altac Thunderblade added.
+Rhet-Crop Exemplar added.
+The Lands Beyond Valley added.
+Binding Tape added.
+Voidbane Astelli added.
+Memnarch, Argentum Warden added.
+Walking Ecosystem added.
+Junkmonger added.
+Katilda, Solstice Matriarch added.
+Witherbloom Capstone added.
+Tools of the Trade added.
+Schooling Aetherskites added.
+Sigiled Outcast added.
+Anitoxa, the Weftwatcher added.
+Stabilized Omenpath added.
+Beastmaster's Bracers added.
+Captured Bloom added.
+Smuggler's Aetherskaes added.
+Moment of Omniscence added.
+Rishadan Kidnapper added.
+Sanctum of Oketra added.
+Sanctum of Isilu added.
+Sanctum of Ojer Pakpatiq added.
+Sanctum of Nylea added.
+Sanctum of Ilharg added.
+Futurist Gauntlet added.
+Powerwell Myr added.
+Smoldering Reaper added.
+G-Los, Prototype Pilgrim added.
+Eternity Crystal added.
+Karador, Mentor of Myth added.
+The Outcast One added.
+Generous Automaton added.
+Gitaxian Dissectors added.
+Rapture added.
+
+
+Dormant Doomsday Device
+rules_text: This artifact enters tapped with eight stun counters on it.
+Whenever you cast a noncreature spell, untap this.
+{1}, {T}: This deals 2 damage to any target.
+{1}, {T}: Draw a card. => This artifact enters tapped with eight stun counters on it.
+Whenever you cast a noncreature spell, untap this artifact.
+{1}, {T}: This deals 2 damage to any target.
+{1}, {T}: Draw a card.
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Apex Omnibian added.
