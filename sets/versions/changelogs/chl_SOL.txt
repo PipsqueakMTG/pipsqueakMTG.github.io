@@ -1,4 +1,34 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+
+
+Jodah's Scorn
+
+Winged Amulet
+rules_text: Equipped creature gets +1/+1 and has flying.
+Exhaust— {3}{W}: Return target creature card with mana value 5 or less from your graveyard to the battlefield. Attach this to it.
+Equip {3} => Equipped creature gets +1/+1 and has flying.
+Exhaust — {3}{W}: Return target creature card with mana value 5 or less from your graveyard to the battlefield. Attach this to it. [i](Activate each exhaust ability only once.)[/i]
+Equip {3}
+
+Champion of Progenitus
+rules_text: Menace
+Exhaust — {W}{U}{B}{R}{G}: Exile the top two cards of your library. Put one of them into your hand. You may cast the other without paying its mana cost. [i](Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i] => Menace
+Exhaust — {W}{U}{B}{R}{G}: Exile the top two cards of your library. Put one of them into your hand. You may cast the other without paying its mana cost. [i](Activate each exhaust ability only once.)[/i]
+
+Frostfire Fox
+rules_text: Haste
+Exhaust — {3}{R}: Put a +1/+1 counter on this creature. It deals damage equal to its power to any target. [i](Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i] => Haste
+Exhaust — {3}{R}: Put a +1/+1 counter on this creature. It deals damage equal to its power to any target. [i](Activate each exhaust ability only once.)[/i]
+
+Vedalken Journeymage
+rules_text: Whenever you cast a noncreature spell, create a 1/1 blue and red Wizard creature token with prowess. This ability only triggers once each turn.
+Exhaust — {15}: Take an extra turn after this one. This ability costs {1} less to activate for each other Wizard you control. [i](Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i] => Whenever you cast a noncreature spell, create a 1/1 blue and red Wizard creature token with prowess. This ability only triggers once each turn.
+Exhaust — {15}: Take an extra turn after this one. This ability costs {1} less to activate for each other Wizard you control. [i](Activate each exhaust ability only once.)[/i]
+
+
+VERSION 13 CHANGELOG
 ====================
 
 Sentinel Forge added.
