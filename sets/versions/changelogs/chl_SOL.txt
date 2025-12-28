@@ -1,4 +1,708 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Sentinel Forge added.
+Janjeet Astronomer added.
+Tyranny of Karrthus added.
+Promised Conquest added.
+Composite Crawler added.
+Gannet, Skysail Zoologist added.
+Ludevic's Courier added.
+Altar of the False God added.
+Cerebral Connoisseur added.
+Serene Study added.
+Reki of the Living Historians added.
+Dragonspeaker's Charm added.
+Pathcutter Raptor added.
+Hoarder of Possibilities added.
+Gargaroth Yearling added.
+Naktamun Vestige added.
+Thaumaturgy added.
+Hollowhenge Predator added.
+Eyeblight Reaper added.
+Titan Engine added.
+Going Nowhere added.
+Scrapworks added.
+New Prahv, Seat of the Senate added.
+Chama Koj, Forbidden Chamber added.
+Locthwain, Corrupted Castle added.
+Tomakul, Fallaji Capital added.
+Setessa, Polis of Plenty added.
+Tarnation, City of Scoundrels added.
+Ghirapur, Hub of Innovation added.
+Dewrim, Rootbloom Haven added.
+Cori Mountain, Pilgrim's Path added.
+Ior, Glasspool Ruin added.
+Warmaker Aurelia added.
+Frostfire Fox added.
+Spectacular Conjuration added.
+Overlord of Mosswood added.
+Vedalken Journeymage added.
+Herald of New Life added.
+Valor's Reach Star added.
+
+Ubitsa Forge removed.
+Pactbound Mox removed.
+Imperial Treasury removed.
+Vibrant Mox removed.
+Vedalken Astronomer removed.
+Karrthus' Tyranny removed.
+Ravenous Ambition removed.
+Strong as Fuck Mummy removed.
+
+Refractor Matrix
+
+Chromatic Cube
+
+The Seed of Everything
+
+Tranquil Mystic
+type: Creature — Human Shaman => Creature — Human Monk
+
+Forebode
+
+Plot
+
+Rewritten Dreams
+
+Leaking Memories
+
+Ego Death
+
+Otterslide
+
+Expose
+
+Ichor Chalice
+
+Walk with Grace
+
+Suppose
+
+Massive Impact
+
+Avenge
+
+Devour Reality
+
+Prismatic Beacon
+
+Warden of Orazca
+
+Mul Daya Speaker
+
+Pontiff of Accumulation
+
+Kiki-Jiki, the First Illusionist
+
+Vitu-Ghazi Envoy
+
+Stromkirk Visions
+
+Ghostly Espionage
+
+Rubblebelt Martyr
+
+Road Rager
+
+Necrogen Rebirth
+
+Suffocating Light
+
+Scourge of Bala Ged
+
+Blood Demands Blood
+
+Mindcrackle
+
+Urza, Royal Machinist
+
+Unseal the Underworld
+
+Untamed One
+
+Lost Girl
+
+Roar of Compleation
+
+Drink Your Fill
+
+Dance of the Kami
+
+Alpha Baloth
+
+Dreadhorde Invocation
+
+Prismari Perfomance
+
+Lineage of the Way
+
+Make A Symbol
+
+Sum of All Fears
+
+Nixie's Trick
+
+Wild Prince
+
+Fountainport Guildmaster
+
+Fin-Clade Renegade
+
+Volcanic Challenger
+
+Lord of the Maze
+
+Adarkar Impostor
+
+Littjara Channeler
+
+Cast In Silver
+
+Territory Dispute
+
+Goreform
+
+Liberated Seraph
+
+Start Anew
+
+Blood
+
+Idol
+
+Spirit
+
+Construct
+
+Wizard
+
+Otter
+
+Shapeshifter
+
+Treasure
+
+Spiritual Experience
+
+Rot
+
+Destructive Ambition
+
+Infernal Recall
+
+Forgotten Passage
+
+Forgotten Aquifer
+
+New Divide
+
+City of Gold
+
+Kor Archaeologist
+
+Break Reality
+
+Reprint
+
+Robrashk, Usurper of Rohgahh
+
+Jodah's Scorn
+
+Fragment of Emptiness
+
+Fragment of Curiosity
+
+Fragment of Hope
+
+Fragment of Rage
+
+Blade of Banishing
+
+Fragment of Growth
+
+Cosmium Keeper
+
+Elementalist's Charm
+
+Magda, Axgard Outcast
+
+Ferocious Flame
+
+Galvanic Gambit
+
+Devious Pyromancer
+
+Gleeful Arson
+
+Unforced Error
+
+Grafdigger
+
+Rivercrack Mentor
+
+Necromantic Dabbler
+
+Nahiri, Vengeful Lithomancer
+
+Gnottvold Grizzly
+
+Hedron Gatherer
+
+The Fleshwright
+
+Masterful Stitching
+
+Worship the Ashes
+
+Mirari's Wrath
+
+Dormant Doomsday Device
+
+Overworked Academic
+
+Cabal Cryptkeeper
+
+West Academy Researcher
+
+Fear of Burnout
+
+Basilica Phantasm
+
+Nefarox's Emissary
+
+Tidepool Teachings
+
+Tajuru Wildseeker
+
+Untameable Growth
+
+Reverberation
+
+What Could Be
+
+Liliana, Queen of the Dead
+
+Ashiok, Oblivion Liege
+
+Nissa, Visionary Animist
+
+Azami, Aspiring Archivist
+
+Akroma, Ixidor's Wrath
+
+Chandra of Keral Keep
+
+Vastwood Attunement
+
+Hanna of the Weatherlight
+
+Seeing Double
+
+Survival of the Strangest
+
+Isao, Jukai Hermit
+
+The Prismatic Bridge Calls
+
+Ashmouth Tyrant
+
+Messenger of Unx
+
+Feldon's Bauble
+
+Savior of the Pious
+
+Winged Amulet
+
+Blade Bearer
+
+Ajani, Hero of Velis Vel
+
+Joraga Beastmaster
+
+Paint the Future
+
+That Wild Yonder
+
+Kaito, Shadow Assassin
+
+Mercurial Model
+
+Convergence of Souls
+
+Burning Augury
+
+Lotleth Collector
+
+Climb the World Tree
+
+Menagerie Keeper
+
+At Any Cost
+
+Consume
+
+Tor Wauki the Elder
+
+Eladamri, Skyshroud Liege
+
+Death Knows His Own
+
+Still Waters
+
+Extract Sin
+
+Abundant Blessings
+
+Martial Inferno
+
+Sarkhan's Rebuttal
+
+Living Bulwark
+
+Quintorius, Sharp Scholar
+
+Selective Amnesia
+
+Forgotten Lavafield
+
+Forgotten Summit
+
+Forgotten Grove
+
+Forgotten Barrens
+
+Forgotten River
+
+Forgotten Copse
+
+Forgotten Gazebo
+
+Forgotten Coast
+
+Gideon's Sural
+
+Quandrix Conundrum
+
+Twisted Shapestealer
+
+Reappropriate
+
+Aeonic Conduit
+
+Prophetic Sculpture
+
+Rite of Shilgengar
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Surveil 1, then you draw a card and you lose 1 life.
+II — You may return target creature card from your graveyard to the battlefield.
+III — You lose life equal to the greatest power among creatures you control. => 
+I — Surveil 1, then you draw a card and you lose 1 life.
+II — You may return target creature card from your graveyard to the battlefield.
+III — You lose life equal to the greatest power among creatures you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Surveil 1, then you draw a card and you lose 1 life.
+II — You may return target creature card from your graveyard to the battlefield.
+III — You lose life equal to the greatest power among creatures you control. => 
+I — Surveil 1, then you draw a card and you lose 1 life.
+II — You may return target creature card from your graveyard to the battlefield.
+III — You lose life equal to the greatest power among creatures you control.
+
+Teferi, Timestream Savant
+
+Jace, Mnemonic Master
+
+Malevolent Tutor
+
+Scorch
+
+Sink or Swim
+
+Bridal Shower
+
+Danika, Falkenrath Consort
+
+Beast
+
+Abzan Revolution
+
+Guidance of Saint Traft
+
+Song of All
+
+Beautiful Tomorrows
+
+Culinary Arts
+
+Extraversal Fragment
+
+Fang-Druid's Summons
+
+Jaspera Rune-Reader
+
+Pull of the Gravetide
+
+Automaton Epicure
+
+Endless Cityscape
+
+Port of Meletis
+
+Seedship Scout
+
+Reject the Notion
+
+Nexus Gate
+
+Estatic Alchemist
+
+Bondseeker Magpie
+
+Terror of Uncrossed Strait
+
+Refined Diamond
+
+Halo Oracle
+
+Goldmeadow Paragon
+
+Vis Drain
+
+Highland Puca
+
+Higure, Called Twilight
+
+Apex Omnibian
+
+Jolrael, Druidic Dissident
+
+Steward of Nylea
+
+Kalonian Lifeweaver
+
+Territorial Ironhide
+
+Agnomakhos, the Sun Tyrant
+
+Lord of the Abyss
+
+Reclusive Hypnotist
+
+Essence Scavengers
+
+Kami of Sorrow
+
+Bloodline Progenitor
+
+Street Smarts
+
+Multifarious Mask
+
+Grand Entrance
+
+Primal Roundup
+
+Balemurk Harrower
+
+Saint Elenda of Garrano
+
+Talara, the Great Safewright
+
+Ramosian Negotiator
+
+Overlord of Mirrex
+
+Boros Mage-Priest
+
+Multiplicity Tome
+
+Alesha's Quartermaster
+
+Thrull Mastermind
+
+Duskmantle Agent
+
+Marina Vendrell, Secret Keeper
+
+Wyleth, Swordcraft Veteran
+
+Champion of Progenitus
+rules_text: Menace
+Exhaust — {W}{U}{B}{R}{G}: Exile the top two cards of your library. Put one of them into your hand. You may cast the other without paying its mana cost. [i](Activate each exhaust ability only once.)[/i] => Menace
+Exhaust — {W}{U}{B}{R}{G}: Exile the top two cards of your library. Put one of them into your hand. You may cast the other without paying its mana cost. [i](Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i]
+
+Keeper of the Crucible
+
+Frenzied Experimenter
+
+Protostar Phoenix
+
+Savai Cracklemaw
+
+Altac Thunderblade
+
+Rhet-Crop Exemplar
+rules_text: Prowess, prowess [i](Multiple instances of prowess trigger separately.)[/i]
+When this creature dies, create X 1/1 red Wizard creature tokens with prowess, where X is this creature's power. => Prowess, prowess [i](Multiple instances of prowess trigger separately.)[/i]
+When this creature dies, create X 1/1 blue and red Wizard creature tokens with prowess, where X is this creature's power.
+
+The Lands Beyond Valley
+
+Binding Tape
+
+Voidbane Astelli
+
+Memnarch, Argentum Warden
+
+Walking Ecosystem
+
+Junkmonger
+
+Katilda, Solstice Matriarch
+
+Witherbloom Capstone
+
+Tools of the Trade
+
+Schooling Aetherskites
+
+Sigiled Outcast
+
+Anitoxa, the Weftwatcher
+
+Stabilized Omenpath
+
+Beastmaster's Bracers
+
+Captured Bloom
+
+Smuggler's Aetherskaes
+
+Moment of Omniscence
+
+Rishadan Kidnapper
+
+Sanctum of Oketra
+
+Sanctum of Isilu
+
+Sanctum of Ojer Pakpatiq
+
+Sanctum of Nylea
+
+Sanctum of Ilharg
+
+Futurist Gauntlet
+
+Smoldering Reaper
+
+G-Los, Prototype Pilgrim
+
+Eternity Crystal
+
+Karador, Mentor of Myth
+
+The Outcast One
+
+Generous Automaton
+
+Gitaxian Dissectors
+
+Rapture
+
+Bonder's Call
+
+Zimone, Solution Seeker
+
+Expel from the Court
+
+Dire Fleet Provisioner
+
+Ral, Even Otter
+
+Inga Omen-Seer
+
+Haakon, Lord of Tresserhorn
+
+Bizarre Blaze
+
+Serra, Voice of Peace
+
+Koth, Hope of Mirrodin
+
+Crumbling Castle
+
+Crumbling Archive
+
+Crumbling Crypt
+
+Crumbling Shrine
+
+Crumbling Retreat
+
+Garruk, Champion of the Wild
+
+The Sculpting of Uthros
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Scry 1, then draw a card.
+III — When you next cast an instant or sorcery spell this turn, copy it. You may choose new targets for the copy.
+​ => 
+I, II — Scry 1, then draw a card.
+III — When you next cast an instant or sorcery spell this turn, copy it. You may choose new targets for the copy.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Scry 1, then draw a card.
+III — When you next cast an instant or sorcery spell this turn, copy it. You may choose new targets for the copy.
+​ => 
+I, II — Scry 1, then draw a card.
+III — When you next cast an instant or sorcery spell this turn, copy it. You may choose new targets for the copy.
+
+Evil Cowers Before Courage
+
+Stupendous Hoard
+
+Archangel's Charm
+
+Fearless Band
+
+One From Many
+
+Trainwreck
+
+Heiromancer's Chains
+
+Nantuko Outlander
+
+Aether Dynamo
+
+Furyweave
+
+Light-Paws, Imperial Advisor
+
+Blood Age Commander
+
+Iron Alliance Juggernaut
+
+Restitch Fate
+
+Zinc Myr
+
+Gilded Grimalkin
+
+Banish
+
+Consult the Dead
+
+Initiate Into the Night
+
+Grasp of Phyresis
+
+Sonorous Séance
+
+Ever Increasing Dominion
+
+
+VERSION 12 CHANGELOG
 ====================
 
 Bonder's Call added.

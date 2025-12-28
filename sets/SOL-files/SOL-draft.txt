@@ -5,17 +5,17 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "275",
+			"collector_number": "295",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/0.png"
 			}
 		},
 		{
-			"name": "Ubitsa Forge",
+			"name": "Sentinel Forge",
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "281",
+			"collector_number": "297",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/1.png"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "284",
+			"collector_number": "304",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/2.png"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain",
-			"collector_number": "285",
+			"collector_number": "305",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/3.png"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest",
-			"collector_number": "286",
+			"collector_number": "306",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/4.png"
 			}
@@ -55,7 +55,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "287",
+			"collector_number": "307",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/5.png"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "295",
+			"collector_number": "318",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/6.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "307",
+			"collector_number": "333",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/7.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "308",
+			"collector_number": "334",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/8.png"
 			}
@@ -95,7 +95,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains",
-			"collector_number": "310",
+			"collector_number": "337",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/9.png"
 			}
@@ -105,7 +105,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "311",
+			"collector_number": "338",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/10.png"
 			}
@@ -115,7 +115,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Plains",
-			"collector_number": "318",
+			"collector_number": "345",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/11.png"
 			}
@@ -125,7 +125,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "319",
+			"collector_number": "346",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/12.png"
 			}
@@ -135,7 +135,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
-			"collector_number": "320",
+			"collector_number": "348",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/13.png"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
-			"collector_number": "321",
+			"collector_number": "350",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/14.png"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
-			"collector_number": "323",
+			"collector_number": "354",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/15.png"
 			}
@@ -165,7 +165,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Island",
-			"collector_number": "324",
+			"collector_number": "355",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/16.png"
 			}
@@ -175,7 +175,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Swamp",
-			"collector_number": "325",
+			"collector_number": "356",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/17.png"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "326",
+			"collector_number": "357",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/18.png"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Mountain",
-			"collector_number": "327",
+			"collector_number": "358",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/19.png"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "328",
+			"collector_number": "359",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/20.png"
 			}
@@ -215,7 +215,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "329",
+			"collector_number": "360",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/21.png"
 			}
@@ -225,7 +225,7 @@
 			"rarity": "special",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "251",
+			"collector_number": "273",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/22.png"
 			}
@@ -235,19 +235,9 @@
 			"rarity": "special",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "277",
+			"collector_number": "298",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/23.png"
-			}
-		},
-		{
-			"name": "Pactbound Mox",
-			"rarity": "special",
-			"mana_cost": "{0}",
-			"type": "Artifact",
-			"collector_number": "271",
-			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/24.png"
 			}
 		},
 		{
@@ -255,29 +245,19 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Legendary Artifact",
-			"collector_number": "276",
+			"collector_number": "296",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/25.png"
-			}
-		},
-		{
-			"name": "Imperial Treasury",
-			"rarity": "special",
-			"mana_cost": "{1}",
-			"type": "Artifact",
-			"collector_number": "266",
-			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/26.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/24.png"
 			}
 		},
 		{
 			"name": "Tranquil Mystic",
 			"rarity": "special",
 			"mana_cost": "{G}",
-			"type": "Creature — Human Shaman",
-			"collector_number": "198",
+			"type": "Creature — Human Monk",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/27.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/25.png"
 			}
 		},
 		{
@@ -285,9 +265,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "50",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/28.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/26.png"
 			}
 		},
 		{
@@ -295,9 +275,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "62",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/29.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/27.png"
 			}
 		},
 		{
@@ -305,19 +285,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}{U}",
 			"type": "Instant",
-			"collector_number": "66",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/30.png"
-			}
-		},
-		{
-			"name": "Vibrant Mox",
-			"rarity": "special",
-			"mana_cost": "{0}",
-			"type": "Artifact",
-			"collector_number": "282",
-			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/31.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/28.png"
 			}
 		},
 		{
@@ -325,9 +295,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "105",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/32.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/29.png"
 			}
 		},
 		{
@@ -335,9 +305,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "94",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/33.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/30.png"
 			}
 		},
 		{
@@ -345,9 +315,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment",
-			"collector_number": "60",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/34.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/31.png"
 			}
 		},
 		{
@@ -355,9 +325,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "97",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/35.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/32.png"
 			}
 		},
 		{
@@ -365,9 +335,9 @@
 			"rarity": "special",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "265",
+			"collector_number": "287",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/36.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/33.png"
 			}
 		},
 		{
@@ -375,9 +345,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "81",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/37.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/34.png"
 			}
 		},
 		{
@@ -385,9 +355,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "72",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/38.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/35.png"
 			}
 		},
 		{
@@ -395,9 +365,9 @@
 			"rarity": "special",
 			"mana_cost": "{X}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "184",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/39.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/36.png"
 			}
 		},
 		{
@@ -405,9 +375,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/40.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/37.png"
 			}
 		},
 		{
@@ -415,9 +385,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{R}",
 			"type": "Sorcery",
-			"collector_number": "211",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/41.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/38.png"
 			}
 		},
 		{
@@ -425,9 +395,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "272",
+			"collector_number": "292",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/42.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/39.png"
 			}
 		},
 		{
@@ -435,9 +405,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Merfolk Soldier",
-			"collector_number": "203",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/43.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/40.png"
 			}
 		},
 		{
@@ -445,9 +415,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Elf Shaman",
-			"collector_number": "186",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/44.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/41.png"
 			}
 		},
 		{
@@ -455,9 +425,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "31",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/45.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/42.png"
 			}
 		},
 		{
@@ -465,9 +435,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Creature — Goblin Shaman",
-			"collector_number": "145",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/46.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/43.png"
 			}
 		},
 		{
@@ -475,9 +445,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Elf Druid",
-			"collector_number": "202",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/47.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/44.png"
 			}
 		},
 		{
@@ -485,9 +455,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "71",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/48.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/45.png"
 			}
 		},
 		{
@@ -495,9 +465,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "98",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/49.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/46.png"
 			}
 		},
 		{
@@ -505,9 +475,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "192",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/50.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/47.png"
 			}
 		},
 		{
@@ -515,9 +485,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Rat Rogue",
-			"collector_number": "119",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/51.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/48.png"
 			}
 		},
 		{
@@ -525,9 +495,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "114",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/52.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/49.png"
 			}
 		},
 		{
@@ -535,9 +505,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "40",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/53.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/50.png"
 			}
 		},
 		{
@@ -545,9 +515,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Lizard Horror",
-			"collector_number": "120",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/54.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/51.png"
 			}
 		},
 		{
@@ -555,19 +525,19 @@
 			"rarity": "special",
 			"mana_cost": "{B}{R}",
 			"type": "Enchantment",
-			"collector_number": "208",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/55.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/52.png"
 			}
 		},
 		{
-			"name": "Vedalken Astronomer",
+			"name": "Janjeet Astronomer",
 			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Vedalken Wizard",
-			"collector_number": "79",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/56.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/53.png"
 			}
 		},
 		{
@@ -575,9 +545,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Instant",
-			"collector_number": "221",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/57.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/54.png"
 			}
 		},
 		{
@@ -585,9 +555,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "78",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/58.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/55.png"
 			}
 		},
 		{
@@ -595,9 +565,9 @@
 			"rarity": "special",
 			"mana_cost": "{7}{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "241",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/59.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/56.png"
 			}
 		},
 		{
@@ -605,9 +575,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "200",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/60.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/57.png"
 			}
 		},
 		{
@@ -615,9 +585,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "108",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/61.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/58.png"
 			}
 		},
 		{
@@ -625,9 +595,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "232",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/62.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/59.png"
 			}
 		},
 		{
@@ -635,9 +605,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "92",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/63.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/60.png"
 			}
 		},
 		{
@@ -645,9 +615,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}{U}",
 			"type": "Instant",
-			"collector_number": "209",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/64.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/61.png"
 			}
 		},
 		{
@@ -655,9 +625,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "165",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/65.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/62.png"
 			}
 		},
 		{
@@ -665,9 +635,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "91",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/66.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/63.png"
 			}
 		},
 		{
@@ -675,9 +645,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "150",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/67.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/64.png"
 			}
 		},
 		{
@@ -685,9 +655,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "56",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/68.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/65.png"
 			}
 		},
 		{
@@ -695,9 +665,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "27",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/69.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/66.png"
 			}
 		},
 		{
@@ -705,9 +675,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}{B}{B}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "121",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/70.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/67.png"
 			}
 		},
 		{
@@ -715,9 +685,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "59",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/71.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/68.png"
 			}
 		},
 		{
@@ -725,9 +695,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "162",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/72.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/69.png"
 			}
 		},
 		{
@@ -735,9 +705,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Otter Ranger",
-			"collector_number": "51",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/73.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/70.png"
 			}
 		},
 		{
@@ -745,9 +715,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Octopus Rogue",
-			"collector_number": "173",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/74.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/71.png"
 			}
 		},
 		{
@@ -755,9 +725,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "161",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/75.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/72.png"
 			}
 		},
 		{
@@ -765,9 +735,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "57",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/76.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/73.png"
 			}
 		},
 		{
@@ -775,9 +745,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "2",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/77.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/74.png"
 			}
 		},
 		{
@@ -785,9 +755,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "183",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/78.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/75.png"
 			}
 		},
 		{
@@ -795,9 +765,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/79.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/76.png"
 			}
 		},
 		{
@@ -805,9 +775,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "122",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/80.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/77.png"
 			}
 		},
 		{
@@ -815,9 +785,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "142",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/81.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/78.png"
 			}
 		},
 		{
@@ -825,9 +795,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Angel",
-			"collector_number": "25",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/82.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/79.png"
 			}
 		},
 		{
@@ -835,9 +805,9 @@
 			"rarity": "special",
 			"mana_cost": "{X}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "38",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/83.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/80.png"
 			}
 		},
 		{
@@ -847,7 +817,7 @@
 			"type": "Token Artifact — Blood",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/84.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/81.png"
 			}
 		},
 		{
@@ -857,7 +827,7 @@
 			"type": "Token Artifact — Idol",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/85.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/82.png"
 			}
 		},
 		{
@@ -867,7 +837,7 @@
 			"type": "Token Creature — Spirit",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/86.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/83.png"
 			}
 		},
 		{
@@ -877,7 +847,7 @@
 			"type": "Token Artifact Creature — Construct",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/87.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/84.png"
 			}
 		},
 		{
@@ -887,7 +857,7 @@
 			"type": "Token Creature — Wizard",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/88.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/85.png"
 			}
 		},
 		{
@@ -897,7 +867,7 @@
 			"type": "Token Creature — Otter",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/89.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/86.png"
 			}
 		},
 		{
@@ -907,7 +877,7 @@
 			"type": "Token Creataure — Shapeshifter",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/90.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/87.png"
 			}
 		},
 		{
@@ -917,7 +887,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/91.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/88.png"
 			}
 		},
 		{
@@ -925,9 +895,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "37",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/92.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/89.png"
 			}
 		},
 		{
@@ -935,9 +905,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "233",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/93.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/90.png"
 			}
 		},
 		{
@@ -945,9 +915,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}{B}",
 			"type": "Instant",
-			"collector_number": "210",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/94.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/91.png"
 			}
 		},
 		{
@@ -955,9 +925,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "102",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/95.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/92.png"
 			}
 		},
 		{
@@ -965,9 +935,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Swamp",
-			"collector_number": "303",
+			"collector_number": "326",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/96.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/93.png"
 			}
 		},
 		{
@@ -975,9 +945,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Island",
-			"collector_number": "296",
+			"collector_number": "319",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/97.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/94.png"
 			}
 		},
 		{
@@ -985,9 +955,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "309",
+			"collector_number": "335",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/98.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/95.png"
 			}
 		},
 		{
@@ -995,9 +965,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "288",
+			"collector_number": "309",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/99.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/96.png"
 			}
 		},
 		{
@@ -1005,9 +975,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}{W}",
 			"type": "Creature — Kor Cleric",
-			"collector_number": "24",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/100.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/97.png"
 			}
 		},
 		{
@@ -1015,9 +985,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "46",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/101.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/98.png"
 			}
 		},
 		{
@@ -1025,9 +995,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "65",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/102.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/99.png"
 			}
 		},
 		{
@@ -1035,9 +1005,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Kobold Assassin",
-			"collector_number": "155",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/103.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/100.png"
 			}
 		},
 		{
@@ -1045,9 +1015,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}{R}",
 			"type": "Instant",
-			"collector_number": "214",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/104.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/101.png"
 			}
 		},
 		{
@@ -1055,9 +1025,9 @@
 			"rarity": "special",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "256",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/105.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/102.png"
 			}
 		},
 		{
@@ -1065,9 +1035,9 @@
 			"rarity": "special",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "255",
+			"collector_number": "277",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/106.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/103.png"
 			}
 		},
 		{
@@ -1075,9 +1045,9 @@
 			"rarity": "special",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "258",
+			"collector_number": "280",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/107.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/104.png"
 			}
 		},
 		{
@@ -1085,9 +1055,9 @@
 			"rarity": "special",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "259",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/108.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/105.png"
 			}
 		},
 		{
@@ -1095,9 +1065,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment Artifact — Equipment",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/109.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/106.png"
 			}
 		},
 		{
@@ -1105,9 +1075,9 @@
 			"rarity": "special",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "257",
+			"collector_number": "279",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/110.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/107.png"
 			}
 		},
 		{
@@ -1115,9 +1085,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact Creature — Gnome",
-			"collector_number": "131",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/111.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/108.png"
 			}
 		},
 		{
@@ -1125,9 +1095,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "47",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/112.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/109.png"
 			}
 		},
 		{
@@ -1135,9 +1105,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Dwarf Berserker",
-			"collector_number": "147",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/113.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/110.png"
 			}
 		},
 		{
@@ -1145,9 +1115,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "137",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/114.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/111.png"
 			}
 		},
 		{
@@ -1155,9 +1125,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "140",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/115.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/112.png"
 			}
 		},
 		{
@@ -1165,9 +1135,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "133",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/116.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/113.png"
 			}
 		},
 		{
@@ -1175,19 +1145,19 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "141",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/117.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/114.png"
 			}
 		},
 		{
-			"name": "Karrthus' Tyranny",
+			"name": "Tyranny of Karrthus",
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "143",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/118.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/115.png"
 			}
 		},
 		{
@@ -1195,9 +1165,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "77",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/119.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/116.png"
 			}
 		},
 		{
@@ -1205,9 +1175,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human",
-			"collector_number": "99",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/120.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/117.png"
 			}
 		},
 		{
@@ -1215,9 +1185,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Otter Wizard",
-			"collector_number": "231",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/121.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/118.png"
 			}
 		},
 		{
@@ -1225,9 +1195,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "148",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/122.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/119.png"
 			}
 		},
 		{
@@ -1235,9 +1205,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Kor Artificer",
-			"collector_number": "29",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/123.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/120.png"
 			}
 		},
 		{
@@ -1245,9 +1215,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Bear Horror",
-			"collector_number": "175",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/124.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/121.png"
 			}
 		},
 		{
@@ -1255,9 +1225,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elemental",
-			"collector_number": "177",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/125.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/122.png"
 			}
 		},
 		{
@@ -1265,9 +1235,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Legendary Enchantment Creature — Horror",
-			"collector_number": "213",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/126.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/123.png"
 			}
 		},
 		{
@@ -1275,9 +1245,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "112",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/127.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/124.png"
 			}
 		},
 		{
@@ -1285,9 +1255,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "163",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/128.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/125.png"
 			}
 		},
 		{
@@ -1295,9 +1265,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Enchantment",
-			"collector_number": "222",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/129.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/126.png"
 			}
 		},
 		{
@@ -1305,9 +1275,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "252",
+			"collector_number": "274",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/130.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/127.png"
 			}
 		},
 		{
@@ -1315,9 +1285,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Elf Wizard",
-			"collector_number": "61",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/131.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/128.png"
 			}
 		},
 		{
@@ -1325,9 +1295,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Zombie Cleric",
-			"collector_number": "87",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/132.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/129.png"
 			}
 		},
 		{
@@ -1335,9 +1305,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Elf Artificer",
-			"collector_number": "82",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/133.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/130.png"
 			}
 		},
 		{
@@ -1345,9 +1315,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment Creature — Nightmare",
-			"collector_number": "136",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/134.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/131.png"
 			}
 		},
 		{
@@ -1355,9 +1325,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Spirit",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/135.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/132.png"
 			}
 		},
 		{
@@ -1365,9 +1335,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Demon",
-			"collector_number": "115",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/136.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/133.png"
 			}
 		},
 		{
@@ -1375,9 +1345,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
-			"collector_number": "75",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/137.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/134.png"
 			}
 		},
 		{
@@ -1385,9 +1355,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Druid",
-			"collector_number": "195",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/138.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/135.png"
 			}
 		},
 		{
@@ -1395,9 +1365,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "199",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/139.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/136.png"
 			}
 		},
 		{
@@ -1405,9 +1375,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "153",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/140.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/137.png"
 			}
 		},
 		{
@@ -1415,9 +1385,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "204",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/141.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/138.png"
 			}
 		},
 		{
@@ -1425,9 +1395,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Planeswalker — Liliana",
-			"collector_number": "106",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/142.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/139.png"
 			}
 		},
 		{
@@ -1435,9 +1405,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Planeswalker — Ashiok",
-			"collector_number": "83",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/143.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/140.png"
 			}
 		},
 		{
@@ -1445,9 +1415,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Planeswalker — Nissa",
-			"collector_number": "188",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/144.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/141.png"
 			}
 		},
 		{
@@ -1455,9 +1425,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "43",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/145.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/142.png"
 			}
 		},
 		{
@@ -1465,9 +1435,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Creature — Angel",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/146.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/143.png"
 			}
 		},
 		{
@@ -1475,9 +1445,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Planeswalker — Chandra",
-			"collector_number": "130",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/147.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/144.png"
 			}
 		},
 		{
@@ -1485,9 +1455,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Enchantment",
-			"collector_number": "201",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/148.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/145.png"
 			}
 		},
 		{
@@ -1495,9 +1465,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/149.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/146.png"
 			}
 		},
 		{
@@ -1505,9 +1475,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "159",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/150.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/147.png"
 			}
 		},
 		{
@@ -1515,9 +1485,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "194",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/151.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/148.png"
 			}
 		},
 		{
@@ -1525,9 +1495,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Legendary Creature — Human Samurai",
-			"collector_number": "178",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/152.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/149.png"
 			}
 		},
 		{
@@ -1535,9 +1505,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "191",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/153.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/150.png"
 			}
 		},
 		{
@@ -1545,9 +1515,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "125",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/154.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/151.png"
 			}
 		},
 		{
@@ -1555,9 +1525,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Horror",
-			"collector_number": "113",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/155.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/152.png"
 			}
 		},
 		{
@@ -1565,9 +1535,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "254",
+			"collector_number": "276",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/156.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/153.png"
 			}
 		},
 		{
@@ -1575,9 +1545,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Angel",
-			"collector_number": "34",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/157.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/154.png"
 			}
 		},
 		{
@@ -1585,9 +1555,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "42",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/158.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/155.png"
 			}
 		},
 		{
@@ -1595,9 +1565,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Creature — Spirit Artificer",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/159.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/156.png"
 			}
 		},
 		{
@@ -1605,9 +1575,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Legendary Planeswalker — Ajani",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/160.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/157.png"
 			}
 		},
 		{
@@ -1615,9 +1585,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Elf Scout",
-			"collector_number": "181",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/161.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/158.png"
 			}
 		},
 		{
@@ -1625,9 +1595,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Enchantment",
-			"collector_number": "149",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/162.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/159.png"
 			}
 		},
 		{
@@ -1635,9 +1605,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "322",
+			"collector_number": "352",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/163.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/160.png"
 			}
 		},
 		{
@@ -1645,9 +1615,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Planeswalker — Kaito",
-			"collector_number": "216",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/164.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/161.png"
 			}
 		},
 		{
@@ -1655,9 +1625,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Shapeshifter",
-			"collector_number": "269",
+			"collector_number": "290",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/165.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/162.png"
 			}
 		},
 		{
@@ -1665,9 +1635,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/166.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/163.png"
 			}
 		},
 		{
@@ -1675,9 +1645,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "128",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/167.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/164.png"
 			}
 		},
 		{
@@ -1685,9 +1655,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Zombie Insect",
-			"collector_number": "109",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/168.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/165.png"
 			}
 		},
 		{
@@ -1695,9 +1665,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "168",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/169.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/166.png"
 			}
 		},
 		{
@@ -1705,9 +1675,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "185",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/170.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/167.png"
 			}
 		},
 		{
@@ -1715,9 +1685,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "84",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/171.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/168.png"
 			}
 		},
 		{
@@ -1725,9 +1695,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{B}",
 			"type": "Instant",
-			"collector_number": "89",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/172.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/169.png"
 			}
 		},
 		{
@@ -1735,9 +1705,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Human Archer",
-			"collector_number": "240",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/173.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/170.png"
 			}
 		},
 		{
@@ -1745,9 +1715,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Elf Noble",
-			"collector_number": "170",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/174.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/171.png"
 			}
 		},
 		{
@@ -1755,9 +1725,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "90",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/175.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/172.png"
 			}
 		},
 		{
@@ -1765,9 +1735,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Enchantment",
-			"collector_number": "237",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/176.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/173.png"
 			}
 		},
 		{
@@ -1775,9 +1745,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "212",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/177.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/174.png"
 			}
 		},
 		{
@@ -1785,9 +1755,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Sorcery",
-			"collector_number": "205",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/178.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/175.png"
 			}
 		},
 		{
@@ -1795,9 +1765,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Sorcery",
-			"collector_number": "219",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/179.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/176.png"
 			}
 		},
 		{
@@ -1805,9 +1775,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Instant",
-			"collector_number": "156",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/180.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/177.png"
 			}
 		},
 		{
@@ -1815,9 +1785,9 @@
 			"rarity": "special",
 			"mana_cost": "{X}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "268",
+			"collector_number": "289",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/181.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/178.png"
 			}
 		},
 		{
@@ -1825,9 +1795,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}{W}",
 			"type": "Legendary Creature — Elephant Cleric",
-			"collector_number": "226",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/182.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/179.png"
 			}
 		},
 		{
@@ -1835,9 +1805,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "69",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/183.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/180.png"
 			}
 		},
 		{
@@ -1845,9 +1815,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain",
-			"collector_number": "302",
+			"collector_number": "325",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/184.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/181.png"
 			}
 		},
 		{
@@ -1855,9 +1825,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
-			"collector_number": "305",
+			"collector_number": "328",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/185.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/182.png"
 			}
 		},
 		{
@@ -1865,9 +1835,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Plains",
-			"collector_number": "301",
+			"collector_number": "324",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/186.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/183.png"
 			}
 		},
 		{
@@ -1875,9 +1845,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
-			"collector_number": "297",
+			"collector_number": "320",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/187.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/184.png"
 			}
 		},
 		{
@@ -1885,9 +1855,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Mountain",
-			"collector_number": "304",
+			"collector_number": "327",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/188.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/185.png"
 			}
 		},
 		{
@@ -1895,9 +1865,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest",
-			"collector_number": "299",
+			"collector_number": "322",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/189.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/186.png"
 			}
 		},
 		{
@@ -1905,9 +1875,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains",
-			"collector_number": "300",
+			"collector_number": "323",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/190.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/187.png"
 			}
 		},
 		{
@@ -1915,9 +1885,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
-			"collector_number": "298",
+			"collector_number": "321",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/191.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/188.png"
 			}
 		},
 		{
@@ -1925,9 +1895,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/192.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/189.png"
 			}
 		},
 		{
@@ -1935,9 +1905,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "63",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/193.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/190.png"
 			}
 		},
 		{
@@ -1945,9 +1915,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "76",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/194.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/191.png"
 			}
 		},
 		{
@@ -1955,9 +1925,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "152",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/195.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/192.png"
 			}
 		},
 		{
@@ -1965,9 +1935,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "246",
+			"collector_number": "267",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/196.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/193.png"
 			}
 		},
 		{
@@ -1975,9 +1945,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "273",
+			"collector_number": "293",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/197.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/194.png"
 			}
 		},
 		{
@@ -1985,9 +1955,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment — Saga",
-			"collector_number": "118",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/198.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/195.png"
 			}
 		},
 		{
@@ -1995,9 +1965,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Legendary Planeswalker — Teferi",
-			"collector_number": "73",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/199.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/196.png"
 			}
 		},
 		{
@@ -2005,9 +1975,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Legendary Planeswalker — Jace",
-			"collector_number": "55",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/200.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/197.png"
 			}
 		},
 		{
@@ -2015,9 +1985,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "110",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/201.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/198.png"
 			}
 		},
 		{
@@ -2025,9 +1995,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "158",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/202.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/199.png"
 			}
 		},
 		{
@@ -2035,9 +2005,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}{U}",
 			"type": "Instant",
-			"collector_number": "70",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/203.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/200.png"
 			}
 		},
 		{
@@ -2045,9 +2015,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "127",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/204.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/201.png"
 			}
 		},
 		{
@@ -2055,9 +2025,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Vampire Soldier",
-			"collector_number": "132",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/205.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/202.png"
 			}
 		},
 		{
@@ -2067,7 +2037,7 @@
 			"type": "Token Creature — Beast",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/206.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/203.png"
 			}
 		},
 		{
@@ -2075,9 +2045,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "1",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/207.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/204.png"
 			}
 		},
 		{
@@ -2085,9 +2055,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Enchantment — Saga",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/208.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/205.png"
 			}
 		},
 		{
@@ -2095,9 +2065,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Saga",
-			"collector_number": "36",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/209.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/206.png"
 			}
 		},
 		{
@@ -2105,9 +2075,9 @@
 			"rarity": "special",
 			"mana_cost": "{6}{U}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "44",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/210.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/207.png"
 			}
 		},
 		{
@@ -2115,9 +2085,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Instant",
-			"collector_number": "169",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/211.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/208.png"
 			}
 		},
 		{
@@ -2125,9 +2095,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Horror",
-			"collector_number": "171",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/212.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/209.png"
 			}
 		},
 		{
@@ -2135,9 +2105,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}{G}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "172",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/213.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/210.png"
 			}
 		},
 		{
@@ -2145,9 +2115,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elf Druid",
-			"collector_number": "179",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/214.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/211.png"
 			}
 		},
 		{
@@ -2155,9 +2125,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "225",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/215.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/212.png"
 			}
 		},
 		{
@@ -2165,9 +2135,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "248",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/216.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/213.png"
 			}
 		},
 		{
@@ -2175,9 +2145,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "294",
+			"collector_number": "317",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/217.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/214.png"
 			}
 		},
 		{
@@ -2185,9 +2155,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "312",
+			"collector_number": "339",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/218.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/215.png"
 			}
 		},
 		{
@@ -2195,9 +2165,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Insect Scout",
-			"collector_number": "68",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/219.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/216.png"
 			}
 		},
 		{
@@ -2205,9 +2175,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "64",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/220.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/217.png"
 			}
 		},
 		{
@@ -2215,9 +2185,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact",
-			"collector_number": "58",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/221.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/218.png"
 			}
 		},
 		{
@@ -2225,9 +2195,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "48",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/222.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/219.png"
 			}
 		},
 		{
@@ -2235,9 +2205,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Bird",
-			"collector_number": "45",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/223.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/220.png"
 			}
 		},
 		{
@@ -2245,9 +2215,9 @@
 			"rarity": "special",
 			"mana_cost": "{6}{U}{U}",
 			"type": "Creature — Serpent",
-			"collector_number": "74",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/224.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/221.png"
 			}
 		},
 		{
@@ -2255,9 +2225,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "274",
+			"collector_number": "294",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/225.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/222.png"
 			}
 		},
 		{
@@ -2265,9 +2235,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/226.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/223.png"
 			}
 		},
 		{
@@ -2275,9 +2245,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Creature — Kithkin Soldier",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/227.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/224.png"
 			}
 		},
 		{
@@ -2285,9 +2255,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}{U}",
 			"type": "Instant",
-			"collector_number": "80",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/228.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/225.png"
 			}
 		},
 		{
@@ -2295,9 +2265,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "52",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/229.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/226.png"
 			}
 		},
 		{
@@ -2305,9 +2275,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Legendary Creature — Human Ninja",
-			"collector_number": "53",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/230.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/227.png"
 			}
 		},
 		{
@@ -2315,9 +2285,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{G}{G}{G}",
 			"type": "Creature — Frog Mutant",
-			"collector_number": "166",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/231.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/228.png"
 			}
 		},
 		{
@@ -2325,9 +2295,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Legendary Creature — Human Druid",
-			"collector_number": "180",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/232.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/229.png"
 			}
 		},
 		{
@@ -2335,9 +2305,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Centaur Druid",
-			"collector_number": "193",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/233.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/230.png"
 			}
 		},
 		{
@@ -2345,9 +2315,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Treefolk Shaman",
-			"collector_number": "182",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/234.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/231.png"
 			}
 		},
 		{
@@ -2355,9 +2325,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "196",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/235.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/232.png"
 			}
 		},
 		{
@@ -2365,9 +2335,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}{W}{W}",
 			"type": "Legendary Creature — Archon",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/236.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/233.png"
 			}
 		},
 		{
@@ -2375,9 +2345,9 @@
 			"rarity": "special",
 			"mana_cost": "{6}{B}{B}",
 			"type": "Creature — Demon",
-			"collector_number": "107",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/237.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/234.png"
 			}
 		},
 		{
@@ -2385,9 +2355,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Rat Warlock",
-			"collector_number": "116",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/238.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/235.png"
 			}
 		},
 		{
@@ -2395,9 +2365,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Aetherborn Vampire",
-			"collector_number": "95",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/239.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/236.png"
 			}
 		},
 		{
@@ -2405,9 +2375,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Spirit",
-			"collector_number": "104",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/240.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/237.png"
 			}
 		},
 		{
@@ -2415,9 +2385,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Vampire",
-			"collector_number": "86",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/241.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/238.png"
 			}
 		},
 		{
@@ -2425,9 +2395,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}{U}",
 			"type": "Instant",
-			"collector_number": "238",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/242.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/239.png"
 			}
 		},
 		{
@@ -2435,9 +2405,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "270",
+			"collector_number": "291",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/243.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/240.png"
 			}
 		},
 		{
@@ -2445,9 +2415,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "176",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/244.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/241.png"
 			}
 		},
 		{
@@ -2455,9 +2425,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "190",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/245.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/242.png"
 			}
 		},
 		{
@@ -2465,9 +2435,9 @@
 			"rarity": "special",
 			"mana_cost": "{6}{B}",
 			"type": "Creature — Demon",
-			"collector_number": "85",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/246.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/243.png"
 			}
 		},
 		{
@@ -2475,9 +2445,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Vampire Cleric",
-			"collector_number": "33",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/247.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/244.png"
 			}
 		},
 		{
@@ -2485,9 +2455,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Legendary Creature — Elf Knight",
-			"collector_number": "41",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/248.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/245.png"
 			}
 		},
 		{
@@ -2495,9 +2465,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Human Rebel Advisor",
-			"collector_number": "32",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/249.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/246.png"
 			}
 		},
 		{
@@ -2505,9 +2475,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Creature — Phyrexian Giant",
-			"collector_number": "30",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/250.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/247.png"
 			}
 		},
 		{
@@ -2515,9 +2485,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Elephant Cleric",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/251.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/248.png"
 			}
 		},
 		{
@@ -2525,9 +2495,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "28",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/252.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/249.png"
 			}
 		},
 		{
@@ -2535,9 +2505,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/253.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/250.png"
 			}
 		},
 		{
@@ -2545,9 +2515,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}{B}",
 			"type": "Creature — Thrull",
-			"collector_number": "123",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/254.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/251.png"
 			}
 		},
 		{
@@ -2555,9 +2525,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Human Assassin",
-			"collector_number": "93",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/255.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/252.png"
 			}
 		},
 		{
@@ -2565,9 +2535,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "111",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/256.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/253.png"
 			}
 		},
 		{
@@ -2575,9 +2545,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "164",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/257.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/254.png"
 			}
 		},
 		{
@@ -2585,9 +2555,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Viashino Knight",
-			"collector_number": "129",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/258.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/255.png"
 			}
 		},
 		{
@@ -2595,9 +2565,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Phyrexian Gremlin",
-			"collector_number": "144",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/259.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/256.png"
 			}
 		},
 		{
@@ -2605,9 +2575,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "138",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/260.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/257.png"
 			}
 		},
 		{
@@ -2615,9 +2585,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Phoenix",
-			"collector_number": "151",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/261.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/258.png"
 			}
 		},
 		{
@@ -2625,9 +2595,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Elemental Dinosaur",
-			"collector_number": "157",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/262.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/259.png"
 			}
 		},
 		{
@@ -2635,9 +2605,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact — Equipment",
-			"collector_number": "124",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/263.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/260.png"
 			}
 		},
 		{
@@ -2645,9 +2615,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Jackal Wizard Warrior",
-			"collector_number": "154",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/264.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/261.png"
 			}
 		},
 		{
@@ -2655,9 +2625,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "306",
+			"collector_number": "331",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/265.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/262.png"
 			}
 		},
 		{
@@ -2665,9 +2635,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}{W}",
 			"type": "Artifact",
-			"collector_number": "207",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/266.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/263.png"
 			}
 		},
 		{
@@ -2675,9 +2645,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{W}{U}",
 			"type": "Creature — Angel",
-			"collector_number": "242",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/267.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/264.png"
 			}
 		},
 		{
@@ -2685,9 +2655,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Artifact Creature — Wizard",
-			"collector_number": "220",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/268.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/265.png"
 			}
 		},
 		{
@@ -2695,9 +2665,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Turtle Dinosaur",
-			"collector_number": "243",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/269.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/266.png"
 			}
 		},
 		{
@@ -2705,9 +2675,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Raccoon Druid",
-			"collector_number": "215",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/270.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/267.png"
 			}
 		},
 		{
@@ -2715,9 +2685,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "218",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/271.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/268.png"
 			}
 		},
 		{
@@ -2725,9 +2695,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Plant Horror",
-			"collector_number": "244",
+			"collector_number": "265",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/272.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/269.png"
 			}
 		},
 		{
@@ -2735,9 +2705,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "239",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/273.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/270.png"
 			}
 		},
 		{
@@ -2745,9 +2715,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}{U}",
 			"type": "Enchantment",
-			"collector_number": "234",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/274.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/271.png"
 			}
 		},
 		{
@@ -2755,9 +2725,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}{B}",
 			"type": "Creature — Human Knight",
-			"collector_number": "235",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/275.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/272.png"
 			}
 		},
 		{
@@ -2765,9 +2735,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Creature — Drix Warlock",
-			"collector_number": "206",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/276.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/273.png"
 			}
 		},
 		{
@@ -2775,9 +2745,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "280",
+			"collector_number": "301",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/277.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/274.png"
 			}
 		},
 		{
@@ -2785,9 +2755,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Artifact — Equipment",
-			"collector_number": "249",
+			"collector_number": "271",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/278.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/275.png"
 			}
 		},
 		{
@@ -2795,9 +2765,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}",
 			"type": "Artifact",
-			"collector_number": "250",
+			"collector_number": "272",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/279.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/276.png"
 			}
 		},
 		{
@@ -2805,9 +2775,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "279",
+			"collector_number": "300",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/280.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/277.png"
 			}
 		},
 		{
@@ -2815,9 +2785,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{U}{R}",
 			"type": "Sorcery",
-			"collector_number": "223",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/281.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/278.png"
 			}
 		},
 		{
@@ -2825,9 +2795,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}{B}{R}",
 			"type": "Creature — Human Pirate",
-			"collector_number": "230",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/282.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/279.png"
 			}
 		},
 		{
@@ -2835,9 +2805,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains",
-			"collector_number": "317",
+			"collector_number": "344",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/283.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/280.png"
 			}
 		},
 		{
@@ -2845,9 +2815,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp",
-			"collector_number": "314",
+			"collector_number": "341",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/284.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/281.png"
 			}
 		},
 		{
@@ -2855,9 +2825,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island",
-			"collector_number": "316",
+			"collector_number": "343",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/285.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/282.png"
 			}
 		},
 		{
@@ -2865,9 +2835,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest",
-			"collector_number": "315",
+			"collector_number": "342",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/286.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/283.png"
 			}
 		},
 		{
@@ -2875,9 +2845,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain",
-			"collector_number": "313",
+			"collector_number": "340",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/287.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/284.png"
 			}
 		},
 		{
@@ -2885,9 +2855,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "260",
+			"collector_number": "282",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/288.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/285.png"
 			}
 		},
 		{
@@ -2895,9 +2865,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Scarecrow Wizard",
-			"collector_number": "278",
+			"collector_number": "299",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/289.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/286.png"
 			}
 		},
 		{
@@ -2905,9 +2875,9 @@
 			"rarity": "special",
 			"mana_cost": "{6}",
 			"type": "Legendary Artifact Creature — Scout",
-			"collector_number": "261",
+			"collector_number": "283",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/290.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/287.png"
 			}
 		},
 		{
@@ -2915,9 +2885,9 @@
 			"rarity": "special",
 			"mana_cost": "{7}",
 			"type": "Artifact",
-			"collector_number": "253",
+			"collector_number": "275",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/291.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/288.png"
 			}
 		},
 		{
@@ -2925,9 +2895,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{B}{G}",
 			"type": "Legendary Creature — Centaur Advisor",
-			"collector_number": "217",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/292.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/289.png"
 			}
 		},
 		{
@@ -2935,9 +2905,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}{G}{W}",
 			"type": "Legendary Creature — Sliver",
-			"collector_number": "224",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/293.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/290.png"
 			}
 		},
 		{
@@ -2945,9 +2915,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "262",
+			"collector_number": "284",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/294.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/291.png"
 			}
 		},
 		{
@@ -2955,9 +2925,9 @@
 			"rarity": "special",
 			"mana_cost": "{7}",
 			"type": "Artifact Creature — Phyrexian Wizard",
-			"collector_number": "264",
+			"collector_number": "286",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/295.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/292.png"
 			}
 		},
 		{
@@ -2965,9 +2935,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Instant",
-			"collector_number": "228",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/296.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/293.png"
 			}
 		},
 		{
@@ -2975,9 +2945,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "167",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/297.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/294.png"
 			}
 		},
 		{
@@ -2985,9 +2955,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "245",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/298.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/295.png"
 			}
 		},
 		{
@@ -2995,9 +2965,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "96",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/299.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/296.png"
 			}
 		},
 		{
@@ -3005,9 +2975,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Creature — Orc Pirate Artificer",
-			"collector_number": "134",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/300.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/297.png"
 			}
 		},
 		{
@@ -3015,9 +2985,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Planeswalker — Ral",
-			"collector_number": "227",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/301.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/298.png"
 			}
 		},
 		{
@@ -3025,9 +2995,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "54",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/302.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/299.png"
 			}
 		},
 		{
@@ -3035,9 +3005,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Zombie Knight",
-			"collector_number": "101",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/303.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/300.png"
 			}
 		},
 		{
@@ -3045,9 +3015,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Kindred Instant — Shapeshifter",
-			"collector_number": "126",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/304.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/301.png"
 			}
 		},
 		{
@@ -3055,9 +3025,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Legendary Planeswalker — Serra",
-			"collector_number": "35",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/305.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/302.png"
 			}
 		},
 		{
@@ -3065,9 +3035,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Legendary Planeswalker — Koth",
-			"collector_number": "146",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/306.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/303.png"
 			}
 		},
 		{
@@ -3075,9 +3045,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "290",
+			"collector_number": "312",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/307.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/304.png"
 			}
 		},
 		{
@@ -3085,9 +3055,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "289",
+			"collector_number": "311",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/308.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/305.png"
 			}
 		},
 		{
@@ -3095,9 +3065,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "291",
+			"collector_number": "313",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/309.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/306.png"
 			}
 		},
 		{
@@ -3105,9 +3075,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "293",
+			"collector_number": "315",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/310.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/307.png"
 			}
 		},
 		{
@@ -3115,9 +3085,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "292",
+			"collector_number": "314",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/311.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/308.png"
 			}
 		},
 		{
@@ -3125,19 +3095,19 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Legendary Planeswalker — Garruk",
-			"collector_number": "174",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/312.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/309.png"
 			}
 		},
 		{
-			"name": "Ravenous Ambition",
+			"name": "Promised Conquest",
 			"rarity": "special",
 			"mana_cost": "{U}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "229",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/313.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/310.png"
 			}
 		},
 		{
@@ -3145,9 +3115,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Saga",
-			"collector_number": "67",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/314.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/311.png"
 			}
 		},
 		{
@@ -3155,9 +3125,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "135",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/315.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/312.png"
 			}
 		},
 		{
@@ -3165,9 +3135,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "160",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/316.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/313.png"
 			}
 		},
 		{
@@ -3175,9 +3145,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}{W}{W}",
 			"type": "Instant",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/317.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/314.png"
 			}
 		},
 		{
@@ -3185,9 +3155,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Mouse Knight",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/318.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/315.png"
 			}
 		},
 		{
@@ -3195,9 +3165,9 @@
 			"rarity": "special",
 			"mana_cost": "{X}{G}",
 			"type": "Sorcery",
-			"collector_number": "189",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/319.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/316.png"
 			}
 		},
 		{
@@ -3205,9 +3175,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "197",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/320.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/317.png"
 			}
 		},
 		{
@@ -3215,9 +3185,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact",
-			"collector_number": "23",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/321.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/318.png"
 			}
 		},
 		{
@@ -3225,9 +3195,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Insect Ranger",
-			"collector_number": "187",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/322.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/319.png"
 			}
 		},
 		{
@@ -3235,9 +3205,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "247",
+			"collector_number": "268",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/323.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/320.png"
 			}
 		},
 		{
@@ -3245,9 +3215,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "139",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/324.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/321.png"
 			}
 		},
 		{
@@ -3255,9 +3225,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Fox Advisor",
-			"collector_number": "26",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/325.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/322.png"
 			}
 		},
 		{
@@ -3265,9 +3235,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Spirit Soldier",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/326.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/323.png"
 			}
 		},
 		{
@@ -3275,9 +3245,9 @@
 			"rarity": "special",
 			"mana_cost": "{8}",
 			"type": "Artifact Creature — Juggernaut",
-			"collector_number": "267",
+			"collector_number": "288",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/327.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/324.png"
 			}
 		},
 		{
@@ -3285,9 +3255,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "117",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/328.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/325.png"
 			}
 		},
 		{
@@ -3295,9 +3265,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact Creature — Myr",
-			"collector_number": "283",
+			"collector_number": "303",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/329.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/326.png"
 			}
 		},
 		{
@@ -3305,9 +3275,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Cat",
-			"collector_number": "263",
+			"collector_number": "285",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/330.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/327.png"
 			}
 		},
 		{
@@ -3315,9 +3285,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/331.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/328.png"
 			}
 		},
 		{
@@ -3325,9 +3295,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "88",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/332.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/329.png"
 			}
 		},
 		{
@@ -3335,9 +3305,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "103",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/333.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/330.png"
 			}
 		},
 		{
@@ -3345,19 +3315,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
-			"collector_number": "100",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/334.png"
-			}
-		},
-		{
-			"name": "Strong as Fuck Mummy",
-			"rarity": "special",
-			"mana_cost": "{1}{W}",
-			"type": "Creature — Zombie",
-			"collector_number": "39",
-			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/335.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/331.png"
 			}
 		},
 		{
@@ -3365,9 +3325,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}{U}",
 			"type": "Enchantment",
-			"collector_number": "236",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/336.png"
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/332.png"
 			}
 		},
 		{
@@ -3375,16 +3335,366 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Enchantment",
-			"collector_number": "49",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/333.png"
+			}
+		},
+		{
+			"name": "Composite Crawler",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie Horror",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/334.png"
+			}
+		},
+		{
+			"name": "Gannet, Skysail Zoologist",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Human Druid",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/335.png"
+			}
+		},
+		{
+			"name": "Ludevic's Courier",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/336.png"
+			}
+		},
+		{
+			"name": "Altar of the False God",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "269",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/337.png"
+			}
+		},
+		{
+			"name": "Cerebral Connoisseur",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/338.png"
+			}
+		},
+		{
+			"name": "Serene Study",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/339.png"
+			}
+		},
+		{
+			"name": "Reki of the Living Historians",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Human Monk",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/340.png"
+			}
+		},
+		{
+			"name": "Dragonspeaker's Charm",
+			"rarity": "special",
+			"mana_cost": "{R}{G}",
+			"type": "Instant",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/341.png"
+			}
+		},
+		{
+			"name": "Pathcutter Raptor",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/342.png"
+			}
+		},
+		{
+			"name": "Hoarder of Possibilities",
+			"rarity": "special",
+			"mana_cost": "{8}",
+			"type": "Creature — Eldrazi",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/343.png"
+			}
+		},
+		{
+			"name": "Gargaroth Yearling",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/344.png"
+			}
+		},
+		{
+			"name": "Naktamun Vestige",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Zombie",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/345.png"
+			}
+		},
+		{
+			"name": "Thaumaturgy",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/346.png"
+			}
+		},
+		{
+			"name": "Hollowhenge Predator",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Zombie Wolf",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/347.png"
+			}
+		},
+		{
+			"name": "Eyeblight Reaper",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Assassin",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/348.png"
+			}
+		},
+		{
+			"name": "Titan Engine",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/349.png"
+			}
+		},
+		{
+			"name": "Going Nowhere",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/350.png"
+			}
+		},
+		{
+			"name": "Scrapworks",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/351.png"
+			}
+		},
+		{
+			"name": "New Prahv, Seat of the Senate",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/352.png"
+			}
+		},
+		{
+			"name": "Chama Koj, Forbidden Chamber",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/353.png"
+			}
+		},
+		{
+			"name": "Locthwain, Corrupted Castle",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/354.png"
+			}
+		},
+		{
+			"name": "Tomakul, Fallaji Capital",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/355.png"
+			}
+		},
+		{
+			"name": "Setessa, Polis of Plenty",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "349",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/356.png"
+			}
+		},
+		{
+			"name": "Tarnation, City of Scoundrels",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "351",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/357.png"
+			}
+		},
+		{
+			"name": "Ghirapur, Hub of Innovation",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/358.png"
+			}
+		},
+		{
+			"name": "Dewrim, Rootbloom Haven",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/359.png"
+			}
+		},
+		{
+			"name": "Cori Mountain, Pilgrim's Path",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/360.png"
+			}
+		},
+		{
+			"name": "Ior, Glasspool Ruin",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/361.png"
+			}
+		},
+		{
+			"name": "Warmaker Aurelia",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}{W}{W}",
+			"type": "Legendary Creature — Angel Soldier",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/362.png"
+			}
+		},
+		{
+			"name": "Frostfire Fox",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental Fox",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/363.png"
+			}
+		},
+		{
+			"name": "Spectacular Conjuration",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/364.png"
+			}
+		},
+		{
+			"name": "Overlord of Mosswood",
+			"rarity": "special",
+			"mana_cost": "{5}{G}{G}{G}",
+			"type": "Creature — Snail Hydra",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/365.png"
+			}
+		},
+		{
+			"name": "Vedalken Journeymage",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Vedalken Wizard",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/366.png"
+			}
+		},
+		{
+			"name": "Herald of New Life",
+			"rarity": "special",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Spirit Bird",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/367.png"
+			}
+		},
+		{
+			"name": "Valor's Reach Star",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Angel Warrior",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/368.png"
 			}
 		}
 	]
 
 [cube(15)]
 	1 Refractor Matrix
-	1 Ubitsa Forge
+	1 Sentinel Forge
 	1 Arid Mesa
 	1 Badlands
 	1 Bayou
@@ -3407,14 +3717,11 @@
 	1 Wooded Foothills
 	1 Chromatic Cube
 	1 Shimmering Mox
-	1 Pactbound Mox
 	1 The Seed of Everything
-	1 Imperial Treasury
 	1 Tranquil Mystic
 	1 Forebode
 	1 Plot
 	1 Rewritten Dreams
-	1 Vibrant Mox
 	1 Leaking Memories
 	1 Ego Death
 	1 Otterslide
@@ -3439,7 +3746,7 @@
 	1 Suffocating Light
 	1 Scourge of Bala Ged
 	1 Blood Demands Blood
-	1 Vedalken Astronomer
+	1 Janjeet Astronomer
 	1 Mindcrackle
 	1 Urza, Royal Machinist
 	1 Unseal the Underworld
@@ -3493,7 +3800,7 @@
 	1 Galvanic Gambit
 	1 Devious Pyromancer
 	1 Gleeful Arson
-	1 Karrthus' Tyranny
+	1 Tyranny of Karrthus
 	1 Unforced Error
 	1 Grafdigger
 	1 Rivercrack Mentor
@@ -3687,7 +3994,7 @@
 	1 Crumbling Shrine
 	1 Crumbling Retreat
 	1 Garruk, Champion of the Wild
-	1 Ravenous Ambition
+	1 Promised Conquest
 	1 The Sculpting of Uthros
 	1 Evil Cowers Before Courage
 	1 Stupendous Hoard
@@ -3709,6 +4016,40 @@
 	1 Consult the Dead
 	1 Initiate Into the Night
 	1 Grasp of Phyresis
-	1 Strong as Fuck Mummy
 	1 Sonorous Séance
 	1 Ever Increasing Dominion
+	1 Composite Crawler
+	1 Gannet, Skysail Zoologist
+	1 Ludevic's Courier
+	1 Altar of the False God
+	1 Cerebral Connoisseur
+	1 Serene Study
+	1 Reki of the Living Historians
+	1 Dragonspeaker's Charm
+	1 Pathcutter Raptor
+	1 Hoarder of Possibilities
+	1 Gargaroth Yearling
+	1 Naktamun Vestige
+	1 Thaumaturgy
+	1 Hollowhenge Predator
+	1 Eyeblight Reaper
+	1 Titan Engine
+	1 Going Nowhere
+	1 Scrapworks
+	1 New Prahv, Seat of the Senate
+	1 Chama Koj, Forbidden Chamber
+	1 Locthwain, Corrupted Castle
+	1 Tomakul, Fallaji Capital
+	1 Setessa, Polis of Plenty
+	1 Tarnation, City of Scoundrels
+	1 Ghirapur, Hub of Innovation
+	1 Dewrim, Rootbloom Haven
+	1 Cori Mountain, Pilgrim's Path
+	1 Ior, Glasspool Ruin
+	1 Warmaker Aurelia
+	1 Frostfire Fox
+	1 Spectacular Conjuration
+	1 Overlord of Mosswood
+	1 Vedalken Journeymage
+	1 Herald of New Life
+	1 Valor's Reach Star
