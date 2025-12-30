@@ -1095,7 +1095,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "50",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/109.png"
 			}
@@ -2191,11 +2191,11 @@
 			}
 		},
 		{
-			"name": "Estatic Alchemist",
+			"name": "Ecstatic Alchemist",
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "51",
+			"collector_number": "50",
 			"image_uris": {
 				"en": "https://pipsqueakMTG.github.io/sets/SOL-files/img/219.png"
 			}
@@ -2771,7 +2771,7 @@
 			}
 		},
 		{
-			"name": "Smuggler's Aetherskaes",
+			"name": "Smuggler's Aetherskates",
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
@@ -3903,7 +3903,7 @@
 	1 Seedship Scout
 	1 Reject the Notion
 	1 Nexus Gate
-	1 Estatic Alchemist
+	1 Ecstatic Alchemist
 	1 Bondseeker Magpie
 	1 Terror of Uncrossed Strait
 	1 Refined Diamond
@@ -3961,7 +3961,7 @@
 	1 Stabilized Omenpath
 	1 Beastmaster's Bracers
 	1 Captured Bloom
-	1 Smuggler's Aetherskaes
+	1 Smuggler's Aetherskates
 	1 Moment of Omniscence
 	1 Rishadan Kidnapper
 	1 Sanctum of Oketra

@@ -1,4 +1,87 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+Ecstatic Alchemist added.
+Smuggler's Aetherskates added.
+
+Estatic Alchemist removed.
+Smuggler's Aetherskaes removed.
+
+Road Rager
+rules_text: Deathtouch
+Whenever this creature deals combat damage to a player, exile the top card of their library face down. For as long as that card remains exiled, you may look at it. If you don't control this creature, you may cast that card, and mana of any type can be spent to cast it. => Deathtouch
+Whenever this creature deals combat damage to a player, exile the top card of their library face down. When this creature dies, you may look at and cast the card as long as it remains exiled, and mana of any type can be spent to cast it.
+
+Isao, Jukai Hermit
+rules_text: This spell can't be countered
+Other creatures you control have hexproof.
+Whenever this creature blocks or becomes blocked, put a +1/+1 counter on it. => This spell can't be countered.
+Other creatures you control have hexproof.
+Whenever this creature blocks or becomes blocked, put a +1/+1 counter on it.
+
+Rite of Shilgengar
+rules_text: 
+I — Surveil 1, then you draw a card and you lose 1 life.
+II — You may return target creature card from your graveyard to the battlefield.
+III — You lose life equal to the greatest power among creatures you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Surveil 1, then you draw a card and you lose 1 life.
+II — You may return target creature card from your graveyard to the battlefield.
+III — You lose life equal to the greatest power among creatures you control.
+special_text: 
+I — Surveil 1, then you draw a card and you lose 1 life.
+II — You may return target creature card from your graveyard to the battlefield.
+III — You lose life equal to the greatest power among creatures you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Surveil 1, then you draw a card and you lose 1 life.
+II — You may return target creature card from your graveyard to the battlefield.
+III — You lose life equal to the greatest power among creatures you control.
+
+Guidance of Saint Traft
+rules_text: 
+I — Create a 1/1 white Spirit creature token with flying.
+II, III — Put a +1/+1 counter on each of up to two target creatures. They gain flying until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 white Spirit creature token with flying.
+II, III — Put a +1/+1 counter on each of up to two target creatures. They gain flying until end of turn.
+​
+special_text: 
+I — Create a 1/1 white Spirit creature token with flying.
+II, III — Put a +1/+1 counter on each of up to two target creatures. They gain flying until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 white Spirit creature token with flying.
+II, III — Put a +1/+1 counter on each of up to two target creatures. They gain flying until end of turn.
+​
+
+Song of All
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II, III — Exile up to one other target nonland permanent you control, then return it to the battlefield under its owner's control.
+IV — You gain 4 life. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II, III — Exile up to one other target nonland permanent you control, then return it to the battlefield under its owner's control.
+IV — You gain 4 life.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II, III — Exile up to one other target nonland permanent you control, then return it to the battlefield under its owner's control.
+IV — You gain 4 life. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II, III — Exile up to one other target nonland permanent you control, then return it to the battlefield under its owner's control.
+IV — You gain 4 life.
+​
+
+Rishadan Kidnapper
+rules_text: When this enters, gain control of target creature or planeswalker an opponent controls until end of turn. Untap it. It gains haste. At the end of turn, exile that creature. You may cast it as long as it remains exiled, and mana of any type can be spent to cast that spell. => When this enters, gain control of target creature or planeswalker an opponent controls until end of turn. Untap it. It gains haste. At the end of turn, exile that permanent. You may cast it as long as it remains exiled, and mana of any type can be spent to cast that spell.
+
+The Sculpting of Uthros
+rules_text: 
+I, II — Scry 1, then draw a card.
+III — When you next cast an instant or sorcery spell this turn, copy it. You may choose new targets for the copy. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Scry 1, then draw a card.
+III — When you next cast an instant or sorcery spell this turn, copy it. You may choose new targets for the copy.
+​
+special_text: 
+I, II — Scry 1, then draw a card.
+III — When you next cast an instant or sorcery spell this turn, copy it. You may choose new targets for the copy. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Scry 1, then draw a card.
+III — When you next cast an instant or sorcery spell this turn, copy it. You may choose new targets for the copy.
+​
+
+
+VERSION 14 CHANGELOG
 ====================
 
 

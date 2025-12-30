@@ -147,11 +147,11 @@
         "position": "143"
     },
     {
-        "card_name": "Elementalist's Charm",
+        "card_name": "Ecstatic Alchemist",
         "number": 50,
         "shape": "normal",
         "set": "SOL",
-        "position": "109"
+        "position": "219"
     },
     {
         "card_name": "Cabal Cryptkeeper",
@@ -182,11 +182,11 @@
         "position": "250"
     },
     {
-        "card_name": "Estatic Alchemist",
+        "card_name": "Elementalist's Charm",
         "number": 51,
         "shape": "normal",
         "set": "SOL",
-        "position": "219"
+        "position": "109"
     },
     {
         "card_name": "Cerebral Connoisseur",
@@ -2149,7 +2149,7 @@
         "position": "286"
     },
     {
-        "card_name": "Smuggler's Aetherskaes",
+        "card_name": "Smuggler's Aetherskates",
         "number": 300,
         "shape": "normal",
         "set": "SOL",
