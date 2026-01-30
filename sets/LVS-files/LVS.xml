@@ -1,0 +1,4414 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>LVS</name>
+			<longname>Love Song</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-01-29</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>A Planet Far, Far Away</name>
+			<text>Draw a card.
+Leitmotif (If you cast this spell from your hand, exile it as it resolves. When you next cast a spell that shares a color with this card, you may cast this from exile without paying its mana cost.)</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/59_A Planet Far, Far Away.jpg" num="59">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Galactic Detonation</name>
+			<text>Galactic Detonation deals 2 damage to any target.
+Augmented — If you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, Galactic Detonation deals 5 damage instead.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/133_Galactic Detonation.jpg" num="133">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dead on Arrival</name>
+			<text>Target player sacrifices a creature or planeswalker.
+Leitmotif (If you cast this spell from your hand, exile it as it resolves. When you next cast a spell that shares a color with this card, you may cast this from exile without paying its mana cost.)</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/86_Dead on Arrival.jpg" num="86">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Admin of Asthenia</name>
+			<text>Converge — Admin of Asthenia enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.
+Admin of Asthenia can&apos;t attack unless its power is 4 or greater.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/40_Admin of Asthenia.jpg" num="40">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Far Too Young to Die</name>
+			<text>This spell costs {3} less to cast if it targets a creature with mana value 2 or less.
+Destroy target creature.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/90_Far Too Young to Die.jpg" num="90">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Time in a Bottle</name>
+			<text>Take an extra turn after this one. Exile Time in a Bottle.
+Augmented — If you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, draw three cards.</text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/72_Time in a Bottle.jpg" num="72">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cosmic Chart</name>
+			<text>{T}: Add one mana of any color.
+{5}, {T}, Sacrifice Cosmic Chart: Search your library for a card, put it into your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/223_Cosmic Chart.jpg" num="223">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Enter Mephisto&apos;s Gate</name>
+			<text>Destroy target creature.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/199_Enter Mephisto&apos;s Gate.jpg" num="199">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Enjoy the Silence</name>
+			<text>Converge — Each creature gets -X/-X until end of turn, where X is the number of colors of mana spent to cast Enjoy the Silence.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/88_Enjoy the Silence.jpg" num="88">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unwavering Guardian</name>
+			<text>Cadence (Whenever you cast a spell, if its mana value is greater than this creature&apos;s power, put a +1/+1 counter on this creature.)</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/37_Unwavering Guardian.jpg" num="37">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Determined Explorer</name>
+			<text>Menace
+{1}{B}, Exile another three cards from your graveyard: Return Determined Explorer from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/87_Determined Explorer.jpg" num="87">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Disassociate</name>
+			<text>When Disassociate enters the battlefield, exile target creature until Disassociate leaves the battlefield.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/10_Disassociate.jpg" num="10">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Prophetic Prism</name>
+			<text>When Prophetic Prism enters the battlefield, draw a card.
+{1}, {T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/234_Prophetic Prism.jpg" num="234">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Farseek</name>
+			<text>Search your library for a Plains, Island, Swamp, or Mountain card and put it onto the battlefield tapped. Then shuffle.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/168_Farseek.jpg" num="168">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Animus Vox</name>
+			<text>Converge — You draw X cards and gain X life, where X is the number of colors of mana spent to cast Animus Vox.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/193_Animus Vox.jpg" num="193">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WU</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Collector of Green and Grey</name>
+			<text>{T}: Add one mana of any color.
+Augmented — Whenever a nontoken creature enters the battlefield under your control, if you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, put a +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/159_Collector of Green and Grey.jpg" num="159">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rethia Cultivator</name>
+			<text>When Rethia Cultivator enters the battlefield, you may search your library for a land card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/181_Rethia Cultivator.jpg" num="181">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>AOSE Lab Tech</name>
+			<text>When AOSE Lab Tech enters the battlefield, draw three cards, then discard two cards unless you discard an artifact card.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/43_AOSE Lab Tech.jpg" num="43">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mephistian Abomination</name>
+			<text>Menace</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/103_Mephistian Abomination.jpg" num="103">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>On Display</name>
+			<text>Enchant creature
+Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/57_On Display.jpg" num="57">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wandering Precursor</name>
+			<text>Whenever you cast a spell, Wandering Precursor gets +1/+0 until end of turn for each color of mana spent to cast that spell.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/153_Wandering Precursor.jpg" num="153">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mining Rover Manager</name>
+			<text>When Mining Rover Manager enters the battlefield, create a 1/1 colorless Servo artifact creature token.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/21_Mining Rover Manager.jpg" num="21">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glitch, Galactic Muse</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/202_Glitch, Galactic Muse.jpg" num="202">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Glitch</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2URW</manacost>
+				<cmc>5</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+				<loyalty>1</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Destructive Ambition</name>
+			<text>Counter target monocolored spell. Its controller loses 2 life.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/198_Destructive Ambition.jpg" num="198">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Painwield Explorer</name>
+			<text>Cadence (Whenever you cast a spell, if its mana value is greater than this creature&apos;s power, put a +1/+1 counter on this creature.)
+When Painwield Explorer dies, it deals damage equal to its power to target player or planeswalker.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/144_Painwield Explorer.jpg" num="144">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ignition Point</name>
+			<text>Ignition Point deals 3 damage to any target.
+The next card you cast this turn can be cast as though it has flash.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/204_Ignition Point.jpg" num="204">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hostile Habitat</name>
+			<text>Hostile Habitat deals 2 damage to each creature.
+Leitmotif (If you cast this spell from your hand, exile it as it resolves. When you next cast a spell that shares a color with this card, you may cast this from exile without paying its mana cost.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/136_Hostile Habitat.jpg" num="136">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Heedless Astronaut</name>
+			<text>Whenever Heedless Astronaut attacks, it gets +2/+0 and gains indestructible until end of turn.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/203_Heedless Astronaut.jpg" num="203">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Defected Explorer</name>
+			<text>Augmented — At the beginning of each end step, if you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, put a +1/+1 counter on Defected Explorer.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/197_Defected Explorer.jpg" num="197">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nebula&apos;s Majesty</name>
+			<text>Return target nonland permanent to its owner&apos;s hand.
+Exile target nonland permanent you control, then return it to the battlefield under your control.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/207_Nebula&apos;s Majesty.jpg" num="207">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dead Man&apos;s Party</name>
+			<text>At the beginning of your upkeep, you may choose a color, then exile two cards of that color from your graveyard. If you do, return a creature, instant, or sorcery card of that color from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/196_Dead Man&apos;s Party.jpg" num="196">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ground Bound</name>
+			<text>Tap up to two target creatures.
+Leitmotif (If you cast this spell from your hand, exile it as it resolves. When you next cast a spell that shares a color with this card, you may cast this from exile without paying its mana cost.)</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/15_Ground Bound.jpg" num="15">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Abandon Life and Hope</name>
+			<text>This spell costs {X} less to cast, where X is the greatest power among creatures you control.
+Abandon Life and Hope deals 5 damage to target creature or planeswalker.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/117_Abandon Life and Hope.jpg" num="117">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scavenging Pack</name>
+			<text>Reach
+When Scavenging Pack enters the battlefield, you may destroy target artifact with mana value 2 or less.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/183_Scavenging Pack.jpg" num="183">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prismatic Cavern</name>
+			<text>Prismatic Cavern enters the battlefield tapped.
+When Prismatic Cavern enters the battlefield, return a land you control to its owner&apos;s hand.
+{T}: Add {C} and one mana of any color.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/247_Prismatic Cavern.jpg" num="247">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Hero&apos;s Downfall</name>
+			<text>Destroy target creature or planeswalker.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/94_Hero&apos;s Downfall.jpg" num="94">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Alive and on Top</name>
+			<text>Converge — Gain control of up to X target creatures with total mana value X or less, where X is the number of colors of mana spent to cast Alive and on Top.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/42_Alive and on Top.jpg" num="42">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>When the Stars Align</name>
+			<text>You gain 5 life and draw a card. Then if you&apos;ve cast spells named When the Stars Align five times this game, you win the game.
+Augmented — If you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, you may shuffle When the Stars Align into your library.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/39_When the Stars Align.jpg" num="39">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>AOSE Spacewalker</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/4_AOSE Spacewalker.jpg" num="4">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Servo LVS</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/3t_Servo.jpg" num="3">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Servo</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Inquirer, Roaming Rover</name>
+			<text>Inquirer, Roaming Rover attacks each combat if able.
+Whenever Inquirer deals damage to an opponent, draw a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/228_Inquirer, Roaming Rover.jpg" num="228">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Servo</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lost Without You</name>
+			<text>Target player discards two cards.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/101_Lost Without You.jpg" num="101">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Strike Down</name>
+			<text>Choose one —
+• Destroy target creature with flying.
+• Destroy target artifact.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/186_Strike Down.jpg" num="186">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Predatory Psion</name>
+			<text>Flash
+When Predatory Psion enters the battlefield, switch target creature&apos;s power and toughness until end of turn.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/60_Predatory Psion.jpg" num="60">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Olten Skywhale</name>
+			<text>Flash
+Flying</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/56_Olten Skywhale.jpg" num="56">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Whale</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Weary Adventurer</name>
+			<text>When Weary Adventurer enters the battlefield, return a permanent you control to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/38_Weary Adventurer.jpg" num="38">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ready to Go</name>
+			<text>Create two 1/1 colorless Servo artifact creature tokens.
+Leitmotif (If you cast this spell from your hand, exile it as it resolves. When you next cast a spell that shares a color with this card, you may cast this from exile without paying its mana cost.)</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/29_Ready to Go.jpg" num="29">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Emergent Predator</name>
+			<text>Menace, haste</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/128_Emergent Predator.jpg" num="128">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>AOSE Field Researcher</name>
+			<text>Vigilance
+Cadence (Whenever you cast a spell, if its mana value is greater than this creature&apos;s power, put a +1/+1 counter on this creature.)</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/3_AOSE Field Researcher.jpg" num="3">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Slyten Technician</name>
+			<text>Whenever you cast a noncreature spell, Slyten Technician gets +1/+0 until end of turn, then scry 1.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/64_Slyten Technician.jpg" num="64">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Winged Guardian</name>
+			<text>Flying
+When Winged Guardian enters the battlefield, return up to one target nonland permanent to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/77_Winged Guardian.jpg" num="77">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lonely Giant</name>
+			<text>Trample
+Augmented — When Lonely Giant enters the battlefield, if you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, put two +1/+1 counters on it.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/175_Lonely Giant.jpg" num="175">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Operations Manager</name>
+			<text>Converge — When Operations Manager enters the battlefield, create X 1/1 colorless Servo artifact creature tokens, where X is the number of colors of mana spent to cast Operations Manager.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/23_Operations Manager.jpg" num="23">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fracking Factory</name>
+			<text>{T}, Sacrifice an artifact or creature: Fracking Factory deals 2 damage to each opponent. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/132_Fracking Factory.jpg" num="132">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Daring Adventurer</name>
+			<text>Trample
+Cadence (Whenever you cast a spell, if its mana value is greater than this creature&apos;s power, put a +1/+1 counter on this creature.)</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/164_Daring Adventurer.jpg" num="164">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lt. Daisy Saxon</name>
+			<text>Cadence (Whenever you cast a spell, if its mana value is greater than this creature&apos;s power, put a +1/+1 counter on this creature.)
+{1}{R}, Remove a +1/+1 counter from Lt. Daisy Saxon: She deals 2 damage to target player or planeswalker.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/141_Lt. Daisy Saxon.jpg" num="141">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lost Among the Stars</name>
+			<text>Counter target spell. Create a 1/1 blue Elemental creature token with flying.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/55_Lost Among the Stars.jpg" num="55">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cosmic Sinkhole</name>
+			<text>Converge — Counter target spell unless its controller pays {1} for each color of mana spent to cast Cosmic Sinkhole.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/47_Cosmic Sinkhole.jpg" num="47">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XU</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dedicated Bushwacker</name>
+			<text>Haste
+When Dedicated Bushwacker enters the battlefield, other creatures you control get +1/+0 and gain haste until end of turn.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/165_Dedicated Bushwacker.jpg" num="165">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Architect of Calamity</name>
+			<text>Whenever you cast a noncreature spell, Architect of Calamity deals 2 damage to each opponent.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/119_Architect of Calamity.jpg" num="119">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nebula of Empty Gold</name>
+			<text>As Nebula of Empty Gold enters the battlefield, choose one or more colors. You lose life equal to the number of colors chosen this way.
+{T}: Add one mana of any of the chosen colors.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/245_Nebula of Empty Gold.jpg" num="245">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Station Repair Technician</name>
+			<text>Flying
+Augmented — Whenever Station Repair Technician enters the battlefield or attacks, if you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, creatures you control gain flying until end of turn.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/67_Station Repair Technician.jpg" num="67">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>R-12 Lone Digger</name>
+			<text>When R-12 Lone Digger enters the battlefield, it deals 3 damage to target player or planeswalker.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/146_R-12 Lone Digger.jpg" num="146">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prosthetic Repairs</name>
+			<text>Return target creature card from your graveyard to your hand.
+Augmented — If you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, return it to the battlefield instead.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/105_Prosthetic Repairs.jpg" num="105">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Head on Collision</name>
+			<text>Head on Collision deals 2 damage to any target.
+Leitmotif (If you cast this spell from your hand, exile it as it resolves. When you next cast a spell that shares a color with this card, you may cast this from exile without paying its mana cost.)</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/135_Head on Collision.jpg" num="135">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Big Enough</name>
+			<text>Enchant creature
+Converge — When Big Enough enters the battlefield, put X +1/+1 counters on enchanted creature, where X is number of colors of mana spent to cast Big Enough.
+Enchanted creature has trample.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/155_Big Enough.jpg" num="155">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sudden Decompression</name>
+			<text>Target opponent reveals their hand. You choose a nonland card from it. Exile that card. You lose 2 life.
+Augmented — Then if you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, you may cast that card without paying its mana cost.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/114_Sudden Decompression.jpg" num="114">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Call of the Abyss</name>
+			<text>Call of the Abyss deals 3 damage to any target and you gain 3 life.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/83_Call of the Abyss.jpg" num="83">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bog Apex</name>
+			<text>Whenever a creature dies, put a +1/+1 counter on Bog Apex.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/82_Bog Apex.jpg" num="82">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>S-19 Long Jacket</name>
+			<text>S-19 Long Jacket has first strike as long as it&apos;s attacking.
+S-19 Long Jacket has lifelink as long as it&apos;s blocking.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/32_S-19 Long Jacket.jpg" num="32">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Remember for Centuries</name>
+			<text>Return target instant or sorcery card from your graveyard to your hand.
+Leitmotif (If you cast this spell from your hand, exile it as it resolves. When you next cast a spell that shares a color with this card, you may cast this from exile without paying its mana cost.)</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/62_Remember for Centuries.jpg" num="62">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bulletproof Will</name>
+			<text>Flash
+Enchant creature
+Enchanted creature gets +1/+1 and has hexproof.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/45_Bulletproof Will.jpg" num="45">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Connoisseur of Toxins</name>
+			<text>Deathtouch
+Cadence (Whenever you cast a spell, if its mana value is greater than this creature&apos;s power, put a +1/+1 counter on this creature.)</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/162_Connoisseur of Toxins.jpg" num="162">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Purging Light</name>
+			<text>Choose one —
+• Purging Light deals 3 damage to target attacking or blocking creature. If that creature would die this turn, exile it instead.
+• Exile target enchantment.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/28_Purging Light.jpg" num="28">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dimensional Plunge</name>
+			<text>Put target creature into its owner&apos;s library third from the top.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/48_Dimensional Plunge.jpg" num="48">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Find Happiness in Misery</name>
+			<text>Target player mills two cards. You draw a card and lose 1 life.
+Leitmotif (If you cast this spell from your hand, exile it as it resolves. When you next cast a spell that shares a color with this card, you may cast this from exile without paying its mana cost.)</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/91_Find Happiness in Misery.jpg" num="91">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stratospheric Bombardment</name>
+			<text>Stratospheric Bombardment deals X damage to any target and you gain that much life.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/113_Stratospheric Bombardment.jpg" num="113">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XBB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Take a Walk</name>
+			<text>Exile target nonland permanent you control, then return that card to the battlefield under your control.
+Leitmotif (If you cast this spell from your hand, exile it as it resolves. When you next cast a spell that shares a color with this card, you may cast this from exile without paying its mana cost.)</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/69_Take a Walk.jpg" num="69">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Human Frailty</name>
+			<text>Destroy target Human creature.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/97_Human Frailty.jpg" num="97">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Exergetic Chains</name>
+			<text>When Exergetic Chains enters the battlefield, exile target nonland permanent you don&apos;t control and up to one target creature you control until Exergetic Chains leaves the battlefield.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/11_Exergetic Chains.jpg" num="11">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Speck of Dust</name>
+			<text>Until end of turn, target creature loses all abilities and has base power and toughness 1/1.
+Draw a card, then discard a card.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/66_Speck of Dust.jpg" num="66">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Counting Stars</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+2 and has &quot;Whenever this creature attacks, tap target creature defending player controls.&quot;</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/8_Counting Stars.jpg" num="8">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Beyond Humanity</name>
+			<text>Creatures you control get +1/+1 until end of turn.
+Artifact creatures and Elementals you control get +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/5_Beyond Humanity.jpg" num="5">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hardened Explorer</name>
+			<text>When Hardened Explorer enters the battlefield, choose one —
+• Destroy target artifact.
+• Put a +1/+1 counter on Hardened Explorer. It gains haste.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/134_Hardened Explorer.jpg" num="134">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hold Me Down</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+0.
+{2}{B}, Exile Hold Me Down from your graveyard: Return target creature card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/95_Hold Me Down.jpg" num="95">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nimble Explorer</name>
+			<text>Flash
+{1}{W}: Return Nimble Explorer to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/22_Nimble Explorer.jpg" num="22">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Comfortably Numb</name>
+			<text>This spell costs {X} less to cast, where X is the greatest power among creatures you control.
+Tap up to three target creatures. They don&apos;t untap during their controller&apos;s next untap step.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/46_Comfortably Numb.jpg" num="46">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Space Jelly Swarm</name>
+			<text>Create two 1/1 blue Elemental creature tokens with flying.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/65_Space Jelly Swarm.jpg" num="65">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Uncover the Truth</name>
+			<text>Look at the top two cards of your library. Put one of them into your hand, then any number of target players each mill three cards.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/73_Uncover the Truth.jpg" num="73">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Elemental LVS</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/1t_Elemental.jpg" num="1">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Seasoned Adventurer</name>
+			<text>Trample
+Seasoned Adventurer enters the battlefield with two +1/+1 counters if you control seven or more lands.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/184_Seasoned Adventurer.jpg" num="184">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glowspore Grove</name>
+			<text>When Glowspore Grove enters the battlefield or dies, create a 1/1 blue Elemental creature token with flying.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/13_Glowspore Grove.jpg" num="13">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Paired Pathfinders</name>
+			<text>Vigilance
+When Paired Pathfinders enters the battlefield, if three or more colors were spent to cast it, create a 1/1 colorless Servo creature token.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/25_Paired Pathfinders.jpg" num="25">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Major General Explorer</name>
+			<text>This spell costs {X} less to cast, where X is the number of creatures you control.
+Vigilance</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/19_Major General Explorer.jpg" num="19">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>6W</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Abomination Sculptor</name>
+			<text>Abomination Sculptor has deathtouch and lifelink as long as it&apos;s attacking.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/80_Abomination Sculptor.jpg" num="80">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Coldhearted Explorer</name>
+			<text>Haste
+Coldhearted Explorer can&apos;t block.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/84_Coldhearted Explorer.jpg" num="84">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Silencing Guardian</name>
+			<text>When Silencing Guardian enters the battlefield, you may have target creature gets -1/-1 until end of turn.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/110_Silencing Guardian.jpg" num="110">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Killdrone Engineer</name>
+			<text>When Killdrone Engineer enters the battlefield, create a 1/1 colorless Servo artifact creature token.
+Artifacts you control have deathtouch.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/100_Killdrone Engineer.jpg" num="100">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Abomination Emissary</name>
+			<text>When Abomination Emissary enters the battlefield, target player mills six cards.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/79_Abomination Emissary.jpg" num="79">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Repurposed Killdrone</name>
+			<text>Sacrifice Repurposed Killdrone: It deals 1 damage to any target. You gain 1 life.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/107_Repurposed Killdrone.jpg" num="107">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Twisted Predator</name>
+			<text>When Twisted Predator dies, you draw a card and you lose 1 life.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/115_Twisted Predator.jpg" num="115">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ravenous Abomination</name>
+			<text>When Ravenous Abomination enters the battlefield, choose one —
+• Create two Treasure tokens.
+• Put a +1/+1 counter on Ravenous Abomination.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/147_Ravenous Abomination.jpg" num="147">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>V-4 Fixit</name>
+			<text>Whenever V-4 Fixit or another artifact enters the battlefield under your control, target creature you control gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/152_V-4 Fixit.jpg" num="152">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Accompanied Adventurer</name>
+			<text>Menace
+Cadence (Whenever you cast a spell, if its mana value is greater than this creature&apos;s power, put a +1/+1 counter on this creature.)</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/118_Accompanied Adventurer.jpg" num="118">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloody Business</name>
+			<text>Target creature gets +3/+2 and gains trample until end of turn.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/121_Bloody Business.jpg" num="121">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Convert to Resources</name>
+			<text>Destroy target artifact. Create two 1/1 colorless Servo artifact creature tokens.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/124_Convert to Resources.jpg" num="124">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Extrastellar Larceny</name>
+			<text>Gain control of target nonland permanent until end of turn. Untap it. It gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/130_Extrastellar Larceny.jpg" num="130">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scarlet Mist</name>
+			<text>Target creature you control gains haste until end of turn. Create a token that&apos;s a copy of that creature, then exile that token.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/148_Scarlet Mist.jpg" num="148">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dream of Greatness</name>
+			<text>As an additional cost to cast this spell, discard a card.
+Draw two cards. Add one mana of any color.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/126_Dream of Greatness.jpg" num="126">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wandering Megaflora</name>
+			<text>Wandering Megaflora has hexproof as long as it&apos;s untapped.
+Whenever Wandering Megaflora attacks, untap another target creature you control.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/190_Wandering Megaflora.jpg" num="190">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Greedy Insects</name>
+			<text>When Greedy Insects enters the battlefield, exile up to one target artifact or enchantment until Greedy Insects leaves the battlefield.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/170_Greedy Insects.jpg" num="170">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lupine Skygrazer</name>
+			<text>Reach
+Lupine Skygrazer enters the battlefield with a +1/+1 counter on it if three or more colors of mana were spent to cast it.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/176_Lupine Skygrazer.jpg" num="176">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Colossal Camouflage</name>
+			<text>Target creature gets +1/+1 and gains indestructible until end of turn.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/160_Colossal Camouflage.jpg" num="160">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Verdant Haven</name>
+			<text>Enchant land
+When Verdant Haven enters the battlefield, you gain 2 life.
+Whenever enchanted land is tapped for mana, its controller adds one mana of any color.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/189_Verdant Haven.jpg" num="189">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nebula&apos;s Call</name>
+			<text>Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Add one mana of any color.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/177_Nebula&apos;s Call.jpg" num="177">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Return to Earth</name>
+			<text>Destroy target artifact or enchantment. If you controlled that artifact or enchantment, draw two cards.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/182_Return to Earth.jpg" num="182">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Beastly Dispute</name>
+			<text>Target creature you control fights target creature you don&apos;t control.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/154_Beastly Dispute.jpg" num="154">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lower Stratosphere Destroyer</name>
+			<text>Flying
+Whenever Lower Stratosphere Destroyer blocks or becomes blocked by a creature with flying, it gets +2/+2 until end of turn.
+Crew 2</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/230_Lower Stratosphere Destroyer.jpg" num="230">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dreadtread Rover</name>
+			<text>Menace
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/226_Dreadtread Rover.jpg" num="226">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Precursor Filtercruiser</name>
+			<text>{1}, {T}: Add one mana of any color.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/232_Precursor Filtercruiser.jpg" num="232">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tessellated Orb</name>
+			<text>When Tessellated Orb enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+When Tessellated Orb dies, draw a card.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/237_Tessellated Orb.jpg" num="237">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mineral Retriever</name>
+			<text>Flying
+When Mineral Retriever enters the battlefield, create a Treasure token.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/231_Mineral Retriever.jpg" num="231">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Thopter</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aldorus Fin, Vice President</name>
+			<text>Deathtouch
+Whenever a creature you don&apos;t control dies, choose one —
+• Create a Treasure token.
+• You draw a card and lose 1 life.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/192_Aldorus Fin, Vice President.jpg" num="192">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fiery Erasure</name>
+			<text>Fiery Erasure deals 3 damage to target creature or planeswalker. If that permanent would die this turn, exile it instead.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/131_Fiery Erasure.jpg" num="131">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Planeswalker&apos;s Insight</name>
+			<text>Draw two cards. If three or more colors of mana were spent to cast Planeswalker&apos;s Insight, draw three cards instead.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/58_Planeswalker&apos;s Insight.jpg" num="58">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>TT-23 Aegis</name>
+			<text>Flash
+TT-23 Aegis can&apos;t attack or block unless you have six or more cards in hand.
+At the beginning of your end step, if you didn&apos;t cast a spell this turn, draw a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/216_TT-23 Aegis.jpg" num="216">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rot</name>
+			<text>Destroy all nonland permanents with mana value 3 or less.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/211_Rot.jpg" num="211">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Prismatic Scyphozoa</name>
+			<text>Flying
+Whenever Prismatic Scyphozoa attacks or blocks, target player mills three cards.
+When Prismatic Scyphozoa dies, create four 1/1 blue Elemental creature tokens with flying.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/209_Prismatic Scyphozoa.jpg" num="209">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Jellyfish</type>
+				<maintype>Creature</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heaven Knows</name>
+			<text>At the beginning of your upkeep, if each opponent controls more lands than you, search your library for a basic land card, reveal it, and put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/16_Heaven Knows.jpg" num="16">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Xenoflora Expert</name>
+			<text>You may play an additional land each turn.
+Whenever a player plays a land, that player draws a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/219_Xenoflora Expert.jpg" num="219">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Slyten Ignitor</name>
+			<text>Flying
+{R}: Slyten Ignitor gets +1/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/149_Slyten Ignitor.jpg" num="149">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thunder Road</name>
+			<text>Augmented — When you cast Thunder Road, if you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, copy it twice. You may choose new targets for the copies.
+Thunder Road deals 3 damage to any target. You gain 3 life.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/215_Thunder Road.jpg" num="215">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>No Rest</name>
+			<text>Put target permanent card with mana value 3 or less from a graveyard onto the battlefield under your control.
+Leitmotif (If you cast this spell from your hand, exile it as it resolves. When you next cast a spell that shares a color with this card, you may cast this from exile without paying its mana cost.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/208_No Rest.jpg" num="208">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lone Survivor</name>
+			<text>As long as you control no other Humans, Lone Survivor gets +2/+2 and has &quot;Noncreature spells cost {1} more to cast.&quot;</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/206_Lone Survivor.jpg" num="206">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rage-Fueled Adventurer</name>
+			<text>Trample
+Cadence (Whenever you cast a spell, if its mana value is greater than this creature&apos;s power, put a +1/+1 counter on this creature.)
+Whenever Rage-Fueled Adventurer attacks, you may have it fight target creature you don&apos;t control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/210_Rage-Fueled Adventurer.jpg" num="210">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Speed of Darkness</name>
+			<text>As an additional cost to cast this spell, exile X cards from your graveyard.
+Choose one —
+• Target player mills X cards.
+• Look at the top X cards of your library. Put one into your hand, and the rest on the bottom of your library in any order.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/112_Speed of Darkness.jpg" num="112">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Future Is Now</name>
+			<text>Attacking creatures you control have trample.
+Whenever a creature you control attacks, you may remove any number of +1/+1 counters from that creature. If you do, it gets +2/+2 until end of turn for each counter removed this way.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/200_The Future Is Now.jpg" num="200">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Recurring Abomination</name>
+			<text>Whenever Recurring Abomination deals combat damage to an opponent, you may put target creature card with mana value 3 or less from a graveyard onto the battlefield under your control.
+{4}{B}{B}: Return Recurring Abomination from your graveyard to the battlefield tapped.</text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/106_Recurring Abomination.jpg" num="106">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Everything Black</name>
+			<text>Permanents you control are black. The same is true for spells you control and nonland cards you own that aren&apos;t on the battlefield.
+At the beginning of your upkeep, you may pay {B}. If you do, draw a card and lose 1 life.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/89_Everything Black.jpg" num="89">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Skyward Ambition</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1.
+Whenever enchanted creature deals damage to a player or planeswalker, draw a card.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/63_Skyward Ambition.jpg" num="63">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Time After Time</name>
+			<text>Instant and sorcery spells you control have leitmotif. (Exile that spell as it resolves if you cast it from your hand. When you next cast a spell that shares a color with that card, you may cast it from exile without paying its mana cost.)</text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/71_Time After Time.jpg" num="71">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blooming Vista</name>
+			<text>Blooming Vista enters the battlefield tapped.
+{T}: Add {R} or {G}.
+{1}, {T}: Add one mana of any color.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/240_Blooming Vista.jpg" num="240">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Barren Vista</name>
+			<text>Barren Vista enters the battlefield tapped.
+{T}: Add {U} or {B}.
+{1}, {T}: Add one mana of any color.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/239_Barren Vista.jpg" num="239">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Marshy Vista</name>
+			<text>Marshy Vista enters the battlefield tapped.
+{T}: Add {B} or {R}.
+{1}, {T}: Add one mana of any color.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/244_Marshy Vista.jpg" num="244">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Living Vista</name>
+			<text>Living Vista enters the battlefield tapped.
+{T}: Add {G} or {W}.
+{1}, {T}: Add one mana of any color.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/243_Living Vista.jpg" num="243">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Glacial Vista</name>
+			<text>Glacial Vista enters the battlefield tapped.
+{T}: Add {W} or {U}.
+{1}, {T}: Add one mana of any color.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/241_Glacial Vista.jpg" num="241">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/250_Plains.jpg" num="250">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/251_Island.jpg" num="251">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/252_Swamp.jpg" num="252">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/253_Mountain.jpg" num="253">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/254_Forest.jpg" num="254">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Come Out and Play</name>
+			<text>Put a +1/+1 counter on target creature you control. It can&apos;t be blocked by more than one creature this turn.
+Whenever a creature you control attacks alone, return Come Out and Play from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/161_Come Out and Play.jpg" num="161">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Horrific Progenitor</name>
+			<text>Trample
+Whenever Horrific Progenitor deals damage to a player, for each damage dealt, that player loses 3 life unless they sacrifice a nonland permanent or discard a card.</text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/96_Horrific Progenitor.jpg" num="96">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>6BBB</manacost>
+				<cmc>9</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>12/12</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Out-of-Body Experience</name>
+			<text>Exile target creature. That creature&apos;s controller creates a 1/1 blue Elemental creature token with flying.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/24_Out-of-Body Experience.jpg" num="24">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Space Oddity</name>
+			<text>Exile target creature. That creature&apos;s controller reveals cards from the top of their library until they reveal a creature card. That player puts that card onto the battlefield, then shuffles the rest into their library.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/150_Space Oddity.jpg" num="150">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Persevere</name>
+			<text>Return target creature card with mana value 3 or less from your graveyard to the battlefield. Put a +1/+1 counter on it. It gains indestructible until end of turn.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/26_Persevere.jpg" num="26">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cosmic War</name>
+			<text>Destroy all creatures and planeswalkers. If five or more colors of mana were spent to cast Cosmic War, return a creature or planeswalker card from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/7_Cosmic War.jpg" num="7">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lead the Nation</name>
+			<text>Creatures you control get +2/+2 until end of turn.
+Leitmotif (If you cast this spell from your hand, exile it as it resolves. When you next cast a spell that shares a color with this card, you may cast this from exile without paying its mana cost.)</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/18_Lead the Nation.jpg" num="18">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>In Control</name>
+			<text>Enchant creature
+Whenever enchanted creature attacks, up to two target creatures can&apos;t block this turn. Up to one target creature blocks this turn if able.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/138_In Control.jpg" num="138">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Whimsy</name>
+			<text>Whenever you draw a card, target player mills two cards.
+Whenever you cast a blue spell, scry 1, then you may reveal the top card of your library. If it&apos;s an instant or sorcery card, draw a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/76_Whimsy.jpg" num="76">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UUU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Abomination Blackguard</name>
+			<text>Menace
+Whenever Abomination Blackguard deals combat damage to an opponent, you may draw a card. If you do, you lose 1 life.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/78_Abomination Blackguard.jpg" num="78">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>11-A Lionheart</name>
+			<text>When 11-A Lionheart enters the battlefield, it deals 2 damage to each nonartifact creature.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/116_11-A Lionheart.jpg" num="116">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Venomclaw Skitterer</name>
+			<text>Trample
+Whenever a creature dies, put a +1/+1 counter on Venomclaw Skitterer. You gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/188_Venomclaw Skitterer.jpg" num="188">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>One Bad Night</name>
+			<text>Destroy target monocolored creature.
+Augmented — If you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, return that card to the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/104_One Bad Night.jpg" num="104">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Deepbrush Operative</name>
+			<text>Flash
+Cadence (Whenever you cast a spell, if its mana value is greater than this creature&apos;s power, put a +1/+1 counter on this creature.)</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/166_Deepbrush Operative.jpg" num="166">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Let It Burn</name>
+			<text>Converge — Let It Burn enters the battlefield with a charge counter on it for each color of mana spent to cast it.
+{1}{R}, Remove a charge counter from Let It Burn: It deals 3 damage to any target.
+When there are no charge counters on Let It Burn, return it to its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/140_Let It Burn.jpg" num="140">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>New Divide</name>
+			<text>As New Divide enters the battlefield, you may pay 2 life. If you don&apos;t, it enters the battlefield tapped.
+{T}, Sacrifice New Divide: Search your library for a basic land card and put it onto the battlefield, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/246_New Divide.jpg" num="246">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Hot to the Touch</name>
+			<text>This spell costs {1} less to cast for each creature that attacked this turn.
+Hot to the Touch deals X damage to any target.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/137_Hot to the Touch.jpg" num="137">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XR</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Whatever It Takes</name>
+			<text>Augmented — If you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, you may cast this spell without paying its mana cost.
+Counter target spell.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/75_Whatever It Takes.jpg" num="75">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Crystal Vision Abomination</name>
+			<text>When Crystal Vision Abomination enters the battlefield, create a 1/1 blue Elemental creature token with flying.
+Whenever an Elemental you control attacks, that creature gets +1/+0 and first strike until end of turn.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/125_Crystal Vision Abomination.jpg" num="125">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>C-25 Juliet</name>
+			<text>Menace, haste
+Cadence (Whenever you cast a spell, if its mana value is greater than this creature&apos;s power, put a +1/+1 counter on this creature.)</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/123_C-25 Juliet.jpg" num="123">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Returned Explorer</name>
+			<text>At the beginning of your upkeep, if a library has twenty or fewer cards left in it, return Returned Explorer from your graveyard to the battlefield tapped.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/108_Returned Explorer.jpg" num="108">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Embrace the Abominable</name>
+			<text>Copy target instant or sorcery spell you control. You may choose new targets for the copy.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/127_Embrace the Abominable.jpg" num="127">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ancient Artillery</name>
+			<text>{3}, {T}: Ancient Artillery deals 1 damage to target creature or planeswalker and 1 damage to that permanent&apos;s controller.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/220_Ancient Artillery.jpg" num="220">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Essential Override</name>
+			<text>This spell costs {1} less to cast for each artifact you control.
+Choose two —
+• Untap each artifact you control.
+• Put a +1/+1 counter on each artifact creature you control.
+• Draw a card.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/50_Essential Override.jpg" num="50">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>End of the World</name>
+			<text>Destroy all nonenchantment permanents. If thirty or more lands were destroyed this way, you win the game.</text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/129_End of the World.jpg" num="129">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5RRR</manacost>
+				<cmc>8</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Tomb of Precursors</name>
+			<text>{T}: Add {C}.
+{1}, {T}: Draw a card, then discard a card. Activate only if seven or more cards are in your graveyard.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/249_The Tomb of Precursors.jpg" num="249">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Novaheart Guardian</name>
+			<text>Flying
+When Novaheart Guardian enters the battlefield, it deals 4 damage to any target.
+Whenever a creature or planeswalker dies, put a +1/+1 counter on Novaheart Guardian.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/142_Novaheart Guardian.jpg" num="142">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pernicious Primavore</name>
+			<text>Trample
+When Pernicious Primavore enters the battlefield or dies, destroy up to three target artifacts and/or enchantments.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/180_Pernicious Primavore.jpg" num="180">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>8/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dirty-Pawed Grazer</name>
+			<text>Converge — Dirty-Pawed Grazer enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.
+Dirty-Pawed Grazer can&apos;t be blocked by creatures with power 2 or less.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/167_Dirty-Pawed Grazer.jpg" num="167">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>6G</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rule the World</name>
+			<text>You have hexproof.
+Creatures you don&apos;t control have base power and toughness 1/1 and lose all abilities.
+Nonbasic lands you don&apos;t control don&apos;t untap during their controller&apos;s untap step.</text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/31_Rule the World.jpg" num="31">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4WWW</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Unending Armies</name>
+			<text>Create three 1/1 colorless Servo artifact creature tokens.
+Exile Unending Armies. At the beginning of your upkeep, if you have more life than each opponent, you may cast it without paying its mana cost. Otherwise, put it into your graveyard.</text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/34_Unending Armies.jpg" num="34">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Armoured Guardian</name>
+			<text>Haste
+Augmented — Whenever you cast a spell, if you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, put a +1/+1 counter on Armoured Guardian. It loses this ability and gains &quot;Whenever this attacks, it deals 2 damage to each of up to two targets.&quot;</text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/120_Armoured Guardian.jpg" num="120">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Enlightened Guardian</name>
+			<text>Flying
+Augmented — Whenever you cast a spell, if you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, put a +1/+1 counter on Enlightened Guardian. It loses this ability and gains &quot;Whenever this creature attacks, draw two cards.&quot;</text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/49_Enlightened Guardian.jpg" num="49">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Isolated Guardian</name>
+			<text>Trample
+Augmented — Whenever you cast a spell, if you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, put a +1/+1 counter on Isolated Guardian. It loses this ability and gains &quot;Whenever this attacks, put two +1/+1 counters on each of up to two target creatures.&quot;</text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/173_Isolated Guardian.jpg" num="173">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jaded Guardian</name>
+			<text>Menace
+Augmented — Whenever you cast a spell, if you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, put a +1/+1 counter on Jaded Guardian. It loses this ability and gains &quot;Whenever this creature attacks, defending player sacrifices two permanents.&quot;</text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/99_Jaded Guardian.jpg" num="99">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>United Guardian</name>
+			<text>Lifelink
+Augmented — Whenever you cast a spell, if you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, put a +1/+1 counter on United Guardian. It loses this ability and gains &quot;Whenever United Guardian attacks, create two 1/1 blue Elemental creature tokens with flying that are tapped and attacking.&quot;</text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/35_United Guardian.jpg" num="35">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thorn-Touch Abomination</name>
+			<text>Flash
+Thorn-Touch Abomination enters the battlefield with X +1/+1 counters on it.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/187_Thorn-Touch Abomination.jpg" num="187">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>XG</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Advanced Schematics</name>
+			<text>Choose one —
+• Create three X/X colorless Construct artifact creature tokens.
+• Create X tokens that are copies of target artifact you control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/41_Advanced Schematics.jpg" num="41">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XXUU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Construct LVS</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/2t_Construct.jpg" num="2">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>X/X</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Slyten Crystal Motherlode</name>
+			<text>{T}: Add {C}.
+{4}, {T}, Sacrifice Slyten Crystal Motherlode: Add {W}{U}{B}{R}{G}.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/248_Slyten Crystal Motherlode.jpg" num="248">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Reenter Orbit</name>
+			<text>Converge — Exile up to X nonland permanents you control, where X is the number of colors of mana spent to cast Reenter Orbit, then return them to the battlefield under your control.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/61_Reenter Orbit.jpg" num="61">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sword of Monsters and Men</name>
+			<text>Equipped creature gets +2/+2 and has protection from green and from white.
+Whenever equipped creature deals combat damage to a player, you may reveal the top five cards of your library. Put a creature card revealed this way into your hand, then put the rest into your graveyard. Destroy up to one target enchantment.
+Equip {2}</text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/236_Sword of Monsters and Men.jpg" num="236">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Crucible of Worlds</name>
+			<text>You may play lands from your graveyard.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/224_Crucible of Worlds.jpg" num="224">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>I&apos;ll Be Gone</name>
+			<text>Exile all creature cards from target player&apos;s graveyard. For each creature card exiled this way, search that player&apos;s library for any number of cards with the same name as that card and exile them. Then that player shuffles.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/98_I&apos;ll Be Gone.jpg" num="98">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Burning Up</name>
+			<text>You may cast this spell as though it had flash if it targets a creature or planeswalker.
+Burning Up deals X damage to any target, where X is the number of basic land types among lands you control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/122_Burning Up.jpg" num="122">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Starborne Hellkite</name>
+			<text>Flying
+Whenever Starborne Hellkite attacks, choose two—
+• Starborne Hellkite deals 4 damage to any target.
+• Destroy target artifact or land.
+• Creatures you control get +2/+0 until end of turn.</text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/151_Starborne Hellkite.jpg" num="151">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Between Life and Death</name>
+			<text>Return up to two target creature cards with mana value X or less from your graveyard to the battlefield. They can&apos;t block this turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/81_Between Life and Death.jpg" num="81">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XBB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Chromatic Herald</name>
+			<text>Flying
+Lands you control have &quot;{T}: Add one mana of any color.&quot;
+As long as you control seven or more lands, creatures you control have trample, haste, and hexproof.</text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/158_Chromatic Herald.jpg" num="158">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>FO-2 Radiation Kid</name>
+			<text>Trample
+Noncreature spells cost an additional &quot;Put a noncreature permanent you both own and control on top of your library&quot; to cast.</text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/169_FO-2 Radiation Kid.jpg" num="169">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sadie Dal, Doctor Dreamer</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/212_Sadie Dal, Doctor Dreamer.jpg" num="212">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Sadie</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Oltenen Emissary</name>
+			<text>The Oltenen Emissary is all colors.
+You may pay {W}{U}{B}{R}{G} rather than pay the mana cost for spells that you cast. When you do, you may cast spells without paying their mana costs until end of turn.</text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/1_The Oltenen Emissary.jpg" num="1">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>8</manacost>
+				<cmc>8</cmc>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Watch the World Fade</name>
+			<text>{4}{B}{R}: Exile Watch the World Fade from your hand with seven apocalypse counters on it.
+At the beginning of your upkeep, if Watch the World Fade is exiled, remove an apocalypse counter from it. If you do, each opponent loses 3 life unless they discard a card or sacrifice a nonland permanent. When you remove the last counter this way, each player loses the game.</text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/218_Watch the World Fade.jpg" num="218">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Combat Technician</name>
+			<text>Whenever Combat Technician attacks, create a 1/1 colorless Servo artifact creature token that&apos;s tapped and attacking. Then Combat Technician gets +1/+1 until end of turn for each artifact you control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/6_Combat Technician.jpg" num="6">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jacque, Crystal-Touched</name>
+			<text>Vigilance
+Augmented — Whenever Jacque attacks, if you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, you may exile any number of target nonland permanents, then return them to the battlefield tapped under their owners&apos; control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/17_Jacque, Crystal-Touched.jpg" num="17">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mentalist Guardian</name>
+			<text>Other Elementals you control get +2/+2.
+Whenever one or more Elementals you control attack, tap up to one target creature you don&apos;t control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/20_Mentalist Guardian.jpg" num="20">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Field Technician</name>
+			<text>When Field Technician enters the battlefield, you may search your library for an artifact card, reveal it, then shuffle and put that card on top of it.
+Artifact creatures you control get +1/+1.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/52_Field Technician.jpg" num="52">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Olten Survivalist</name>
+			<text>Cadence (Whenever you cast a spell, if its mana value is greater than this creature&apos;s power, put a +1/+1 counter on this creature.)
+Creatures with power less than Olten Survivalist&apos;s power can&apos;t block creatures you control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/178_Olten Survivalist.jpg" num="178">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hopeless Wanderer</name>
+			<text>Cadence (Whenever you cast a spell, if its mana value is greater than this creature&apos;s power, put a +1/+1 counter on this creature.)
+Hopeless Wanderer can&apos;t be blocked.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/54_Hopeless Wanderer.jpg" num="54">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wild Dogs of the Night</name>
+			<text>Whenever Wild Dogs of the Night or another Horror enters the battlefield under your control, exile up to one target card in a graveyard. If that card was a creature card, you gain 2 life and put two +1/+1 counters on that Horror.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/191_Wild Dogs of the Night.jpg" num="191">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hound Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>On the Shoulders of Giants</name>
+			<text>Whenever a creature dies, put a +1/+1 counter on each creature you control with power less than it.
+{3}{G}, Sacrifice a creature: Draw cards equal to the sacrificed creature&apos;s power.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/179_On the Shoulders of Giants.jpg" num="179">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Biocrystal Augmentation</name>
+			<text>Put a +1/+1 counter on each of up to X target creatures.
+Augmented — If you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, instead put three +1/+1 counters on each of those creatures. They gain trample until end of turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/156_Biocrystal Augmentation.jpg" num="156">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XG</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lay Claim to Nature</name>
+			<text>Return any number of lands you control to their owner&apos;s hands. For each land returned this way, search your library for a land card, reveal it, then put it into your hand. Then shuffle.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/174_Lay Claim to Nature.jpg" num="174">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Olten Sandwurm</name>
+			<text>Trample, haste
+Whenever an opponent casts a noncreature spell, you may return Olten Sandwurm to its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/143_Olten Sandwurm.jpg" num="143">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Want It All</name>
+			<text>Augmented — When you cast Want It All, if you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, copy Want It All for each other spell cast this turn.
+Shuffle your library. Then exile the top card of your library. You may play it without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/74_Want It All.jpg" num="74">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Senator Christian Winters</name>
+			<text>Deathtouch
+Whenever another creature you control dies, each opponent loses 1 life.
+{2}{W}: Create a 1/1 colorless Servo artifact creature token.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/109_Senator Christian Winters.jpg" num="109">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Flenser of Singularities</name>
+			<text>Whenever an opponent activates an ability of a nonland permanent, destroy that permanent.
+{3}{U}{B}{R}: Exile target creature or planeswalker card in a graveyard. Create a token that&apos;s a copy of it.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/92_The Flenser of Singularities.jpg" num="92">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elemental Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>7/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hall of Random Access Memories</name>
+			<text>{T}: Add {C}.
+{3}, {T}, Sacrifice Hall of Random Access Memories: Return target artifact, instant, or sorcery card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/242_Hall of Random Access Memories.jpg" num="242">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Precursor Sentinel</name>
+			<text>Converge — Precursor Sentinel enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.
+Remove a +1/+1 counter from Precursor Sentinel: It deals 1 damage to any target.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/233_Precursor Sentinel.jpg" num="233">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>-1/-1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Defected Android</name>
+			<text>Whenever you cast a spell, if it shared a color with the last spell you cast this turn, put two +1/+1 counters on Defected Android.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/225_Defected Android.jpg" num="225">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Killdrone Assembly Works</name>
+			<text>{T}: Create a 1/1 colorless Servo artifact creature token.
+{T}, Sacrifice an artifact: Killdrone Assembly Works deals 1 damage to any target.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/229_Killdrone Assembly Works.jpg" num="229">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Heaven, Presidential Ship</name>
+			<text>Flying
+If a source without flying would deal damage to you, prevent 2 of that damage.
+Crew 5</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/227_Heaven, Presidential Ship.jpg" num="227">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Joyous Explorer</name>
+			<text>Whenever a land enters the battlefield under your control, create a 1/1 colorless Servo artifact creature token.
+{4}{G}{W}: Put a +1/+1 counter on each creature you control. They gain trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/205_Joyous Explorer.jpg" num="205">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Trick Mirror GUI</name>
+			<text>Equipped creature has menace.
+Whenever equipped creature attacks, look at the top two cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.
+Equip {2}</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/238_Trick Mirror GUI.jpg" num="238">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Robot Herder</name>
+			<text>Cadence (Whenever you cast a spell, if its mana value is greater than this creature&apos;s power, put a +1/+1 counter on this creature.)
+Whenever Robot Herder deals combat damage to a player, create a 1/1 colorless Servo artifact creature token.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/30_Robot Herder.jpg" num="30">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Covert Reinforcement</name>
+			<text>When Covert Reinforcement enters the battlefield, exile target nonland permanent an opponent controls until Covert Reinforcement leaves the battlefield.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/9_Covert Reinforcement.jpg" num="9">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stalwart Guardian</name>
+			<text>Stalwart Guardian has first strike as long as it&apos;s attacking.
+Augmented — When Stalwart Guardian enters the battlefield, if you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, create two 1/1 blue Elemental creature tokens with flying.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/33_Stalwart Guardian.jpg" num="33">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Planetary Reconnoiterer</name>
+			<text>Flying
+Whenever Planetary Reconnoiterer attacks, target creature you control gains flying until end of turn.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/27_Planetary Reconnoiterer.jpg" num="27">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>First Wave Explorer</name>
+			<text>First strike, vigilance
+Spells that your opponents cast that target First Wave Explorer cost {2} more to cast.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/12_First Wave Explorer.jpg" num="12">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Adapted Explorer</name>
+			<text>Lifelink
+Converge — When Adapted Explorer enters the battlefield, it deals X damage to up to one target tapped creature, where X is the number of colors of mana spent to cast it.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/2_Adapted Explorer.jpg" num="2">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glowspore Swarmgrounds</name>
+			<text>When Glowspore Swarmgrounds enters the battlefield, create two 1/1 blue Elemental creature tokens with flying.
+Elementals you control get +1/+1.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/14_Glowspore Swarmgrounds.jpg" num="14">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Guardian of Lost Truths</name>
+			<text>When Guardian of Lost Truths enters the battlefield, if a library has twenty or fewer cards left in it, draw two cards. Otherwise, target player mills five cards.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/53_Guardian of Lost Truths.jpg" num="53">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Far Wandering Guardian</name>
+			<text>Flying
+Other creatures you control with flying get +1/+1.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/51_Far Wandering Guardian.jpg" num="51">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Architect of the Derezzed</name>
+			<text>When Architect of the Derezzed enters the battlefield, create two 1/1 colorless Servo artifact creature tokens.
+Sacrifice an artifact: Target creature can&apos;t be blocked this turn.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/44_Architect of the Derezzed.jpg" num="44">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Surveyor of Skies</name>
+			<text>Flying, prowess
+Whenever Surveyor of Skies attacks, you may return a permanent you control to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/68_Surveyor of Skies.jpg" num="68">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spaceship Invader</name>
+			<text>Menace
+When Spaceship Invader enters the battlefield, destroy target creature you don&apos;t control with mana value 3 or less.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/111_Spaceship Invader.jpg" num="111">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dead End Adventurer</name>
+			<text>Augmented — When Dead End Adventurer enters the battlefield, if you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, destroy target creature you don&apos;t control.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/85_Dead End Adventurer.jpg" num="85">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grotesque Presence</name>
+			<text>Flash
+This spell costs {1} less to cast for each creature that left the battlefield this turn.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/93_Grotesque Presence.jpg" num="93">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Malignant Reaver</name>
+			<text>{2}: Exile up to two target cards in a single graveyard. If two creature cards were exiled this way, create a 1/1 blue Elemental creature token with flying.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/102_Malignant Reaver.jpg" num="102">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>K-17 Drone</name>
+			<text>Whenever an artifact you control becomes tapped, K-17 Drone deals 1 damage to each opponent.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/139_K-17 Drone.jpg" num="139">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Power Drive</name>
+			<text>This spell costs {1} less to cast for each artifact you control.
+Choose two —
+• Creatures without flying can&apos;t block this turn.
+• Two target creatures get +2/+0 until end of turn.
+• Power Drive deals 3 damage to any target.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/145_Power Drive.jpg" num="145">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Green Daywalker</name>
+			<text>When Green Daywalker enters the battlefield, you may destroy target artifact or enchantment.
+Augmented — At the beginning of each end step, if you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, put a +1/+1 counter on Green Daywalker.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/171_Green Daywalker.jpg" num="171">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Growing Up</name>
+			<text>Target creature +3/+3 and gains trample until end of turn.
+Leitmotif (If you cast this spell from your hand, exile it as it resolves. When you next cast a spell that shares a color with this card, you may cast this from exile without paying its mana cost.)</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/172_Growing Up.jpg" num="172">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bury the Past</name>
+			<text>Converge — Destroy up to X target artifacts or enchantments, where X is the number of colors of mana spent to cast Bury the Past.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/157_Bury the Past.jpg" num="157">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cultivate</name>
+			<text>Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/163_Cultivate.jpg" num="163">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Strange Discovery</name>
+			<text>At the beginning of your upkeep, mill two cards.
+{1}{G}, Sacrifice Strange Discovery: Return target card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/185_Strange Discovery.jpg" num="185">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Terrasculpt Mantas</name>
+			<text>Flying
+{T}: Target land you control becomes the basic land type of your choice until end of turn.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/70_Terrasculpt Mantas.jpg" num="70">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Fish</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>United Patrol</name>
+			<text>Cadence (Whenever you cast a spell, if its mana value is greater than this creature&apos;s power, put a +1/+1 counter on this creature.)
+United Patrol can block an additional creature each combat.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/36_United Patrol.jpg" num="36">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vengeant Precursor</name>
+			<text>Haste
+Whenever you cast a noncreature spell, put a +1/+1 counter on Vengeant Precursor. It gains trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/217_Vengeant Precursor.jpg" num="217">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sage of Wilds</name>
+			<text>Whenever you draw a card, put a +1/+1 counter on Sage of Wilds.
+Augmented — {T}: Scry 1, then draw a card. Activate only if you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/213_Sage of Wilds.jpg" num="213">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gateblessed Explorer</name>
+			<text>You may cast Gateblessed Explorer from your graveyard as long as you control three or more creatures.
+Whenever another creature dies, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/201_Gateblessed Explorer.jpg" num="201">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Source Decay</name>
+			<text>Source Decay deals 2 damage to each opponent. Create two 1/1 colorless Servo artifact creature tokens.
+Whenever a creature you control deals combat damage to a player, you may pay {2}{B}{R} and sacrifice it. If you do, return Source Decay from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/214_Source Decay.jpg" num="214">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Atrocity of Flesh</name>
+			<text>When Atrocity of Flesh enters the battlefield, destroy target nonland permanent.
+When Atrocity of Flesh dies, you may exile it. If you do, return target card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/194_Atrocity of Flesh.jpg" num="194">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>5BG</manacost>
+				<cmc>7</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Collapsing Star Viper</name>
+			<text>Haste
+When Collapsing Star Viper enters the battlefield, you may tap target permanent with mana value X or less.
+At the beginning of your upkeep, return Collapsing Star Viper to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/195_Collapsing Star Viper.jpg" num="195">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Snake</type>
+				<maintype>Creature</maintype>
+				<manacost>XRW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>AOSE Skydrone</name>
+			<text>Flying
+Whenever AOSE Skydrone deals combat damage to a player, draw a card.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/221_AOSE Skydrone.jpg" num="221">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Thopter</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clash Reactor</name>
+			<text>Whenever you cast an instant or sorcery spell, you may exile it as it resolves.
+At the beginning of your upkeep, Clash Reactor deals X damage to each opponent, where X is the number of colors of cards exiled with Clash Reactor.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/222_Clash Reactor.jpg" num="222">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Servant of Precursors</name>
+			<text>When Servant of Precursors enters the battlefield, you gain 4 life and draw a card.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/235_Servant of Precursors.jpg" num="235">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Treasure LVS</name>
+			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/LVS-files/img/4t_Treasure.jpg" num="4">LVS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,3421 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>DOA</name>
+			<longname>Discoveries of Akieva</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-01-29</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Rilken Forcefield Keeper</name>
+			<text>Rilken Forcefield Keeper gets +1/+1 for each enchantment you control.
+Sacrifice Rilken Forcefield Keeper: Exile target permanent you control. Return that card to the battlefield under your control at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/23_Rilken Forcefield Keeper.jpg" num="23">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Final Symphony</name>
+			<text>When Final Symphony enters, exile another target nonland permanent until Final Symphony leaves the battlefield.
+When Final Symphony leaves the battlefield, draw a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/14_Final Symphony.jpg" num="14">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Morning&apos;s Warden</name>
+			<text>Lifelink
+Whenever Morning&apos;s Warden becomes the target of a spell or ability an opponent controls, exile target creature that player controls.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/17_Morning&apos;s Warden.jpg" num="17">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alia&apos;s Enforcer</name>
+			<text>As long as you have 25 or more life, Alia&apos;s Enforcer gets +2/+2 and gains flying.
+Whenever an artifact or enchantment you control enters, you gain 1 life.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/2_Alia&apos;s Enforcer.jpg" num="2">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lockdown</name>
+			<text>Whenever you draw a card, put a quest counter on Lockdown.
+As long as there are three or more quest counters on Lockdown, creatures with power 3 or greater don&apos;t untap during their controller&apos;s untap steps.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/15_Lockdown.jpg" num="15">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Consort of Morning</name>
+			<text>Lifelink
+Experience (Whenever this creature attacks, if it has fewer than three +1/+1 counters on it, put a +1/+1 counter on it.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/8_Consort of Morning.jpg" num="8">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Benevolent Malach</name>
+			<text>Flying
+When Benevolent Malach enters, create a 1/1 colorless Construct artifact creature token.
+Sacrifice Benevolent Malach: Artifacts you control gain indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/5_Benevolent Malach.jpg" num="5">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Polgek Artisan</name>
+			<text>When Polgek Artisan enters, create an X/X colorless Juggernaut artifact creature token, where X is the number of artifacts and enchantments you control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/19_Polgek Artisan.jpg" num="19">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eager Observer</name>
+			<text>Eager Observer gets +1/+1 as long as you control an artifact or enchantment.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/12_Eager Observer.jpg" num="12">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rilken Preserver</name>
+			<text>Whenever another creature you control enters, put a +1/+1 counter on it.
+Whenever Rilken Preserver attacks, you may exile target nonland permanent you control, then return it to the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/24_Rilken Preserver.jpg" num="24">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Align the Astrolabe</name>
+			<text>Whenever you cast a noncreature spell, put a quest counter on Align the Astrolabe.
+At the beginning of your upkeep, create a 1/1 colorless Construct artifact creature token for each three quest counters on Align the Astrolabe.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/3_Align the Astrolabe.jpg" num="3">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Polgek Restorationist</name>
+			<text>When Polgek Restorationist enters, you may return target artifact, enchantment, or planeswalker card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/20_Polgek Restorationist.jpg" num="20">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Protector of the League</name>
+			<text>Flying
+Experience (Whenever this creature attacks, if it has fewer than three +1/+1 counters on it, put a +1/+1 counter on it.)
+Other creatures you control get +1/+1 for each +1/+1 counter on Protector of the League.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/21_Protector of the League.jpg" num="21">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blessing of Morning</name>
+			<text>At the beginning of your upkeep, create two 1/1 colorless Construct artifact creature tokens, then you gain life equal to the number of artifacts and enchantments you control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/6_Blessing of Morning.jpg" num="6">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Matron of Machines</name>
+			<text>When Matron of Machines dies, put a +1/+1 counter on up to one target creature.
+{3}{W}, Exile Matron of Machines from your graveyard: Create two 1/1 colorless Construct artifact creature tokens. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/16_Matron of Machines.jpg" num="16">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Citywide Automation</name>
+			<text>When Citywide Automation enters, create two 1/1 colorless Construct artifact creature tokens.
+{2}{W}{W}, Sacrifice Citywide Automation: Creatures you control get +1/+1 until end of turn. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/7_Citywide Automation.jpg" num="7">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Enori Duelist</name>
+			<text>Double strike
+Experience (Whenever this creature attacks, if it has fewer than three +1/+1 counters on it, put a +1/+1 counter on it.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/13_Enori Duelist.jpg" num="13">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alia, Bearer of Morning</name>
+			<text></text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/1_Alia, Bearer of Morning.jpg" num="1">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Alia</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Disassociate</name>
+			<text>When Disassociate enters, exile target creature until Disassociate leaves the battlefield.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/11_Disassociate.jpg" num="11">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Banish Through the Veil</name>
+			<text>Destroy all creatures. Exile all graveyards.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/4_Banish Through the Veil.jpg" num="4">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Self Replication</name>
+			<text>Create a 1/1 colorless Construct artifact creature token. If you control an artifact, create two of those tokens instead.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/26_Self Replication.jpg" num="26">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nina, Master of Arms</name>
+			<text>At the beginning of combat on your turn, you may attach target Equipment you control to Nina, Master of Arms.
+Whenever Nina attacks, the next artifact spell you cast this turn costs {RW}{RW} less to cast. (This can reduce the amount of generic mana you pay.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/18_Nina, Master of Arms.jpg" num="18">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seek Perfection</name>
+			<text>Whenever you draw a card, put a quest counter on Seek Perfection.
+At the beginning of each end step, if Seek Perfection has four or more quest counters on it, exile target permanent you control, then return it to the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/25_Seek Perfection.jpg" num="25">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Crystallized Hope</name>
+			<text>You gain 3 life. Choose one —
+• You gain 3 life.
+• Draw a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/9_Crystallized Hope.jpg" num="9">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dawnwisp Vents</name>
+			<text>At the beginning of combat on each opponent&apos;s turn, if you control three or more enchantments, choose target creature. Prevent all combat damage that creature would deal this turn.
+{2}{W}: You gain 2 life and scry 1.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/10_Dawnwisp Vents.jpg" num="10">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Purging Light</name>
+			<text>Choose one —
+• Purging Light deals 3 damage to target attacking or blocking creature. If that creature would die this turn, exile it instead.
+• Exile target enchantment.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/22_Purging Light.jpg" num="22">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Open the Secret Paths</name>
+			<text>Exile two target permanents you control, then return them to the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/40_Open the Secret Paths.jpg" num="40">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Resonating Force</name>
+			<text>Return target nonland permanent to its owner&apos;s hand. Then you may pay {U}{U}. If you do, copy Resonating Force and you may choose new targets for the copy.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/45_Resonating Force.jpg" num="45">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Herald of Wisdom</name>
+			<text>Flash
+When Herald of Wisdom enters, you may cast target instant or sorcery card with mana value 4 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/34_Herald of Wisdom.jpg" num="34">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Disable</name>
+			<text>Counter target spell or activated ability. If an activated ability of an artifact was countered this way, put that permanent on the bottom of its owner&apos;s library.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/31_Disable.jpg" num="31">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Surmise Reality&apos;s Limits</name>
+			<text>Target player draws X cards.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/46_Surmise Reality&apos;s Limits.jpg" num="46">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XUU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unite the Powergrid</name>
+			<text>Each artifact you control has all the activated abilities of other artifacts you control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/49_Unite the Powergrid.jpg" num="49">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Veilborn Meddler</name>
+			<text>Flash
+When Veilborn Meddler enters, counter target spell if its mana value is less than or equal to Veilborn Meddler&apos;s power.
+Whenever you cast a spell during an opponent&apos;s turn, put a +1/+1 counter on Veilborn Meddler.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/50_Veilborn Meddler.jpg" num="50">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Imitator of Drakes</name>
+			<text>Imitator of Drakes has flying as long as it has a +1/+1 counter on it.
+{2}{U}: Put a +1/+1 counter on Imitator of Drakes.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/36_Imitator of Drakes.jpg" num="36">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Terraformer&apos;s Globe</name>
+			<text>When Terraformer&apos;s Globe enters, draw a card.
+{T}: Target land you control becomes the basic land type of your choice until end of turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/47_Terraformer&apos;s Globe.jpg" num="47">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Watch Time Slip Away</name>
+			<text>Put target nonland permanent on top of its owner&apos;s library.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/52_Watch Time Slip Away.jpg" num="52">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Artistic Vision</name>
+			<text>When Artistic Vision enters, create two 1/1 colorless Construct artifact creature tokens.
+Whenever you cast an instant or sorcery spell, you may tap two untapped artifacts you control. If you do, copy that spell. You may choose new targets for the copies.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/28_Artistic Vision.jpg" num="28">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Marin Polgek, Academy Heiress</name>
+			<text>Marin Polgek, Academy Heiress has hexproof as long as you control three or more enchantments.
+{1{W}U}{WU}: Create a token that&apos;s a copy of target enchantment you control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/38_Marin Polgek, Academy Heiress.jpg" num="38">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Avid Researcher</name>
+			<text>Eureka! (At the beginning of each end step, you get a research counter if you cast a spell this turn. Then if you have eight or more research counters, remove them and create a Masterpiece token of your choice.)
+{T}: Draw a card, then discard a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/29_Avid Researcher.jpg" num="29">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Iterative Designer</name>
+			<text>Eureka! (At the beginning of each end step, you get a research counter if you cast a spell this turn. Then if you have eight or more research counters, remove them and create a Masterpiece token of your choice.)
+Whenever you cast a noncreature spell, create a 1/1 colorless Construct artifact creature token.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/37_Iterative Designer.jpg" num="37">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vedalken Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unified Theory</name>
+			<text>If you would draw a card, you may return an instant or sorcery card from your graveyard to your hand instead.
+{U}: Draw three cards.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/48_Unified Theory.jpg" num="48">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>5UUU</manacost>
+				<cmc>8</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reality Rewoven</name>
+			<text>Choose one or both —
+• Each player shuffles their hand and graveyard into their library, then draws seven cards.
+• Each player may put a permanent card from their hand onto the battlefield.
+Exile Reality Rewoven.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/41_Reality Rewoven.jpg" num="41">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fractal Meditation</name>
+			<text>Draw three cards, then discard a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/32_Fractal Meditation.jpg" num="32">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Reclusive Archmage</name>
+			<text>Flash
+{U}, Return another creature you control to its owner&apos;s hand: Reclusive Archmage can&apos;t be blocked this turn and gains hexproof until end of turn. Activate only once each turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/42_Reclusive Archmage.jpg" num="42">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reconsider</name>
+			<text>Choose one —
+• Counter target spell unless its controller pays {2}.
+• Draw a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/43_Reconsider.jpg" num="43">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Artificer&apos;s Prowess</name>
+			<text>Create a 1/1 colorless Construct artifact creature token. If you control six or more artifacts, create a 6/6 colorless Golem artifact creature token instead.
+Draw a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/27_Artificer&apos;s Prowess.jpg" num="27">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Reinvent</name>
+			<text>This spell costs {1} less to cast for each artifact you control.
+Search your library for an artifact creature card with mana value X or less, put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/44_Reinvent.jpg" num="44">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XUU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Observer of Secret Paths</name>
+			<text>Flash
+Whenever you cast an artifact or enchantment spell, put a +1/+1 counter on Observer of Secret Paths. It can&apos;t be blocked this turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/39_Observer of Secret Paths.jpg" num="39">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Clocktower Project</name>
+			<text>When The Clocktower Project enters, create a tapped colorless Powercell artifact token with &quot;{T}: Add {C}.&quot;
+Tap seven untapped artifacts you control: Draw three cards.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/30_The Clocktower Project.jpg" num="30">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Imagine</name>
+			<text>Shuffle any number of cards from your graveyard into your library.
+Scry 1, then draw a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/35_Imagine.jpg" num="35">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Frozen Moment</name>
+			<text>This spell costs {4} less to cast if a player attacked with four or more creatures this turn.
+End the turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/33_Frozen Moment.jpg" num="33">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Volta, Construct Consultant</name>
+			<text>Eureka! (At the beginning of each end step, you get a research counter if you cast a spell this turn. Then if you have eight or more research counters, remove them and create a Masterpiece token of your choice.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/51_Volta, Construct Consultant.jpg" num="51">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Volta</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Duress</name>
+			<text>Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/60_Duress.jpg" num="60">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Channeler of the Veil</name>
+			<text>When Channeler of the Veil enters, create a 1/1 colorless Construct artifact creature token.
+Sacrifice another creature: Each opponent loses 1 life.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/57_Channeler of the Veil.jpg" num="57">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Secret Thief</name>
+			<text>Sabotage — Whenever an opponent or permanent an opponent controls becomes the target of a spell you control, target creature you control can&apos;t be blocked this turn.
+{B}{B}{B}: Secret Thief gets +3/+0 until end of turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/72_Secret Thief.jpg" num="72">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Atychiphobia</name>
+			<text>Target player reveals their hand. You choose a nonland card from it. That player discards that card. Each player loses 1 life.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/54_Atychiphobia.jpg" num="54">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Iken Company Nightwalker</name>
+			<text>Flash
+Whenever Iken Company Nightwalker deals combat damage to a player, put a +1/+1 counter on it.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/64_Iken Company Nightwalker.jpg" num="64">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Veilborn Stalker</name>
+			<text>Menace
+Whenever another creature dies, put a +1/+1 counter on Veilborn Stalker.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/76_Veilborn Stalker.jpg" num="76">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Irika, Wielder of Secrets</name>
+			<text>Flash
+Deathtouch, lifelink
+Whenever Irika, Wielder of Secrets deals combat damage to a player, you may pay {UB}. If you do, you draw a card and you lose 1 life.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/66_Irika, Wielder of Secrets.jpg" num="66">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Veilcrossed Twins</name>
+			<text>{1}{B}, Sacrifice a creature or enchantment: Draw a card.
+{4}{B}{B}, {T}: Return target creature or enchantment card from your graveyard to the battlefield with a veil counter on it. That permanent gains &quot;If this permanent would leave the battlefield, exile it instead.&quot;</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/77_Veilcrossed Twins.jpg" num="77">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Veilborn Hunter</name>
+			<text>{B}: Veilborn Hunter gets +1/+1 until end of turn.
+Sacrifice another creature: Veilborn Hunter gains indestructible until end of turn. Tap it.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/75_Veilborn Hunter.jpg" num="75">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror Shade</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beckoner of Horrors</name>
+			<text>Whenever you cast an enchantment spell, you draw a card and you lose 1 life.
+Whenever one or more counters are put on an enchantment you control, you gain 1 life and each opponent loses 1 life.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/56_Beckoner of Horrors.jpg" num="56">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ambitious Necromancer</name>
+			<text>Sabotage — Whenever an opponent or permanent an opponent controls becomes the target of a spell you control, return target creature card with mana value 3 or less from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/53_Ambitious Necromancer.jpg" num="53">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Propagation Plant</name>
+			<text>At the beginning of your upkeep, you may pay 2 life. When you do, proliferate. (You choose any number of permanents and/or players with counters on them, then give each another kind of a counter already there.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/70_Propagation Plant.jpg" num="70">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sealer of Pacts</name>
+			<text>Trample
+When Sealer of Pacts enters, sacrifice any number of permanents, then draw that many cards.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/71_Sealer of Pacts.jpg" num="71">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glimpse the Veil</name>
+			<text>Target opponent sacrifices a creature. Put a +1/+1 counter on up to one target creature you control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/63_Glimpse the Veil.jpg" num="63">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fallback Plan</name>
+			<text>Whenever you draw a card, put a quest counter on Fallback Plan.
+Remove four quest counters from Fallback Plan and sacrifice it: Search your library for a card, put that card into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/61_Fallback Plan.jpg" num="61">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Beckon Darkness</name>
+			<text>Sabotage — Whenever an opponent or permanent an opponent controls becomes the target of a spell you control, put a quest counter on Beckon Darkness.
+At the beginning of your upkeep, if Beckon Darkness has four or more quest counters on it, return target creature card from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/55_Beckon Darkness.jpg" num="55">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Corrupted Knowledge</name>
+			<text>Surveil 2, then you draw a card and you lose 1 life. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+{2}{B}, Exile Corrupted Knowledge from your graveyard: Each opponent loses 2 life and you gain 2 life.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/58_Corrupted Knowledge.jpg" num="58">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Monstrous Hunter</name>
+			<text>When Monstrous Hunter enters, destroy up to one target creature.
+At the beginning of each end step, if a creature died this turn, you draw a card and you lose 1 life.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/68_Monstrous Hunter.jpg" num="68">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sesilius, Chosen Speaker</name>
+			<text>Draw a card unless an opponent pays 2 life.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/73_Sesilius, Chosen Speaker.jpg" num="73">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Sesilius</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gate to the Beyond</name>
+			<text>Whenever you cast a noncreature spell, put a quest counter on Gate to the Beyond.
+At the beginning of your upkeep, if there are three or more quest counters on Gate to the Beyond, you draw a card and you lose 1 life. Then if there are six or more quest counters on it, each opponent loses 2 life.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/62_Gate to the Beyond.jpg" num="62">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Slay the Unkillable</name>
+			<text>This spell costs {1}{B} less to cast if it targets a creature with indestructible.
+Exile target creature.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/74_Slay the Unkillable.jpg" num="74">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Violent Collapse</name>
+			<text>All creatures get -3/-3 until end of turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/78_Violent Collapse.jpg" num="78">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Inevitable Future</name>
+			<text>This spell costs {1} less to cast for each creature and/or planeswalker card in your graveyard.
+Return target creature or planeswalker card from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/65_Inevitable Future.jpg" num="65">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>6B</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Disqualify</name>
+			<text>Destroy target creature or planeswalker. Draw a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/59_Disqualify.jpg" num="59">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Power From Beyond</name>
+			<text>You may put a card you own from outside the game into your hand. Add {B}{B}. You may cast only one more spell this turn. Exile Power From Beyond.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/69_Power From Beyond.jpg" num="69">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mastery of the Veil</name>
+			<text>Choose five. You may choose the same mode more than once.
+• Each opponent sacrifices a creature or planeswalker.
+• You draw a card and you lose 1 life.
+• Each opponent loses 2 life.
+• Each opponent discards a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/67_Mastery of the Veil.jpg" num="67">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scorch</name>
+			<text>Scorch deals 3 damage to any target.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/100_Scorch.jpg" num="100">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Forgemaster&apos;s Charm</name>
+			<text>Choose one —
+• Forgemaster&apos;s Charm deals X damage to target creature.
+• Destroy X target artifacts.
+• Create an X/X colorless Juggernaut artifact creature token.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/90_Forgemaster&apos;s Charm.jpg" num="90">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XRR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Speedreading</name>
+			<text>Exile up to three target instant and/or sorcery cards from your graveyard. Until end of turn, you may cast cards exiled this way.
+Exile Speedreading.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/102_Speedreading.jpg" num="102">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dedicated Weaponsmith</name>
+			<text>Experience (Whenever this creature attacks, if it has fewer than three +1/+1 counters on it, put a +1/+1 counter on it.)
+Whenever a player activates an ability of an artifact, creature, or land, if it isn&apos;t a mana ability, Dedicated Weaponsmith deals 2 damage to that player.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/85_Dedicated Weaponsmith.jpg" num="85">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fento, Nova Crusader</name>
+			<text>{RG}: Fento, Nova Crusader gains haste and trample until end of turn.
+Whenever Fento, Nova Crusader attacks, you may put a creature card from your hand onto the battlefield tapped and attacking. If you do, sacrifice that creature at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/88_Fento, Nova Crusader.jpg" num="88">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Novaheart Dragon</name>
+			<text>Flying
+Whenever Novaheart Dragon enters or attacks, you may take an extra turn after this one. If you do, you lose the game at the beginning of that turn&apos;s end step.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/96_Novaheart Dragon.jpg" num="96">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>6RR</manacost>
+				<cmc>8</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mirrorcast Battlemage</name>
+			<text>Sabotage — Whenever an opponent or permanent an opponent controls becomes the target of a spell you control, put a +1/+1 counter on Mirrorcast Battlemage.
+Remove three +1/+1 counters from Mirrorcast Battlemage: Copy target instant or sorcery spell you control. You may choose new targets for the copy. Activate only once each turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/95_Mirrorcast Battlemage.jpg" num="95">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arcane Metalcrafter</name>
+			<text>Whenever Arcane Metalcrafter or another Wizard you control attacks, create a 1/1 colorless Construct artifact creature token that&apos;s tapped and attacking.
+Whenever a Construct you control dies, Arcane Metalcrafter deals 1 damage to each opponent.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/79_Arcane Metalcrafter.jpg" num="79">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pyromantic Expertise</name>
+			<text>Choose one —
+• Target creature gets +4/+2 until end of turn.
+• Pyromantic Expertise deals 4 damage to target creature or planeswalker.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/99_Pyromantic Expertise.jpg" num="99">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Instant of Brilliance</name>
+			<text>Whenever you cast or copy an instant or sorcery spell this turn, Instant of Brilliance deals 1 damage to each opponent.
+Copy target instant or sorcery spell you control. You may choose new targets for the copy.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/91_Instant of Brilliance.jpg" num="91">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Claimed by the Veil</name>
+			<text>This spell costs {3} less to cast if it targets a permanent with mana value 3 or less.
+Gain control of target nonland permanent until end of turn. Untap it. It gains haste until end of turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/84_Claimed by the Veil.jpg" num="84">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Artisan of Brutality</name>
+			<text>Sabotage — Whenever an opponent or permanent an opponent controls becomes the target of a spell you control, Artisan of Brutality gets +2/+0 and gains first strike until end of turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/80_Artisan of Brutality.jpg" num="80">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Polgek Songcrafter</name>
+			<text>Whenever Polgek Songcrafter attacks, other attacking creatures you control get +1/+0 until end of turn. If you control five or more attacking creatures, choose up to one target creature the defending player controls. That creature can&apos;t block this turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/98_Polgek Songcrafter.jpg" num="98">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Martial Maestro</name>
+			<text>First strike
+Whenever Martial Maestro attacks, other attacking creatures you control get +1/+0 until end of turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/93_Martial Maestro.jpg" num="93">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eleventh Hour Breakthrough</name>
+			<text>Create three tapped colorless Powercell artifact tokens with &quot;{T}: Add {C}.&quot; Then untap all artifacts you control. At the beginning of the next end step, sacrifice three artifacts.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/86_Eleventh Hour Breakthrough.jpg" num="86">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vitin Blastgear</name>
+			<text>Eureka! (At the beginning of each end step, you get a research counter if you cast a spell this turn. Then if you have eight or more research counters, remove them and create a Masterpiece token of your choice.)
+Equipped creature gets +3/+2.
+Equip {R}</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/103_Vitin Blastgear.jpg" num="103">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bottled Lightning</name>
+			<text>Eureka! (At the beginning of each end step, you get a research counter if you cast a spell this turn. Then if you have eight or more research counters, remove them and create a Masterpiece token of your choice.)
+When Bottled Lightning enters, it deals 3 damage to any target. Scry 1.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/81_Bottled Lightning.jpg" num="81">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Philosophy of Fire</name>
+			<text>Whenever a source you control deals damage to an opponent this turn, exile the top card of your library. You may play it this turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/97_Philosophy of Fire.jpg" num="97">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Siraj, Interplanar Thief</name>
+			<text>Gain control of up to one target noncreature permanent you don&apos;t control. Untap it.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/101_Siraj, Interplanar Thief.jpg" num="101">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Siraj</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Maniacal Elementalist</name>
+			<text>Menace
+Experience (Whenever this creature attacks, if it has fewer than three +1/+1 counters on it, put a +1/+1 counter on it.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/92_Maniacal Elementalist.jpg" num="92">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flamecloaked Artisan</name>
+			<text>Experience (Whenever this creature attacks, if it has fewer than three +1/+1 counters on it, put a +1/+1 counter on it.)
+Whenever Flamecloaked Artisan attacks, exile the top card of your library. If it&apos;s a nonland card with mana value less than Flamecloaked Artisan&apos;s power, you may cast it this turn, and you may cast it as though it had flash.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/89_Flamecloaked Artisan.jpg" num="89">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vitin Forgemaster</name>
+			<text>Eureka! (At the beginning of each end step, you get a research counter if you cast a spell this turn. Then if you have eight or more research counters, remove them and create a Masterpiece token of your choice.)
+Whenever an artifact you control enters, up to two target creatures get +1/+0 and haste until end of turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/104_Vitin Forgemaster.jpg" num="104">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Aetherborn Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Careless Violence</name>
+			<text>Careless Violence deals 2 damage to each creature. If a creature dealt damage this way would die this turn, exile it instead.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/83_Careless Violence.jpg" num="83">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Meteor Harbinger</name>
+			<text>When Meteor Harbinger enters, choose one —
+• Meteor Harbinger deals 2 damage to each creature.
+• Each player sacrifices two lands.
+• Meteor Harbinger deals 2 damage to each of two target players or planeswalkers.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/94_Meteor Harbinger.jpg" num="94">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Endless Assembly</name>
+			<text>Artifact creatures you control have haste.
+At the beginning of your upkeep, create a 1/1 colorless Construct artifact creature token. If you control six or more artifacts, create a 6/6 colorless Golem artifact creature token instead. Tokens created this way attack this turn if able.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/87_Endless Assembly.jpg" num="87">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Calamity Dragon</name>
+			<text>Flying
+When Calamity Dragon enters, it deals 2 damage to each creature you don&apos;t control. Whenever a creature dealt damage this way dies this turn, Calamity Dragon deals 2 damage to that creature&apos;s controller.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/82_Calamity Dragon.jpg" num="82">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Queen of Unclaimed Lands</name>
+			<text>Whenever you tap a land for mana, add an additional one mana of any color.
+{8}{G}{G}: Creatures you control get +2/+2 and gain trample until end of turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/122_Queen of Unclaimed Lands.jpg" num="122">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kati Evalin, World Wanderer</name>
+			<text>If one or more counters would be put on another permanent you control, put that many counters plus one on that permanent instead.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/114_Kati Evalin, World Wanderer.jpg" num="114">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Kati</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Backwoods Cultivator</name>
+			<text>When Backwoods Cultivator enters, put a +1/+1 counter on target creature you control.
+When Backwoods Cultivator dies, proliferate. (You choose any number of permanents and/or players with counters on them, then give each another kind of a counter already there.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/107_Backwoods Cultivator.jpg" num="107">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Telvim Sculptor</name>
+			<text>{G}{G}, {T}: Create a token that&apos;s a copy of target creature you control that entered this turn, except it&apos;s an artifact in addition to its other types.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/129_Telvim Sculptor.jpg" num="129">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reclamation Grovesculptor</name>
+			<text>Whenever Reclamation Grovesculptor enters or attacks, put a growth counter on target noncreature permanent. It becomes a colorless Forest land and loses all other card types and land types.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/124_Reclamation Grovesculptor.jpg" num="124">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flamboyant Inventor</name>
+			<text>When Flamboyant Inventor enters, create a tapped colorless Powercell artifact token with &quot;{T}: Add {C}.&quot;
+At the beginning of each combat, you may have Powercells you control become 2/2 Construct creatures with vigilance in addition to their other types until end of turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/110_Flamboyant Inventor.jpg" num="110">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seeker of Untouched Beauty</name>
+			<text>As long as you control four or more lands, Seeker of Untouched Beauty gets +2/+2 and has trample.
+When Seeker of Untouched Beauty dies, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/127_Seeker of Untouched Beauty.jpg" num="127">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Powercell Engineer</name>
+			<text>When Powercell Engineer enters, create a tapped colorless Powercell artifact token with &quot;{T}: Add {C}.&quot;</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/120_Powercell Engineer.jpg" num="120">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ravenous Hydra</name>
+			<text>Ravenous Hydra enters with X +1/+1 counters on it.
+Whenever Ravenous Hydra deals combat damage, proliferate. (You choose any number of permanents and/or players with counters on them, then give each another kind of a counter already there.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/123_Ravenous Hydra.jpg" num="123">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hydra</type>
+				<maintype>Creature</maintype>
+				<manacost>XG</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Advanced Powercell</name>
+			<text>Advanced Powercell enters tapped.
+{T}: Add one mana of any color.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/105_Advanced Powercell.jpg" num="105">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Powercell</type>
+				<maintype>Artifact</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Legends Remembered</name>
+			<text>Return target card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/116_Legends Remembered.jpg" num="116">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Telvim Explorer</name>
+			<text>Whenever a land you control enters, create two 1/1 colorless Construct artifact creature tokens.
+{4}{G}{G}: Put a +1/+1 counter on each artifact creature you control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/128_Telvim Explorer.jpg" num="128">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Feller of Greatwoods</name>
+			<text>Whenever The Feller of Greatwoods enters or attacks, you may sacrifice two noncreature permanents. For each permanent sacrificed this way, reveal the top five cards of your library. You may put a creature card from among them onto the battlefield and the rest into your graveyard.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/109_The Feller of Greatwoods.jpg" num="109">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>5GGG</manacost>
+				<cmc>8</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>9/9</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kindly Greatwood</name>
+			<text>Reach
+When Kindly Greatwood enters, you gain 5 life and draw a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/115_Kindly Greatwood.jpg" num="115">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Primal Ruffian</name>
+			<text>Experience (Whenever this creature attacks, if it has fewer than three +1/+1 counters on it, put a +1/+1 counter on it.)
+Whenever Primal Ruffian attacks, if it has a +1/+1 counter on it, other creatures you control get +1/+1 until end of turn. (If it had no counters on it when it attacked, this ability does not trigger.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/121_Primal Ruffian.jpg" num="121">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oldgrove Nurturer</name>
+			<text>Oldgrove Nurturer enters with a +1/+1 counter on it.
+{G}, Remove a +1/+1 counter from a creature you control: Create a 1/1 colorless Construct artifact creature token.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/118_Oldgrove Nurturer.jpg" num="118">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reclamation Sage</name>
+			<text>When Reclamation Sage enters, you may destroy target artifact or enchantment.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/125_Reclamation Sage.jpg" num="125">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Malicious Growth</name>
+			<text>When Malicious Growth enters and at the beginning of your upkeep, put two +1/+1 counters on target land you control.
+{1}{G}: Target land you control becomes a 0/0 Elemental creature with haste and vigilance until end of turn. It&apos;s still a land.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/117_Malicious Growth.jpg" num="117">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dovon, Verdant Experimenter</name>
+			<text>{T}: Add {G}.
+{BG}, {T}: Exile target card from a graveyard. If that card is a creature card, put a +1/+1 counter on Dovon, Verdant Experimenter and you gain 1 life.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/108_Dovon, Verdant Experimenter.jpg" num="108">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unexplored Regions</name>
+			<text>Enchant land
+When Unexplored Regions enters, draw a card.
+Enchanted land is an artifact in addition to its other types and has &quot;{T}: Add one mana of any color.&quot;</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/130_Unexplored Regions.jpg" num="130">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Powercell Cultivator</name>
+			<text>When Powercell Cultivator enters, create a tapped colorless Powercell artifact token with &quot;{T}: Add {C}.&quot;
+Artifacts you control have &quot;{T}: Add one mana of any color.&quot;</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/119_Powercell Cultivator.jpg" num="119">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Herald of Might</name>
+			<text>Trample
+At the beginning of your end step, if there are two or more +1/+1 counters among creatures you control, return Herald of Might from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/112_Herald of Might.jpg" num="112">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forest Fellowship</name>
+			<text>You may put a creature or land card from your hand onto the battlefield. Then each opponent may put a permanent card from their hand onto the battlefield. If one does, you may repeat this process.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/111_Forest Fellowship.jpg" num="111">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hunt the Monstrous</name>
+			<text>Target creature you control gets +X/+X until end of turn. It fights target creature you don&apos;t control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/113_Hunt the Monstrous.jpg" num="113">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XG</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ancient of the Glade</name>
+			<text>When Ancient of the Glade enters, put a +1/+1 counter on each other creature you control.
+{2}, Remove a +1/+1 counter from a creature you control: That creature gains indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/106_Ancient of the Glade.jpg" num="106">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reconstruct</name>
+			<text>Destroy target noncreature permanent. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/126_Reconstruct.jpg" num="126">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Perpetual Motion Machine</name>
+			<text>Untap all artifacts you control during each other player&apos;s untap step.
+Tap two untapped artifacts you control: Target player mills two cards.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/166_Perpetual Motion Machine.jpg" num="166">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Iron Signet</name>
+			<text>{T}: Add {C}.
+{1}, {T}: Add one mana of any color.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/161_Iron Signet.jpg" num="161">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Harmony Array</name>
+			<text>{2}, {T}: Target opponent exiles a nonland, nontoken permanent they control.
+{2}, {T}: Put target permanent card exiled with Harmony Array onto the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/159_Harmony Array.jpg" num="159">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mana Rose</name>
+			<text>When Mana Rose enters, you gain 2 life and scry 2.
+{1}, {T}: Add one mana of any color.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/164_Mana Rose.jpg" num="164">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hub of Innovation</name>
+			<text>Hub of Innovation enters tapped.
+At the beginning of your upkeep, if you control five or more artifacts, draw a card.
+{T}: Add {C}.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/160_Hub of Innovation.jpg" num="160">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cosmic Chart</name>
+			<text>{T}: Add one mana of any color.
+{5}, {T}, Sacrifice Cosmic Chart: Search your library for a card, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/153_Cosmic Chart.jpg" num="153">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Unity Spheres</name>
+			<text>When Unity Spheres enters, create two 1/1 colorless Construct artifact creature tokens.
+Tap two untapped creatures you control: Add two mana of any one color.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/169_Unity Spheres.jpg" num="169">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lightblessed Claymore</name>
+			<text>When Lightblessed Claymore enters, attach it to target creature you control.
+Equipped creature gets +2/+0 and has lifelink.
+Equip {4}</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/163_Lightblessed Claymore.jpg" num="163">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sword of Tides and Time</name>
+			<text>Equipped creature gets +2/+2 and protection from blue and from black.
+Whenever equipped creature deals combat damage to a player, return up to one target creature card and up to one target instant or sorcery card from your graveyard to your hand.
+Equip {2}</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/168_Sword of Tides and Time.jpg" num="168">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Propagation Blade</name>
+			<text>Whenever equipped creature deals combat damage to a player, put a +1/+1 counter on it, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+Equip {2}</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/167_Propagation Blade.jpg" num="167">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Encampment Blimp</name>
+			<text>Flying
+Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)
+Tap two untapped other artifacts you control: Encampment Blimp becomes an artifact creature until end of turn. Scry 1.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/154_Encampment Blimp.jpg" num="154">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Arcane Chronometer</name>
+			<text>Activated abilities of artifacts cost {2} more to activate.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/151_Arcane Chronometer.jpg" num="151">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Warded Tome</name>
+			<text>Warded Tome doesn&apos;t untap during your untap step.
+{T}: Draw a card.
+{5}: Untap Warded Tome.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/170_Warded Tome.jpg" num="170">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gearcraft Observer</name>
+			<text>Flying
+{1}, Sacrifice Gearcraft Observer: Look at target player&apos;s hand. Draw a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/156_Gearcraft Observer.jpg" num="156">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Thopter</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gilded Spyglass</name>
+			<text>{3}, {T}: Look at the top five cards of your library. You may reveal a colorless card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/158_Gilded Spyglass.jpg" num="158">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gilded Gearhulk</name>
+			<text>Haste
+When Gilded Gearhulk enters, you may destroy target noncreature, nonland permanent.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/157_Gilded Gearhulk.jpg" num="157">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Junktrawler</name>
+			<text>When Junktrawler enters, create a tapped colorless Powercell artifact token with &quot;{T}: Add {C}.&quot;
+Tap another untapped artifact you control: Junktrawler gets +1/+1 until end of turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/162_Junktrawler.jpg" num="162">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Facsimile of Divinity</name>
+			<text>Flying, lifelink
+When Facsimile of Divinity enters, it deals 4 damage to any target.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/155_Facsimile of Divinity.jpg" num="155">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Colossal Achievement</name>
+			<text>Trample
+Spells and abilities your opponents control can&apos;t cause you to sacrifice Colossal Achievement.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/152_Colossal Achievement.jpg" num="152">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>8</manacost>
+				<cmc>8</cmc>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Manaflux Battery</name>
+			<text>Manaflux Battery enters tapped.
+{T}: Add {C}{C}.
+{2}, {T}: Untap each other artifact you control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/165_Manaflux Battery.jpg" num="165">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Powercell</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Brilliant Hub</name>
+			<text>{T}: Add {C}.
+{1}, {T}: Add {G}{W}.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/177_Brilliant Hub.jpg" num="177">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Brilliant Cityscape</name>
+			<text>{T}: Add {C}.
+{1}, {T}: Add {B}{R}.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/176_Brilliant Cityscape.jpg" num="176">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Brilliant Capital</name>
+			<text>{T}: Add {C}.
+{1}, {T}: Add {W}{B}.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/173_Brilliant Capital.jpg" num="173">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Brilliant Port</name>
+			<text>{T}: Add {C}.
+{1}, {T}: Add {U}{R}.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/179_Brilliant Port.jpg" num="179">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Brilliant Workshop</name>
+			<text>{T}: Add {C}.
+{1}, {T}: Add {G}{U}.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/180_Brilliant Workshop.jpg" num="180">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Brilliant Mansion</name>
+			<text>{T}: Add {C}.
+{1}, {T}: Add {R}{G}.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/178_Brilliant Mansion.jpg" num="178">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Brilliant Citadel</name>
+			<text>{T}: Add {C}.
+{1}, {T}: Add {R}{W}.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/175_Brilliant Citadel.jpg" num="175">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Brilliant Castle</name>
+			<text>{T}: Add {C}.
+{1}, {T}: Add {U}{B}.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/174_Brilliant Castle.jpg" num="174">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Brilliant Academy</name>
+			<text>{T}: Add {C}.
+{1}, {T}: Add {W}{U}.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/171_Brilliant Academy.jpg" num="171">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Brilliant Archives</name>
+			<text>{T}: Add {C}.
+{1}, {T}: Add {B}{G}.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/172_Brilliant Archives.jpg" num="172">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Artisan&apos;s Genius</name>
+			<text>When Artisan&apos;s Genius enters, you may tap three untapped artifacts or other enchantments you control. If you do, draw three cards.
+{5}{W}{U}, Exile Artisan&apos;s Genius: Return any number of artifact or enchantment cards with different names from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/132_Artisan&apos;s Genius.jpg" num="132">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Extravagant Flair</name>
+			<text>Choose one or both —
+• Counter target spell.
+• Exile target permanent you control, then return it to the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/136_Extravagant Flair.jpg" num="136">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Twisted Speaker</name>
+			<text>Flash
+When Twisted Speaker enters, return target spell to its owner&apos;s hand. That spell&apos;s controller loses 2 life.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/149_Twisted Speaker.jpg" num="149">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Formless Wanderer</name>
+			<text>Hexproof
+Whenever you cast a spell with mana value 5 or greater, each opponent discards a card and loses 3 life.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/139_Formless Wanderer.jpg" num="139">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Iken Troubleshooter</name>
+			<text>Sabotage — Whenever an opponent or permanent an opponent controls becomes the target of a spell you control, Iken Troubleshooter deals 2 damage to each opponent.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/141_Iken Troubleshooter.jpg" num="141">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Aetherborn Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Omegalomania</name>
+			<text>Whenever you cast a noncreature spell, Omegalomania deals 2 damage to any target. Whenever a permanent you don&apos;t control dealt damage this way dies this turn, return it to the battlefield tapped under your control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/145_Omegalomania.jpg" num="145">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Seeker of Battle</name>
+			<text>Whenever Seeker of Battle attacks, put a +1/+1 counter on each creature you control. Those creatures gain trample until end of turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/147_Seeker of Battle.jpg" num="147">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Claim for Civilization</name>
+			<text>Search your library for a basic land card and put that card onto the battlefield, then shuffle.
+{5}{G}{W}, Exile Claim for Civilization from your graveyard: Create a 6/6 colorless Golem artifact creature token. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/133_Claim for Civilization.jpg" num="133">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Acin, the Toymaker</name>
+			<text>At the beginning of your upkeep, you may reveal a creature card from your hand. If you do, create a token that&apos;s a copy of it, except it&apos;s 1/1 and is an artifact in addition to its other types.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/131_Acin, the Toymaker.jpg" num="131">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deliver from Dilapidation</name>
+			<text>When Deliver from Dilapidation enters, you may sacrifice any number of enchantments. Whenever you sacrifice an enchantment this way, destroy target creature.
+At the beginning of your upkeep, return target enchantment card with mana value 5 or less from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/134_Deliver from Dilapidation.jpg" num="134">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4WB</manacost>
+				<cmc>6</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Embrace the Veil</name>
+			<text>When Embrace the Veil enters, you may exile target nonland permanent you don&apos;t control until Embrace the Veil leaves the battlefield.
+Whenever you cast a spell with mana value 5 or greater, you may put a card exiled with Embrace the Veil into its owner&apos;s graveyard and return Embrace the Veil to its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/135_Embrace the Veil.jpg" num="135">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Exuberant Inventor</name>
+			<text>Eureka! (At the beginning of each end step, you get a research counter if you cast a spell this turn. Then if you have eight or more research counters, remove them and create a Masterpiece token of your choice.)
+At the beginning of your first end step each turn, you get an additional end step after this step.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/137_Exuberant Inventor.jpg" num="137">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jessica Turin, Battlemage</name>
+			<text>Hexproof
+At the beginning of each end step, if an opponent was dealt 4 or more damage this turn, return target instant or sorcery card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/143_Jessica Turin, Battlemage.jpg" num="143">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Supplanter of Realities</name>
+			<text>Whenever Supplanter of Realities attacks, proliferate. (You choose any number of permanents and/or players with counters on them, then give each another kind of a counter already there.)
+Sacrifice another permanent: Supplanter of Realities gains indestructible until end of turn. Tap it.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/148_Supplanter of Realities.jpg" num="148">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Veil&apos;s Recovery</name>
+			<text>Choose one—
+• Destroy target permanent with mana value 2.
+• Return target permanent card from a graveyard to its owner&apos;s hand. 
+Exile Veil&apos;s Recovery.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/150_Veil&apos;s Recovery.jpg" num="150">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Herald of Unity</name>
+			<text>Haste
+Herald of Unity&apos;s power is equal to the number of creatures you control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/140_Herald of Unity.jpg" num="140">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>*/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flare Blitz</name>
+			<text>When Flare Blitz enters, it deals 3 damage to any target and you gain 3 life.
+{1}{R}{W}: Return Flare Blitz to its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/138_Flare Blitz.jpg" num="138">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Imagination Unleashed</name>
+			<text>Whenever you tap an artifact or land for mana, add one mana of any type that permanent produced.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/142_Imagination Unleashed.jpg" num="142">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Lost Titan</name>
+			<text>Hexproof
+Whenever an opponent casts a spell or draws a card, draw a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/144_The Lost Titan.jpg" num="144">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>5GU</manacost>
+				<cmc>7</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/184_Plains.jpg" num="184">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/182_Island.jpg" num="182">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/185_Swamp.jpg" num="185">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/183_Mountain.jpg" num="183">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/181_Forest.jpg" num="181">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mirror of Possibilities DOA</name>
+			<text>Whenever you cast a spell, you may pay {3}. If you do, copy it. You may choose new targets for the copy.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/5t_Mirror of Possibilities.jpg" num="5">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Masterpiece</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Powercell DOA</name>
+			<text>{T}: Add {C}.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/6t_Powercell.jpg" num="6">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Powercell</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Construct DOA</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/1t_Construct.jpg" num="1">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Golem DOA</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/3t_Golem.jpg" num="3">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Juggernaut DOA</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/4t_Juggernaut.jpg" num="4">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Juggernaut</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Petal-Weaver Alexa</name>
+			<text>You may play an additional land this turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/146_Petal-Weaver Alexa.jpg" num="146">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Alexa</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Alia Emblem DOA</name>
+			<text>{W}, Pay X life: Exile target creature with power X or less.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/8t_Alia Emblem.jpg" num="8">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Emblem — Alia</type>
+				<maintype>Emblem</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Siraj Emblem DOA</name>
+			<text>Whenever you target one or more permanents, gain control of those permanents.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/9t_Siraj Emblem.jpg" num="9">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Emblem — Siraj</type>
+				<maintype>Emblem</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Timeworn Crags</name>
+			<text>{T}: Add {C}.
+{4}, {T}, Sacrifice Timeworn Crags: Destroy target nonbasic land. This ability costs {1} less to activate for each nonbasic land you don&apos;t control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/0_Timeworn Crags.jpg" num="0">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Transplanted Citadel</name>
+			<text>{T}: Add {C}.
+{7}: Transplanted Citadel becomes a 6/6 Golem artifact creature until end of turn. It&apos;s still a land. This ability costs {1} less to activate for each artifact you control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/0_Transplanted Citadel.jpg" num="0">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Renewal Grove</name>
+			<text>{T}, Sacrifice Renewal Grove: Search your library for a basic land card, put it onto the battlefield, then shuffle. If Renewal Grove entered since your last upkeep, that land doesn&apos;t untap during your next untap step.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/0_Renewal Grove.jpg" num="0">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Riftway to the Other Side</name>
+			<text>{T}: Add {C}.
+{3}, {T}: Add {C} for each basic land you control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/0_Riftway to the Other Side.jpg" num="0">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Nebula of Empty Gold</name>
+			<text>As Nebula of Empty Gold enters, choose two or three colors. You lose life equal to the number of colors chosen this way.
+{T}: Add one mana of any of the chosen colors.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/0_Nebula of Empty Gold.jpg" num="0">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Runecrested Valley</name>
+			<text>{T}: Add {C}.
+{4}, {T}: Look at the top two cards of your library. You may put one of them into your graveyard. Put the rest back on top in any order. If you control eight or more lands, draw a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/0_Runecrested Valley.jpg" num="0">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sealed Riftway</name>
+			<text>When Sealed Riftway enters, exile up to one target card from a graveyard.
+{2}, {T}, Sacrifice Sealed Riftway: Exile target player&apos;s graveyard. Draw a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/0_Sealed Riftway.jpg" num="0">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>City Gate</name>
+			<text>{T}: Add {C}.
+{3}, {T}, Sacrifice City Gate: Put two +1/+1 counters on target creature you control that attacked this turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/0_City Gate.jpg" num="0">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cultivating Spheres DOA</name>
+			<text>At the beginning of your draw step, draw an additional card.
+You may play an additional land on each of your turns.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/2t_Cultivating Spheres.jpg" num="2">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Masterpiece</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Thrice-Folded Lotus DOA</name>
+			<text>{T}: Add three mana of any one color.
+{3}, {T}: Thrice-Folded Lotus deals 3 damage to any target.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/DOA-files/img/7t_Thrice-Folded Lotus.jpg" num="7">DOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Masterpiece</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

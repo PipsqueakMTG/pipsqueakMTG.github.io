@@ -1,0 +1,948 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Jack, Harvester",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Planeswalker — Jack",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/42_Jack, Harvester.jpg"
+			}
+		},
+		{
+			"name": "Okalae, Gloryseeker",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Planeswalker — Okalae",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/48_Okalae, Gloryseeker.jpg"
+			}
+		},
+		{
+			"name": "Flooded Morass",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/65_Flooded Morass.jpg"
+			}
+		},
+		{
+			"name": "Lavatorn Fields",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/71_Lavatorn Fields.jpg"
+			}
+		},
+		{
+			"name": "Flourishing Crevasse",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/66_Flourishing Crevasse.jpg"
+			}
+		},
+		{
+			"name": "Heart of the Glade",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/70_Heart of the Glade.jpg"
+			}
+		},
+		{
+			"name": "Gloomcover Steppe",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/69_Gloomcover Steppe.jpg"
+			}
+		},
+		{
+			"name": "Frostfire Geyser",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/67_Frostfire Geyser.jpg"
+			}
+		},
+		{
+			"name": "Fungal Mire",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/68_Fungal Mire.jpg"
+			}
+		},
+		{
+			"name": "Spiraling Canyon",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/74_Spiraling Canyon.jpg"
+			}
+		},
+		{
+			"name": "Pool of Light",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/73_Pool of Light.jpg"
+			}
+		},
+		{
+			"name": "Lush Oasis",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/72_Lush Oasis.jpg"
+			}
+		},
+		{
+			"name": "Kel, Tocaiba's Might",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Planeswalker — Kel",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/44_Kel, Tocaiba's Might.jpg"
+			}
+		},
+		{
+			"name": "Aiko, Bearer of Sorrows",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}{B}",
+			"type": "Legendary Planeswalker — Aiko",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/29_Aiko, Bearer of Sorrows.jpg"
+			}
+		},
+		{
+			"name": "Mari, Goddess Emeritus",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Legendary Planeswalker — Mari",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/6_Mari, Goddess Emeritus.jpg"
+			}
+		},
+		{
+			"name": "Han Ahxing, Ascendant",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Planeswalker — Ahxing",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/11_Han Ahxing, Ascendant.jpg"
+			}
+		},
+		{
+			"name": "Vikalden, Blackheart",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Planeswalker — Vikalden",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/18_Vikalden, Blackheart.jpg"
+			}
+		},
+		{
+			"name": "Xepa, Unleashed Inmate",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Legendary Planeswalker — Xepa",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/23_Xepa, Unleashed Inmate.jpg"
+			}
+		},
+		{
+			"name": "Elanor, Somber Savior",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Planeswalker — Elanor",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/35_Elanor, Somber Savior.jpg"
+			}
+		},
+		{
+			"name": "Marston, Grand Artificer",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Planeswalker — Marston",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/45_Marston, Grand Artificer.jpg"
+			}
+		},
+		{
+			"name": "Jay Volkan",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Legendary Planeswalker — Jay",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/43_Jay Volkan.jpg"
+			}
+		},
+		{
+			"name": "Glitch, Mind of a Beast",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Legendary Planeswalker — Glitch",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/38_Glitch, Mind of a Beast.jpg"
+			}
+		},
+		{
+			"name": "Azamir the Storyteller",
+			"rarity": "mythic",
+			"mana_cost": "{9}",
+			"type": "Legendary Planeswalker — Azamir",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/1_Azamir the Storyteller.jpg"
+			}
+		},
+		{
+			"name": "Quxfin, Multiversal Conqueror",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Planeswalker — Quxfin",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/2_Quxfin, Multiversal Conqueror.jpg"
+			}
+		},
+		{
+			"name": "Sadie Dal, Bold Explorer",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}{R}",
+			"type": "Legendary Planeswalker — Sadie",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/50_Sadie Dal, Bold Explorer.jpg"
+			}
+		},
+		{
+			"name": "Isamu, Evergnawing",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Legendary Planeswalker — Isamu",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/41_Isamu, Evergnawing.jpg"
+			}
+		},
+		{
+			"name": "Archmage Jessica Turin",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Planeswalker — Turin",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/31_Archmage Jessica Turin.jpg"
+			}
+		},
+		{
+			"name": "Dynamic Carmella Clarke",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Legendary Planeswalker — C.C",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/34_Dynamic Carmella Clarke.jpg"
+			}
+		},
+		{
+			"name": "Rozalia, Lichbane",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Planeswalker — Rozalia",
+			"collector_number": "49",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/49_Rozalia, Lichbane_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/49_Rozalia, Lichbane_front.jpg"
+			}
+		},
+		{
+			"name": "Tove Valdulfdatter",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Planeswalker — Tove",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/52_Tove Valdulfdatter.jpg"
+			}
+		},
+		{
+			"name": "Caydin, Himbo Heroine",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Planeswalker — Caydin",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/33_Caydin, Himbo Heroine.jpg"
+			}
+		},
+		{
+			"name": "Max, Faithless Healer",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}{G}",
+			"type": "Legendary Planeswalker — Maxomon",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/46_Max, Faithless Healer.jpg"
+			}
+		},
+		{
+			"name": "Holly, Fauna Expert",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{G}{W}",
+			"type": "Legendary Planeswalker — Holly",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/40_Holly, Fauna Expert.jpg"
+			}
+		},
+		{
+			"name": "Lawrel, Favored Son",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Planeswalker — Lawrel",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/25_Lawrel, Favored Son.jpg"
+			}
+		},
+		{
+			"name": "Gerrit Dior, History's Voice",
+			"rarity": "mythic",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Planeswalker — Gerrit",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/37_Gerrit Dior, History's Voice.jpg"
+			}
+		},
+		{
+			"name": "Arcane Mastery",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/30_Arcane Mastery.jpg"
+			}
+		},
+		{
+			"name": "Sesilius, Banished Messiah",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Legendary Planeswalker — Sesilius",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/51_Sesilius, Banished Messiah.jpg"
+			}
+		},
+		{
+			"name": "Bloodstained Armund",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Planeswalker — Armund",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/32_Bloodstained Armund.jpg"
+			}
+		},
+		{
+			"name": "Monstrous Mastery",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/47_Monstrous Mastery.jpg"
+			}
+		},
+		{
+			"name": "Grim Mastery",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/39_Grim Mastery.jpg"
+			}
+		},
+		{
+			"name": "Violent Mastery",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/59_Violent Mastery.jpg"
+			}
+		},
+		{
+			"name": "Turbulent Mastery",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/53_Turbulent Mastery.jpg"
+			}
+		},
+		{
+			"name": "Piety",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/7_Piety.jpg"
+			}
+		},
+		{
+			"name": "Chronomancy",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/10_Chronomancy.jpg"
+			}
+		},
+		{
+			"name": "Antipathy",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/19_Antipathy.jpg"
+			}
+		},
+		{
+			"name": "Loyalty",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/26_Loyalty.jpg"
+			}
+		},
+		{
+			"name": "Chicanery",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/14_Chicanery.jpg"
+			}
+		},
+		{
+			"name": "Chiresian Consort Throne",
+			"rarity": "rare",
+			"mana_cost": "{7}",
+			"type": "Legendary Artifact",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/60_Chiresian Consort Throne.jpg"
+			}
+		},
+		{
+			"name": "The Fate Engine",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Artifact",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/36_The Fate Engine.jpg"
+			}
+		},
+		{
+			"name": "Urge to Imagine",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/55_Urge to Imagine.jpg"
+			}
+		},
+		{
+			"name": "Urge to Kill",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/56_Urge to Kill.jpg"
+			}
+		},
+		{
+			"name": "Urge to Lift",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/57_Urge to Lift.jpg"
+			}
+		},
+		{
+			"name": "Urge to Explore",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/54_Urge to Explore.jpg"
+			}
+		},
+		{
+			"name": "Urge to Seize",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/58_Urge to Seize.jpg"
+			}
+		},
+		{
+			"name": "Open-Path Fox",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Fox",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/27_Open-Path Fox.jpg"
+			}
+		},
+		{
+			"name": "Scratch's Tithetaker",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Demon",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/21_Scratch's Tithetaker.jpg"
+			}
+		},
+		{
+			"name": "Sparkrender Flechettes",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/63_Sparkrender Flechettes.jpg"
+			}
+		},
+		{
+			"name": "Towering Herdleader",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/28_Towering Herdleader.jpg"
+			}
+		},
+		{
+			"name": "Naeva, Syndicate Muscle",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Legendary Creature — Human Demon",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/17_Naeva, Syndicate Muscle.jpg"
+			}
+		},
+		{
+			"name": "Listen to Animus Vox",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/5_Listen to Animus Vox.jpg"
+			}
+		},
+		{
+			"name": "Hardened Hero",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/15_Hardened Hero.jpg"
+			}
+		},
+		{
+			"name": "Skyline Protector",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Artificer Warrior",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/22_Skyline Protector.jpg"
+			}
+		},
+		{
+			"name": "Muse of Cold Winter Nights",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Faerie God",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/12_Muse of Cold Winter Nights.jpg"
+			}
+		},
+		{
+			"name": "Advanced Intelligence",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Advisor",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/9_Advanced Intelligence.jpg"
+			}
+		},
+		{
+			"name": "Admirable Admiral",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Noble Soldier",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/3_Admirable Admiral.jpg"
+			}
+		},
+		{
+			"name": "Imperial Herald",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/4_Imperial Herald.jpg"
+			}
+		},
+		{
+			"name": "Defy Fate",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/24_Defy Fate.jpg"
+			}
+		},
+		{
+			"name": "Engage the Omnidrive",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/20_Engage the Omnidrive.jpg"
+			}
+		},
+		{
+			"name": "Make a Mess",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/16_Make a Mess.jpg"
+			}
+		},
+		{
+			"name": "Suppose",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/13_Suppose.jpg"
+			}
+		},
+		{
+			"name": "Wolf",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wolf",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/9t_Wolf.jpg"
+			}
+		},
+		{
+			"name": "Avatar",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Avatar",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/10t_Avatar.jpg"
+			}
+		},
+		{
+			"name": "Angel",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Angel",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/2t_Angel.jpg"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/11t_Treasure.jpg"
+			}
+		},
+		{
+			"name": "Beast",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Beast",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/7t_Beast.jpg"
+			}
+		},
+		{
+			"name": "Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/8_Soldier.jpg"
+			}
+		},
+		{
+			"name": "Army",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Army",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/1t_Army.jpg"
+			}
+		},
+		{
+			"name": "Sadie Dal Emblem",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Emblem",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/12t_Sadie Dal Emblem.jpg"
+			}
+		},
+		{
+			"name": "Rat",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Rat",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/8t_Rat.jpg"
+			}
+		},
+		{
+			"name": "Lizard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Lizard",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/6t_Lizard.jpg"
+			}
+		},
+		{
+			"name": "Cultivating Spheres",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Masterpiece",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/61_Cultivating Spheres.jpg"
+			}
+		},
+		{
+			"name": "Mirror of Possibilities",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Masterpiece",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/62_Mirror of Possibilities.jpg"
+			}
+		},
+		{
+			"name": "Thrice-Folded Lotus",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Masterpiece",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/64_Thrice-Folded Lotus.jpg"
+			}
+		},
+		{
+			"name": "Enchantment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/3t_Enchantment.jpg"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/4t_Spirit.jpg"
+			}
+		},
+		{
+			"name": "Demon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Demon",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/WTM-files/img/5t_Demon.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Jack, Harvester
+	5 Okalae, Gloryseeker
+	5 Flooded Morass
+	5 Lavatorn Fields
+	5 Flourishing Crevasse
+	5 Heart of the Glade
+	5 Gloomcover Steppe
+	5 Frostfire Geyser
+	5 Fungal Mire
+	5 Spiraling Canyon
+	5 Pool of Light
+	5 Lush Oasis
+	5 Kel, Tocaiba's Might
+	5 Aiko, Bearer of Sorrows
+	5 Mari, Goddess Emeritus
+	5 Han Ahxing, Ascendant
+	5 Vikalden, Blackheart
+	5 Xepa, Unleashed Inmate
+	5 Elanor, Somber Savior
+	5 Marston, Grand Artificer
+	5 Jay Volkan
+	5 Glitch, Mind of a Beast
+	5 Azamir the Storyteller
+	5 Quxfin, Multiversal Conqueror
+	5 Sadie Dal, Bold Explorer
+	5 Isamu, Evergnawing
+	5 Archmage Jessica Turin
+	5 Dynamic Carmella Clarke
+	5 Rozalia, Lichbane
+	5 Tove Valdulfdatter
+	5 Caydin, Himbo Heroine
+	5 Max, Faithless Healer
+	5 Holly, Fauna Expert
+	5 Lawrel, Favored Son
+	5 Gerrit Dior, History's Voice
+	5 Arcane Mastery
+	5 Sesilius, Banished Messiah
+	5 Bloodstained Armund
+	5 Monstrous Mastery
+	5 Grim Mastery
+	5 Violent Mastery
+	5 Turbulent Mastery
+	5 Piety
+	5 Chronomancy
+	5 Antipathy
+	5 Loyalty
+	5 Chicanery
+	5 Chiresian Consort Throne
+	5 The Fate Engine
+	5 Urge to Imagine
+	5 Urge to Kill
+	5 Urge to Lift
+	5 Urge to Explore
+	5 Urge to Seize
+	5 Open-Path Fox
+	5 Scratch's Tithetaker
+	5 Sparkrender Flechettes
+	5 Towering Herdleader
+	5 Naeva, Syndicate Muscle
+	5 Listen to Animus Vox
+	5 Hardened Hero
+	5 Skyline Protector
+	5 Muse of Cold Winter Nights
+	5 Advanced Intelligence
+	5 Admirable Admiral
+	5 Imperial Herald
+	5 Defy Fate
+	5 Engage the Omnidrive
+	5 Make a Mess
+	5 Suppose
+[uncommon(3)]
+[common(10)]
+	5 Soldier
+	5 Cultivating Spheres
+	5 Mirror of Possibilities
+	5 Thrice-Folded Lotus

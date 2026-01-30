@@ -36,6 +36,11 @@
             "formats": "Standard"
         },
         {
+            "set_code": "MOV",
+            "set_name": "Motley Oak (Field Test)",
+            "formats": ""
+        },
+        {
             "set_code": "PTXX",
             "set_name": "Pro Tour 20XX",
             "formats": "Standard"

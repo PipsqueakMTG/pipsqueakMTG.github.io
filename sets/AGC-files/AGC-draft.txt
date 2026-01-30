@@ -1287,7 +1287,7 @@
 			"type": "Token Creature — Soldier",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/4_Soldier.png"
+				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/4t_Soldier.png"
 			}
 		},
 		{
@@ -1297,7 +1297,7 @@
 			"type": "Token Creature — Spirit",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/5_Spirit.png"
+				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/5t_Spirit.png"
 			}
 		},
 		{
@@ -1307,7 +1307,7 @@
 			"type": "Token Creature — Dragon",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/10_Dragon.png"
+				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/10t_Dragon.png"
 			}
 		},
 		{
@@ -1317,7 +1317,7 @@
 			"type": "Token Enchantment",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/3_Anthem.png"
+				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/3t_Anthem.png"
 			}
 		},
 		{
@@ -1327,7 +1327,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/11_Red Elemental.png"
+				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/11t_Red Elemental.png"
 			}
 		},
 		{
@@ -2157,7 +2157,7 @@
 			"type": "Token Creature — Otter",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/7_Otter.png"
+				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/7t_Otter.png"
 			}
 		},
 		{
@@ -2397,7 +2397,7 @@
 			"type": "Token Creature — Devil",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/9_Devil.png"
+				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/9t_Devil.png"
 			}
 		},
 		{
@@ -2437,7 +2437,7 @@
 			"type": "Token Creature — Angel",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/2_Angel.png"
+				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/2t_Angel.png"
 			}
 		},
 		{
@@ -2447,7 +2447,7 @@
 			"type": "Token Artifact — Clue",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/15_Clue.png"
+				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/15t_Clue.png"
 			}
 		},
 		{
@@ -2457,7 +2457,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/16_Treasure.png"
+				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/16t_Treasure.png"
 			}
 		},
 		{
@@ -2847,7 +2847,7 @@
 			"type": "Token Creature — Wurm",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/14_Wurm.png"
+				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/14t_Wurm.png"
 			}
 		},
 		{
@@ -4227,7 +4227,7 @@
 			"type": "Token Creature — Saproling",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/13_Saproling.png"
+				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/13t_Saproling.png"
 			}
 		},
 		{
@@ -4237,7 +4237,7 @@
 			"type": "Token Creature — Beast",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/12_Beast.png"
+				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/12t_Beast.png"
 			}
 		},
 		{
@@ -4247,7 +4247,7 @@
 			"type": "Token Creature — Rogue",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/8_Rogue.png"
+				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/8t_Rogue.png"
 			}
 		},
 		{
@@ -4317,7 +4317,7 @@
 			"type": "Token Artifact",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/17_Vessel.png"
+				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/17t_Vessel.png"
 			}
 		},
 		{
@@ -4327,7 +4327,7 @@
 			"type": "Token Creature — Spirit",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/1_XX Spirit.png"
+				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/1t_XX Spirit.png"
 			}
 		},
 		{
@@ -4337,7 +4337,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/6_Elemental.png"
+				"en": "https://pipsqueakMTG.github.io/sets/AGC-files/img/6t_Elemental.png"
 			}
 		},
 		{

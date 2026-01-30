@@ -1,0 +1,1878 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>101</name>
+			<longname>Storytime</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-01-29</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Academic&apos;s Claymore</name>
+			<text>Whenever equipped creature deals combat damage to a player, put a +1/+1 counter on it and draw a card.
+Equip {1}</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/96_Academic&apos;s Claymore.jpg" num="96">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Turela, Defiant Angel</name>
+			<text>Flash
+Flying
+When Turela, Defiant Angel enters, exile all other creatures you control. Return them to the battlefield under their owner&apos;s control at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/20_Turela, Defiant Angel.jpg" num="20">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Captain Mattias Ochre</name>
+			<text>Creatures you control have haste and attack each combat if able.
+Attacking Soldiers you control get +1/+0.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/62_Captain Mattias Ochre.jpg" num="62">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Edge of the Water</name>
+			<text>If you would draw one or more cards, instead you may draw that many cards plus one, then discard a card.
+As long as ten or more cards are in your graveyard, noncreature spells you cast cost {1} less to cast.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/26_Edge of the Water.jpg" num="26">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Daisy, the Heart of Chasmek</name>
+			<text>Other creatures you control get +1/+1 as long as you control four or more lands.
+{G}, Sacrifice Daisy, the Heart of Chasmek: Creatures you control with base power 1 or less gain indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/83_Daisy, the Heart of Chasmek.jpg" num="83">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crystal Garden</name>
+			<text>Crystal Garden enters tapped.
+{T}: Add one mana of any color. You can&apos;t spend this mana to cast a creature spell.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/100_Crystal Garden.jpg" num="100">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Glymna Blackrune</name>
+			<text>When Glymna Blackrune enters, exile target player&apos;s graveyard.
+During each of your turns, you may cast a creature card exiled with Glymna Blackrune.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/44_Glymna Blackrune.jpg" num="44">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Academy Renegade</name>
+			<text>When Academy Renegade enters, it deals damage to target creature you don&apos;t control equal to the number of Wizards you control.
+Whenever Academy Renegade attacks, it deals damage to defending player equal to the number of Wizards you control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/58_Academy Renegade.jpg" num="58">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Autumn&apos;s Farewell</name>
+			<text>Choose target creature or planeswalker. Its controller may exile it. If that player doesn&apos;t, they sacrifice all other creatures and planeswalkers they control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/4_Autumn&apos;s Farewell.jpg" num="4">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tidal Spite</name>
+			<text>As an additional cost to cast this spell, tap any number of untapped storied permanents you control.
+Return X target creatures to their owner&apos;s hand, where X is one plus the number of permanents tapped this way.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/37_Tidal Spite.jpg" num="37">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Welcome Return</name>
+			<text>Whenever a creature you control enters from a graveyard, target opponent loses life equal to its power.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/56_Welcome Return.jpg" num="56">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jak, Daring Vanguard</name>
+			<text>Whenever Jak, Daring Vanguard or another legendary creature you control enters, creatures you control get +1/+0 and gain haste until end of turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/67_Jak, Daring Vanguard.jpg" num="67">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Caller of Hunger</name>
+			<text>{1}{G}{G}, Sacrifice a creature: Search your library for a creature card with mana value X or less, where X is 1 plus the sacrificed creature&apos;s mana value. Put that card onto the battlefield, then shuffle. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/80_Caller of Hunger.jpg" num="80">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Charting the Cosmos</name>
+			<text>Reveal the top seven cards of your library. Starting with you, each player chooses a nonland card from among them that hasn&apos;t been chosen this way. Put the chosen cards into your hand and the rest on the bottom of your library in a random order.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/24_Charting the Cosmos.jpg" num="24">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Seventh Circle Cultist</name>
+			<text>At the beginning of your upkeep, you may pay {B}. If you do, return a Wizard card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/51_Seventh Circle Cultist.jpg" num="51">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aquilifer Axelius</name>
+			<text>Other creatures you control can&apos;t attack or block alone.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/59_Aquilifer Axelius.jpg" num="59">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Antimagic Formula</name>
+			<text>This spell costs {1} less to cast for each storied permanent you control. (Enchantments and legendary permanents are storied.)
+Counter target spell.
+Draw a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/23_Antimagic Formula.jpg" num="23">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Jara Champion</name>
+			<text>Menace
+Jara Champion can only attack or block alone.
+Whenever one or more players lose life for the first time each turn, put a +1/+1 counter on Jara Champion.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/45_Jara Champion.jpg" num="45">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lost to the Ages</name>
+			<text>Put target artifact or enchantment with mana value less than or equal to the number of basic lands you control on the bottom of its owner&apos;s library.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/88_Lost to the Ages.jpg" num="88">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Titan&apos;s Will</name>
+			<text>Nonstoried creatures lose all abilities and have base power and toughness 1/1. (Enchantments and legendary permanents are storied.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/19_Titan&apos;s Will.jpg" num="19">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vengeful Messenger</name>
+			<text>Flash
+Flying
+Sacrifice Vengeful Messenger: Counter target noncreature spell unless its controller pays {2}.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/39_Vengeful Messenger.jpg" num="39">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Villainy</name>
+			<text>Whenever one or more creatures die for the first time each turn, you draw a card and you lose 1 life.
+Whenever you cast a black noncreature spell, Villainy deals 2 damage to any target and you gain 2 life.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/54_Villainy.jpg" num="54">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BBB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dragoncalling</name>
+			<text>This spell can&apos;t be countered.
+For each spell you&apos;ve cast this turn, search your library for a Dragon permanent card and put it onto the battlefield. Then shuffle.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/63_Dragoncalling.jpg" num="63">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>8R</manacost>
+				<cmc>9</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Leyline Alignment Field</name>
+			<text>{T}: Add {C}.
+{2}, {T}: For each color among cards in your graveyard, add one mana of that color.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/101_Leyline Alignment Field.jpg" num="101">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Apotheosis</name>
+			<text>At the beginning of your upkeep, if you control ten or more storied permanents, you win the game. (Enchantments and legendary permanents are storied.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/2_Apotheosis.jpg" num="2">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bretala of Redsky</name>
+			<text>Flying, trample
+Whenever Bretala of Redsky attacks, it gains double strike until end of turn unless defending player sacrifices a creature.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/60_Bretala of Redsky.jpg" num="60">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4RRR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>7/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rujan, the Great Pumpkin</name>
+			<text>Trample
+Players can&apos;t activate abilities of nonbasic, noncreature permanents.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/93_Rujan, the Great Pumpkin.jpg" num="93">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>4GGG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Daring Skythief</name>
+			<text>Whenever Daring Skythief crews a Vehicle, that Vehicle gains flying until end of turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/6_Daring Skythief.jpg" num="6">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tianyuren Skycharter</name>
+			<text>Flying
+Tianyuren Skycharter has hexproof as long as you control a storied permanent. (Enchantments and legendary permanents are storied.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/36_Tianyuren Skycharter.jpg" num="36">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Takeda Taro</name>
+			<text>First strike
+Whenever Takeda Taro deals combat damage to an opponent, it deals 1 damage to each creature and planeswalker that player controls.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/73_Takeda Taro.jpg" num="73">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Great and Small</name>
+			<text>As an additional cost to cast this spell, tap three untapped creatures you control with power 1 or less.
+Search your library for a creature card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/85_Great and Small.jpg" num="85">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Overloaded Aethergate</name>
+			<text>{T}: Add {C}.
+{7}, {T}: Copy target instant or sorcery spell with {X} in its mana cost. You may choose new targets for the copy. This ability costs {1} less to activate for each instant and sorcery card in your graveyard.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/103_Overloaded Aethergate.jpg" num="103">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Curse-Blood Morrigan</name>
+			<text>Menace, deathtouch
+Whenever a creature an opponent controls dies, that player loses 2 life and you gain 2 life.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/42_Curse-Blood Morrigan.jpg" num="42">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mirrorgate</name>
+			<text>Mirrorgate enters tapped.
+When Mirrorgate enters, you choose a nonbasic land card name other than Mirrorgate, then each player chooses a color.
+Lands with the chosen name are lands with &quot;{T}: Add one mana of any of the chosen colors,&quot; and lose all other abilities, card types, and land types.
+{T}: Add one mana of any of the chosen colors.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/102_Mirrorgate.jpg" num="102">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Titan&apos;s Palace</name>
+			<text>{T}: Add {C}{C}. Spend this mana only to cast spells with mana value 5 or greater.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/104_Titan&apos;s Palace.jpg" num="104">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Spring Renewal</name>
+			<text>Sacrifice any number of lands. Search your library for that many basic land cards, put them onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/94_Spring Renewal.jpg" num="94">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Brave the Issbarrens</name>
+			<text>As Brave the Issbarrens enters, choose a color.
+White creatures you control have protection from the chosen color. (This permanent can&apos;t be targeted, dealt damage, enchanted, or equipped by anything with that color.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/5_Brave the Issbarrens.jpg" num="5">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Voidlife Orbs</name>
+			<text>{5}, {T}, Sacrifice Voidlife Orbs: Destroy all nonland permanents. You can&apos;t spend more than one color of mana to activate this ability.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/99_Voidlife Orbs.jpg" num="99">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Finale of Cinders</name>
+			<text>Finale of Cinders deals 2 damage to any target. For each instant and sorcery card in your graveyard, you may pay {R}. Whenever you do, Finale of Cinders deals 2 damage to any target.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/65_Finale of Cinders.jpg" num="65">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Chratteri Restoration</name>
+			<text>Each player gains 4 life and returns all land cards from their graveyard to the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/81_Chratteri Restoration.jpg" num="81">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Magdel, Caller of Souls</name>
+			<text>Protection from sorceries
+Whenever Magdel, Caller of Souls attacks, create a 1/1 white Spirit creature token with flying that&apos;s tapped and attacking for each storied permanent you control. Exile the tokens at end of combat. (Enchantments and legendary permanents are storied.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/13_Magdel, Caller of Souls.jpg" num="13">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Aether Lens</name>
+			<text>Your opponents play with their hands revealed.
+Whenever you cast a spell with the same name as a card in an opponent&apos;s hand, draw two cards.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/97_The Aether Lens.jpg" num="97">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Backwood Rangers</name>
+			<text>Basic Forests you control have &quot;{G}, {T}: Untap target attacking creature and remove it from combat.&quot;</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/78_Backwood Rangers.jpg" num="78">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tempus Fugit</name>
+			<text>At the beginning of the next upkeep, untap all noncreature permanents you control and draw a card.
+Exile Tempus Fugit.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/34_Tempus Fugit.jpg" num="34">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Epic Score</name>
+			<text>Create two tokens that are copies of target noncreature artifact or noncreature artifact card in a graveyard.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/64_Epic Score.jpg" num="64">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Remnant of the Wild</name>
+			<text>Trample
+When Remnant of the Wild enters, if you cast it, untap all lands you control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/92_Remnant of the Wild.jpg" num="92">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Golden Company Tactics</name>
+			<text>Put a +1/+1 counter on each creature you control. Repeat this process if you control a Soldier. Repeat this process again if you control a Knight.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/8_Golden Company Tactics.jpg" num="8">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Start Anew</name>
+			<text>Draw two cards. If you have no cards in hand and there are no cards in your graveyard, draw seven cards instead.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/33_Start Anew.jpg" num="33">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sinister Heir</name>
+			<text>Whenever a storied permanent you control enters, each opponent loses 1 life and you gain 1 life. (Enchantments and legendary permanents are storied.)
+{2}{B}{B}, Sacrifice Sinister Heir: Return target storied card from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/52_Sinister Heir.jpg" num="52">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glorysinger</name>
+			<text>Attacking creatures you control have first strike.
+Whenever three or more creatures you control die, Glorysinger deals 4 damage to any target.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/66_Glorysinger.jpg" num="66">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arpechian Champion</name>
+			<text>Trample
+Arpechian Champion can only attack or block alone.
+Whenever a land you control enters, put a +1/+1 counter on Arpechian Champion.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/77_Arpechian Champion.jpg" num="77">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Right to Rule</name>
+			<text>Whenever you cast a storied spell, you may pay {1}. If you do, draw a card. (Enchantments and legendary spells are storied.)
+Sacrifice Right to Rule: Storied permanents you control gain indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/14_Right to Rule.jpg" num="14">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Terror of Palta Gorge</name>
+			<text>Protection from nonblue
+Whenever Terror of Palta Gorge attacks, exile another target nonblue creature until Terror of Palta Gorge leaves the battlefield.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/35_Terror of Palta Gorge.jpg" num="35">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Leviathan</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Memento Mori</name>
+			<text>Choose one —
+• Exile target player&apos;s graveyard.
+• Target player sacrifices a creature.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/48_Memento Mori.jpg" num="48">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Meteor Fall</name>
+			<text>Choose one —
+• Meteor Fall deals 4 damage to each creature and each planeswalker.
+• Meteor Fall deals 8 damage to target creature or planeswalker.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/69_Meteor Fall.jpg" num="69">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Arbiter of the Scales</name>
+			<text>Flash
+Flying
+As long as an opponent controls more creatures than you, Arbiter of the Scales gets +2/+2 and has first strike and lifelink.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/3_Arbiter of the Scales.jpg" num="3">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oscanthor, Trader&apos;s Ruin</name>
+			<text>Flash
+Oscanthor, Trader&apos;s Ruin can&apos;t be blocked.
+Whenever a creature you control deals combat damage to a player, draw a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/31_Oscanthor, Trader&apos;s Ruin.jpg" num="31">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Leviathan</type>
+				<maintype>Creature</maintype>
+				<manacost>4UUU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Overwhelming Armies</name>
+			<text>At the beginning of each upkeep, create X 1/1 white Soldier creature tokens, where X is two plus the number of creatures you control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/71_Overwhelming Armies.jpg" num="71">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mossy Companion</name>
+			<text>Vigilance, reach, trample</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/90_Mossy Companion.jpg" num="90">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Storytime</name>
+			<text>If you would lose the game, instead sacrifice a storied permanent. If you do and your life total is less than 1, it becomes 1.</text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/18_Storytime.jpg" num="18">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Meadow&apos;s Melody</name>
+			<text>Gain control of target creature with power X or less.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/30_Meadow&apos;s Melody.jpg" num="30">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XUU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ultim Nox</name>
+			<text>Cast this spell only if you control a creature.
+Exile all creatures.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/53_Ultim Nox.jpg" num="53">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Regal Ignition</name>
+			<text>Each player sacrifices three lands. Regal Ignition deals 3 damage to each nonlegendary creature.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/72_Regal Ignition.jpg" num="72">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Just Business</name>
+			<text>Target player sacrifices a legendary creature or planeswalker.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/46_Just Business.jpg" num="46">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lady Ashtongue</name>
+			<text>Flying
+Other Dragons you control have haste.
+{R}: Dragons you control get +1/+0 until end of turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/68_Lady Ashtongue.jpg" num="68">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ol&apos; Sycamore</name>
+			<text>When Ol&apos; Sycamore enters, choose up to two —
+• Ol&apos; Sycamore fights another target legendary creature.
+• Destroy target noncreature storied permanent. (Enchantments and legendary permanents are storied.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/91_Ol&apos; Sycamore.jpg" num="91">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Herald of Heroes</name>
+			<text>Whenever Herald of Heroes deals combat damage to a player, reveal the top five cards of your library. You may put a creature card with power 2 or less from among them into your hand. Put the rest on the bottom of your library in any order.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/11_Herald of Heroes.jpg" num="11">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Against the Waves</name>
+			<text>Target player mills X cards, where X is the number of cards named Against the Waves in your graveyard. Draw a card, then conjure three cards named Against the Waves and shuffle them into your main library.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/22_Against the Waves.jpg" num="22">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Warden of the Dead</name>
+			<text>When Warden of the Dead enters, you draw a card and you lose 1 life.
+When Warden of the Dead dies, conjure three cards named Warden of the Dead and shuffle them into your main library. For the rest of the game, you may cast spells named Warden of the Dead without paying their mana costs.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/55_Warden of the Dead.jpg" num="55">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Overclock</name>
+			<text>Whenever you cast an instant or sorcery spell, copy it. You may choose new targets for the copy. Overclock deals X damage to you, where X is the number of spells you&apos;ve cast this turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/70_Overclock.jpg" num="70">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Chratteri Valiant</name>
+			<text>Other Warriors you control have trample.
+{G}: Chratteri Valiant gets +2/+2 and gains trample until end of turn. Activate only once each turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/82_Chratteri Valiant.jpg" num="82">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chronofracture</name>
+			<text>Search target opponent&apos;s library for six cards and exile them, then that player shuffles. Skip your next turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/25_Chronofracture.jpg" num="25">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Warrior&apos;s Request</name>
+			<text>You may put a Dragon creature card from your hand onto the battlefield. That creature gains haste until end of turn. Return it to its owner&apos;s hand at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/75_Warrior&apos;s Request.jpg" num="75">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Greenwood Outrider</name>
+			<text>Haste
+When Greenwood Outrider enters, creatures you control gain trample and get +X/+X until end of turn, where X is the number of storied permanents you control. (Enchantments and legendary permanents are storied.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/86_Greenwood Outrider.jpg" num="86">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Outsmart</name>
+			<text>Counter target spell if you have more cards in hand than its controller.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/32_Outsmart.jpg" num="32">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Embrace Madness</name>
+			<text>Whenever you discard a card this turn, add {B}. Then you may cast that card. (You still pay its costs.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/43_Embrace Madness.jpg" num="43">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unceasing Flames</name>
+			<text>Unceasing Flames deals X damage to any target, where X is 2 plus the number of cards named Unceasing Flames in your graveyard.
+Conjure three cards named Unceasing Flames and shuffle them into your main library.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/74_Unceasing Flames.jpg" num="74">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spirit</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/16_Spirit.jpg" num="16">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related count="x">Magdel, Caller of Souls</reverse_related>
+			<reverse_related count="x">Wandering Souls</reverse_related>
+		</card>
+		<card>
+			<name>Soldier</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/15_Soldier.jpg" num="15">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related count="x">Overwhelming Armies</reverse_related>
+		</card>
+		<card>
+			<name>Unceasings Flames Reminder 101</name>
+			<text>Unceasing Flames deals X damage to any target, where X is 2 plus the number of cards named Unceasing Flames in your graveyard.
+Conjure three cards named Unceasing Flames and shuffle them into your main library.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/4t_Unceasings Flames Reminder.jpg" num="4">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Against the Waves Reminder 101</name>
+			<text>Target player mills X cards, where X is the number of cards named Against the Waves in your graveyard. Draw a card, then conjure three cards named Against the Waves and shuffle them into your main library.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/2t_Against the Waves Reminder.jpg" num="2">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Warden of the Dead Reminder 101</name>
+			<text>When Warden of the Dead enters, you draw a card and you lose 1 life.
+When Warden of the Dead dies, conjure three cards named Warden of the Dead and shuffle them into your main library. For the rest of the game, you may cast cards named Warden of the Dead without paying their mana cost.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/3t_Warden of the Dead Reminder.jpg" num="3">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Beast</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/79_Beast.jpg" num="79">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related count="2">Hunter&apos;s Hideout</reverse_related>
+		</card>
+		<card>
+			<name>Emperor Tzhai</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/95_Emperor Tzhai.jpg" num="95">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Tzhai</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>BRGW</manacost>
+				<cmc>4</cmc>
+				<colors>WBRG</colors>
+				<coloridentity>WBRG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Warden of the Dead Emblem 101</name>
+			<text>You may cast spells named Warden of the Dead without paying their mana costs.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/6t_Warden of the Dead Emblem.jpg" num="6">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Reminder</type>
+				<maintype>Reminder</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Afterlife Heist</name>
+			<text>Return up to one target creature or planeswalker card from your graveyard to your hand. Each opponent loses 3 life and you gain 3 life.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/40_Afterlife Heist.jpg" num="40">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Apex&apos;s Oath</name>
+			<text>At the beginning of your upkeep, if an opponent controls more creatures than you, you may reveal the top seven cards of your library. Target opponent chooses a creature card revealed this way. Put that card onto the battlefield, and the rest into your graveyard.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/76_Apex&apos;s Oath.jpg" num="76">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Azamir, Wayward Titan</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/1_Azamir, Wayward Titan.jpg" num="1">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Azamir</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>8</manacost>
+				<cmc>8</cmc>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Berbarus Unsealed</name>
+			<text>Flying
+Sacrifice six Swamps: Return Berbarus Unsealed from your graveyard to the battlefield with an indestructible counter on it. You draw six cards and you lose 6 life.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/41_Berbarus Unsealed.jpg" num="41">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Calamitous Crash</name>
+			<text>Destroy all artifacts with mana value X or less. Whenever an artifact is destroyed this way, Calamitous Crash deals 1 damage to any target.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/61_Calamitous Crash.jpg" num="61">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XRR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Elder&apos;s Wisdom</name>
+			<text>At the beginning of your upkeep, look at the top four cards of your library. You may reveal a storied card from among them and put it into your hand. Put the rest on the bottom of your library in any order. (Enchantment and legendary cards are storied.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/84_Elder&apos;s Wisdom.jpg" num="84">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Final Reckoning</name>
+			<text>This spell costs {1} less to cast for each storied permanent you control. (Enchantments and legendary permanents are storied.)
+Destroy all nonland, nonstoried permanents.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/7_Final Reckoning.jpg" num="7">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>6WW</manacost>
+				<cmc>8</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fish Out of Water</name>
+			<text>When Fish Out of Water enters, exile the top four cards of each library.
+During each of your turns, you may cast a card exiled with Fish Out of Water without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/27_Fish Out of Water.jpg" num="27">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Golden Company Valiant</name>
+			<text>Golden Company Valiant can block any number of creatures.
+At the beginning of combat on each opponent&apos;s turn, Golden Company Valiant gets +1/+1 until end of turn for each creature that player controls.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/9_Golden Company Valiant.jpg" num="9">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gorbes Index</name>
+			<text>At the beginning of your end step, you may exile an instant or sorcery card from your graveyard. If you do, search your library for an instant or sorcery card with mana value equal to 1 plus the exiled card&apos;s mana value, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/28_Gorbes Index.jpg" num="28">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Happy Together</name>
+			<text>Planeswalker spells you cast cost {1} less to cast for each storied permanent you control. (Enchantments and legendary permanents are storied.)</text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/10_Happy Together.jpg" num="10">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hunter&apos;s Hideout</name>
+			<text>{1}{G}{G}, Discard a card: Destroy target artifact or enchantment.
+At the beginning of your end step, if twelve or more cards are in your graveyard, create two 3/3 green Beast creature tokens.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/87_Hunter&apos;s Hideout.jpg" num="87">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>In Memoriam</name>
+			<text>This spell costs {2} less to cast if there&apos;s a storied card in your graveyard. (Enchantments and legendary cards are storied.)
+Search your library for a storied card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/12_In Memoriam.jpg" num="12">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Meadow Songstress</name>
+			<text>When Meadow Songstress enters, conjure three cards named Meadow Songstress and shuffle them into your main library.
+Whenever a nontoken creature you control enters, if it shares a name with one or more other creatures you control, draw a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/89_Meadow Songstress.jpg" num="89">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Puppeteering</name>
+			<text>This spell costs {3} less to cast if a creature died this turn.
+Put target creature card with mana value X from a graveyard onto the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/49_Puppeteering.jpg" num="49">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XB</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rend the Mind</name>
+			<text>Choose four nonland card names. Target opponent reveals their hand and discards all cards with the chosen names.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/50_Rend the Mind.jpg" num="50">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Knowledge Hub</name>
+			<text>At the beginning of your upkeep, reveal the top two cards of your library. An opponent chooses one. Put the chosen card into your hand and exile the other.
+{4}, {T}: Put a card exiled with The Knowledge Hub into its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/98_The Knowledge Hub.jpg" num="98">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Lord of All Beyond</name>
+			<text>Rather than pay the mana cost for a spell, its controller may discard a card that shares a color with that spell.
+Whenever an opponent casts a spell, counter that spell unless they pay 5 life.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/47_The Lord of All Beyond.jpg" num="47">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>5BBB</manacost>
+				<cmc>8</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>7/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Start of Something</name>
+			<text>At the beginning of each end step, if you gained life this turn, put a +1/+1 counter on up to one target creature.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/17_The Start of Something.jpg" num="17">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wandering Souls</name>
+			<text>Create X 1/1 white Spirit creature tokens with flying, where X is two plus the number of cards named Wandering Souls in your graveyard. Conjure three cards named Wandering Souls and shuffle them into your main library.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/21_Wandering Souls.jpg" num="21">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Words of Eternity</name>
+			<text>Search your library for a card, put that card into your hand, then shuffle.
+Whenever you cast a spell with mana value 5 or greater, you may cast Words of Eternity from your graveyard without paying its mana cost. If you do, exile it instead of putting it into your graveyard as it resolves.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/57_Words of Eternity.jpg" num="57">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unbound Academic</name>
+			<text>Whenever a Wizard you control deals damage to a player, draw a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/38_Unbound Academic.jpg" num="38">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Legacy&apos;s Malediction</name>
+			<text>At the beginning of your end step, draw a card, then discard a card.
+Whenever you cast a spell with mana value 5 or greater, if it&apos;s an instant or has flash, you may counter target spell.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/29_Legacy&apos;s Malediction.jpg" num="29">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wandering Souls Reminder 101</name>
+			<text>Create X 1/1 white Spirit creature tokens with flying, where X is two plus the number of cards named Wandering Souls in your graveyard. Conjure three cards named Wandering Souls and shuffle them into your main library.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/1t_Wandering Souls Reminder.jpg" num="1">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Meadow Songstress Reminder 101</name>
+			<text>When Meadow Songstress enters, conjure three cards named Meadow Songstress and shuffle them into your main library.
+Whenever a nontoken creature you control enters, if it shares a name with one or more other creatures you control, draw a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/101-files/img/5t_Meadow Songstress Reminder.jpg" num="5">101</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

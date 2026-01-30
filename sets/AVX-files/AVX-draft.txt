@@ -1,0 +1,3659 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Sesilius of Wicked Ways",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Legendary Planeswalker — Sesilius",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/106_Sesilius of Wicked Ways.jpg"
+			}
+		},
+		{
+			"name": "Glitch, Drinker of Seas",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{W}{U}",
+			"type": "Legendary Planeswalker — Glitch",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/211_Glitch, Drinker of Seas.jpg"
+			}
+		},
+		{
+			"name": "Alien Formations",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/154_Alien Formations.jpg"
+			}
+		},
+		{
+			"name": "Nebula's Blessing",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/25_Nebula's Blessing.jpg"
+			}
+		},
+		{
+			"name": "Hand of the Triumvirate",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Warrior",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/123_Hand of the Triumvirate.jpg"
+			}
+		},
+		{
+			"name": "The Bliss of Ignorance Dies",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/82_The Bliss of Ignorance Dies.jpg"
+			}
+		},
+		{
+			"name": "Forget the World",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/210_Forget the World.jpg"
+			}
+		},
+		{
+			"name": "Grasp of Darkness",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/94_Grasp of Darkness.jpg"
+			}
+		},
+		{
+			"name": "Abomination Broodmother",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Beast Horror",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/77_Abomination Broodmother.jpg"
+			}
+		},
+		{
+			"name": "Triumvirate Strategist",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elemental Soldier",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/38_Triumvirate Strategist.jpg"
+			}
+		},
+		{
+			"name": "Unstable Prophet",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental Wizard",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/75_Unstable Prophet.jpg"
+			}
+		},
+		{
+			"name": "Build Monsters from Relics",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/162_Build Monsters from Relics.jpg"
+			}
+		},
+		{
+			"name": "Prophetic Prism",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/248_Prophetic Prism.jpg"
+			}
+		},
+		{
+			"name": "Twisted Predator",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Beast Horror",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/113_Twisted Predator.jpg"
+			}
+		},
+		{
+			"name": "Cower Before True Power",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/163_Cower Before True Power.jpg"
+			}
+		},
+		{
+			"name": "Sunder Reality's Peace",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/67_Sunder Reality's Peace.jpg"
+			}
+		},
+		{
+			"name": "Traverse Boundless Space",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/70_Traverse Boundless Space.jpg"
+			}
+		},
+		{
+			"name": "Corrupted Guardian",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental Berserker",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/118_Corrupted Guardian.jpg"
+			}
+		},
+		{
+			"name": "Aspiring Guardian",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elemental Soldier",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/5_Aspiring Guardian.jpg"
+			}
+		},
+		{
+			"name": "Shroud in Stars",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/62_Shroud in Stars.jpg"
+			}
+		},
+		{
+			"name": "Fleshwarper",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Beast Horror",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/91_Fleshwarper.jpg"
+			}
+		},
+		{
+			"name": "Herald of Teardrops",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Elemental Wizard",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/16_Herald of Teardrops.jpg"
+			}
+		},
+		{
+			"name": "Glowspore Grove",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/14_Glowspore Grove.jpg"
+			}
+		},
+		{
+			"name": "Stubborn Denial",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/65_Stubborn Denial.jpg"
+			}
+		},
+		{
+			"name": "Muse's Whims",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/55_Muse's Whims.jpg"
+			}
+		},
+		{
+			"name": "Words Unspoken",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/240_Words Unspoken.jpg"
+			}
+		},
+		{
+			"name": "Lift Weary Heads from Rest",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/98_Lift Weary Heads from Rest.jpg"
+			}
+		},
+		{
+			"name": "Voltaic Conduit",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/151_Voltaic Conduit.jpg"
+			}
+		},
+		{
+			"name": "Kill This Love",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/97_Kill This Love.jpg"
+			}
+		},
+		{
+			"name": "Animus Seer",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Elemental Wizard",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/194_Animus Seer.jpg"
+			}
+		},
+		{
+			"name": "Memory of Fatalism",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Spirit Horror",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/225_Memory of Fatalism.jpg"
+			}
+		},
+		{
+			"name": "Slyten Connoisseur",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/233_Slyten Connoisseur.jpg"
+			}
+		},
+		{
+			"name": "AOSE Xenocultivator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/195_AOSE Xenocultivator.jpg"
+			}
+		},
+		{
+			"name": "Everything Is Going Great",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/207_Everything Is Going Great.jpg"
+			}
+		},
+		{
+			"name": "Inexorable Explorer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/218_Inexorable Explorer.jpg"
+			}
+		},
+		{
+			"name": "The World Follows After",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/241_The World Follows After.jpg"
+			}
+		},
+		{
+			"name": "Align with Animus Vox",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/191_Align with Animus Vox.jpg"
+			}
+		},
+		{
+			"name": "Jaded Confidant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/219_Jaded Confidant.jpg"
+			}
+		},
+		{
+			"name": "Dazzle",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/46_Dazzle.jpg"
+			}
+		},
+		{
+			"name": "AOSE Extractor",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/156_AOSE Extractor.jpg"
+			}
+		},
+		{
+			"name": "Go Blank",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/93_Go Blank.jpg"
+			}
+		},
+		{
+			"name": "Biohazard",
+			"rarity": "mythic",
+			"mana_cost": "{X}{B}{G}{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/198_Biohazard.jpg"
+			}
+		},
+		{
+			"name": "Remi Amber, Slyten Specialist",
+			"rarity": "mythic",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "230",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/230_Remi Amber, Slyten Specialist_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/230_Remi Amber, Slyten Specialist_front.jpg"
+			}
+		},
+		{
+			"name": "Hearts Beat Fast",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/213_Hearts Beat Fast.jpg"
+			}
+		},
+		{
+			"name": "Take the Throne Above",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/235_Take the Throne Above.jpg"
+			}
+		},
+		{
+			"name": "Lysander Jal, Ex-Explorer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Legendary Creature — Zombie Cleric",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/224_Lysander Jal, Ex-Explorer.jpg"
+			}
+		},
+		{
+			"name": "Watch Me Burn",
+			"rarity": "mythic",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Legendary Enchantment",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/239_Watch Me Burn.jpg"
+			}
+		},
+		{
+			"name": "Brandy Axel, Combat's Baby",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/199_Brandy Axel, Combat's Baby.jpg"
+			}
+		},
+		{
+			"name": "Digital Immortality",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Legendary Artifact",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/204_Digital Immortality.jpg"
+			}
+		},
+		{
+			"name": "Mia, Into the Unknown",
+			"rarity": "mythic",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Legendary Creature — Human Druid",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/226_Mia, Into the Unknown.jpg"
+			}
+		},
+		{
+			"name": "The Hunter of Nebulas",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{U}{B}",
+			"type": "Legendary Creature — Horror Warrior",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/215_The Hunter of Nebulas.jpg"
+			}
+		},
+		{
+			"name": "Ghastly Progenitor",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/92_Ghastly Progenitor.jpg"
+			}
+		},
+		{
+			"name": "Refute",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/60_Refute.jpg"
+			}
+		},
+		{
+			"name": "Alone in the Universe",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/41_Alone in the Universe.jpg"
+			}
+		},
+		{
+			"name": "Slyten Visions",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/63_Slyten Visions.jpg"
+			}
+		},
+		{
+			"name": "Weaving Reality in a Tapestry",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/189_Weaving Reality in a Tapestry.jpg"
+			}
+		},
+		{
+			"name": "So Much to See",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/186_So Much to See.jpg"
+			}
+		},
+		{
+			"name": "So Much to Do",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/143_So Much to Do.jpg"
+			}
+		},
+		{
+			"name": "Ruffled Scrum",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/184_Ruffled Scrum.jpg"
+			}
+		},
+		{
+			"name": "Ferocious Flame",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/121_Ferocious Flame.jpg"
+			}
+		},
+		{
+			"name": "Heat Blast",
+			"rarity": "common",
+			"mana_cost": "{X}{R}",
+			"type": "Instant",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/126_Heat Blast.jpg"
+			}
+		},
+		{
+			"name": "Precursor's Edge",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/138_Precursor's Edge.jpg"
+			}
+		},
+		{
+			"name": "Rugged Ferocity",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/140_Rugged Ferocity.jpg"
+			}
+		},
+		{
+			"name": "Claimed by the Veil",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/117_Claimed by the Veil.jpg"
+			}
+		},
+		{
+			"name": "Kilnfire",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/130_Kilnfire.jpg"
+			}
+		},
+		{
+			"name": "Lost and Alone",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/24_Lost and Alone.jpg"
+			}
+		},
+		{
+			"name": "Solar Pulse",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/35_Solar Pulse.jpg"
+			}
+		},
+		{
+			"name": "Abomination Antithesis",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/2_Abomination Antithesis.jpg"
+			}
+		},
+		{
+			"name": "Bizarre Dreams",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/7_Bizarre Dreams.jpg"
+			}
+		},
+		{
+			"name": "Invincible",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/19_Invincible.jpg"
+			}
+		},
+		{
+			"name": "J-7 Freeze Frame",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/20_J-7 Freeze Frame.jpg"
+			}
+		},
+		{
+			"name": "Adaptive Terrains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/255_Adaptive Terrains.jpg"
+			}
+		},
+		{
+			"name": "Realm of the Triumvirate",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/260_Realm of the Triumvirate.jpg"
+			}
+		},
+		{
+			"name": "Scanning Module",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/250_Scanning Module.jpg"
+			}
+		},
+		{
+			"name": "TD-3 Slyten Retriever",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Servo",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/253_TD-3 Slyten Retriever.jpg"
+			}
+		},
+		{
+			"name": "Predatory Abomination",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/105_Predatory Abomination.jpg"
+			}
+		},
+		{
+			"name": "Triumvirate Infiltrator",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental Rogue",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/72_Triumvirate Infiltrator.jpg"
+			}
+		},
+		{
+			"name": "Reconnaissance Expert",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/182_Reconnaissance Expert.jpg"
+			}
+		},
+		{
+			"name": "Biocultivator",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/159_Biocultivator.jpg"
+			}
+		},
+		{
+			"name": "Expose",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/88_Expose.jpg"
+			}
+		},
+		{
+			"name": "Muse's Wrath",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/134_Muse's Wrath.jpg"
+			}
+		},
+		{
+			"name": "Otherworldly Convocation",
+			"rarity": "mythic",
+			"mana_cost": "{X}{W}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/31_Otherworldly Convocation.jpg"
+			}
+		},
+		{
+			"name": "WZ-18 Troublemaker",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Construct Scout",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/152_WZ-18 Troublemaker.jpg"
+			}
+		},
+		{
+			"name": "Doomed Explorer",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Scout",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/86_Doomed Explorer.jpg"
+			}
+		},
+		{
+			"name": "Gravitational Ripper",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/95_Gravitational Ripper.jpg"
+			}
+		},
+		{
+			"name": "Lost Explorer",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie Scout",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/99_Lost Explorer.jpg"
+			}
+		},
+		{
+			"name": "Flenser's Lieutenant",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Elemental Horror",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/90_Flenser's Lieutenant.jpg"
+			}
+		},
+		{
+			"name": "P-3 Ambusher",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Servo",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/103_P-3 Ambusher.jpg"
+			}
+		},
+		{
+			"name": "Expedition Outfitter",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/119_Expedition Outfitter.jpg"
+			}
+		},
+		{
+			"name": "Master of Munitions",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/133_Master of Munitions.jpg"
+			}
+		},
+		{
+			"name": "Slyten Jewel Runner",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/142_Slyten Jewel Runner.jpg"
+			}
+		},
+		{
+			"name": "Abominable Xenoflora",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Horror",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/153_Abominable Xenoflora.jpg"
+			}
+		},
+		{
+			"name": "Lost Crew",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Zombie",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/132_Lost Crew.jpg"
+			}
+		},
+		{
+			"name": "IG-2 Disassembler",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Artifact Creature — Construct Artificer",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/128_IG-2 Disassembler.jpg"
+			}
+		},
+		{
+			"name": "Twisted Scinid",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Lizard Horror",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/148_Twisted Scinid.jpg"
+			}
+		},
+		{
+			"name": "Field Engineer",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/122_Field Engineer.jpg"
+			}
+		},
+		{
+			"name": "Unstable Vein",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/188_Unstable Vein.jpg"
+			}
+		},
+		{
+			"name": "Extant Decay",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/168_Extant Decay.jpg"
+			}
+		},
+		{
+			"name": "Triumvirate Bellringer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Warrior",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/146_Triumvirate Bellringer.jpg"
+			}
+		},
+		{
+			"name": "Ancient Durumderm",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/155_Ancient Durumderm.jpg"
+			}
+		},
+		{
+			"name": "Brand New Species",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Horror",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/161_Brand New Species.jpg"
+			}
+		},
+		{
+			"name": "OH-14 Diamond",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Creature — Construct Scout",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/176_OH-14 Diamond.jpg"
+			}
+		},
+		{
+			"name": "Bioluminescent Predator",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/160_Bioluminescent Predator.jpg"
+			}
+		},
+		{
+			"name": "DL-19 Reject",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Artifact Creature — Construct Warrior",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/164_DL-19 Reject.jpg"
+			}
+		},
+		{
+			"name": "Olten Tarrasque",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/178_Olten Tarrasque.jpg"
+			}
+		},
+		{
+			"name": "Sword of Love and Loathing",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/252_Sword of Love and Loathing.jpg"
+			}
+		},
+		{
+			"name": "Turn the Record Over",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/73_Turn the Record Over.jpg"
+			}
+		},
+		{
+			"name": "This Is Not Our Fate",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/69_This Is Not Our Fate.jpg"
+			}
+		},
+		{
+			"name": "DC-4 Cutie",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/8_DC-4 Cutie.jpg"
+			}
+		},
+		{
+			"name": "Heartforge Savant",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/125_Heartforge Savant.jpg"
+			}
+		},
+		{
+			"name": "Olten's Heart",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/259_Olten's Heart.jpg"
+			}
+		},
+		{
+			"name": "Eminent Extraction Engine",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Artifact",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/243_Eminent Extraction Engine.jpg"
+			}
+		},
+		{
+			"name": "Doom",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/85_Doom.jpg"
+			}
+		},
+		{
+			"name": "Supernova",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/145_Supernova.jpg"
+			}
+		},
+		{
+			"name": "Apex Abomination",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Horror Beast",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/157_Apex Abomination.jpg"
+			}
+		},
+		{
+			"name": "Pretty Savage",
+			"rarity": "mythic",
+			"mana_cost": "{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/181_Pretty Savage.jpg"
+			}
+		},
+		{
+			"name": "Supernatural Stamina",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/111_Supernatural Stamina.jpg"
+			}
+		},
+		{
+			"name": "Bad Romance",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/81_Bad Romance.jpg"
+			}
+		},
+		{
+			"name": "Arisen Psion",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Wizard Pilot",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/80_Arisen Psion.jpg"
+			}
+		},
+		{
+			"name": "Skittering Atrocity",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Artifact Creature — Horror",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/107_Skittering Atrocity.jpg"
+			}
+		},
+		{
+			"name": "Abomination's Desire",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/78_Abomination's Desire.jpg"
+			}
+		},
+		{
+			"name": "Sounds of Silence",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}",
+			"type": "Instant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/109_Sounds of Silence.jpg"
+			}
+		},
+		{
+			"name": "Vindictive Guardian",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Soldier",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/149_Vindictive Guardian.jpg"
+			}
+		},
+		{
+			"name": "Behavioral Specialist",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Artificer Scout",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/44_Behavioral Specialist.jpg"
+			}
+		},
+		{
+			"name": "Propulsion Pack",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/58_Propulsion Pack.jpg"
+			}
+		},
+		{
+			"name": "Psionic Rebuke",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/59_Psionic Rebuke.jpg"
+			}
+		},
+		{
+			"name": "Abberant Frostbringer",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Artifact Creature — Horror",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/39_Abberant Frostbringer.jpg"
+			}
+		},
+		{
+			"name": "Second Wave Explorer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/33_Second Wave Explorer.jpg"
+			}
+		},
+		{
+			"name": "Eyes in Orbit",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/11_Eyes in Orbit.jpg"
+			}
+		},
+		{
+			"name": "Ascended Explorer",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Angel",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/4_Ascended Explorer.jpg"
+			}
+		},
+		{
+			"name": "1-ST Thankless Companion",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Servo",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/1_1-ST Thankless Companion.jpg"
+			}
+		},
+		{
+			"name": "Faithful Guardian",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elemental Advisor",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/13_Faithful Guardian.jpg"
+			}
+		},
+		{
+			"name": "Precursor Custodians",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/32_Precursor Custodians.jpg"
+			}
+		},
+		{
+			"name": "Traveling Duo",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/37_Traveling Duo.jpg"
+			}
+		},
+		{
+			"name": "Mineral Expert",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/54_Mineral Expert.jpg"
+			}
+		},
+		{
+			"name": "Deploy the Rovers",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/47_Deploy the Rovers.jpg"
+			}
+		},
+		{
+			"name": "Living Atrocity",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elemental Horror",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/53_Living Atrocity.jpg"
+			}
+		},
+		{
+			"name": "Wandering Visionary",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Scout",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/76_Wandering Visionary.jpg"
+			}
+		},
+		{
+			"name": "Earlymorning Hart",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elk",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/165_Earlymorning Hart.jpg"
+			}
+		},
+		{
+			"name": "Vastness of Space",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/238_Vastness of Space.jpg"
+			}
+		},
+		{
+			"name": "Enter the Wormhole",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/205_Enter the Wormhole.jpg"
+			}
+		},
+		{
+			"name": "Hatewracked Explorer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Human Elemental Horror",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/212_Hatewracked Explorer.jpg"
+			}
+		},
+		{
+			"name": "Defective Abomination",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Horror",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/202_Defective Abomination.jpg"
+			}
+		},
+		{
+			"name": "Olten Vipermoa",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Bird Beast",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/229_Olten Vipermoa.jpg"
+			}
+		},
+		{
+			"name": "Long Lost Cause",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Creature — Zombie Pilot",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/223_Long Lost Cause.jpg"
+			}
+		},
+		{
+			"name": "TT-20 Salvation",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Artifact Creature — Servo",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/236_TT-20 Salvation.jpg"
+			}
+		},
+		{
+			"name": "Horrific Salvage",
+			"rarity": "common",
+			"mana_cost": "{B}{G}",
+			"type": "Instant",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/214_Horrific Salvage.jpg"
+			}
+		},
+		{
+			"name": "Upbeat Vanguard",
+			"rarity": "common",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Elemental",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/237_Upbeat Vanguard.jpg"
+			}
+		},
+		{
+			"name": "Suncolored Dreamer",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{U}",
+			"type": "Creature — Elemental Beast",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/234_Suncolored Dreamer.jpg"
+			}
+		},
+		{
+			"name": "Vivid Crag",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/261_Vivid Crag.jpg"
+			}
+		},
+		{
+			"name": "Vivid Creek",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/262_Vivid Creek.jpg"
+			}
+		},
+		{
+			"name": "Vivid Meadow",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/265_Vivid Meadow.jpg"
+			}
+		},
+		{
+			"name": "Vivid Marsh",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/264_Vivid Marsh.jpg"
+			}
+		},
+		{
+			"name": "Vivid Grove",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/263_Vivid Grove.jpg"
+			}
+		},
+		{
+			"name": "Start Over",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/36_Start Over.jpg"
+			}
+		},
+		{
+			"name": "Life as a Means to a Triumph",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}",
+			"type": "Sorcery",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/171_Life as a Means to a Triumph.jpg"
+			}
+		},
+		{
+			"name": "Operation 433",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/100_Operation 433.jpg"
+			}
+		},
+		{
+			"name": "Extinction Specialist",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Druid",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/89_Extinction Specialist.jpg"
+			}
+		},
+		{
+			"name": "Olten's Farewell",
+			"rarity": "rare",
+			"mana_cost": "{6}{W}",
+			"type": "Enchantment",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/27_Olten's Farewell.jpg"
+			}
+		},
+		{
+			"name": "Skytouch Distorter",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elemental Wizard",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/34_Skytouch Distorter.jpg"
+			}
+		},
+		{
+			"name": "The Future is Unlimited",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/50_The Future is Unlimited.jpg"
+			}
+		},
+		{
+			"name": "Never Enough",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/175_Never Enough.jpg"
+			}
+		},
+		{
+			"name": "Listen and Learn",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/173_Listen and Learn.jpg"
+			}
+		},
+		{
+			"name": "Adamant Engineer",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/40_Adamant Engineer.jpg"
+			}
+		},
+		{
+			"name": "A Sucker for You",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/66_A Sucker for You.jpg"
+			}
+		},
+		{
+			"name": "Inquisitive Guardian",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Elemental",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/52_Inquisitive Guardian.jpg"
+			}
+		},
+		{
+			"name": "Lifeforge Battery",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/172_Lifeforge Battery.jpg"
+			}
+		},
+		{
+			"name": "Earthly Ambitions",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Instant",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/166_Earthly Ambitions.jpg"
+			}
+		},
+		{
+			"name": "On Repeat",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/28_On Repeat.jpg"
+			}
+		},
+		{
+			"name": "Brightsouled Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/45_Brightsouled Guardian.jpg"
+			}
+		},
+		{
+			"name": "Outside the Airlock",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/102_Outside the Airlock.jpg"
+			}
+		},
+		{
+			"name": "Ignited Vanguard",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Elemental Soldier",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/18_Ignited Vanguard.jpg"
+			}
+		},
+		{
+			"name": "Voice of the Universe",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/150_Voice of the Universe.jpg"
+			}
+		},
+		{
+			"name": "Everybody Knows",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/49_Everybody Knows.jpg"
+			}
+		},
+		{
+			"name": "The Past Is Gone",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/104_The Past Is Gone.jpg"
+			}
+		},
+		{
+			"name": "Olten Surveyor",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/177_Olten Surveyor.jpg"
+			}
+		},
+		{
+			"name": "Bril, the Oltenen Emissary",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Elemental Noble",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/200_Bril, the Oltenen Emissary.jpg"
+			}
+		},
+		{
+			"name": "Attuned Slayer",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Warrior",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/115_Attuned Slayer.jpg"
+			}
+		},
+		{
+			"name": "OM-6 Walker",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Construct Berserker",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/135_OM-6 Walker.jpg"
+			}
+		},
+		{
+			"name": "An Unfamiliar Swarm",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/74_An Unfamiliar Swarm.jpg"
+			}
+		},
+		{
+			"name": "Yet Life Still Flourishes",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/190_Yet Life Still Flourishes.jpg"
+			}
+		},
+		{
+			"name": "A Rush of Stillness in the Air",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/61_A Rush of Stillness in the Air.jpg"
+			}
+		},
+		{
+			"name": "Exit This Mortal Stage",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/87_Exit This Mortal Stage.jpg"
+			}
+		},
+		{
+			"name": "Animus Channeler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental Wizard",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/42_Animus Channeler.jpg"
+			}
+		},
+		{
+			"name": "Oltenen Paradise-Seeker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elemental Wizard",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/26_Oltenen Paradise-Seeker.jpg"
+			}
+		},
+		{
+			"name": "Reckless Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental Berserker",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/139_Reckless Guardian.jpg"
+			}
+		},
+		{
+			"name": "Kan's Faithful",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Elemental",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/21_Kan's Faithful.jpg"
+			}
+		},
+		{
+			"name": "Toxic Fumes",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/112_Toxic Fumes.jpg"
+			}
+		},
+		{
+			"name": "Postmortem Contemplation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/57_Postmortem Contemplation.jpg"
+			}
+		},
+		{
+			"name": "Specialized Constructor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/64_Specialized Constructor.jpg"
+			}
+		},
+		{
+			"name": "Drown in Apathy",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/9_Drown in Apathy.jpg"
+			}
+		},
+		{
+			"name": "Bioluminescent Display",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/6_Bioluminescent Display.jpg"
+			}
+		},
+		{
+			"name": "Debaser of Truth",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/83_Debaser of Truth.jpg"
+			}
+		},
+		{
+			"name": "Extraction Mercenary",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/120_Extraction Mercenary.jpg"
+			}
+		},
+		{
+			"name": "Ambush Predator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Horror",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/193_Ambush Predator.jpg"
+			}
+		},
+		{
+			"name": "Insatiable Abomination",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Horror",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/170_Insatiable Abomination.jpg"
+			}
+		},
+		{
+			"name": "I-6 Dragoon",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Construct Soldier",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/17_I-6 Dragoon.jpg"
+			}
+		},
+		{
+			"name": "Eldan Jackson, Last Hope",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/10_Eldan Jackson, Last Hope.jpg"
+			}
+		},
+		{
+			"name": "Faith Given Form",
+			"rarity": "rare",
+			"mana_cost": "{6}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/12_Faith Given Form.jpg"
+			}
+		},
+		{
+			"name": "HO-20 Rising Sun",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Phoenix",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/127_HO-20 Rising Sun.jpg"
+			}
+		},
+		{
+			"name": "TF-6 Ruler",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/68_TF-6 Ruler.jpg"
+			}
+		},
+		{
+			"name": "Living Beyond Your Years",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/23_Living Beyond Your Years.jpg"
+			}
+		},
+		{
+			"name": "Triumvirate Inductee",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Elemental Wizard",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/71_Triumvirate Inductee.jpg"
+			}
+		},
+		{
+			"name": "Hurried Scavenger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/169_Hurried Scavenger.jpg"
+			}
+		},
+		{
+			"name": "Observation Field",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/246_Observation Field.jpg"
+			}
+		},
+		{
+			"name": "Lonely Relic",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/245_Lonely Relic.jpg"
+			}
+		},
+		{
+			"name": "Uncanny Allocator",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Advisor",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/254_Uncanny Allocator.jpg"
+			}
+		},
+		{
+			"name": "Diabolus ex Machina",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/203_Diabolus ex Machina.jpg"
+			}
+		},
+		{
+			"name": "As a Matter of Course",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Instant",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/196_As a Matter of Course.jpg"
+			}
+		},
+		{
+			"name": "LH-6 Brutality",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/221_LH-6 Brutality.jpg"
+			}
+		},
+		{
+			"name": "No Good Deed Goes Unpunished",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/228_No Good Deed Goes Unpunished.jpg"
+			}
+		},
+		{
+			"name": "Attuned Specialist",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Berserker Wizard",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/116_Attuned Specialist.jpg"
+			}
+		},
+		{
+			"name": "The Sin of Hope",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/232_The Sin of Hope.jpg"
+			}
+		},
+		{
+			"name": "Enthusiastic Double",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Creature — Elemental Reflection",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/206_Enthusiastic Double.jpg"
+			}
+		},
+		{
+			"name": "Spinning Gears Abomination",
+			"rarity": "rare",
+			"mana_cost": "{X}",
+			"type": "Artifact Creature — Horror",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/251_Spinning Gears Abomination.jpg"
+			}
+		},
+		{
+			"name": "Holdsteady Engine",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/244_Holdsteady Engine.jpg"
+			}
+		},
+		{
+			"name": "Channeling Stone",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/256_Channeling Stone.jpg"
+			}
+		},
+		{
+			"name": "Living Planet",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/258_Living Planet.jpg"
+			}
+		},
+		{
+			"name": "Fallen Hero",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Zombie Soldier",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/208_Fallen Hero.jpg"
+			}
+		},
+		{
+			"name": "Ataraxia",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/197_Ataraxia.jpg"
+			}
+		},
+		{
+			"name": "In Dire Straits",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Instant",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/217_In Dire Straits.jpg"
+			}
+		},
+		{
+			"name": "Nihilistic Shock Trooper",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/227_Nihilistic Shock Trooper.jpg"
+			}
+		},
+		{
+			"name": "All-Devouring Hope",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/192_All-Devouring Hope.jpg"
+			}
+		},
+		{
+			"name": "Sage of Folded Possibilities",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Human Elemental Druid",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/231_Sage of Folded Possibilities.jpg"
+			}
+		},
+		{
+			"name": "Chaos Is Your Redemption",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Instant",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/201_Chaos Is Your Redemption.jpg"
+			}
+		},
+		{
+			"name": "Fearsome Xenoblossom",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Plant",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/209_Fearsome Xenoblossom.jpg"
+			}
+		},
+		{
+			"name": "Living Supernova",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Creature — Avatar",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/222_Living Supernova.jpg"
+			}
+		},
+		{
+			"name": "Cradle of War",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/242_Cradle of War.jpg"
+			}
+		},
+		{
+			"name": "Kan, Triumvirate Tactician",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Elemental",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/220_Kan, Triumvirate Tactician.jpg"
+			}
+		},
+		{
+			"name": "Ignition Engine",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Artifact",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/216_Ignition Engine.jpg"
+			}
+		},
+		{
+			"name": "Harvest the Stars",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/124_Harvest the Stars.jpg"
+			}
+		},
+		{
+			"name": "Stardust Surveyor",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/187_Stardust Surveyor.jpg"
+			}
+		},
+		{
+			"name": "Operative BABY",
+			"rarity": "rare",
+			"mana_cost": "{2/W}{2/W}{2/W}",
+			"type": "Artifact Creature — Elemental",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/30_Operative BABY.jpg"
+			}
+		},
+		{
+			"name": "Operative GINGER",
+			"rarity": "rare",
+			"mana_cost": "{2/R}{2/R}{2/R}",
+			"type": "Artifact Creature — Elemental",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/136_Operative GINGER.jpg"
+			}
+		},
+		{
+			"name": "Operative SPORTY",
+			"rarity": "rare",
+			"mana_cost": "{2/G}{2/G}{2/G}",
+			"type": "Artifact Creature — Elemental",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/180_Operative SPORTY.jpg"
+			}
+		},
+		{
+			"name": "Operative SCARY",
+			"rarity": "rare",
+			"mana_cost": "{2/B}{2/B}{2/B}",
+			"type": "Artifact Creature — Elemental",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/101_Operative SCARY.jpg"
+			}
+		},
+		{
+			"name": "Operative POSH",
+			"rarity": "rare",
+			"mana_cost": "{2/U}{2/U}{2/U}",
+			"type": "Artifact Creature — Elemental",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/56_Operative POSH.jpg"
+			}
+		},
+		{
+			"name": "Desperate Android",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Construct Scout",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/84_Desperate Android.jpg"
+			}
+		},
+		{
+			"name": "Underhanded Deal",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Enchantment",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/114_Underhanded Deal.jpg"
+			}
+		},
+		{
+			"name": "Rewriter of Flesh",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Horror",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/183_Rewriter of Flesh.jpg"
+			}
+		},
+		{
+			"name": "Emotions Like a Rain Cloud",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/48_Emotions Like a Rain Cloud.jpg"
+			}
+		},
+		{
+			"name": "A Life's Value",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/22_A Life's Value.jpg"
+			}
+		},
+		{
+			"name": "Slyten Analyst",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/108_Slyten Analyst.jpg"
+			}
+		},
+		{
+			"name": "Precursor Omniprocessor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/137_Precursor Omniprocessor.jpg"
+			}
+		},
+		{
+			"name": "Repurposed Custodian",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Servo",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/249_Repurposed Custodian.jpg"
+			}
+		},
+		{
+			"name": "Precursor Gate",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/247_Precursor Gate.jpg"
+			}
+		},
+		{
+			"name": "AOSE Scrapper",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/43_AOSE Scrapper.jpg"
+			}
+		},
+		{
+			"name": "Let's Go, Don't Wait",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/131_Let's Go, Don't Wait.jpg"
+			}
+		},
+		{
+			"name": "Herald of Darkness",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Elemental",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/96_Herald of Darkness.jpg"
+			}
+		},
+		{
+			"name": "One Last Mission",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/29_One Last Mission.jpg"
+			}
+		},
+		{
+			"name": "Antigravity Agent",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/3_Antigravity Agent.jpg"
+			}
+		},
+		{
+			"name": "Granter of Weariness",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elemental",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/15_Granter of Weariness.jpg"
+			}
+		},
+		{
+			"name": "Gluttonous Empath",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Elemental Horror",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/51_Gluttonous Empath.jpg"
+			}
+		},
+		{
+			"name": "AOSE Valiant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Scout",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/79_AOSE Valiant.jpg"
+			}
+		},
+		{
+			"name": "Starry Abomination",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Elemental Horror",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/110_Starry Abomination.jpg"
+			}
+		},
+		{
+			"name": "Trying One More Time",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/147_Trying One More Time.jpg"
+			}
+		},
+		{
+			"name": "Splendor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/144_Splendor.jpg"
+			}
+		},
+		{
+			"name": "Attuned Lifeform",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/158_Attuned Lifeform.jpg"
+			}
+		},
+		{
+			"name": "Oltenen Terror",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/179_Oltenen Terror.jpg"
+			}
+		},
+		{
+			"name": "Exhausted Explorer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/167_Exhausted Explorer.jpg"
+			}
+		},
+		{
+			"name": "Incineration Expert",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/129_Incineration Expert.jpg"
+			}
+		},
+		{
+			"name": "Savant of Cables",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/141_Savant of Cables.jpg"
+			}
+		},
+		{
+			"name": "Savagery Evergrowing",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Enchantment",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/185_Savagery Evergrowing.jpg"
+			}
+		},
+		{
+			"name": "Lust for Life",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/174_Lust for Life.jpg"
+			}
+		},
+		{
+			"name": "Horror",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Horror",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/3t_Horror.jpg"
+			}
+		},
+		{
+			"name": "blue Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/1t_blue Elemental.jpg"
+			}
+		},
+		{
+			"name": "Servo",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Servo",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/6t_Servo.jpg"
+			}
+		},
+		{
+			"name": "Gold Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/4t_Gold Elemental.jpg"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/7t_Treasure.jpg"
+			}
+		},
+		{
+			"name": "Comet, Pulled from Orbit",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Planeswalker — Comet",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/308_Comet, Pulled from Orbit.jpg"
+			}
+		},
+		{
+			"name": "Interstellar Beacon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/257_Interstellar Beacon.jpg"
+			}
+		},
+		{
+			"name": "Avengeance Angel",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/266_Avengeance Angel.jpg"
+			}
+		},
+		{
+			"name": "Grim Armory",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/267_Grim Armory.jpg"
+			}
+		},
+		{
+			"name": "Journey's End",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/268_Journey's End.jpg"
+			}
+		},
+		{
+			"name": "Legend of the Devout",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Enchantment — Aura Persona",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/269_Legend of the Devout.jpg"
+			}
+		},
+		{
+			"name": "Manifest Memories",
+			"rarity": "special",
+			"mana_cost": "{X}{W}{W}",
+			"type": "Instant",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/270_Manifest Memories.jpg"
+			}
+		},
+		{
+			"name": "Otherworldly Passage",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/271_Otherworldly Passage.jpg"
+			}
+		},
+		{
+			"name": "Starbane Elemental",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Elemental",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/272_Starbane Elemental.jpg"
+			}
+		},
+		{
+			"name": "Uncovered Secrets",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/273_Uncovered Secrets.jpg"
+			}
+		},
+		{
+			"name": "Abrupt Duplication",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/274_Abrupt Duplication.jpg"
+			}
+		},
+		{
+			"name": "Cursory Glance",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/275_Cursory Glance.jpg"
+			}
+		},
+		{
+			"name": "Frost Walker",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/276_Frost Walker.jpg"
+			}
+		},
+		{
+			"name": "Invent the Future",
+			"rarity": "special",
+			"mana_cost": "{X}{U}{U}{U}",
+			"type": "Instant",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/277_Invent the Future.jpg"
+			}
+		},
+		{
+			"name": "Scion of Torrents",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Elemental Avatar",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/278_Scion of Torrents.jpg"
+			}
+		},
+		{
+			"name": "Vantage Point",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/279_Vantage Point.jpg"
+			}
+		},
+		{
+			"name": "Watch from Above",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/280_Watch from Above.jpg"
+			}
+		},
+		{
+			"name": "Worn Study",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/281_Worn Study.jpg"
+			}
+		},
+		{
+			"name": "Culminating Despair",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/282_Culminating Despair.jpg"
+			}
+		},
+		{
+			"name": "Moonlight",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/283_Moonlight.jpg"
+			}
+		},
+		{
+			"name": "Ominous Hart",
+			"rarity": "special",
+			"mana_cost": "{7}{B}{B}",
+			"type": "Creature — Elk Horror",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/284_Ominous Hart.jpg"
+			}
+		},
+		{
+			"name": "Phantom Walker",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/285_Phantom Walker.jpg"
+			}
+		},
+		{
+			"name": "Twelve Thousand Eyes",
+			"rarity": "special",
+			"mana_cost": "{X}{B}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/286_Twelve Thousand Eyes.jpg"
+			}
+		},
+		{
+			"name": "Undeath Comes",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/287_Undeath Comes.jpg"
+			}
+		},
+		{
+			"name": "Vibrant Rapture",
+			"rarity": "special",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/288_Vibrant Rapture.jpg"
+			}
+		},
+		{
+			"name": "Whistling Blades",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/289_Whistling Blades.jpg"
+			}
+		},
+		{
+			"name": "Battle of Principles",
+			"rarity": "special",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/290_Battle of Principles.jpg"
+			}
+		},
+		{
+			"name": "Curio Hellkite",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/291_Curio Hellkite.jpg"
+			}
+		},
+		{
+			"name": "Demolitionist Deviser",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/292_Demolitionist Deviser.jpg"
+			}
+		},
+		{
+			"name": "Dragongate",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/293_Dragongate.jpg"
+			}
+		},
+		{
+			"name": "Face the Truth",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/294_Face the Truth.jpg"
+			}
+		},
+		{
+			"name": "From Within the Dark",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/295_From Within the Dark.jpg"
+			}
+		},
+		{
+			"name": "Full Salvo",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/296_Full Salvo.jpg"
+			}
+		},
+		{
+			"name": "Scion of Calamities",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Elemental Avatar",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/297_Scion of Calamities.jpg"
+			}
+		},
+		{
+			"name": "Cloven Forms",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/298_Cloven Forms.jpg"
+			}
+		},
+		{
+			"name": "Lives Redeemed",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/299_Lives Redeemed.jpg"
+			}
+		},
+		{
+			"name": "Prismatic Bounty",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/300_Prismatic Bounty.jpg"
+			}
+		},
+		{
+			"name": "Regurgitator Ooze",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Ooze",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/301_Regurgitator Ooze.jpg"
+			}
+		},
+		{
+			"name": "Stand Unassailable",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/302_Stand Unassailable.jpg"
+			}
+		},
+		{
+			"name": "Tarmovore",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Lhurgoyf",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/303_Tarmovore.jpg"
+			}
+		},
+		{
+			"name": "Triplicate Monstrosity",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Snake Horror",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/304_Triplicate Monstrosity.jpg"
+			}
+		},
+		{
+			"name": "A Whole New World",
+			"rarity": "special",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/305_A Whole New World.jpg"
+			}
+		},
+		{
+			"name": "Bright Future",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{R}{W}",
+			"type": "Instant",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/306_Bright Future.jpg"
+			}
+		},
+		{
+			"name": "Champion of the Red Dawn",
+			"rarity": "special",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/307_Champion of the Red Dawn.jpg"
+			}
+		},
+		{
+			"name": "Corecharge",
+			"rarity": "special",
+			"mana_cost": "{6}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/309_Corecharge.jpg"
+			}
+		},
+		{
+			"name": "Death in Reverse",
+			"rarity": "special",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Instant",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/310_Death in Reverse.jpg"
+			}
+		},
+		{
+			"name": "Destroyed Monument",
+			"rarity": "special",
+			"mana_cost": "{W}{U}",
+			"type": "Artifact",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/311_Destroyed Monument.jpg"
+			}
+		},
+		{
+			"name": "Earthbreaker Behemoth",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/312_Earthbreaker Behemoth.jpg"
+			}
+		},
+		{
+			"name": "False Vitality",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/313_False Vitality.jpg"
+			}
+		},
+		{
+			"name": "Last Request",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/314_Last Request.jpg"
+			}
+		},
+		{
+			"name": "Mourn No More",
+			"rarity": "special",
+			"mana_cost": "{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/315_Mourn No More.jpg"
+			}
+		},
+		{
+			"name": "Past, Present, Future",
+			"rarity": "special",
+			"mana_cost": "{G}{U}",
+			"type": "Instant",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/316_Past, Present, Future.jpg"
+			}
+		},
+		{
+			"name": "Song of Shoals",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/317_Song of Shoals.jpg"
+			}
+		},
+		{
+			"name": "Starjump",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{U}{R}",
+			"type": "Instant",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/318_Starjump.jpg"
+			}
+		},
+		{
+			"name": "The Sun Also Rises",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/319_The Sun Also Rises.jpg"
+			}
+		},
+		{
+			"name": "Accursed by Unborn Fates",
+			"rarity": "special",
+			"mana_cost": "{2}{U/B}{U/B}",
+			"type": "Sorcery",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/320_Accursed by Unborn Fates.jpg"
+			}
+		},
+		{
+			"name": "Rage of the Ravaged",
+			"rarity": "special",
+			"mana_cost": "{1{B}R}{B/R}",
+			"type": "Enchantment",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/321_Rage of the Ravaged.jpg"
+			}
+		},
+		{
+			"name": "Cosmic Tendrils",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/322_Cosmic Tendrils.jpg"
+			}
+		},
+		{
+			"name": "Gate of Realms",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/323_Gate of Realms.jpg"
+			}
+		},
+		{
+			"name": "Love Letters",
+			"rarity": "special",
+			"mana_cost": "{X}",
+			"type": "Artifact",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/324_Love Letters.jpg"
+			}
+		},
+		{
+			"name": "Runic Pillars",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/325_Runic Pillars.jpg"
+			}
+		},
+		{
+			"name": "Otherworldly Forest",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/326_Otherworldly Forest.jpg"
+			}
+		},
+		{
+			"name": "Otherworldly Island",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/327_Otherworldly Island.jpg"
+			}
+		},
+		{
+			"name": "Otherworldly Mountain",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/328_Otherworldly Mountain.jpg"
+			}
+		},
+		{
+			"name": "Otherworldly Plains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/329_Otherworldly Plains.jpg"
+			}
+		},
+		{
+			"name": "Otherworldly Swamp",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/330_Otherworldly Swamp.jpg"
+			}
+		},
+		{
+			"name": "Power Plant",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/331_Power Plant.jpg"
+			}
+		},
+		{
+			"name": "Dragon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Dragon",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/2t_Dragon.jpg"
+			}
+		},
+		{
+			"name": "Lotus Petal",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/AVX-files/img/5t_Lotus Petal.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Sesilius of Wicked Ways
+	5 Glitch, Drinker of Seas
+	5 Forget the World
+	5 Words Unspoken
+	5 Biohazard
+	5 Remi Amber, Slyten Specialist
+	5 Hearts Beat Fast
+	5 Take the Throne Above
+	5 Lysander Jal, Ex-Explorer
+	5 Watch Me Burn
+	5 Brandy Axel, Combat's Baby
+	5 Digital Immortality
+	5 Mia, Into the Unknown
+	5 The Hunter of Nebulas
+	5 Ghastly Progenitor
+	5 Muse's Wrath
+	5 Otherworldly Convocation
+	5 Sword of Love and Loathing
+	5 Turn the Record Over
+	5 This Is Not Our Fate
+	5 DC-4 Cutie
+	5 Heartforge Savant
+	5 Olten's Heart
+	5 Eminent Extraction Engine
+	5 Doom
+	5 Supernova
+	5 Apex Abomination
+	5 Pretty Savage
+	5 Sounds of Silence
+	5 Operation 433
+	5 Extinction Specialist
+	5 Olten's Farewell
+	5 Skytouch Distorter
+	5 The Future is Unlimited
+	5 Never Enough
+	5 Adamant Engineer
+	5 A Sucker for You
+	5 Inquisitive Guardian
+	5 Lifeforge Battery
+	5 Earthly Ambitions
+	5 The Past Is Gone
+	5 Olten Surveyor
+	5 Bril, the Oltenen Emissary
+	5 Attuned Slayer
+	5 OM-6 Walker
+	5 Debaser of Truth
+	5 Extraction Mercenary
+	5 Insatiable Abomination
+	5 I-6 Dragoon
+	5 Eldan Jackson, Last Hope
+	5 Faith Given Form
+	5 HO-20 Rising Sun
+	5 TF-6 Ruler
+	5 Living Beyond Your Years
+	5 Triumvirate Inductee
+	5 Diabolus ex Machina
+	5 As a Matter of Course
+	5 LH-6 Brutality
+	5 No Good Deed Goes Unpunished
+	5 The Sin of Hope
+	5 Enthusiastic Double
+	5 Spinning Gears Abomination
+	5 Holdsteady Engine
+	5 Channeling Stone
+	5 Living Planet
+	5 Fallen Hero
+	5 Ataraxia
+	5 In Dire Straits
+	5 Nihilistic Shock Trooper
+	5 All-Devouring Hope
+	5 Sage of Folded Possibilities
+	5 Chaos Is Your Redemption
+	5 Fearsome Xenoblossom
+	5 Living Supernova
+	5 Cradle of War
+	5 Kan, Triumvirate Tactician
+	5 Ignition Engine
+	5 Harvest the Stars
+	5 Stardust Surveyor
+	5 Operative BABY
+	5 Operative GINGER
+	5 Operative SPORTY
+	5 Operative SCARY
+	5 Operative POSH
+[uncommon(3)]
+	5 Traverse Boundless Space
+	5 Stubborn Denial
+	5 Animus Seer
+	5 Memory of Fatalism
+	5 Slyten Connoisseur
+	5 AOSE Xenocultivator
+	5 Everything Is Going Great
+	5 Inexorable Explorer
+	5 The World Follows After
+	5 Align with Animus Vox
+	5 Jaded Confidant
+	5 Ferocious Flame
+	5 Expose
+	5 Triumvirate Bellringer
+	5 Abomination's Desire
+	5 Earlymorning Hart
+	5 Vivid Crag
+	5 Vivid Creek
+	5 Vivid Meadow
+	5 Vivid Marsh
+	5 Vivid Grove
+	5 Start Over
+	5 Life as a Means to a Triumph
+	5 Listen and Learn
+	5 On Repeat
+	5 Brightsouled Guardian
+	5 Outside the Airlock
+	5 Ignited Vanguard
+	5 Voice of the Universe
+	5 Everybody Knows
+	5 Yet Life Still Flourishes
+	5 A Rush of Stillness in the Air
+	5 Exit This Mortal Stage
+	5 Animus Channeler
+	5 Oltenen Paradise-Seeker
+	5 Reckless Guardian
+	5 Kan's Faithful
+	5 Toxic Fumes
+	5 Postmortem Contemplation
+	5 Specialized Constructor
+	5 Drown in Apathy
+	5 Bioluminescent Display
+	5 Ambush Predator
+	5 Hurried Scavenger
+	5 Observation Field
+	5 Lonely Relic
+	5 Uncanny Allocator
+	5 Attuned Specialist
+	5 Desperate Android
+	5 Underhanded Deal
+	5 Rewriter of Flesh
+	5 Emotions Like a Rain Cloud
+	5 A Life's Value
+	5 Slyten Analyst
+	5 Precursor Omniprocessor
+	5 Repurposed Custodian
+	5 Precursor Gate
+	5 AOSE Scrapper
+	5 Let's Go, Don't Wait
+	5 Herald of Darkness
+	5 One Last Mission
+	5 Antigravity Agent
+	5 Granter of Weariness
+	5 Gluttonous Empath
+	5 AOSE Valiant
+	5 Starry Abomination
+	5 Trying One More Time
+	5 Splendor
+	5 Attuned Lifeform
+	5 Oltenen Terror
+	5 Exhausted Explorer
+	5 Incineration Expert
+	5 Savant of Cables
+	5 Savagery Evergrowing
+	5 Lust for Life
+[common(10)]
+	5 Alien Formations
+	5 Nebula's Blessing
+	5 Hand of the Triumvirate
+	5 The Bliss of Ignorance Dies
+	5 Grasp of Darkness
+	5 Abomination Broodmother
+	5 Triumvirate Strategist
+	5 Unstable Prophet
+	5 Build Monsters from Relics
+	5 Prophetic Prism
+	5 Twisted Predator
+	5 Cower Before True Power
+	5 Sunder Reality's Peace
+	5 Corrupted Guardian
+	5 Aspiring Guardian
+	5 Shroud in Stars
+	5 Fleshwarper
+	5 Herald of Teardrops
+	5 Glowspore Grove
+	5 Muse's Whims
+	5 Lift Weary Heads from Rest
+	5 Voltaic Conduit
+	5 Kill This Love
+	5 Dazzle
+	5 AOSE Extractor
+	5 Go Blank
+	5 Refute
+	5 Alone in the Universe
+	5 Slyten Visions
+	5 Weaving Reality in a Tapestry
+	5 So Much to See
+	5 So Much to Do
+	5 Ruffled Scrum
+	5 Heat Blast
+	5 Precursor's Edge
+	5 Rugged Ferocity
+	5 Claimed by the Veil
+	5 Kilnfire
+	5 Lost and Alone
+	5 Solar Pulse
+	5 Abomination Antithesis
+	5 Bizarre Dreams
+	5 Invincible
+	5 J-7 Freeze Frame
+	5 Adaptive Terrains
+	5 Realm of the Triumvirate
+	5 Scanning Module
+	5 TD-3 Slyten Retriever
+	5 Predatory Abomination
+	5 Triumvirate Infiltrator
+	5 Reconnaissance Expert
+	5 Biocultivator
+	5 WZ-18 Troublemaker
+	5 Doomed Explorer
+	5 Gravitational Ripper
+	5 Lost Explorer
+	5 Flenser's Lieutenant
+	5 P-3 Ambusher
+	5 Expedition Outfitter
+	5 Master of Munitions
+	5 Slyten Jewel Runner
+	5 Abominable Xenoflora
+	5 Lost Crew
+	5 IG-2 Disassembler
+	5 Twisted Scinid
+	5 Field Engineer
+	5 Unstable Vein
+	5 Extant Decay
+	5 Ancient Durumderm
+	5 Brand New Species
+	5 OH-14 Diamond
+	5 Bioluminescent Predator
+	5 DL-19 Reject
+	5 Olten Tarrasque
+	5 Supernatural Stamina
+	5 Bad Romance
+	5 Arisen Psion
+	5 Skittering Atrocity
+	5 Vindictive Guardian
+	5 Behavioral Specialist
+	5 Propulsion Pack
+	5 Psionic Rebuke
+	5 Abberant Frostbringer
+	5 Second Wave Explorer
+	5 Eyes in Orbit
+	5 Ascended Explorer
+	5 1-ST Thankless Companion
+	5 Faithful Guardian
+	5 Precursor Custodians
+	5 Traveling Duo
+	5 Mineral Expert
+	5 Deploy the Rovers
+	5 Living Atrocity
+	5 Wandering Visionary
+	5 Vastness of Space
+	5 Enter the Wormhole
+	5 Hatewracked Explorer
+	5 Defective Abomination
+	5 Olten Vipermoa
+	5 Long Lost Cause
+	5 TT-20 Salvation
+	5 Horrific Salvage
+	5 Upbeat Vanguard
+	5 Suncolored Dreamer
+	5 An Unfamiliar Swarm
+	5 Interstellar Beacon

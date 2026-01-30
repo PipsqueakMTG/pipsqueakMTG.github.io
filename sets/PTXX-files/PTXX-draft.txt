@@ -1,0 +1,1115 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Ziya, Expert Angler",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/22_Ziya, Expert Angler.jpg"
+			}
+		},
+		{
+			"name": "Render Helpless",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/31_Render Helpless.jpg"
+			}
+		},
+		{
+			"name": "Thin the Veil",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/33_Thin the Veil.jpg"
+			}
+		},
+		{
+			"name": "Impossibility",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/14_Impossibility.jpg"
+			}
+		},
+		{
+			"name": "Practiced Forbiddance",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/15_Practiced Forbiddance.jpg"
+			}
+		},
+		{
+			"name": "An Uninvited Guest",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Legendary Planeswalker — Okus",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/64_An Uninvited Guest.jpg"
+			}
+		},
+		{
+			"name": "Minyet, Hoardseeker",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/46_Minyet, Hoardseeker.jpg"
+			}
+		},
+		{
+			"name": "Walk with Grace",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/20_Walk with Grace.jpg"
+			}
+		},
+		{
+			"name": "Reclaimed Academy",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/82_Reclaimed Academy.jpg"
+			}
+		},
+		{
+			"name": "Maw of Unlife",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/29_Maw of Unlife.jpg"
+			}
+		},
+		{
+			"name": "New Divide",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/81_New Divide.jpg"
+			}
+		},
+		{
+			"name": "Endless Breakthroughs",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/12_Endless Breakthroughs.jpg"
+			}
+		},
+		{
+			"name": "Ravenous Ambition",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/60_Ravenous Ambition.jpg"
+			}
+		},
+		{
+			"name": "Deadly Deception",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/56_Deadly Deception.jpg"
+			}
+		},
+		{
+			"name": "Deflect",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/11_Deflect.jpg"
+			}
+		},
+		{
+			"name": "Accursed Pilgrim",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/23_Accursed Pilgrim.jpg"
+			}
+		},
+		{
+			"name": "Winter's Silencer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Elemental Assassin",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/35_Winter's Silencer.jpg"
+			}
+		},
+		{
+			"name": "Herald of Spring",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Elemental Knight",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/52_Herald of Spring.jpg"
+			}
+		},
+		{
+			"name": "Ruins Banshee",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/32_Ruins Banshee.jpg"
+			}
+		},
+		{
+			"name": "Roar of Seasons' End",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/53_Roar of Seasons' End.jpg"
+			}
+		},
+		{
+			"name": "Veilcrossed Claimant",
+			"rarity": "mythic",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Creature — Human Horror Noble",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/65_Veilcrossed Claimant.jpg"
+			}
+		},
+		{
+			"name": "Wasteland Guide",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/67_Wasteland Guide.jpg"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/90_Island.jpg"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/93_Forest.jpg"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/91_Swamp.jpg"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/89_Plains.jpg"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/92_Mountain.jpg"
+			}
+		},
+		{
+			"name": "Magnificent Garden",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/80_Magnificent Garden.jpg"
+			}
+		},
+		{
+			"name": "Empty Halls",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/72_Empty Halls.jpg"
+			}
+		},
+		{
+			"name": "Arcana Unbound",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/37_Arcana Unbound.jpg"
+			}
+		},
+		{
+			"name": "Brash Pyromancer",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/38_Brash Pyromancer.jpg"
+			}
+		},
+		{
+			"name": "Learn from Dragons",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/43_Learn from Dragons.jpg"
+			}
+		},
+		{
+			"name": "Volta, Disaster Technician",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Planeswalker — Volta",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/19_Volta, Disaster Technician.jpg"
+			}
+		},
+		{
+			"name": "Garden Fountain",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/13_Garden Fountain.jpg"
+			}
+		},
+		{
+			"name": "Sent to Safety",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/16_Sent to Safety.jpg"
+			}
+		},
+		{
+			"name": "Gloryscourge's Outrider",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Skeleton Knight Wizard",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/42_Gloryscourge's Outrider.jpg"
+			}
+		},
+		{
+			"name": "Living the Yaneta Lifestyle",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/45_Living the Yaneta Lifestyle.jpg"
+			}
+		},
+		{
+			"name": "Dormant Bay",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/70_Dormant Bay.jpg"
+			}
+		},
+		{
+			"name": "Bum a Light",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/39_Bum a Light.jpg"
+			}
+		},
+		{
+			"name": "Fortunehunter Captain",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Mercenary",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/40_Fortunehunter Captain.jpg"
+			}
+		},
+		{
+			"name": "Gleeful Arson",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/41_Gleeful Arson.jpg"
+			}
+		},
+		{
+			"name": "Wicked Blaze",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/50_Wicked Blaze.jpg"
+			}
+		},
+		{
+			"name": "Tamper",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/18_Tamper.jpg"
+			}
+		},
+		{
+			"name": "Wisdom's Warning",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/21_Wisdom's Warning.jpg"
+			}
+		},
+		{
+			"name": "Unwaking Mausoleum",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/34_Unwaking Mausoleum.jpg"
+			}
+		},
+		{
+			"name": "Her Oversight",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment Creature — Illusion",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/27_Her Oversight.jpg"
+			}
+		},
+		{
+			"name": "Vitin Orrery",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/69_Vitin Orrery.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Stacks",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/75_Forgotten Stacks.jpg"
+			}
+		},
+		{
+			"name": "Imposing Copse",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/76_Imposing Copse.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Passage",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/74_Forgotten Passage.jpg"
+			}
+		},
+		{
+			"name": "Imposing Grove",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/77_Imposing Grove.jpg"
+			}
+		},
+		{
+			"name": "Whispering Citadel",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/85_Whispering Citadel.jpg"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/9t_Treasure.jpg"
+			}
+		},
+		{
+			"name": "Apathetic Edict",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/24_Apathetic Edict.jpg"
+			}
+		},
+		{
+			"name": "A Simple Life",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/63_A Simple Life.jpg"
+			}
+		},
+		{
+			"name": "Archmage's Will",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/10_Archmage's Will.jpg"
+			}
+		},
+		{
+			"name": "Memorialize",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/5_Memorialize.jpg"
+			}
+		},
+		{
+			"name": "Iviana, Speaker of Fangs",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Legendary Planeswalker — Iviana",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/57_Iviana, Speaker of Fangs.jpg"
+			}
+		},
+		{
+			"name": "Maolong, Defiant Tactician",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/58_Maolong, Defiant Tactician.jpg"
+			}
+		},
+		{
+			"name": "Myth Realized",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/6_Myth Realized.jpg"
+			}
+		},
+		{
+			"name": "Dormant Crag",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/71_Dormant Crag.jpg"
+			}
+		},
+		{
+			"name": "Waking Fen",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Animus",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/83_Waking Fen.jpg"
+			}
+		},
+		{
+			"name": "Waking Shoreline",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Animus",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/84_Waking Shoreline.jpg"
+			}
+		},
+		{
+			"name": "Imposing Tower",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/79_Imposing Tower.jpg"
+			}
+		},
+		{
+			"name": "Imposing Rooftops",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/78_Imposing Rooftops.jpg"
+			}
+		},
+		{
+			"name": "Whispering Port",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/87_Whispering Port.jpg"
+			}
+		},
+		{
+			"name": "Dragon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Dragon",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/5t_Dragon.jpg"
+			}
+		},
+		{
+			"name": "Zombie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/4t_Zombie.jpg"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/1t_Spirit.jpg"
+			}
+		},
+		{
+			"name": "Souvenir",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Souvenir",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/8t_Souvenir.jpg"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/7t_Elemental.jpg"
+			}
+		},
+		{
+			"name": "Wizard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wizard",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/2t_Wizard.jpg"
+			}
+		},
+		{
+			"name": "Warrior",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Warrior",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/6t_Warrior.jpg"
+			}
+		},
+		{
+			"name": "Anne, Thunderbringer",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Planeswalker — Anne",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/36_Anne, Thunderbringer.jpg"
+			}
+		},
+		{
+			"name": "Alexa, Called to War",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Planeswalker — Alexa",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/54_Alexa, Called to War.jpg"
+			}
+		},
+		{
+			"name": "Extradict",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/3_Extradict.jpg"
+			}
+		},
+		{
+			"name": "Biosphere Cultivator",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/51_Biosphere Cultivator.jpg"
+			}
+		},
+		{
+			"name": "Oakgrove Superstar",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Actor",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/7_Oakgrove Superstar.jpg"
+			}
+		},
+		{
+			"name": "Prince Beau",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/59_Prince Beau.jpg"
+			}
+		},
+		{
+			"name": "Communal Defense",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/2_Communal Defense.jpg"
+			}
+		},
+		{
+			"name": "Whispering Village",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/88_Whispering Village.jpg"
+			}
+		},
+		{
+			"name": "Whispering Clearing",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/86_Whispering Clearing.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Arch",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/73_Forgotten Arch.jpg"
+			}
+		},
+		{
+			"name": "Whisper Parade",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/8_Whisper Parade.jpg"
+			}
+		},
+		{
+			"name": "Rouser of Mortals",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/62_Rouser of Mortals.jpg"
+			}
+		},
+		{
+			"name": "Life of the Party",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Noble",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/44_Life of the Party.jpg"
+			}
+		},
+		{
+			"name": "Maolong's Disciple",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/4_Maolong's Disciple.jpg"
+			}
+		},
+		{
+			"name": "Taldon's Touch",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/49_Taldon's Touch.jpg"
+			}
+		},
+		{
+			"name": "Shrine to Freedom",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/68_Shrine to Freedom.jpg"
+			}
+		},
+		{
+			"name": "Achievement Antithesis",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/9_Achievement Antithesis.jpg"
+			}
+		},
+		{
+			"name": "Scarlet District Punk",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/47_Scarlet District Punk.jpg"
+			}
+		},
+		{
+			"name": "Retired Monsterhunter",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/61_Retired Monsterhunter.jpg"
+			}
+		},
+		{
+			"name": "The Chapter Ends",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/1_The Chapter Ends.jpg"
+			}
+		},
+		{
+			"name": "Scorching Superiority",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/48_Scorching Superiority.jpg"
+			}
+		},
+		{
+			"name": "Dream of Oblivion",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/26_Dream of Oblivion.jpg"
+			}
+		},
+		{
+			"name": "Malediction",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/28_Malediction.jpg"
+			}
+		},
+		{
+			"name": "Pluck Thoughts",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/30_Pluck Thoughts.jpg"
+			}
+		},
+		{
+			"name": "Apex Films Dealbroker",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Vampire Advisor",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/55_Apex Films Dealbroker.jpg"
+			}
+		},
+		{
+			"name": "Vikalden, Queen Hunter",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Planeswalker — Vikalden",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/66_Vikalden, Queen Hunter.jpg"
+			}
+		},
+		{
+			"name": "Spiteful Sprite",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Faerie Rogue Wizard",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/17_Spiteful Sprite.jpg"
+			}
+		},
+		{
+			"name": "Captivating Count",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Vampire Noble",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/25_Captivating Count.jpg"
+			}
+		},
+		{
+			"name": "Serf",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Serf",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://pipsqueakMTG.github.io/sets/PTXX-files/img/3t_Serf.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Ziya, Expert Angler
+	5 Thin the Veil
+	5 Impossibility
+	5 An Uninvited Guest
+	5 Minyet, Hoardseeker
+	5 Reclaimed Academy
+	5 Maw of Unlife
+	5 Endless Breakthroughs
+	5 Ravenous Ambition
+	5 Herald of Spring
+	5 Roar of Seasons' End
+	5 Veilcrossed Claimant
+	5 Volta, Disaster Technician
+	5 Fortunehunter Captain
+	5 Her Oversight
+	5 Whispering Citadel
+	5 A Simple Life
+	5 Memorialize
+	5 Iviana, Speaker of Fangs
+	5 Maolong, Defiant Tactician
+	5 Myth Realized
+	5 Waking Fen
+	5 Waking Shoreline
+	5 Whispering Port
+	5 Anne, Thunderbringer
+	5 Alexa, Called to War
+	5 Oakgrove Superstar
+	5 Prince Beau
+	5 Whispering Village
+	5 Whispering Clearing
+	5 Rouser of Mortals
+	5 Retired Monsterhunter
+	5 Dream of Oblivion
+	5 Apex Films Dealbroker
+	5 Vikalden, Queen Hunter
+[uncommon(3)]
+	5 Render Helpless
+	5 Deadly Deception
+	5 Winter's Silencer
+	5 Ruins Banshee
+	5 Wasteland Guide
+	5 Magnificent Garden
+	5 Empty Halls
+	5 Brash Pyromancer
+	5 Learn from Dragons
+	5 Sent to Safety
+	5 Living the Yaneta Lifestyle
+	5 Dormant Bay
+	5 Wicked Blaze
+	5 Tamper
+	5 Forgotten Stacks
+	5 Imposing Copse
+	5 Forgotten Passage
+	5 Imposing Grove
+	5 Apathetic Edict
+	5 Archmage's Will
+	5 Dormant Crag
+	5 Imposing Tower
+	5 Imposing Rooftops
+	5 Communal Defense
+	5 Forgotten Arch
+	5 Whisper Parade
+	5 Life of the Party
+	5 Maolong's Disciple
+	5 Shrine to Freedom
+	5 Achievement Antithesis
+	5 Scarlet District Punk
+	5 Scorching Superiority
+	5 Malediction
+	5 Spiteful Sprite
+	5 Captivating Count
+[common(10)]
+	5 Practiced Forbiddance
+	5 Walk with Grace
+	5 New Divide
+	5 Deflect
+	5 Accursed Pilgrim
+	5 Arcana Unbound
+	5 Garden Fountain
+	5 Gloryscourge's Outrider
+	5 Bum a Light
+	5 Gleeful Arson
+	5 Wisdom's Warning
+	5 Unwaking Mausoleum
+	5 Vitin Orrery
+	5 Extradict
+	5 Biosphere Cultivator
+	5 Taldon's Touch
+	5 The Chapter Ends
+	5 Pluck Thoughts

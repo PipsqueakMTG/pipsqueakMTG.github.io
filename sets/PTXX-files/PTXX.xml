@@ -1,0 +1,1761 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>PTXX</name>
+			<longname>Pro Tour 20XX</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-01-29</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Ziya, Expert Angler</name>
+			<text>Whenever Ziya, Expert Angler enters or attacks, draw a card, then discard a card.
+Ziya, Expert Angler gets +4/+0 as long as there are four or more creature cards in your graveyard.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/22_Ziya, Expert Angler.jpg" num="22">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Render Helpless</name>
+			<text>Choose one:
+• Target player sacrifices a creature or planeswalker.
+• Target player reveals their hand. You choose a nonland card from it. That player discards that card.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/31_Render Helpless.jpg" num="31">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Thin the Veil</name>
+			<text>Search your library for a nonland card not named Thin the Veil, exile it, then shuffle. If it has mana value less than or equal to the number of card types among cards in your graveyard, you may cast it without paying its mana cost. If you don&apos;t, put it into your hand.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/33_Thin the Veil.jpg" num="33">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Impossibility</name>
+			<text>Look at the top eight cards of your library. Put four of them into your hand, and the rest on the bottom of your library in any order.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/14_Impossibility.jpg" num="14">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Practiced Forbiddance</name>
+			<text>Counter target spell unless its controller pays {2}.
+Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, instead counter that spell unless its controller pays {4}.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/15_Practiced Forbiddance.jpg" num="15">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>An Uninvited Guest</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/64_An Uninvited Guest.jpg" num="64">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Okus</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1BGU</manacost>
+				<cmc>4</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Minyet, Hoardseeker</name>
+			<text>Haste
+Whenever Minyet, Hoardseeker attacks, create a Treasure token.
+At the beginning of your end step, sacrifice a permanent unless you&apos;ve sacrificed a permanent this turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/46_Minyet, Hoardseeker.jpg" num="46">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Walk with Grace</name>
+			<text>Draw two cards, then discard two cards unless you discard a noncreature, nonland card.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/20_Walk with Grace.jpg" num="20">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Reclaimed Academy</name>
+			<text>{T}: Add {U} or {R}. You lose 1 life.
+{2}{U}{R}, {T}, Sacrifice Reclaimed Academy: Exile up to two instant and/or sorcery cards from your graveyard. Create that many 1/1 blue Wizard creature tokens with prowess.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/82_Reclaimed Academy.jpg" num="82">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Maw of Unlife</name>
+			<text>At the beginning of your upkeep, surveil 1. Then if you have twelve or more cards in your graveyard, create a 2/2 black Zombie creature token. (To surveil 1, look at the top card of your library. You may put that card into your graveyard.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/29_Maw of Unlife.jpg" num="29">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>New Divide</name>
+			<text>As New Divide enters, you may pay 2 life. If you don&apos;t, it enters tapped.
+{T}, Sacrifice New Divide: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/81_New Divide.jpg" num="81">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Endless Breakthroughs</name>
+			<text>You may discard your hand. If you discarded at least three cards this way, draw five cards.
+You may sacrifice a land. If you do, copy Endless Breakthroughs.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/12_Endless Breakthroughs.jpg" num="12">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ravenous Ambition</name>
+			<text>Whenever you draw a card, each opponent loses 1 life, and you gain 1 life.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/60_Ravenous Ambition.jpg" num="60">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UBB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Deadly Deception</name>
+			<text>You gain 3 life.
+Destroy target creature. You lose life equal to that creature&apos;s mana value.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/56_Deadly Deception.jpg" num="56">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Deflect</name>
+			<text>Return target spell or creature to its owner&apos;s hand.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/11_Deflect.jpg" num="11">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Accursed Pilgrim</name>
+			<text>Flash
+Lifelink
+When Accursed Pilgrim enters, mill three cards.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/23_Accursed Pilgrim.jpg" num="23">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Winter&apos;s Silencer</name>
+			<text>When Winter&apos;s Silencer enters, target player reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/35_Winter&apos;s Silencer.jpg" num="35">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Herald of Spring</name>
+			<text>When Herald of Spring enters, choose one—
+• Destroy target artifact or enchantment.
+• You gain 4 life.
+• Return target land card from your graveyard to the battlefield.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/52_Herald of Spring.jpg" num="52">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ruins Banshee</name>
+			<text>Menace
+When Ruins Banshee enters, it deals X damage to target creature or planeswalker, where X is the number of cards in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/32_Ruins Banshee.jpg" num="32">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Roar of Seasons&apos; End</name>
+			<text>When Roar of Seasons&apos; End enters, put a +1/+1 counter on each creature you control. They gain trample and haste until end of turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/53_Roar of Seasons&apos; End.jpg" num="53">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Veilcrossed Claimant</name>
+			<text>Trample
+Whenever a player discards a card, draw a card and put a +1/+1 counter on Veilcrossed Claimant. This ability only triggers once per player per turn.</text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/65_Veilcrossed Claimant.jpg" num="65">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Horror Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>BGU</manacost>
+				<cmc>3</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wasteland Guide</name>
+			<text>When Wasteland Guide enters, mill four cards then return a land card from your graveyard to your hand.
+When Wasteland Guide dies, you may exile it. When you do, return target card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/67_Wasteland Guide.jpg" num="67">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/90_Island.jpg" num="90">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/93_Forest.jpg" num="93">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/91_Swamp.jpg" num="91">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/89_Plains.jpg" num="89">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/92_Mountain.jpg" num="92">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Magnificent Garden</name>
+			<text>Magnificent Garden enters tapped unless there are seven or more cards in your graveyard.
+{T}: Add {B}, {G}, {U}.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/80_Magnificent Garden.jpg" num="80">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Empty Halls</name>
+			<text>{T}, Sacrifice Empty Halls: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{3}, {T}, Sacrifice Forgotten Halls: Destroy target nonbasic land.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/72_Empty Halls.jpg" num="72">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Arcana Unbound</name>
+			<text>This spell costs {2} less to cast if you control a Wizard.
+Exile the top two cards of your library. You may play them until the end of your next turn.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/37_Arcana Unbound.jpg" num="37">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Brash Pyromancer</name>
+			<text>Brash Pyromancer has prowess as long as you control another Wizard.
+When Brash Pyromancer enters, if you cast a noncreature spell this turn, create a tapped Treasure token.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/38_Brash Pyromancer.jpg" num="38">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Learn from Dragons</name>
+			<text>Target creature gains trample until end of turn.
+Target creature gains haste until end of turn.
+Target creature gains first strike until end of turn.
+Draw a card.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/43_Learn from Dragons.jpg" num="43">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Volta, Disaster Technician</name>
+			<text></text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/19_Volta, Disaster Technician.jpg" num="19">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Volta</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Garden Fountain</name>
+			<text>When Garden Fountain enters, surveil 1, then draw a card.
+{1}{U}, Sacrifice Garden Fountain: Surveil 1, then create a tapped Treasure token.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/13_Garden Fountain.jpg" num="13">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sent to Safety</name>
+			<text>Return target nonland permanent to its owner&apos;s hand. [b][Draw a card.]
+[/b]Rewrite {1}{U} (You may cast this from your graveyard for its rewrite cost. It only has the bracketed text. Exile it if it would be put into the graveyard this turn.)</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/16_Sent to Safety.jpg" num="16">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gloryscourge&apos;s Outrider</name>
+			<text>Prowess
+Whenever you sacrifice a permanent, Gloryscourge&apos;s Outrider deals 1 damage to target player or planeswalker.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/42_Gloryscourge&apos;s Outrider.jpg" num="42">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Knight Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Living the Yaneta Lifestyle</name>
+			<text>Exile the top two cards of your library. Until the end of your next turn, you may play one of those cards.
+Create a Souvenir token. (It&apos;s an artifact with &quot;Whenever a creature deals damage to an opponent, you may sacrifice this to put a +1/+1 counter on it.&quot;)</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/45_Living the Yaneta Lifestyle.jpg" num="45">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dormant Bay</name>
+			<text>{T}, Pay 1 life: Add {U} or {R}.
+{1}, {T}, Sacrifice Dormant Bay: Draw a card. Activate only if you control five or more lands.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/70_Dormant Bay.jpg" num="70">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Bum a Light</name>
+			<text>Bum a Light deals 2 damage to any target. If you attacked this turn, create a Souvenir token. (It&apos;s an artifact with &quot;Whenever a creature deals damage to an opponent, you may sacrifice this to put a +1/+1 counter on it.&quot;)</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/39_Bum a Light.jpg" num="39">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fortunehunter Captain</name>
+			<text>Whenever you attack, create a 1/1 red Warrior creature token tapped and attacking.
+Sacrifice two other creatures: Copy target spell you control that targets. You may choose new targets for the copy.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/40_Fortunehunter Captain.jpg" num="40">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gleeful Arson</name>
+			<text>Gleeful Arson deals 3 damage to any target. When a permanent dealt damage this way dies this turn, create a tapped Treasure token.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/41_Gleeful Arson.jpg" num="41">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wicked Blaze</name>
+			<text>Wicked Blaze deals 4 damage to any target.
+Exile the top card of your library. You may play it during your next turn. (Not this turn.)</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/50_Wicked Blaze.jpg" num="50">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tamper</name>
+			<text>When you cast Tamper, if an opponent controls more lands than you, copy it.
+Counter target noncreature spell unless its controller pays {1}.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/18_Tamper.jpg" num="18">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wisdom&apos;s Warning</name>
+			<text>[b][Mill three cards][/b], then return a card from among them from your graveyard to your hand.
+Rewrite {U} (You may cast this from your graveyard for its rewrite cost. It only has the bracketed text. Exile it if it would be put into the graveyard this turn.)</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/21_Wisdom&apos;s Warning.jpg" num="21">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unwaking Mausoleum</name>
+			<text>When Unwaking Mausoleum enters, target opponent sacrifices a creature or planeswalker.
+At the beginning of your upkeep, if there are four or more card types among cards in your graveyard, you may sacrifice Unwaking Mausoleum. If you do, each opponent loses 3 life and you gain 3 life.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/34_Unwaking Mausoleum.jpg" num="34">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Her Oversight</name>
+			<text>Deathtouch
+{3}{B}, Exile Her Oversight from your graveyard: Destroy target creature. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/27_Her Oversight.jpg" num="27">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vitin Orrery</name>
+			<text>Vitin Orrery enters tapped.
+{T}: Add {U}, {R}, or {W}. Put a stun counter on Vitin Orrery unless there are four or more noncreature cards in your graveyard.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/69_Vitin Orrery.jpg" num="69">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>WUR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Forgotten Stacks</name>
+			<text>When Forgotten Stacks enters, you lose 2 life unless you control two or more basic lands.
+{T}: Add {U} or {R}.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/75_Forgotten Stacks.jpg" num="75">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Imposing Copse</name>
+			<text>Imposing Copse enters tapped unless you control three or more other lands.
+{T}: Add {B} or {G}.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/76_Imposing Copse.jpg" num="76">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forgotten Passage</name>
+			<text>When Forgotten Passage enters, you lose 2 life unless you control two or more basic lands.
+{T}: Add {U} or {B}.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/74_Forgotten Passage.jpg" num="74">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Imposing Grove</name>
+			<text>Imposing Grove enters tapped unless you control three or more other lands.
+{T}: Add {G} or {U}.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/77_Imposing Grove.jpg" num="77">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Whispering Citadel</name>
+			<text>As Whispering Citadel enters, exile a card from your hand face down.
+{T}: Add {U} or {B}.
+{UB}, {T}: Return the card exiled with Whispering Citadel to its owner&apos;s hand. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/85_Whispering Citadel.jpg" num="85">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Treasure PTXX</name>
+			<text>{T}, Sacrifice this: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/9t_Treasure.jpg" num="9">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Apathetic Edict</name>
+			<text>[b][Target player sacrifices a creature.][/b] You gain life equal to that creature&apos;s toughness.
+Rewrite {5}{B} (You may cast this from your graveyard for its rewrite cost. It only has the bracketed text. Exile it if it would be put into the graveyard this turn.)</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/24_Apathetic Edict.jpg" num="24">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>A Simple Life</name>
+			<text>You gain life equal to the greatest mana value among artifacts and creatures on the battlefield.
+Destroy all artifacts and creatures.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/63_A Simple Life.jpg" num="63">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RWW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Archmage&apos;s Will</name>
+			<text>Choose one—
+• Counter target spell.
+• Put target creature with mana value 2 or less on top of its owner&apos;s library.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/10_Archmage&apos;s Will.jpg" num="10">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Memorialize</name>
+			<text>Exile target creature and put a memory counter on it. It gains &quot;{4}, Remove a memory counter from this: Create a token that&apos;s a copy of this except it is an enchantment instead of its other types. Activate only as a sorcery.&quot;</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/5_Memorialize.jpg" num="5">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Iviana, Speaker of Fangs</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/57_Iviana, Speaker of Fangs.jpg" num="57">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Iviana</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4UR</manacost>
+				<cmc>6</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Maolong, Defiant Tactician</name>
+			<text>Protection from your opponents (This creature can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything controlled by those players.)
+Players can&apos;t draw more than one card a turn.</text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/58_Maolong, Defiant Tactician.jpg" num="58">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3WU</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Myth Realized</name>
+			<text>Whenever you cast a noncreature spell, put a lore counter on Myth Realized.
+{2}{W}: Put a lore counter on Myth Realized.
+{W}: Until end of turn, Myth Realized becomes a Monk Avatar creature in addition to its other types and gains &quot;This creature&apos;s power and toughness are each equal to the number of lore counters on it.&quot;</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/6_Myth Realized.jpg" num="6">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dormant Crag</name>
+			<text>{T}, Pay 1 life: Add {R} or {W}.
+{1}, {T}, Sacrifice Dormant Crag: Draw a card. Activate only if you control five or more lands.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/71_Dormant Crag.jpg" num="71">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Waking Fen</name>
+			<text>Waking Fen enters tapped.
+{T}: Add {U} or {B}.
+{2}{U}{B}: Waking Fen becomes a blue and black elemental creature in addition to its other types until end of turn.
+Whenever Waking Fen attacks, defending player loses 2 life unless they discard a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/83_Waking Fen.jpg" num="83">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Animus</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Waking Shoreline</name>
+			<text>Waking Shoreline enters tapped.
+{T}: Add {W} or {U}.
+{3}{W}{U}: Waking Shoreline becomes a white and blue Elemental creature in addition to its other types until end of turn.
+Whenever Waking Shoreline becomes a creature, create a 1/1 white Spirit creature token with flying.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/84_Waking Shoreline.jpg" num="84">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Animus</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Imposing Tower</name>
+			<text>Imposing Tower enters tapped unless you control three or more other lands.
+{T}: Add {U} or {R}.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/79_Imposing Tower.jpg" num="79">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Imposing Rooftops</name>
+			<text>Imposing Rooftops enters tapped unless you control three or more other lands.
+{T}: Add {R} or {W}.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/78_Imposing Rooftops.jpg" num="78">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Whispering Port</name>
+			<text>As Whispering Port enters, exile a card from your hand face down.
+{T}: Add {W} or {U}.
+{WU}, {T}: Return the card exiled with Whispering Port to its owner&apos;s hand. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/87_Whispering Port.jpg" num="87">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dragon PTXX</name>
+			<text>Flying, haste</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/5t_Dragon.jpg" num="5">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Zombie PTXX</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/4t_Zombie.jpg" num="4">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Spirit PTXX</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/1t_Spirit.jpg" num="1">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Souvenir PTXX</name>
+			<text>When a creature you control deals damage to an opponent, you may sacrifice this. If you do, put a +1/+1 counter on that creature.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/8t_Souvenir.jpg" num="8">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Souvenir</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Elemental PTXX</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/7t_Elemental.jpg" num="7">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Wizard PTXX</name>
+			<text>Prowess</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/2t_Wizard.jpg" num="2">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Warrior PTXX</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/6t_Warrior.jpg" num="6">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Anne, Thunderbringer</name>
+			<text></text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/36_Anne, Thunderbringer.jpg" num="36">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Anne</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Alexa, Called to War</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/54_Alexa, Called to War.jpg" num="54">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Alexa</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Extradict</name>
+			<text>When Extradict enters, exile target creature or planeswalker until Extradict leaves the battlefield.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/3_Extradict.jpg" num="3">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Biosphere Cultivator</name>
+			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+{T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/51_Biosphere Cultivator.jpg" num="51">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oakgrove Superstar</name>
+			<text>{1}{W}: Put a lifelink counter on Oakgrove Superstar.
+{3}{W}{W}: If Oakgrove Superstar has lifelink, put three +1/+1 counters and a flying counter on it. It becomes an Angel. Activate only once.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/7_Oakgrove Superstar.jpg" num="7">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Actor</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prince Beau</name>
+			<text>At the beginning of combat on your turn, target creature gains trample and lifelink until end of turn.
+Memorialize {3}{G}{W} ({3}{G}{W}, Exile this from your graveyard: Create a Memorial enchantment token with its abilities. Activate only as a sorcery.)</text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/59_Prince Beau.jpg" num="59">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Communal Defense</name>
+			<text>When Communal Defense enters, create a 1/1 red Warrior creature token.
+Whenever you attack with three or more creatures, return Communal Defense to its owner&apos;s hand. If you do, put a +1/+1 counter on one of those creatures.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/2_Communal Defense.jpg" num="2">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Whispering Village</name>
+			<text>As Whispering Village enters, exile a card from your hand face down.
+{T}: Add {G} or {W}.
+{GW}, {T}: Return the card exiled with Whispering Citadel to its owner&apos;s hand. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/88_Whispering Village.jpg" num="88">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Whispering Clearing</name>
+			<text>As Whispering Clearing enters, exile a card from your hand face down.
+{T}: Add {R} or {G}.
+{RG}, {T}: Return the card exiled with Whispering Clearing to its owner&apos;s hand. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/86_Whispering Clearing.jpg" num="86">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forgotten Arch</name>
+			<text>When Forgotten Arch enters, you lose 2 life unless you control two or more basic lands.
+{T}: Add {R} or {G}.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/73_Forgotten Arch.jpg" num="73">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Whisper Parade</name>
+			<text>When Whisper Parade enters, create two 1/1 white Spirit creature tokens with flying.
+{4}{W}: Create two 1/1 white Spirit creature tokens with flying. Activate only as a sorcery and only if you control no creature tokens.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/8_Whisper Parade.jpg" num="8">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rouser of Mortals</name>
+			<text>Flying
+Whenever Rouser of Mortals or another creature you control becomes the target of a spell or ability you don&apos;t control, it deals 3 damage to that ability&apos;s controller.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/62_Rouser of Mortals.jpg" num="62">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Life of the Party</name>
+			<text>Haste
+When Life of the Party enters, create two Souvenir tokens. (They&apos;re artifacts with &quot;Whenever a creature deals damage to an opponent, you may sacrifice this to put a +1/+1 counter on it.&quot;)
+Whenever Life of the Party attacks, you may sacrifice a permanent. If you do, exile the top card of your library. You may play it until end of turn.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/44_Life of the Party.jpg" num="44">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Maolong&apos;s Disciple</name>
+			<text>Flash
+Each player can&apos;t cast more than one spell each turn.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/4_Maolong&apos;s Disciple.jpg" num="4">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Taldon&apos;s Touch</name>
+			<text>Extract 2 (As an additional cost to cast this spell, you may pay 2 life.)
+Choose one. If this spell was extracted, instead choose both—
+• Exile target artifact.
+• Taldon&apos;s Touch deals 3 damage to target player or planeswalker.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/49_Taldon&apos;s Touch.jpg" num="49">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shrine to Freedom</name>
+			<text>When Shrine to Freedom enters or when you cast a spell, exile up to one target card in a graveyard.
+{T}, Sacrifice Shrine to Freedom: If there are four or more card types among cards exiled with Shrine to Freedom, draw a card. Then, exile each opponent&apos;s graveyard.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/68_Shrine to Freedom.jpg" num="68">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Achievement Antithesis</name>
+			<text>This spell costs {1} less to cast if a player has 10 or less life.
+Counter target instant, sorcery, enchantment, or planeswalker spell.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/9_Achievement Antithesis.jpg" num="9">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scarlet District Punk</name>
+			<text>Haste
+Players can&apos;t gain life.
+Whenever you attack with three or more creatures, creatures you control get +1/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/47_Scarlet District Punk.jpg" num="47">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Retired Monsterhunter</name>
+			<text>If a spell or ability an opponent controls would cause you to discard a creature card, instead you may put Retired Monsterhunter from your hand onto the battlefield.
+Vigilance</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/61_Retired Monsterhunter.jpg" num="61">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>RGW</manacost>
+				<cmc>3</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Chapter Ends</name>
+			<text>Destroy target artifact or enchantment. If it was a token, draw a card.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/1_The Chapter Ends.jpg" num="1">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scorching Superiority</name>
+			<text>Scorching Superiority deals 2 damage to each non-Dragon creature. If a creature dealt damage this way would die this turn, exile it instead.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/48_Scorching Superiority.jpg" num="48">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dream of Oblivion</name>
+			<text>Extract 3 (As an additional cost to cast this spell, you may pay 3 life.)
+Creatures get -2/-2 until end of turn. If this spell was extracted, they get -4/-4 until end of turn instead.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/26_Dream of Oblivion.jpg" num="26">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Malediction</name>
+			<text>Creatures your opponents control get -2/-2 until end of turn.
+At the beginning of the next end step, if three or more creatures died this turn, you gain 4 life.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/28_Malediction.jpg" num="28">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pluck Thoughts</name>
+			<text>[b][Target opponent reveals their hand and discards a nonland card.][/b] They lose 1 life.
+Rewrite {2}{B} (You may cast this from your graveyard for its rewrite cost. It only has the bracketed text. Exile it if it would be put into the graveyard this turn.)</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/30_Pluck Thoughts.jpg" num="30">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Apex Films Dealbroker</name>
+			<text>This spell can&apos;t be countered.
+When Apex Films Dealbroker enters, target opponent reveals their hand. Exile a nonland card revealed this way until Apex Films Dealbroker leaves the battlefield.
+When Apex Films Dealbroker dies, target opponent discards a card. (After returning the exiled card.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/55_Apex Films Dealbroker.jpg" num="55">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vikalden, Queen Hunter</name>
+			<text></text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/66_Vikalden, Queen Hunter.jpg" num="66">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Vikalden</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Spiteful Sprite</name>
+			<text>Extract 2 (As an additional cost to cast this spell, you may pay 2 life.)
+Flash
+Flying
+When this enters, if it was extracted, return target noncreature spell to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/17_Spiteful Sprite.jpg" num="17">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Rogue Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Captivating Count</name>
+			<text>Lifelink
+When Captivating Count enters, create a 1/1 black Serf creature token with &quot;This creature can&apos;t attack or block alone.&quot;</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/25_Captivating Count.jpg" num="25">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Serf PTXX</name>
+			<text>This creature can&apos;t attack or block alone.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/PTXX-files/img/3t_Serf.jpg" num="3">PTXX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Serf</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

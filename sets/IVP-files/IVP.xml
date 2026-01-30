@@ -1,0 +1,2015 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>IVP</name>
+			<longname>Invalid Precedent</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-01-29</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Favors IVP</name>
+			<text>Big Break
+Create three Treasure tokens. You gain 6 life.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/0.png" num="1">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Get the Bag</name>
+			<text>Counter target spell unless its controller pays {2}. Create a Souvenir token. (It&apos;s an artifact with &quot;When a creature deals damage to an opponent, you may sacrifice this to put a +1/+1 counter on it.&quot;)
+{1}{U}, Exile Get the Bag from your graveyard: Create a Souvenir token.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/1.png" num="20">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Oakgrove Gossip</name>
+			<text>Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Network. (You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/2.png" num="64">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Miguel Florens, Headliner</name>
+			<text>At the beginning of combat on your turn, put a +1/+1 counter on target creature. Then if there are three or more permanents you control with counters on them, network. (You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/3.png" num="4">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Actor</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sway of the Dark Church</name>
+			<text>Each player sacrifices two creatures.
+Network, then network again if a creature you control died this turn. (You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/4.png" num="40">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Long Hours</name>
+			<text>You draw two cards and you lose 2 life.
+Network. (You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/5.png" num="32">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Treasure IVP</name>
+			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/6.png" num="8">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Smog IVP</name>
+			<text>&quot;At the beginning of your upkeep, you lose 1 life.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/7.png" num="4">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Angel IVP</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/8.png" num="2">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Nightmare IVP</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/9.png" num="3">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Souvenir IVP</name>
+			<text>When a creature deals damage to an opponent, you may sacrifice this. If you do, put a +1/+1 counter on that creature.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/10.png" num="7">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Souvenir</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>The Carmichael Awards</name>
+			<text>Whenever you lose life for the first time each turn, network. (You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)
+When you call in a favor, if you&apos;ve called in five favors this game, you win the game.</text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/11.png" num="29">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Armund, Wayward Killer</name>
+			<text>Whenever a permanent an opponent controls dies, put a loyalty counter on Armund, Wayward Killer.
+[+1]: Each opponent loses 3 life unless they sacrifice a nonland permanent or discard a card.
+[-2]: Destroy target tapped creature.
+[-9]: Armund deals 9 damage divided as you choose among any number of targets.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/12.png" num="69">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Armund</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1RWB</manacost>
+				<cmc>4</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Azamir, Among the Angels</name>
+			<text>Whenever a creature you control deals combat damage to an opponent, you may cast a card exiled with Azamir without paying its mana cost.
+[+2]: Create a 3/3 white Angel creature token with flying. Exile the top card of your library.
+[-3]: Exile up to three cards you own from outside the game.
+[-4]: Exile target nonland permanent an opponent controls.
+[-4]: Call in a favor.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/13.png" num="1">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Azamir</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>8</manacost>
+				<cmc>8</cmc>
+				<loyalty>7</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Isamu, Hapless Researcher</name>
+			<text>[+1]: Mill three cards, then put a creature card from among them into your hand.
+[-2]: You may sacrifice a creature. If you do, search your library for a creature card with mana value less than or equal to 1 plus the sacrificed creature&apos;s mana value and put it onto the battlefield. Then shuffle.
+[-6]: You get an emblem with &quot;Tap an untapped creature you control: Return target creature card in your graveyard that shares a creature type with it to the battlefield.&quot;</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/14.png" num="73">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Isamu</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Liactru, Big Damn Hero</name>
+			<text>[+1]: Liactru, Big Damn Hero deals 3 damage to any target.
+[-2]: Look at the top five cards of your library. Put three of them into your hand, and the rest either on the bottom of your library in any order or into your graveyard.
+[-8]: Exile your library. You may cast any number of instant or sorcery cards exiled this way without paying their mana cost.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/15.png" num="76">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Liactru</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4UR</manacost>
+				<cmc>6</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mei, Soul of Discretion</name>
+			<text>[+1]: Draw a card, then discard a card unless your graveyard has seven or more cards in it.
+[-1]: Target opponent reveals their hand. Choose a nonland card revealed this way. They put that card into their library third from the top.
+[-6]: You get an emblem with &quot;Whenever a player draws a card, each opponent loses 1 life.&quot;</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/16.png" num="77">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Mei</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mirai, Spring Breaking</name>
+			<text>Once during each of your turns, you may play an additional land or activate another Planeswalker&apos;s loyalty abilities an additional time.
+[+1]: You may draw a card. If you do, each other player draws a card.
+[+1]: You may gain 3 life. If you do, each other player gains 3 life.
+[-7]: Return target noncreature permanent card from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/17.png" num="2">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Mirai</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nora, Actress in Waiting</name>
+			<text>[+1]: Untap up to one target land and up to one target nonland permanent.
+[0]: You may distribute a +1/+1 counter, loyalty counter, charge counter, and/or a lore counter among any number of permanents you control.
+[-6]: You get an emblem with &quot;You may cast spells as copies of nonland permanents on the battlefield and nonland cards in graveyards.&quot;</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/18.png" num="78">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Nora</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>GWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>An Accidental Anarchist</name>
+			<text>[0]: Each player creates a black enchantment token named Smog with &quot;At the beginning of your upkeep, you lose 1 life.&quot;
+[-2]: Gain control of target creature until end of turn. Untap it. It gains haste until end of turn.
+[-3]: Return target creature card with mana value 3 or less from a graveyard to the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/19.png" num="67">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Okus</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ryan Opal Is...Calamity Smith</name>
+			<text>Whenever you activate one of Ryan Opal&apos;s abilities, you may discard a land card. If you do, copy that ability. You may choose new targets for the copy.
+[+2]: Create a Treasure token.
+[+1]: Exile the top card of your library. You may play it until the end of your next turn.
+[-2]: Ryan Opal deals 3 damage to any target.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/20.png" num="48">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Opal</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Penelope, Spirit Caller</name>
+			<text>[+1]: Surveil 1. 
+[-2]: Return up to one target creature card and up to one target sorcery card with total mana value 5 or less from your graveyard to your hand.
+[-3]: Create two 1/1 white Spirit creature tokens with flying.
+Escape—{3}{U}{B}, Exile five other cards from your graveyard (You may cast this card from your graveyard for its escape cost.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/21.png" num="79">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Penelope</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rohith, Lost Rakshasa</name>
+			<text>Whenever a creature you control deals combat damage to an opponent, put a loyalty counter on Rohith, Lost Rakshasa.
+[0]: Rohith becomes a 4/4 Cat creature with trample and hexproof until end of turn. (He doesn&apos;t lose loyalty as a creature)
+[-2]: Put a +1/+1 counter on up to three target creatures.
+[-7]: Rohith deals 4 damage to up to two targets.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/22.png" num="81">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Rohith</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Roxy Robare, Nonstop</name>
+			<text>[+1]: Create two 1/1 red Rebel creature tokens with haste. Exile them at the end of turn.
+[-2]: You get an emblem with &quot;Attacking creatures you control get +1/+0.&quot;
+[-6]: Until end of turn, whenever you cast a spell that targets, copy that spell. You may choose new targets for the copy.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/23.png" num="82">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Roxy</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Salo, Lax Missionary</name>
+			<text>[+1]: Reveal the top card of your library. You gain life equal to its mana value, then put it into your hand.
+[-3]: Gain control of target creature as long as you control Salo. Put a defender counter on it.
+[-9]: You get an emblem with &quot;Whenever a card is put into your hand from anywhere, create a 3/3 white Angel creature token with flying.&quot;</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/24.png" num="83">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Salo</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3WU</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sihari, Location Consultant</name>
+			<text>Whenever you cast a spell, if mana from a Desert was spent to cast it, you may activate one of Sihari&apos;s loyalty abilities an additional time this turn.
+[+1]: Reveal the top card of your library. If it is a land card, put it onto the battlefield. Otherwise, put it into your hand.
+[-2]: Create two 2/2 red Sand creature tokens.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/25.png" num="84">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Sihari</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sindy, On Overdue Vacation</name>
+			<text>[+1]: Reveal the top three cards of your library. You may put a land card from among them into your hand. Put the rest on the bottom of your library in any order. If you didn&apos;t put a card into your hand this way, you gain 2 life.
+[-1]: You may play an additional land this turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/26.png" num="85">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Sindy</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sonya, Technical Tourist</name>
+			<text>[+1]: Draw a card, then you may reveal it. If you don&apos;t reveal an artifact or planeswalker card this way, discard a card.
+[+1]: Untap up to one target land and up to one target nonland permanent. You gain 2 life.
+[-6]: Create a token that&apos;s a nonlegendary copy of another target permanent, except it&apos;s an artifact in addition to its other types.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/27.png" num="86">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Sonya</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sylvia, Rabble Rouser</name>
+			<text>[+1]: Exile the top card of your library. You may play it until end of turn. Permanents cast this way gain haste until end of turn.
+[0]: Sylvia becomes a 2/2 Cat Warrior creature with indestructible, double strike, and haste until end of turn.
+[-3]: Destroy target artifact or nonbasic land.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/28.png" num="52">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Sylvia</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tove, Modern Curiosity</name>
+			<text>[+1]: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+[-2]: Tove deals X damage to any target, where X is the number of differently named lands you control.
+[-6]: Until end of turn, you may play any number of lands. You draw up to five cards and lose that much life.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/29.png" num="87">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Tove</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>BRG</manacost>
+				<cmc>3</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jessica, In Her Element</name>
+			<text>Once each turn, whenever you cast an instant or sorcery spell with mana value 1, you may copy it. You may choose new targets for the copy.
+[+1]: Jessica deals 2 damage to each opponent.
+[-2]: Draw two cards, then discard two cards unless you discard an instant or sorcery card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/30.png" num="75">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Turin</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vande, Ruthless Critic</name>
+			<text>[+1]: Put a +1/+1 counter on up to one target creature you control with power 2 or less.
+[-2]: Exile target nonland legendary permanent.
+[-7]: You get an emblem with &quot;Twice each turn, whenever a permanent you control dies, you may return it to the battlefield tapped.&quot;</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/31.png" num="88">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Vande</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Xanigan, Power Broker</name>
+			<text>At the beginning of combat on your turn, Xanigan becomes a 4/4 Demon creature with lifelink and haste until the end of combat.
+[+1]: Xanigan deals 2 damage to any target. 
+[-2]: You draw two cards and you lose 2 life.
+[-7]: You get an emblem with &quot;Pay 1 life: Draw a card.&quot; and &quot;Pay 4 life: Target creature gets -4/-4 until end of turn.&quot;</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/32.png" num="41">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Xanigan</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2BBB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Zoraya, Beat Dropper</name>
+			<text>When Zoraya, Beat Dropper enters the battlefield, if you didn&apos;t cast any creature spells during your last turn, she deals 3 damage to each creature.
+[+2]: Exile the top card of each player&apos;s library. You may play those cards as long as you control Zoraya. Create a Treasure token. 
+[-3]: Return target creature card with mana value 4 or less from a graveyard to the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/33.png" num="90">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Zoraya</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UBR</manacost>
+				<cmc>5</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Camping Trip</name>
+			<text>Search your library for a Desert card and a basic land card and reveal them. Put up to one of them onto the battlefield tapped, and the rest into your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/34.png" num="55">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>High Budget Parody</name>
+			<text>Choose one or both—
+• Create a token that&apos;s a copy of target creature you control.
+• Create a token that&apos;s a copy of target Saga you control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/35.png" num="21">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Showing Up Stylish</name>
+			<text>Return target creature card from your graveyard to the battlefield. If you called in a favor this game, put an indestructible counter on it.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/36.png" num="39">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Viral Marketing</name>
+			<text>Search your library for a Saga card, reveal it, put it into your hand, then shuffle.
+{3}{B}{G}, Sacrifice a creature, Exile Viral Marketing from your graveyard: Put a Saga from your hand or graveyard onto the battlefield. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/37.png" num="89">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Soak up the Sun</name>
+			<text>Look at the top five cards of your library. Put three of them into your hand, and the rest either on the bottom of your library in any order or into your graveyard.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/38.png" num="26">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Skincare Routine</name>
+			<text>You gain 4 life, then network. (You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/39.png" num="12">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Radiant Beauty</name>
+			<text>You may remove two loyalty counters from a white planeswalker you control rather than pay this spell&apos;s mana cost.
+Target permanent you control gains indestructible until end of turn. Prevent all damage that would be dealt to it this turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/40.png" num="8">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Faerie Queen</name>
+			<text>I, II — Exile target creature or planeswalker you control, then return it to the battlefield under your control.
+III — Network, then network again. (To network, you get {star.png}. You can call in a favor as a sorcery for five {star.png}.)</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/41.png" num="18">IVP</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dusk Beckons</name>
+			<text>Whenever you gain life, target opponent loses that much life.
+I, II — Put a lifelink counter on up to one target creature.
+III — For each opponent you have, you gain 3 life.
+IV — You gain life equal to the number of noncreature cards in your graveyard.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/42.png" num="30">IVP</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>A Day in the Park</name>
+			<text>Enchant basic land
+Whenever enchanted land is tapped for mana, add one mana of any color it didn&apos;t produce.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/43.png" num="58">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ivory Tower Industry</name>
+			<text>Whenever a creature dies, network. (You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)
+At the beginning of your upkeep, if you have 5 or more {star.png} or have called in a favor this game, each opponent loses 3 life and you gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/44.png" num="74">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3WB</manacost>
+				<cmc>5</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Traffic Jam</name>
+			<text>When Traffic Jam enters the battlefield, exile target creature or planeswalker until Traffic Jam leaves the battlefield, then network. (You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)
+As long as you&apos;ve called in a favor this game, Traffic Jam has hexproof.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/45.png" num="15">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ulnian Insights</name>
+			<text>Whenever you cast a noncreature spell, choose one that hasn&apos;t been chosen this turn:
+• Tap up to one target nonland permanent.
+• Create a 1/1 blue Merfolk creature token.
+• Draw a card, then discard a card.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/46.png" num="28">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Opening Night</name>
+			<text>Whenever Opening Night enters the battlefield or you cast a Saga, network. (You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)
+Whenever you call in a favor, return up to one target enchantment card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/47.png" num="7">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>On the Grind</name>
+			<text>Sabotage — Whenever you cast a spell that targets an opponent or a permanent an opponent controls, put a mastery counter on this enchantment, then each player loses life equal to the number of counters on it.
+{B}, Sacrifice this: Draw a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/48.png" num="37">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Trendy Spirituality</name>
+			<text>At the beginning of your upkeep, you may draw a card and put an emptiness counter on Trendy Spirituality.
+Your maximum hand size is reduced by 1 for each emptiness counter on Trendy Spirituality.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/49.png" num="27">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Location Scout</name>
+			<text>Location Scout gets +1/+1 for each Desert you control and Desert card in your graveyard.
+Whenever Location Scout enters the battlefield or attacks, you may sacrifice a land. If you do, search your library for a land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/50.png" num="62">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Graffiti Guide</name>
+			<text>Ward—Pay 4 life
+Once each turn, whenever you cast a spell that targets an opponent or permanent an opponent controls, copy that spell. You may choose new targets for the copy.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/51.png" num="72">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Garden Fountain</name>
+			<text>When Garden Fountain enters, surveil 1, then draw a card.
+{1}{U}, Sacrifice Garden Fountain: Surveil 1, then create a tapped Treasure token.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/52.png" num="19">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Oakgrove Superstar</name>
+			<text>{1}{W}: Put a lifelink counter on Oakgrove Superstar.
+{3}{W}{W}: If Oakgrove Superstar has lifelink, put three +1/+1 counters and a flying counter on it. It becomes an Angel. Activate only once.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/53.png" num="6">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Actor</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Party Queen</name>
+			<text>Haste
+When Party Queen enters, create two Souvenir tokens. (It&apos;s an artifact with &quot;When a creature deals damage to an opponent, you may sacrifice this to put a +1/+1 counter on it.&quot;)
+Whenever Party Queen attacks, you may sacrifice a permanent. If you do, exile the top card of your library. You may play it until end of turn.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/54.png" num="46">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scarlet District Punk</name>
+			<text>Haste
+Players can&apos;t gain life.
+Whenever you attack with three or more creatures, creatures you control get +1/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/55.png" num="49">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Apex Films Dealbroker</name>
+			<text>This spell can&apos;t be countered.
+When Apex Films Dealbroker enters, target opponent reveals their hand. Exile a nonland card revealed this way until Apex Films Dealbroker leaves the battlefield.
+When Apex Films Dealbroker dies, target opponent discards a card. (After returning the exiled card.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/56.png" num="68">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bum a Light</name>
+			<text>Bum a Light deals 2 damage to any target. If you attacked this turn, create a Souvenir token. (It&apos;s an artifact with &quot;When a creature deals damage to an opponent, you may sacrifice this to put a +1/+1 counter on it.&quot;)</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/57.png" num="43">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Living the Yaneta Lifestyle</name>
+			<text>Exile the top two cards of your library. Until the end of your next turn, you may play one of those cards.
+Create a Souvenir token. (It&apos;s an artifact with &quot;When a creature deals damage to an opponent, you may sacrifice this to put a +1/+1 counter on it.&quot;)</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/58.png" num="45">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shoreline Joyrider</name>
+			<text>Artifact creatures you control get +1/+0.
+Whenever a Vehicle crewed by Shoreline Joyrider this turn attacks, you may cast a copy of that Vehicle. (You still pay costs. It resolves as a token if it&apos;s a permanent.)</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/59.png" num="50">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fusion Maestro</name>
+			<text>At the beginning of each end step, if one or more counters were put on you or a creature you control this turn, draw a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/60.png" num="60">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Millenia Studios Secretary</name>
+			<text>When Millenia Studios Secretary enters the battlefield or dies, create a 1/1 Actor creature token that&apos;s all colors and network. (You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/61.png" num="5">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oakgrove Agent</name>
+			<text>When Oakgrove Agent enters the battlefield, network. (You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/62.png" num="63">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RCE Producer</name>
+			<text>Once each turn, whenever you create a token, network. (You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/63.png" num="9">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Northside Ghost</name>
+			<text>Northside Ghost can&apos;t block.
+Whenever a creature you control deals combat damage to an opponent, return Northside Ghost from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/64.png" num="35">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Spirit Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Holographic Celebrity</name>
+			<text>When Holographic Celebrity enters the battlefield, network. (You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/65.png" num="22">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oakgrove Scion</name>
+			<text>Flying
+Oakgrove Scion can&apos;t block.
+Whenever Oakgrove Scion attacks, network. (You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/66.png" num="36">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oni Punk</name>
+			<text>When Oni Punk enters the battlefield, you draw a card and you lose 1 life.
+When Oni Punk dies, create a Treasure token.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/67.png" num="38">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Talented Tagger</name>
+			<text>Prowess
+Sabotage — Whenever an opponent or a permanent an opponent controls becomes the target of a spell you control, Talented Tagger deals 1 damage to that opponent.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/68.png" num="54">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artist</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ulnian Tourist</name>
+			<text>When Ulnian Tourist enters the battlefield, network. (You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)
+{T}: Target creature gets +1/+1 and gains first strike until end of turn. Activate only as a sorcery and if you have 3 or more {star.png} or have called in a favor this game.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/69.png" num="16">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Take a Trip</name>
+			<text>Exile target creature, then return it to the battlefield under its owner&apos;s control. You may tap it.
+Ignition {1}{W} ({1}{W}: Return this from the graveyard to the battlefield as a Vehicle artifact with crew 3. Exile it if it would leave the battlefield. Activate only as a sorcery.)</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/70.png" num="14">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Luxurious Estate</name>
+			<text>As Luxurious Estate enters the battlefield, you may pay 2 life. If you don&apos;t, it enters the battlefield tapped.
+{T}: Add {C}.
+{T}, Pay 1 life: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/71.png" num="95">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Brutal Cradle</name>
+			<text>{T}: Add {C}.
+{10}, {T}: Create a 2/2 red Sand creature token. It can&apos;t block this turn. This ability costs {1} less to activate for each other Desert you control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/72.png" num="92">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Joshua Tree Pass</name>
+			<text>{T}: Add {C}.
+{T}: Add two mana of any one color. Activate only if you control four or more Deserts.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/73.png" num="94">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Solkern Highway</name>
+			<text>Solkern Highway enters the battlefield tapped.
+As Solkern Highway enters the battlefield, choose a color.
+Solkern Highway and other Deserts you control have &quot;{T}: Add one mana of the chosen color.&quot;</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/74.png" num="98">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Suntouched Bluffs</name>
+			<text>Suntouched Bluffs enters the battlefield with a charge counter on it.
+{T}: Add {C}.
+{T}, Remove a charge counter from Suntouched Bluffs: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/75.png" num="100">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Routine Inspection</name>
+			<text>Mill two cards, then draw a card.
+Ignition {1}{U} ({1}{U}: Return this from the graveyard to the battlefield as a Vehicle artifact with crew 3. Exile it if it would leave the battlefield. Activate only as a sorcery.)
+Flying</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/76.png" num="24">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Burning Rubber</name>
+			<text>Burning Rubber deals 3 damage to any target.
+Ignition {2}{R} ({2}{R}: Return this from the graveyard to the battlefield as a Vehicle artifact with crew 3. Exile it if it would leave the battlefield. Activate only as a sorcery.)
+Trample</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/77.png" num="44">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Take in the Sights</name>
+			<text>Discard a card, then draw two cards.
+Ignition {1}{R}{R} ({1}{R}{R}: Return this from the graveyard to the battlefield as a Vehicle artifact with crew 3. Exile it if it would leave the battlefield. Activate only as a sorcery.)
+Menace</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/78.png" num="53">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Reckless Vacationing</name>
+			<text>Choose one—
+• Destroy target artifact or enchantment.
+• You gain 3 life.
+Ignition {1}{W} ({1}{W}: Return this from the graveyard to the battlefield as a Vehicle artifact with crew 3. Exile it if it would leave the battlefield. Activate only as a sorcery.)</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/79.png" num="10">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stay Steady</name>
+			<text>Stay Steady deals 4 damage to target tapped creature.
+Ignition {2}{W} ({2}{W}: Return this from the graveyard to the battlefield as a Vehicle artifact with crew 3. Exile it if it would leave the battlefield. Activate only as a sorcery.)
+Vigilance</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/80.png" num="13">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sunset Chaser</name>
+			<text>When Sunset Chaser enters, you may discard a card. If you do, draw a card.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/81.png" num="51">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Actor IVP</name>
+			<text>This creature is all colors</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/82.png" num="6">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Actor</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Calling Back Home</name>
+			<text>Whenever one or more counters are put on you or a permanent you control, note it and one of its types. If you haven&apos;t noted it or that type yet this turn, create a 1/1 Actor creature token that&apos;s all colors.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/83.png" num="70">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Right and Royalty</name>
+			<text>I, II — Create a 1/1 Actor creature token that is all colors.
+III — Tap up to two target creatures.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/84.png" num="11">IVP</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Enter the Endgame</name>
+			<text>The thrilling conclusion to a ten year saga.
+I — Create three 2/2 black Nightmare creature tokens.
+II — Creatures you control get +1/+0 and gain trample until end of turn.
+III — Each opponent loses 4 life and you gain 4 life.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/85.png" num="71">IVP</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4BG</manacost>
+				<cmc>6</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Girl Who Wouldn&apos;t Die</name>
+			<text>I — Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+II — Each opponent loses 2 life and you gain 2 life.
+III — Return target creature card with mana value 2 or less from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/86.png" num="31">IVP</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pilfered Process</name>
+			<text>I, II — Target opponent mills three cards.
+III — You may cast target nonland card from a graveyard this turn and you may spend blue mana as though it were mana of any color to cast it.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/87.png" num="23">IVP</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Solkern Gila</name>
+			<text>This spell costs {1} less to cast for each Desert you control.
+When this enters, choose one—
+• Destroy target artifact or enchantment.
+• Gain 4 life.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/88.png" num="66">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Leading Lady</name>
+			<text>Whenever you cast an enchantment spell, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/89.png" num="61">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Actor</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Forest&apos;s Edge</name>
+			<text>Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. 
+Create a Treasure token.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/90.png" num="59">IVP</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nasty Pair</name>
+			<text>Whenever a player discards a card, put a +1/+1 counter on Nasty Pair.
+Sabotage — Whenever an opponent or a permanent an opponent controls becomes the target of a spell you control, that player discards a card.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/91.png" num="33">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Dog Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ace Amateur</name>
+			<text>Sabotage — Whenever an opponent or a permanent an opponent controls becomes the target of a spell you control, target creature can&apos;t block this turn.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/92.png" num="42">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>City Restoration Project</name>
+			<text>Whenever a land you control enters, network. (You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)
+At the beginning of your upkeep, you may pay {1}. If you do, return target land card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/93.png" num="57">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Chosen of the Ghosts</name>
+			<text>I — Destroy up to one target tapped creature.
+II — Create a 1/1 Actor creature token that&apos;s all colors.
+III — Put a +1/+1 counter on each creature you control.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/94.png" num="3">IVP</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Snowfall</name>
+			<text>I, II — Tap target creature you don&apos;t control. It doesn&apos;t untap as long as you control this enchantment.
+III — Draw a card.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/95.png" num="25">IVP</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Endless Opportunities</name>
+			<text>At the beginning of each end step, if you cast a noncreature spell this turn, network. (You get {star.png}. As a sorcery, spend 5 {star.png} to call in a favor.)
+During each opponent&apos;s untap step, untap two lands you control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/96.png" num="17">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Carmichael Beach Lifeguard</name>
+			<text>Trample
+Whenever this creature deals combat damage to an opponent, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/97.png" num="56">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Gymbro</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Personal Shopper</name>
+			<text>Whenever you cast a creature spell, create a Souvenir token. (It&apos;s an artifact with &quot;When a creature deals damage to an opponent, you may sacrifice this to put a +1/+1 counter on it.&quot;)</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/98.png" num="65">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rising Star</name>
+			<text>Saga spells you cast cost {1} less to cast.
+When this creature enters the battlefield, reveal the top five cards of your library. You may put an enchantment card from among them into your hand, and the rest on the bottom of your library in any order.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/99.png" num="80">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Actor</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Road Rager</name>
+			<text>Haste
+Whenever a Vehicle you control enters, it gains haste and becomes an artifact creature until end of turn.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/100.png" num="47">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reflecting Canyon</name>
+			<text>As Reflecting Canyon enters the battlefield, you lose 2 life, then choose two colors.
+{T}: Add one mana of either of the chosen colors.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/101.png" num="97">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>The Night Hungers</name>
+			<text>This spell has flash as long as you control a Desert.
+Target creature gets -3/-3 until end of turn. You gain 3 life.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/102.png" num="34">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Boundless Playa</name>
+			<text>{T}: Add {C}.
+{T}, Pay 1 life: Add {W}. 
+{2}{W}, {T}, Sacrifice a Desert: Return target creature card with mana value 2 or less from your graveyard to the battlefield. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/103.png" num="91">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mystic Arroyo</name>
+			<text>{T}: Add {C}.
+{T}, Pay 1 life: Add {U}.
+{3}{U}, {T}, Sacrifice a Desert: Return target instant or sorcery card from your graveyard to your hand. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/104.png" num="96">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Eroded Spires</name>
+			<text>{T}: Add {C}.
+{T}: Add {B}. You lose 1 life.
+{2}{B}{B}, {T}, Sacrifice a Desert: Each opponent loses 2 life and you gain 2 life. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/105.png" num="93">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Towering Butte</name>
+			<text>{T}: Add {C}.
+{T}, Pay 1 life: Add {R}.
+{3}{R}, {T}, Sacrifice a Desert: Create a 2/2 red Sand creature token. It gains haste until end of turn. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/106.png" num="101">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sprawling Chaparral</name>
+			<text>{T}: Add {C}.
+{T}, Pay 1 life: Add {G}.
+{4}{G}, {T}, Sacrifice a Desert: Create a token that&apos;s a copy of target creature you control. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/107.png" num="99">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sand IVP</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/108.png" num="5">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Sand</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/109.png" num="102">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/110.png" num="103">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/111.png" num="104">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/112.png" num="105">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/IVP-files/img/113.png" num="106">IVP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

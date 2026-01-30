@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/DOA-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="../sets/DOA-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
 	<title>DOA visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
 	<style>
 		@font-face {
 			font-family: Beleren;
-			src: url('/resources/beleren.ttf');
+			src: url('../resources/beleren.ttf');
 		}
 		body {
 			font-family: Arial, sans-serif;
@@ -45,13 +48,15 @@
 			left: 10%;
 			top: 10%;
 			width: 85%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('../img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -62,7 +67,7 @@
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('../img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -82,6 +87,7 @@
 			display: block;
 			visibility: hidden;
 			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
 		}
 		.banner {
 			width: 100%;
@@ -102,9 +108,10 @@
 		.container img {
 			width: 100%;
 			height: auto;
+			border-radius: 3.733% / 2.677%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('../img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -118,7 +125,7 @@
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('../img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -174,317 +181,336 @@
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/DOA-files/logo.png" />
-	<img class="preload-hidden" src="/sets/101-files/icon.png" />
-		<img class="preload-hidden" src="/sets/AGC-files/icon.png" />
-		<img class="preload-hidden" src="/sets/AVX-files/icon.png" />
-		<img class="preload-hidden" src="/sets/BLR-files/icon.png" />
-		<img class="preload-hidden" src="/sets/DOA-files/icon.png" />
-		<img class="preload-hidden" src="/sets/IVP-files/icon.png" />
-		<img class="preload-hidden" src="/sets/LVS-files/icon.png" />
-		<img class="preload-hidden" src="/sets/PTXX-files/icon.png" />
-		<img class="preload-hidden" src="/sets/SOL-files/icon.png" />
-		<img class="preload-hidden" src="/sets/WTM-files/icon.png" />
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/DOA-files/logo.png" />
+	<img class="preload-hidden" src="../sets/101-files/icon.png" />
+		<img class="preload-hidden" src="../sets/AGC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/AVX-files/icon.png" />
+		<img class="preload-hidden" src="../sets/BLR-files/icon.png" />
+		<img class="preload-hidden" src="../sets/DOA-files/icon.png" />
+		<img class="preload-hidden" src="../sets/IVP-files/icon.png" />
+		<img class="preload-hidden" src="../sets/LVS-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MOV-files/icon.png" />
+		<img class="preload-hidden" src="../sets/PTXX-files/icon.png" />
+		<img class="preload-hidden" src="../sets/SOL-files/icon.png" />
+		<img class="preload-hidden" src="../sets/WTM-files/icon.png" />
 		<div class="header">
 		<div class="search-grid">
-			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
-			<img class="sg-icon" src="/img/search.png">
-			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
-			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
-			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
 
 	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
-		<a class="set-bar" href="DOA"><img src="/sets/DOA-files/icon.png">Discoveries of Akieva</a>
+		<a class="set-bar" href="../previews/DOA"><img src="../sets/DOA-files/icon.png">Discoveries of Akieva</a>
 	
-		<a class="set-bar inactive" href="101"><img src="/sets/101-files/icon.png">Storytime</a>
+		<a class="set-bar inactive" href="../previews/101"><img src="../sets/101-files/icon.png">Storytime</a>
 	
-		<a class="set-bar inactive" href="AGC"><img src="/sets/AGC-files/icon.png">Agonos Cube</a>
+		<a class="set-bar inactive" href="../previews/AGC"><img src="../sets/AGC-files/icon.png">Agonos Cube</a>
 	
-		<a class="set-bar inactive" href="AVX"><img src="/sets/AVX-files/icon.png">Animus Vox</a>
+		<a class="set-bar inactive" href="../previews/AVX"><img src="../sets/AVX-files/icon.png">Animus Vox</a>
 	
-		<a class="set-bar inactive" href="BLR"><img src="/sets/BLR-files/icon.png">Blood Like Rivers</a>
+		<a class="set-bar inactive" href="../previews/BLR"><img src="../sets/BLR-files/icon.png">Blood Like Rivers</a>
 	
-		<a class="set-bar inactive" href="IVP"><img src="/sets/IVP-files/icon.png">Invalid Precedent</a>
+		<a class="set-bar inactive" href="../previews/IVP"><img src="../sets/IVP-files/icon.png">Invalid Precedent</a>
 	
-		<a class="set-bar inactive" href="LVS"><img src="/sets/LVS-files/icon.png">Love Song</a>
+		<a class="set-bar inactive" href="../previews/LVS"><img src="../sets/LVS-files/icon.png">Love Song</a>
 	
-		<a class="set-bar inactive" href="PTXX"><img src="/sets/PTXX-files/icon.png">Pro Tour 20XX</a>
+		<a class="set-bar inactive" href="../previews/MOV"><img src="../sets/MOV-files/icon.png">Motley Oak (Field Test)</a>
 	
-		<a class="set-bar inactive" href="SOL"><img src="/sets/SOL-files/icon.png">Solar Cube</a>
+		<a class="set-bar inactive" href="../previews/PTXX"><img src="../sets/PTXX-files/icon.png">Pro Tour 20XX</a>
 	
-		<a class="set-bar inactive" href="WTM"><img src="/sets/WTM-files/icon.png">Walking the Multiverse</a>
+		<a class="set-bar inactive" href="../previews/SOL"><img src="../sets/SOL-files/icon.png">Solar Cube</a>
+	
+		<a class="set-bar inactive" href="../previews/WTM"><img src="../sets/WTM-files/icon.png">Walking the Multiverse</a>
 	
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/DOA-files/logo.png">
+		<img class="logo" src="../sets/DOA-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\1_Alia, Bearer of Morning.jpg" id="1_Alia, Bearer of Morning" data-flag="@X" onclick="openSidebar('1_Alia, Bearer of Morning',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\27_Artificer's Prowess.jpg" id="27_Artificers Prowess" data-flag="@X" onclick="openSidebar('27_Artificers Prowess',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\53_Ambitious Necromancer.jpg" id="53_Ambitious Necromancer" data-flag="@X" onclick="openSidebar('53_Ambitious Necromancer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\79_Arcane Metalcrafter.jpg" id="79_Arcane Metalcrafter" data-flag="@X" onclick="openSidebar('79_Arcane Metalcrafter',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\105_Advanced Powercell.jpg" id="105_Advanced Powercell" data-flag="@X" onclick="openSidebar('105_Advanced Powercell',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\2_Alia's Enforcer.jpg" id="2_Alias Enforcer" data-flag="@X" onclick="openSidebar('2_Alias Enforcer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\28_Artistic Vision.jpg" id="28_Artistic Vision" data-flag="@X" onclick="openSidebar('28_Artistic Vision',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\54_Atychiphobia.jpg" id="54_Atychiphobia" data-flag="@X" onclick="openSidebar('54_Atychiphobia',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\80_Artisan of Brutality.jpg" id="80_Artisan of Brutality" data-flag="@X" onclick="openSidebar('80_Artisan of Brutality',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\106_Ancient of the Glade.jpg" id="106_Ancient of the Glade" data-flag="@X" onclick="openSidebar('106_Ancient of the Glade',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\3_Align the Astrolabe.jpg" id="3_Align the Astrolabe" data-flag="@X" onclick="openSidebar('3_Align the Astrolabe',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\29_Avid Researcher.jpg" id="29_Avid Researcher" data-flag="@X" onclick="openSidebar('29_Avid Researcher',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\55_Beckon Darkness.jpg" id="55_Beckon Darkness" data-flag="@X" onclick="openSidebar('55_Beckon Darkness',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\81_Bottled Lightning.jpg" id="81_Bottled Lightning" data-flag="@X" onclick="openSidebar('81_Bottled Lightning',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\107_Backwoods Cultivator.jpg" id="107_Backwoods Cultivator" data-flag="@X" onclick="openSidebar('107_Backwoods Cultivator',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\4_Banish Through the Veil.jpg" id="4_Banish Through the Veil" data-flag="@X" onclick="openSidebar('4_Banish Through the Veil',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\30_The Clocktower Project.jpg" id="30_The Clocktower Project" data-flag="@X" onclick="openSidebar('30_The Clocktower Project',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\56_Beckoner of Horrors.jpg" id="56_Beckoner of Horrors" data-flag="@X" onclick="openSidebar('56_Beckoner of Horrors',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\82_Calamity Dragon.jpg" id="82_Calamity Dragon" data-flag="@X" onclick="openSidebar('82_Calamity Dragon',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\108_Dovon, Verdant Experimenter.jpg" id="108_Dovon, Verdant Experimenter" data-flag="@X" onclick="openSidebar('108_Dovon, Verdant Experimenter',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\5_Benevolent Malach.jpg" id="5_Benevolent Malach" data-flag="@X" onclick="openSidebar('5_Benevolent Malach',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\31_Disable.jpg" id="31_Disable" data-flag="@X" onclick="openSidebar('31_Disable',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\57_Channeler of the Veil.jpg" id="57_Channeler of the Veil" data-flag="@X" onclick="openSidebar('57_Channeler of the Veil',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\83_Careless Violence.jpg" id="83_Careless Violence" data-flag="@X" onclick="openSidebar('83_Careless Violence',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\109_The Feller of Greatwoods.jpg" id="109_The Feller of Greatwoods" data-flag="@X" onclick="openSidebar('109_The Feller of Greatwoods',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\6_Blessing of Morning.jpg" id="6_Blessing of Morning" data-flag="@X" onclick="openSidebar('6_Blessing of Morning',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\32_Fractal Meditation.jpg" id="32_Fractal Meditation" data-flag="@X" onclick="openSidebar('32_Fractal Meditation',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\58_Corrupted Knowledge.jpg" id="58_Corrupted Knowledge" data-flag="@X" onclick="openSidebar('58_Corrupted Knowledge',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\84_Claimed by the Veil.jpg" id="84_Claimed by the Veil" data-flag="@X" onclick="openSidebar('84_Claimed by the Veil',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\110_Flamboyant Inventor.jpg" id="110_Flamboyant Inventor" data-flag="@X" onclick="openSidebar('110_Flamboyant Inventor',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\7_Citywide Automation.jpg" id="7_Citywide Automation" data-flag="@X" onclick="openSidebar('7_Citywide Automation',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\33_Frozen Moment.jpg" id="33_Frozen Moment" data-flag="@X" onclick="openSidebar('33_Frozen Moment',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\59_Disqualify.jpg" id="59_Disqualify" data-flag="@X" onclick="openSidebar('59_Disqualify',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\85_Dedicated Weaponsmith.jpg" id="85_Dedicated Weaponsmith" data-flag="@X" onclick="openSidebar('85_Dedicated Weaponsmith',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\111_Forest Fellowship.jpg" id="111_Forest Fellowship" data-flag="@X" onclick="openSidebar('111_Forest Fellowship',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\8_Consort of Morning.jpg" id="8_Consort of Morning" data-flag="@X" onclick="openSidebar('8_Consort of Morning',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\34_Herald of Wisdom.jpg" id="34_Herald of Wisdom" data-flag="@X" onclick="openSidebar('34_Herald of Wisdom',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\60_Duress.jpg" id="60_Duress" data-flag="@X" onclick="openSidebar('60_Duress',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\86_Eleventh Hour Breakthrough.jpg" id="86_Eleventh Hour Breakthrough" data-flag="@X" onclick="openSidebar('86_Eleventh Hour Breakthrough',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\112_Herald of Might.jpg" id="112_Herald of Might" data-flag="@X" onclick="openSidebar('112_Herald of Might',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\9_Crystallized Hope.jpg" id="9_Crystallized Hope" data-flag="@X" onclick="openSidebar('9_Crystallized Hope',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\35_Imagine.jpg" id="35_Imagine" data-flag="@X" onclick="openSidebar('35_Imagine',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\61_Fallback Plan.jpg" id="61_Fallback Plan" data-flag="@X" onclick="openSidebar('61_Fallback Plan',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\87_Endless Assembly.jpg" id="87_Endless Assembly" data-flag="@X" onclick="openSidebar('87_Endless Assembly',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\113_Hunt the Monstrous.jpg" id="113_Hunt the Monstrous" data-flag="@X" onclick="openSidebar('113_Hunt the Monstrous',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\10_Dawnwisp Vents.jpg" id="10_Dawnwisp Vents" data-flag="@X" onclick="openSidebar('10_Dawnwisp Vents',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\36_Imitator of Drakes.jpg" id="36_Imitator of Drakes" data-flag="@X" onclick="openSidebar('36_Imitator of Drakes',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\62_Gate to the Beyond.jpg" id="62_Gate to the Beyond" data-flag="@X" onclick="openSidebar('62_Gate to the Beyond',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\88_Fento, Nova Crusader.jpg" id="88_Fento, Nova Crusader" data-flag="@X" onclick="openSidebar('88_Fento, Nova Crusader',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\114_Kati Evalin, World Wanderer.jpg" id="114_Kati Evalin, World Wanderer" data-flag="@X" onclick="openSidebar('114_Kati Evalin, World Wanderer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\11_Disassociate.jpg" id="11_Disassociate" data-flag="@X" onclick="openSidebar('11_Disassociate',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\37_Iterative Designer.jpg" id="37_Iterative Designer" data-flag="@X" onclick="openSidebar('37_Iterative Designer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\63_Glimpse the Veil.jpg" id="63_Glimpse the Veil" data-flag="@X" onclick="openSidebar('63_Glimpse the Veil',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\89_Flamecloaked Artisan.jpg" id="89_Flamecloaked Artisan" data-flag="@X" onclick="openSidebar('89_Flamecloaked Artisan',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\115_Kindly Greatwood.jpg" id="115_Kindly Greatwood" data-flag="@X" onclick="openSidebar('115_Kindly Greatwood',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\12_Eager Observer.jpg" id="12_Eager Observer" data-flag="@X" onclick="openSidebar('12_Eager Observer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\38_Marin Polgek, Academy Heiress.jpg" id="38_Marin Polgek, Academy Heiress" data-flag="@X" onclick="openSidebar('38_Marin Polgek, Academy Heiress',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\64_Iken Company Nightwalker.jpg" id="64_Iken Company Nightwalker" data-flag="@X" onclick="openSidebar('64_Iken Company Nightwalker',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\90_Forgemaster's Charm.jpg" id="90_Forgemasters Charm" data-flag="@X" onclick="openSidebar('90_Forgemasters Charm',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\116_Legends Remembered.jpg" id="116_Legends Remembered" data-flag="@X" onclick="openSidebar('116_Legends Remembered',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\13_Enori Duelist.jpg" id="13_Enori Duelist" data-flag="@X" onclick="openSidebar('13_Enori Duelist',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\39_Observer of Secret Paths.jpg" id="39_Observer of Secret Paths" data-flag="@X" onclick="openSidebar('39_Observer of Secret Paths',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\65_Inevitable Future.jpg" id="65_Inevitable Future" data-flag="@X" onclick="openSidebar('65_Inevitable Future',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\91_Instant of Brilliance.jpg" id="91_Instant of Brilliance" data-flag="@X" onclick="openSidebar('91_Instant of Brilliance',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\117_Malicious Growth.jpg" id="117_Malicious Growth" data-flag="@X" onclick="openSidebar('117_Malicious Growth',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\14_Final Symphony.jpg" id="14_Final Symphony" data-flag="@X" onclick="openSidebar('14_Final Symphony',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\40_Open the Secret Paths.jpg" id="40_Open the Secret Paths" data-flag="@X" onclick="openSidebar('40_Open the Secret Paths',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\66_Irika, Wielder of Secrets.jpg" id="66_Irika, Wielder of Secrets" data-flag="@X" onclick="openSidebar('66_Irika, Wielder of Secrets',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\92_Maniacal Elementalist.jpg" id="92_Maniacal Elementalist" data-flag="@X" onclick="openSidebar('92_Maniacal Elementalist',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\118_Oldgrove Nurturer.jpg" id="118_Oldgrove Nurturer" data-flag="@X" onclick="openSidebar('118_Oldgrove Nurturer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\15_Lockdown.jpg" id="15_Lockdown" data-flag="@X" onclick="openSidebar('15_Lockdown',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\41_Reality Rewoven.jpg" id="41_Reality Rewoven" data-flag="@X" onclick="openSidebar('41_Reality Rewoven',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\67_Mastery of the Veil.jpg" id="67_Mastery of the Veil" data-flag="@X" onclick="openSidebar('67_Mastery of the Veil',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\93_Martial Maestro.jpg" id="93_Martial Maestro" data-flag="@X" onclick="openSidebar('93_Martial Maestro',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\119_Powercell Cultivator.jpg" id="119_Powercell Cultivator" data-flag="@X" onclick="openSidebar('119_Powercell Cultivator',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\16_Matron of Machines.jpg" id="16_Matron of Machines" data-flag="@X" onclick="openSidebar('16_Matron of Machines',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\42_Reclusive Archmage.jpg" id="42_Reclusive Archmage" data-flag="@X" onclick="openSidebar('42_Reclusive Archmage',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\68_Monstrous Hunter.jpg" id="68_Monstrous Hunter" data-flag="@X" onclick="openSidebar('68_Monstrous Hunter',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\94_Meteor Harbinger.jpg" id="94_Meteor Harbinger" data-flag="@X" onclick="openSidebar('94_Meteor Harbinger',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\120_Powercell Engineer.jpg" id="120_Powercell Engineer" data-flag="@X" onclick="openSidebar('120_Powercell Engineer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\17_Morning's Warden.jpg" id="17_Mornings Warden" data-flag="@X" onclick="openSidebar('17_Mornings Warden',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\43_Reconsider.jpg" id="43_Reconsider" data-flag="@X" onclick="openSidebar('43_Reconsider',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\69_Power From Beyond.jpg" id="69_Power From Beyond" data-flag="@X" onclick="openSidebar('69_Power From Beyond',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\95_Mirrorcast Battlemage.jpg" id="95_Mirrorcast Battlemage" data-flag="@X" onclick="openSidebar('95_Mirrorcast Battlemage',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\121_Primal Ruffian.jpg" id="121_Primal Ruffian" data-flag="@X" onclick="openSidebar('121_Primal Ruffian',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\18_Nina, Master of Arms.jpg" id="18_Nina, Master of Arms" data-flag="@X" onclick="openSidebar('18_Nina, Master of Arms',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\44_Reinvent.jpg" id="44_Reinvent" data-flag="@X" onclick="openSidebar('44_Reinvent',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\70_Propagation Plant.jpg" id="70_Propagation Plant" data-flag="@X" onclick="openSidebar('70_Propagation Plant',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\96_Novaheart Dragon.jpg" id="96_Novaheart Dragon" data-flag="@X" onclick="openSidebar('96_Novaheart Dragon',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\122_Queen of Unclaimed Lands.jpg" id="122_Queen of Unclaimed Lands" data-flag="@X" onclick="openSidebar('122_Queen of Unclaimed Lands',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\19_Polgek Artisan.jpg" id="19_Polgek Artisan" data-flag="@X" onclick="openSidebar('19_Polgek Artisan',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\45_Resonating Force.jpg" id="45_Resonating Force" data-flag="@X" onclick="openSidebar('45_Resonating Force',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\71_Sealer of Pacts.jpg" id="71_Sealer of Pacts" data-flag="@X" onclick="openSidebar('71_Sealer of Pacts',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\97_Philosophy of Fire.jpg" id="97_Philosophy of Fire" data-flag="@X" onclick="openSidebar('97_Philosophy of Fire',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\123_Ravenous Hydra.jpg" id="123_Ravenous Hydra" data-flag="@X" onclick="openSidebar('123_Ravenous Hydra',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\20_Polgek Restorationist.jpg" id="20_Polgek Restorationist" data-flag="@X" onclick="openSidebar('20_Polgek Restorationist',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\46_Surmise Reality's Limits.jpg" id="46_Surmise Realitys Limits" data-flag="@X" onclick="openSidebar('46_Surmise Realitys Limits',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\72_Secret Thief.jpg" id="72_Secret Thief" data-flag="@X" onclick="openSidebar('72_Secret Thief',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\98_Polgek Songcrafter.jpg" id="98_Polgek Songcrafter" data-flag="@X" onclick="openSidebar('98_Polgek Songcrafter',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\124_Reclamation Grovesculptor.jpg" id="124_Reclamation Grovesculptor" data-flag="@X" onclick="openSidebar('124_Reclamation Grovesculptor',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\21_Protector of the League.jpg" id="21_Protector of the League" data-flag="@X" onclick="openSidebar('21_Protector of the League',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\47_Terraformer's Globe.jpg" id="47_Terraformers Globe" data-flag="@X" onclick="openSidebar('47_Terraformers Globe',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\73_Sesilius, Chosen Speaker.jpg" id="73_Sesilius, Chosen Speaker" data-flag="@X" onclick="openSidebar('73_Sesilius, Chosen Speaker',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\99_Pyromantic Expertise.jpg" id="99_Pyromantic Expertise" data-flag="@X" onclick="openSidebar('99_Pyromantic Expertise',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\125_Reclamation Sage.jpg" id="125_Reclamation Sage" data-flag="@X" onclick="openSidebar('125_Reclamation Sage',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\22_Purging Light.jpg" id="22_Purging Light" data-flag="@X" onclick="openSidebar('22_Purging Light',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\48_Unified Theory.jpg" id="48_Unified Theory" data-flag="@X" onclick="openSidebar('48_Unified Theory',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\74_Slay the Unkillable.jpg" id="74_Slay the Unkillable" data-flag="@X" onclick="openSidebar('74_Slay the Unkillable',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\100_Scorch.jpg" id="100_Scorch" data-flag="@X" onclick="openSidebar('100_Scorch',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\126_Reconstruct.jpg" id="126_Reconstruct" data-flag="@X" onclick="openSidebar('126_Reconstruct',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\23_Rilken Forcefield Keeper.jpg" id="23_Rilken Forcefield Keeper" data-flag="@X" onclick="openSidebar('23_Rilken Forcefield Keeper',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\49_Unite the Powergrid.jpg" id="49_Unite the Powergrid" data-flag="@X" onclick="openSidebar('49_Unite the Powergrid',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\75_Veilborn Hunter.jpg" id="75_Veilborn Hunter" data-flag="@X" onclick="openSidebar('75_Veilborn Hunter',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\101_Siraj, Interplanar Thief.jpg" id="101_Siraj, Interplanar Thief" data-flag="@X" onclick="openSidebar('101_Siraj, Interplanar Thief',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\127_Seeker of Untouched Beauty.jpg" id="127_Seeker of Untouched Beauty" data-flag="@X" onclick="openSidebar('127_Seeker of Untouched Beauty',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\24_Rilken Preserver.jpg" id="24_Rilken Preserver" data-flag="@X" onclick="openSidebar('24_Rilken Preserver',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\50_Veilborn Meddler.jpg" id="50_Veilborn Meddler" data-flag="@X" onclick="openSidebar('50_Veilborn Meddler',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\76_Veilborn Stalker.jpg" id="76_Veilborn Stalker" data-flag="@X" onclick="openSidebar('76_Veilborn Stalker',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\102_Speedreading.jpg" id="102_Speedreading" data-flag="@X" onclick="openSidebar('102_Speedreading',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\128_Telvim Explorer.jpg" id="128_Telvim Explorer" data-flag="@X" onclick="openSidebar('128_Telvim Explorer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\25_Seek Perfection.jpg" id="25_Seek Perfection" data-flag="@X" onclick="openSidebar('25_Seek Perfection',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\51_Volta, Construct Consultant.jpg" id="51_Volta, Construct Consultant" data-flag="@X" onclick="openSidebar('51_Volta, Construct Consultant',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\77_Veilcrossed Twins.jpg" id="77_Veilcrossed Twins" data-flag="@X" onclick="openSidebar('77_Veilcrossed Twins',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\103_Vitin Blastgear.jpg" id="103_Vitin Blastgear" data-flag="@X" onclick="openSidebar('103_Vitin Blastgear',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\129_Telvim Sculptor.jpg" id="129_Telvim Sculptor" data-flag="@X" onclick="openSidebar('129_Telvim Sculptor',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\26_Self Replication.jpg" id="26_Self Replication" data-flag="@X" onclick="openSidebar('26_Self Replication',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\52_Watch Time Slip Away.jpg" id="52_Watch Time Slip Away" data-flag="@X" onclick="openSidebar('52_Watch Time Slip Away',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\78_Violent Collapse.jpg" id="78_Violent Collapse" data-flag="@X" onclick="openSidebar('78_Violent Collapse',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\104_Vitin Forgemaster.jpg" id="104_Vitin Forgemaster" data-flag="@X" onclick="openSidebar('104_Vitin Forgemaster',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\130_Unexplored Regions.jpg" id="130_Unexplored Regions" data-flag="@X" onclick="openSidebar('130_Unexplored Regions',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="sets\DOA-files\img\1_Alia, Bearer of Morning.jpg" id="DOA_1_Alia, Bearer of Morning" data-flag="@X" onclick="openSidebar('DOA_1_Alia, Bearer of Morning',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\27_Artificer's Prowess.jpg" id="DOA_27_Artificers Prowess" data-flag="@X" onclick="openSidebar('DOA_27_Artificers Prowess',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\53_Ambitious Necromancer.jpg" id="DOA_53_Ambitious Necromancer" data-flag="@X" onclick="openSidebar('DOA_53_Ambitious Necromancer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\79_Arcane Metalcrafter.jpg" id="DOA_79_Arcane Metalcrafter" data-flag="@X" onclick="openSidebar('DOA_79_Arcane Metalcrafter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\105_Advanced Powercell.jpg" id="DOA_105_Advanced Powercell" data-flag="@X" onclick="openSidebar('DOA_105_Advanced Powercell',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\2_Alia's Enforcer.jpg" id="DOA_2_Alias Enforcer" data-flag="@X" onclick="openSidebar('DOA_2_Alias Enforcer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\28_Artistic Vision.jpg" id="DOA_28_Artistic Vision" data-flag="@X" onclick="openSidebar('DOA_28_Artistic Vision',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\54_Atychiphobia.jpg" id="DOA_54_Atychiphobia" data-flag="@X" onclick="openSidebar('DOA_54_Atychiphobia',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\80_Artisan of Brutality.jpg" id="DOA_80_Artisan of Brutality" data-flag="@X" onclick="openSidebar('DOA_80_Artisan of Brutality',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\106_Ancient of the Glade.jpg" id="DOA_106_Ancient of the Glade" data-flag="@X" onclick="openSidebar('DOA_106_Ancient of the Glade',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\3_Align the Astrolabe.jpg" id="DOA_3_Align the Astrolabe" data-flag="@X" onclick="openSidebar('DOA_3_Align the Astrolabe',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\29_Avid Researcher.jpg" id="DOA_29_Avid Researcher" data-flag="@X" onclick="openSidebar('DOA_29_Avid Researcher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\55_Beckon Darkness.jpg" id="DOA_55_Beckon Darkness" data-flag="@X" onclick="openSidebar('DOA_55_Beckon Darkness',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\81_Bottled Lightning.jpg" id="DOA_81_Bottled Lightning" data-flag="@X" onclick="openSidebar('DOA_81_Bottled Lightning',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\107_Backwoods Cultivator.jpg" id="DOA_107_Backwoods Cultivator" data-flag="@X" onclick="openSidebar('DOA_107_Backwoods Cultivator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\4_Banish Through the Veil.jpg" id="DOA_4_Banish Through the Veil" data-flag="@X" onclick="openSidebar('DOA_4_Banish Through the Veil',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\30_The Clocktower Project.jpg" id="DOA_30_The Clocktower Project" data-flag="@X" onclick="openSidebar('DOA_30_The Clocktower Project',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\56_Beckoner of Horrors.jpg" id="DOA_56_Beckoner of Horrors" data-flag="@X" onclick="openSidebar('DOA_56_Beckoner of Horrors',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\82_Calamity Dragon.jpg" id="DOA_82_Calamity Dragon" data-flag="@X" onclick="openSidebar('DOA_82_Calamity Dragon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\108_Dovon, Verdant Experimenter.jpg" id="DOA_108_Dovon, Verdant Experimenter" data-flag="@X" onclick="openSidebar('DOA_108_Dovon, Verdant Experimenter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\5_Benevolent Malach.jpg" id="DOA_5_Benevolent Malach" data-flag="@X" onclick="openSidebar('DOA_5_Benevolent Malach',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\31_Disable.jpg" id="DOA_31_Disable" data-flag="@X" onclick="openSidebar('DOA_31_Disable',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\57_Channeler of the Veil.jpg" id="DOA_57_Channeler of the Veil" data-flag="@X" onclick="openSidebar('DOA_57_Channeler of the Veil',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\83_Careless Violence.jpg" id="DOA_83_Careless Violence" data-flag="@X" onclick="openSidebar('DOA_83_Careless Violence',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\109_The Feller of Greatwoods.jpg" id="DOA_109_The Feller of Greatwoods" data-flag="@X" onclick="openSidebar('DOA_109_The Feller of Greatwoods',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\6_Blessing of Morning.jpg" id="DOA_6_Blessing of Morning" data-flag="@X" onclick="openSidebar('DOA_6_Blessing of Morning',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\32_Fractal Meditation.jpg" id="DOA_32_Fractal Meditation" data-flag="@X" onclick="openSidebar('DOA_32_Fractal Meditation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\58_Corrupted Knowledge.jpg" id="DOA_58_Corrupted Knowledge" data-flag="@X" onclick="openSidebar('DOA_58_Corrupted Knowledge',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\84_Claimed by the Veil.jpg" id="DOA_84_Claimed by the Veil" data-flag="@X" onclick="openSidebar('DOA_84_Claimed by the Veil',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\110_Flamboyant Inventor.jpg" id="DOA_110_Flamboyant Inventor" data-flag="@X" onclick="openSidebar('DOA_110_Flamboyant Inventor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\7_Citywide Automation.jpg" id="DOA_7_Citywide Automation" data-flag="@X" onclick="openSidebar('DOA_7_Citywide Automation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\33_Frozen Moment.jpg" id="DOA_33_Frozen Moment" data-flag="@X" onclick="openSidebar('DOA_33_Frozen Moment',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\59_Disqualify.jpg" id="DOA_59_Disqualify" data-flag="@X" onclick="openSidebar('DOA_59_Disqualify',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\85_Dedicated Weaponsmith.jpg" id="DOA_85_Dedicated Weaponsmith" data-flag="@X" onclick="openSidebar('DOA_85_Dedicated Weaponsmith',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\111_Forest Fellowship.jpg" id="DOA_111_Forest Fellowship" data-flag="@X" onclick="openSidebar('DOA_111_Forest Fellowship',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\8_Consort of Morning.jpg" id="DOA_8_Consort of Morning" data-flag="@X" onclick="openSidebar('DOA_8_Consort of Morning',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\34_Herald of Wisdom.jpg" id="DOA_34_Herald of Wisdom" data-flag="@X" onclick="openSidebar('DOA_34_Herald of Wisdom',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\60_Duress.jpg" id="DOA_60_Duress" data-flag="@X" onclick="openSidebar('DOA_60_Duress',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\86_Eleventh Hour Breakthrough.jpg" id="DOA_86_Eleventh Hour Breakthrough" data-flag="@X" onclick="openSidebar('DOA_86_Eleventh Hour Breakthrough',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\112_Herald of Might.jpg" id="DOA_112_Herald of Might" data-flag="@X" onclick="openSidebar('DOA_112_Herald of Might',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\9_Crystallized Hope.jpg" id="DOA_9_Crystallized Hope" data-flag="@X" onclick="openSidebar('DOA_9_Crystallized Hope',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\35_Imagine.jpg" id="DOA_35_Imagine" data-flag="@X" onclick="openSidebar('DOA_35_Imagine',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\61_Fallback Plan.jpg" id="DOA_61_Fallback Plan" data-flag="@X" onclick="openSidebar('DOA_61_Fallback Plan',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\87_Endless Assembly.jpg" id="DOA_87_Endless Assembly" data-flag="@X" onclick="openSidebar('DOA_87_Endless Assembly',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\113_Hunt the Monstrous.jpg" id="DOA_113_Hunt the Monstrous" data-flag="@X" onclick="openSidebar('DOA_113_Hunt the Monstrous',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\10_Dawnwisp Vents.jpg" id="DOA_10_Dawnwisp Vents" data-flag="@X" onclick="openSidebar('DOA_10_Dawnwisp Vents',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\36_Imitator of Drakes.jpg" id="DOA_36_Imitator of Drakes" data-flag="@X" onclick="openSidebar('DOA_36_Imitator of Drakes',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\62_Gate to the Beyond.jpg" id="DOA_62_Gate to the Beyond" data-flag="@X" onclick="openSidebar('DOA_62_Gate to the Beyond',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\88_Fento, Nova Crusader.jpg" id="DOA_88_Fento, Nova Crusader" data-flag="@X" onclick="openSidebar('DOA_88_Fento, Nova Crusader',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\114_Kati Evalin, World Wanderer.jpg" id="DOA_114_Kati Evalin, World Wanderer" data-flag="@X" onclick="openSidebar('DOA_114_Kati Evalin, World Wanderer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\11_Disassociate.jpg" id="DOA_11_Disassociate" data-flag="@X" onclick="openSidebar('DOA_11_Disassociate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\37_Iterative Designer.jpg" id="DOA_37_Iterative Designer" data-flag="@X" onclick="openSidebar('DOA_37_Iterative Designer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\63_Glimpse the Veil.jpg" id="DOA_63_Glimpse the Veil" data-flag="@X" onclick="openSidebar('DOA_63_Glimpse the Veil',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\89_Flamecloaked Artisan.jpg" id="DOA_89_Flamecloaked Artisan" data-flag="@X" onclick="openSidebar('DOA_89_Flamecloaked Artisan',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\115_Kindly Greatwood.jpg" id="DOA_115_Kindly Greatwood" data-flag="@X" onclick="openSidebar('DOA_115_Kindly Greatwood',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\12_Eager Observer.jpg" id="DOA_12_Eager Observer" data-flag="@X" onclick="openSidebar('DOA_12_Eager Observer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\38_Marin Polgek, Academy Heiress.jpg" id="DOA_38_Marin Polgek, Academy Heiress" data-flag="@X" onclick="openSidebar('DOA_38_Marin Polgek, Academy Heiress',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\64_Iken Company Nightwalker.jpg" id="DOA_64_Iken Company Nightwalker" data-flag="@X" onclick="openSidebar('DOA_64_Iken Company Nightwalker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\90_Forgemaster's Charm.jpg" id="DOA_90_Forgemasters Charm" data-flag="@X" onclick="openSidebar('DOA_90_Forgemasters Charm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\116_Legends Remembered.jpg" id="DOA_116_Legends Remembered" data-flag="@X" onclick="openSidebar('DOA_116_Legends Remembered',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\13_Enori Duelist.jpg" id="DOA_13_Enori Duelist" data-flag="@X" onclick="openSidebar('DOA_13_Enori Duelist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\39_Observer of Secret Paths.jpg" id="DOA_39_Observer of Secret Paths" data-flag="@X" onclick="openSidebar('DOA_39_Observer of Secret Paths',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\65_Inevitable Future.jpg" id="DOA_65_Inevitable Future" data-flag="@X" onclick="openSidebar('DOA_65_Inevitable Future',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\91_Instant of Brilliance.jpg" id="DOA_91_Instant of Brilliance" data-flag="@X" onclick="openSidebar('DOA_91_Instant of Brilliance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\117_Malicious Growth.jpg" id="DOA_117_Malicious Growth" data-flag="@X" onclick="openSidebar('DOA_117_Malicious Growth',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\14_Final Symphony.jpg" id="DOA_14_Final Symphony" data-flag="@X" onclick="openSidebar('DOA_14_Final Symphony',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\40_Open the Secret Paths.jpg" id="DOA_40_Open the Secret Paths" data-flag="@X" onclick="openSidebar('DOA_40_Open the Secret Paths',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\66_Irika, Wielder of Secrets.jpg" id="DOA_66_Irika, Wielder of Secrets" data-flag="@X" onclick="openSidebar('DOA_66_Irika, Wielder of Secrets',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\92_Maniacal Elementalist.jpg" id="DOA_92_Maniacal Elementalist" data-flag="@X" onclick="openSidebar('DOA_92_Maniacal Elementalist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\118_Oldgrove Nurturer.jpg" id="DOA_118_Oldgrove Nurturer" data-flag="@X" onclick="openSidebar('DOA_118_Oldgrove Nurturer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\15_Lockdown.jpg" id="DOA_15_Lockdown" data-flag="@X" onclick="openSidebar('DOA_15_Lockdown',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\41_Reality Rewoven.jpg" id="DOA_41_Reality Rewoven" data-flag="@X" onclick="openSidebar('DOA_41_Reality Rewoven',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\67_Mastery of the Veil.jpg" id="DOA_67_Mastery of the Veil" data-flag="@X" onclick="openSidebar('DOA_67_Mastery of the Veil',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\93_Martial Maestro.jpg" id="DOA_93_Martial Maestro" data-flag="@X" onclick="openSidebar('DOA_93_Martial Maestro',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\119_Powercell Cultivator.jpg" id="DOA_119_Powercell Cultivator" data-flag="@X" onclick="openSidebar('DOA_119_Powercell Cultivator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\16_Matron of Machines.jpg" id="DOA_16_Matron of Machines" data-flag="@X" onclick="openSidebar('DOA_16_Matron of Machines',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\42_Reclusive Archmage.jpg" id="DOA_42_Reclusive Archmage" data-flag="@X" onclick="openSidebar('DOA_42_Reclusive Archmage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\68_Monstrous Hunter.jpg" id="DOA_68_Monstrous Hunter" data-flag="@X" onclick="openSidebar('DOA_68_Monstrous Hunter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\94_Meteor Harbinger.jpg" id="DOA_94_Meteor Harbinger" data-flag="@X" onclick="openSidebar('DOA_94_Meteor Harbinger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\120_Powercell Engineer.jpg" id="DOA_120_Powercell Engineer" data-flag="@X" onclick="openSidebar('DOA_120_Powercell Engineer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\17_Morning's Warden.jpg" id="DOA_17_Mornings Warden" data-flag="@X" onclick="openSidebar('DOA_17_Mornings Warden',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\43_Reconsider.jpg" id="DOA_43_Reconsider" data-flag="@X" onclick="openSidebar('DOA_43_Reconsider',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\69_Power From Beyond.jpg" id="DOA_69_Power From Beyond" data-flag="@X" onclick="openSidebar('DOA_69_Power From Beyond',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\95_Mirrorcast Battlemage.jpg" id="DOA_95_Mirrorcast Battlemage" data-flag="@X" onclick="openSidebar('DOA_95_Mirrorcast Battlemage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\121_Primal Ruffian.jpg" id="DOA_121_Primal Ruffian" data-flag="@X" onclick="openSidebar('DOA_121_Primal Ruffian',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\18_Nina, Master of Arms.jpg" id="DOA_18_Nina, Master of Arms" data-flag="@X" onclick="openSidebar('DOA_18_Nina, Master of Arms',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\44_Reinvent.jpg" id="DOA_44_Reinvent" data-flag="@X" onclick="openSidebar('DOA_44_Reinvent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\70_Propagation Plant.jpg" id="DOA_70_Propagation Plant" data-flag="@X" onclick="openSidebar('DOA_70_Propagation Plant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\96_Novaheart Dragon.jpg" id="DOA_96_Novaheart Dragon" data-flag="@X" onclick="openSidebar('DOA_96_Novaheart Dragon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\122_Queen of Unclaimed Lands.jpg" id="DOA_122_Queen of Unclaimed Lands" data-flag="@X" onclick="openSidebar('DOA_122_Queen of Unclaimed Lands',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\19_Polgek Artisan.jpg" id="DOA_19_Polgek Artisan" data-flag="@X" onclick="openSidebar('DOA_19_Polgek Artisan',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\45_Resonating Force.jpg" id="DOA_45_Resonating Force" data-flag="@X" onclick="openSidebar('DOA_45_Resonating Force',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\71_Sealer of Pacts.jpg" id="DOA_71_Sealer of Pacts" data-flag="@X" onclick="openSidebar('DOA_71_Sealer of Pacts',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\97_Philosophy of Fire.jpg" id="DOA_97_Philosophy of Fire" data-flag="@X" onclick="openSidebar('DOA_97_Philosophy of Fire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\123_Ravenous Hydra.jpg" id="DOA_123_Ravenous Hydra" data-flag="@X" onclick="openSidebar('DOA_123_Ravenous Hydra',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\20_Polgek Restorationist.jpg" id="DOA_20_Polgek Restorationist" data-flag="@X" onclick="openSidebar('DOA_20_Polgek Restorationist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\46_Surmise Reality's Limits.jpg" id="DOA_46_Surmise Realitys Limits" data-flag="@X" onclick="openSidebar('DOA_46_Surmise Realitys Limits',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\72_Secret Thief.jpg" id="DOA_72_Secret Thief" data-flag="@X" onclick="openSidebar('DOA_72_Secret Thief',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\98_Polgek Songcrafter.jpg" id="DOA_98_Polgek Songcrafter" data-flag="@X" onclick="openSidebar('DOA_98_Polgek Songcrafter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\124_Reclamation Grovesculptor.jpg" id="DOA_124_Reclamation Grovesculptor" data-flag="@X" onclick="openSidebar('DOA_124_Reclamation Grovesculptor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\21_Protector of the League.jpg" id="DOA_21_Protector of the League" data-flag="@X" onclick="openSidebar('DOA_21_Protector of the League',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\47_Terraformer's Globe.jpg" id="DOA_47_Terraformers Globe" data-flag="@X" onclick="openSidebar('DOA_47_Terraformers Globe',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\73_Sesilius, Chosen Speaker.jpg" id="DOA_73_Sesilius, Chosen Speaker" data-flag="@X" onclick="openSidebar('DOA_73_Sesilius, Chosen Speaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\99_Pyromantic Expertise.jpg" id="DOA_99_Pyromantic Expertise" data-flag="@X" onclick="openSidebar('DOA_99_Pyromantic Expertise',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\125_Reclamation Sage.jpg" id="DOA_125_Reclamation Sage" data-flag="@X" onclick="openSidebar('DOA_125_Reclamation Sage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\22_Purging Light.jpg" id="DOA_22_Purging Light" data-flag="@X" onclick="openSidebar('DOA_22_Purging Light',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\48_Unified Theory.jpg" id="DOA_48_Unified Theory" data-flag="@X" onclick="openSidebar('DOA_48_Unified Theory',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\74_Slay the Unkillable.jpg" id="DOA_74_Slay the Unkillable" data-flag="@X" onclick="openSidebar('DOA_74_Slay the Unkillable',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\100_Scorch.jpg" id="DOA_100_Scorch" data-flag="@X" onclick="openSidebar('DOA_100_Scorch',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\126_Reconstruct.jpg" id="DOA_126_Reconstruct" data-flag="@X" onclick="openSidebar('DOA_126_Reconstruct',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\23_Rilken Forcefield Keeper.jpg" id="DOA_23_Rilken Forcefield Keeper" data-flag="@X" onclick="openSidebar('DOA_23_Rilken Forcefield Keeper',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\49_Unite the Powergrid.jpg" id="DOA_49_Unite the Powergrid" data-flag="@X" onclick="openSidebar('DOA_49_Unite the Powergrid',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\75_Veilborn Hunter.jpg" id="DOA_75_Veilborn Hunter" data-flag="@X" onclick="openSidebar('DOA_75_Veilborn Hunter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\101_Siraj, Interplanar Thief.jpg" id="DOA_101_Siraj, Interplanar Thief" data-flag="@X" onclick="openSidebar('DOA_101_Siraj, Interplanar Thief',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\127_Seeker of Untouched Beauty.jpg" id="DOA_127_Seeker of Untouched Beauty" data-flag="@X" onclick="openSidebar('DOA_127_Seeker of Untouched Beauty',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\24_Rilken Preserver.jpg" id="DOA_24_Rilken Preserver" data-flag="@X" onclick="openSidebar('DOA_24_Rilken Preserver',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\50_Veilborn Meddler.jpg" id="DOA_50_Veilborn Meddler" data-flag="@X" onclick="openSidebar('DOA_50_Veilborn Meddler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\76_Veilborn Stalker.jpg" id="DOA_76_Veilborn Stalker" data-flag="@X" onclick="openSidebar('DOA_76_Veilborn Stalker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\102_Speedreading.jpg" id="DOA_102_Speedreading" data-flag="@X" onclick="openSidebar('DOA_102_Speedreading',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\128_Telvim Explorer.jpg" id="DOA_128_Telvim Explorer" data-flag="@X" onclick="openSidebar('DOA_128_Telvim Explorer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\25_Seek Perfection.jpg" id="DOA_25_Seek Perfection" data-flag="@X" onclick="openSidebar('DOA_25_Seek Perfection',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\51_Volta, Construct Consultant.jpg" id="DOA_51_Volta, Construct Consultant" data-flag="@X" onclick="openSidebar('DOA_51_Volta, Construct Consultant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\77_Veilcrossed Twins.jpg" id="DOA_77_Veilcrossed Twins" data-flag="@X" onclick="openSidebar('DOA_77_Veilcrossed Twins',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\103_Vitin Blastgear.jpg" id="DOA_103_Vitin Blastgear" data-flag="@X" onclick="openSidebar('DOA_103_Vitin Blastgear',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\129_Telvim Sculptor.jpg" id="DOA_129_Telvim Sculptor" data-flag="@X" onclick="openSidebar('DOA_129_Telvim Sculptor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\26_Self Replication.jpg" id="DOA_26_Self Replication" data-flag="@X" onclick="openSidebar('DOA_26_Self Replication',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\52_Watch Time Slip Away.jpg" id="DOA_52_Watch Time Slip Away" data-flag="@X" onclick="openSidebar('DOA_52_Watch Time Slip Away',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\78_Violent Collapse.jpg" id="DOA_78_Violent Collapse" data-flag="@X" onclick="openSidebar('DOA_78_Violent Collapse',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\104_Vitin Forgemaster.jpg" id="DOA_104_Vitin Forgemaster" data-flag="@X" onclick="openSidebar('DOA_104_Vitin Forgemaster',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\130_Unexplored Regions.jpg" id="DOA_130_Unexplored Regions" data-flag="@X" onclick="openSidebar('DOA_130_Unexplored Regions',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\132_Artisan's Genius.jpg" id="132_Artisans Genius" data-flag="@X" onclick="openSidebar('132_Artisans Genius',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\139_Formless Wanderer.jpg" id="139_Formless Wanderer" data-flag="@X" onclick="openSidebar('139_Formless Wanderer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\141_Iken Troubleshooter.jpg" id="141_Iken Troubleshooter" data-flag="@X" onclick="openSidebar('141_Iken Troubleshooter',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\146_Petal-Weaver Alexa.jpg" id="146_Petal-Weaver Alexa" data-flag="@X" onclick="openSidebar('146_Petal-Weaver Alexa',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\131_Acin, the Toymaker.jpg" id="131_Acin, the Toymaker" data-flag="@X" onclick="openSidebar('131_Acin, the Toymaker',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\136_Extravagant Flair.jpg" id="136_Extravagant Flair" data-flag="@X" onclick="openSidebar('136_Extravagant Flair',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\149_Twisted Speaker.jpg" id="149_Twisted Speaker" data-flag="@X" onclick="openSidebar('149_Twisted Speaker',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\145_Omegalomania.jpg" id="145_Omegalomania" data-flag="@X" onclick="openSidebar('145_Omegalomania',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\147_Seeker of Battle.jpg" id="147_Seeker of Battle" data-flag="@X" onclick="openSidebar('147_Seeker of Battle',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\133_Claim for Civilization.jpg" id="133_Claim for Civilization" data-flag="@X" onclick="openSidebar('133_Claim for Civilization',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\134_Deliver from Dilapidation.jpg" id="134_Deliver from Dilapidation" data-flag="@X" onclick="openSidebar('134_Deliver from Dilapidation',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\137_Exuberant Inventor.jpg" id="137_Exuberant Inventor" data-flag="@X" onclick="openSidebar('137_Exuberant Inventor',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\148_Supplanter of Realities.jpg" id="148_Supplanter of Realities" data-flag="@X" onclick="openSidebar('148_Supplanter of Realities',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\138_Flare Blitz.jpg" id="138_Flare Blitz" data-flag="@X" onclick="openSidebar('138_Flare Blitz',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\142_Imagination Unleashed.jpg" id="142_Imagination Unleashed" data-flag="@X" onclick="openSidebar('142_Imagination Unleashed',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\135_Embrace the Veil.jpg" id="135_Embrace the Veil" data-flag="@X" onclick="openSidebar('135_Embrace the Veil',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\143_Jessica Turin, Battlemage.jpg" id="143_Jessica Turin, Battlemage" data-flag="@X" onclick="openSidebar('143_Jessica Turin, Battlemage',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\150_Veil's Recovery.jpg" id="150_Veils Recovery" data-flag="@X" onclick="openSidebar('150_Veils Recovery',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\140_Herald of Unity.jpg" id="140_Herald of Unity" data-flag="@X" onclick="openSidebar('140_Herald of Unity',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\144_The Lost Titan.jpg" id="144_The Lost Titan" data-flag="@X" onclick="openSidebar('144_The Lost Titan',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\132_Artisan's Genius.jpg" id="DOA_132_Artisans Genius" data-flag="@X" onclick="openSidebar('DOA_132_Artisans Genius',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\139_Formless Wanderer.jpg" id="DOA_139_Formless Wanderer" data-flag="@X" onclick="openSidebar('DOA_139_Formless Wanderer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\141_Iken Troubleshooter.jpg" id="DOA_141_Iken Troubleshooter" data-flag="@X" onclick="openSidebar('DOA_141_Iken Troubleshooter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\146_Petal-Weaver Alexa.jpg" id="DOA_146_Petal-Weaver Alexa" data-flag="@X" onclick="openSidebar('DOA_146_Petal-Weaver Alexa',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\131_Acin, the Toymaker.jpg" id="DOA_131_Acin, the Toymaker" data-flag="@X" onclick="openSidebar('DOA_131_Acin, the Toymaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\136_Extravagant Flair.jpg" id="DOA_136_Extravagant Flair" data-flag="@X" onclick="openSidebar('DOA_136_Extravagant Flair',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\149_Twisted Speaker.jpg" id="DOA_149_Twisted Speaker" data-flag="@X" onclick="openSidebar('DOA_149_Twisted Speaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\145_Omegalomania.jpg" id="DOA_145_Omegalomania" data-flag="@X" onclick="openSidebar('DOA_145_Omegalomania',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\147_Seeker of Battle.jpg" id="DOA_147_Seeker of Battle" data-flag="@X" onclick="openSidebar('DOA_147_Seeker of Battle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\133_Claim for Civilization.jpg" id="DOA_133_Claim for Civilization" data-flag="@X" onclick="openSidebar('DOA_133_Claim for Civilization',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\134_Deliver from Dilapidation.jpg" id="DOA_134_Deliver from Dilapidation" data-flag="@X" onclick="openSidebar('DOA_134_Deliver from Dilapidation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\137_Exuberant Inventor.jpg" id="DOA_137_Exuberant Inventor" data-flag="@X" onclick="openSidebar('DOA_137_Exuberant Inventor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\148_Supplanter of Realities.jpg" id="DOA_148_Supplanter of Realities" data-flag="@X" onclick="openSidebar('DOA_148_Supplanter of Realities',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\138_Flare Blitz.jpg" id="DOA_138_Flare Blitz" data-flag="@X" onclick="openSidebar('DOA_138_Flare Blitz',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\142_Imagination Unleashed.jpg" id="DOA_142_Imagination Unleashed" data-flag="@X" onclick="openSidebar('DOA_142_Imagination Unleashed',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\135_Embrace the Veil.jpg" id="DOA_135_Embrace the Veil" data-flag="@X" onclick="openSidebar('DOA_135_Embrace the Veil',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\143_Jessica Turin, Battlemage.jpg" id="DOA_143_Jessica Turin, Battlemage" data-flag="@X" onclick="openSidebar('DOA_143_Jessica Turin, Battlemage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\150_Veil's Recovery.jpg" id="DOA_150_Veils Recovery" data-flag="@X" onclick="openSidebar('DOA_150_Veils Recovery',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\140_Herald of Unity.jpg" id="DOA_140_Herald of Unity" data-flag="@X" onclick="openSidebar('DOA_140_Herald of Unity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\144_The Lost Titan.jpg" id="DOA_144_The Lost Titan" data-flag="@X" onclick="openSidebar('DOA_144_The Lost Titan',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\0_Sealed Riftway.jpg" id="0_Sealed Riftway" data-flag="@X" onclick="openSidebar('0_Sealed Riftway',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\151_Arcane Chronometer.jpg" id="151_Arcane Chronometer" data-flag="@X" onclick="openSidebar('151_Arcane Chronometer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\152_Colossal Achievement.jpg" id="152_Colossal Achievement" data-flag="@X" onclick="openSidebar('152_Colossal Achievement',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\153_Cosmic Chart.jpg" id="153_Cosmic Chart" data-flag="@X" onclick="openSidebar('153_Cosmic Chart',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\154_Encampment Blimp.jpg" id="154_Encampment Blimp" data-flag="@X" onclick="openSidebar('154_Encampment Blimp',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\155_Facsimile of Divinity.jpg" id="155_Facsimile of Divinity" data-flag="@X" onclick="openSidebar('155_Facsimile of Divinity',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\156_Gearcraft Observer.jpg" id="156_Gearcraft Observer" data-flag="@X" onclick="openSidebar('156_Gearcraft Observer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\157_Gilded Gearhulk.jpg" id="157_Gilded Gearhulk" data-flag="@X" onclick="openSidebar('157_Gilded Gearhulk',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\158_Gilded Spyglass.jpg" id="158_Gilded Spyglass" data-flag="@X" onclick="openSidebar('158_Gilded Spyglass',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\159_Harmony Array.jpg" id="159_Harmony Array" data-flag="@X" onclick="openSidebar('159_Harmony Array',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\160_Hub of Innovation.jpg" id="160_Hub of Innovation" data-flag="@X" onclick="openSidebar('160_Hub of Innovation',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\161_Iron Signet.jpg" id="161_Iron Signet" data-flag="@X" onclick="openSidebar('161_Iron Signet',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\162_Junktrawler.jpg" id="162_Junktrawler" data-flag="@X" onclick="openSidebar('162_Junktrawler',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\163_Lightblessed Claymore.jpg" id="163_Lightblessed Claymore" data-flag="@X" onclick="openSidebar('163_Lightblessed Claymore',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\164_Mana Rose.jpg" id="164_Mana Rose" data-flag="@X" onclick="openSidebar('164_Mana Rose',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\165_Manaflux Battery.jpg" id="165_Manaflux Battery" data-flag="@X" onclick="openSidebar('165_Manaflux Battery',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\166_Perpetual Motion Machine.jpg" id="166_Perpetual Motion Machine" data-flag="@X" onclick="openSidebar('166_Perpetual Motion Machine',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\167_Propagation Blade.jpg" id="167_Propagation Blade" data-flag="@X" onclick="openSidebar('167_Propagation Blade',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\168_Sword of Tides and Time.jpg" id="168_Sword of Tides and Time" data-flag="@X" onclick="openSidebar('168_Sword of Tides and Time',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\169_Unity Spheres.jpg" id="169_Unity Spheres" data-flag="@X" onclick="openSidebar('169_Unity Spheres',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\170_Warded Tome.jpg" id="170_Warded Tome" data-flag="@X" onclick="openSidebar('170_Warded Tome',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\171_Brilliant Academy.jpg" id="171_Brilliant Academy" data-flag="@X" onclick="openSidebar('171_Brilliant Academy',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\174_Brilliant Castle.jpg" id="174_Brilliant Castle" data-flag="@X" onclick="openSidebar('174_Brilliant Castle',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\176_Brilliant Cityscape.jpg" id="176_Brilliant Cityscape" data-flag="@X" onclick="openSidebar('176_Brilliant Cityscape',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\178_Brilliant Mansion.jpg" id="178_Brilliant Mansion" data-flag="@X" onclick="openSidebar('178_Brilliant Mansion',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\177_Brilliant Hub.jpg" id="177_Brilliant Hub" data-flag="@X" onclick="openSidebar('177_Brilliant Hub',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\173_Brilliant Capital.jpg" id="173_Brilliant Capital" data-flag="@X" onclick="openSidebar('173_Brilliant Capital',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\179_Brilliant Port.jpg" id="179_Brilliant Port" data-flag="@X" onclick="openSidebar('179_Brilliant Port',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\172_Brilliant Archives.jpg" id="172_Brilliant Archives" data-flag="@X" onclick="openSidebar('172_Brilliant Archives',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\175_Brilliant Citadel.jpg" id="175_Brilliant Citadel" data-flag="@X" onclick="openSidebar('175_Brilliant Citadel',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\180_Brilliant Workshop.jpg" id="180_Brilliant Workshop" data-flag="@X" onclick="openSidebar('180_Brilliant Workshop',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\0_Timeworn Crags.jpg" id="0_Timeworn Crags" data-flag="@X" onclick="openSidebar('0_Timeworn Crags',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\0_Transplanted Citadel.jpg" id="0_Transplanted Citadel" data-flag="@X" onclick="openSidebar('0_Transplanted Citadel',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\0_Renewal Grove.jpg" id="0_Renewal Grove" data-flag="@X" onclick="openSidebar('0_Renewal Grove',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\0_Riftway to the Other Side.jpg" id="0_Riftway to the Other Side" data-flag="@X" onclick="openSidebar('0_Riftway to the Other Side',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\0_Nebula of Empty Gold.jpg" id="0_Nebula of Empty Gold" data-flag="@X" onclick="openSidebar('0_Nebula of Empty Gold',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\0_Runecrested Valley.jpg" id="0_Runecrested Valley" data-flag="@X" onclick="openSidebar('0_Runecrested Valley',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\0_City Gate.jpg" id="0_City Gate" data-flag="@X" onclick="openSidebar('0_City Gate',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\184_Plains.jpg" id="184_Plains" data-flag="@X" onclick="openSidebar('184_Plains',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\182_Island.jpg" id="182_Island" data-flag="@X" onclick="openSidebar('182_Island',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\185_Swamp.jpg" id="185_Swamp" data-flag="@X" onclick="openSidebar('185_Swamp',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\183_Mountain.jpg" id="183_Mountain" data-flag="@X" onclick="openSidebar('183_Mountain',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\181_Forest.jpg" id="181_Forest" data-flag="@X" onclick="openSidebar('181_Forest',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\0_Sealed Riftway.jpg" id="DOA_0_Sealed Riftway" data-flag="@X" onclick="openSidebar('DOA_0_Sealed Riftway',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\151_Arcane Chronometer.jpg" id="DOA_151_Arcane Chronometer" data-flag="@X" onclick="openSidebar('DOA_151_Arcane Chronometer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\152_Colossal Achievement.jpg" id="DOA_152_Colossal Achievement" data-flag="@X" onclick="openSidebar('DOA_152_Colossal Achievement',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\153_Cosmic Chart.jpg" id="DOA_153_Cosmic Chart" data-flag="@X" onclick="openSidebar('DOA_153_Cosmic Chart',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\154_Encampment Blimp.jpg" id="DOA_154_Encampment Blimp" data-flag="@X" onclick="openSidebar('DOA_154_Encampment Blimp',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\155_Facsimile of Divinity.jpg" id="DOA_155_Facsimile of Divinity" data-flag="@X" onclick="openSidebar('DOA_155_Facsimile of Divinity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\156_Gearcraft Observer.jpg" id="DOA_156_Gearcraft Observer" data-flag="@X" onclick="openSidebar('DOA_156_Gearcraft Observer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\157_Gilded Gearhulk.jpg" id="DOA_157_Gilded Gearhulk" data-flag="@X" onclick="openSidebar('DOA_157_Gilded Gearhulk',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\158_Gilded Spyglass.jpg" id="DOA_158_Gilded Spyglass" data-flag="@X" onclick="openSidebar('DOA_158_Gilded Spyglass',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\159_Harmony Array.jpg" id="DOA_159_Harmony Array" data-flag="@X" onclick="openSidebar('DOA_159_Harmony Array',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\160_Hub of Innovation.jpg" id="DOA_160_Hub of Innovation" data-flag="@X" onclick="openSidebar('DOA_160_Hub of Innovation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\161_Iron Signet.jpg" id="DOA_161_Iron Signet" data-flag="@X" onclick="openSidebar('DOA_161_Iron Signet',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\162_Junktrawler.jpg" id="DOA_162_Junktrawler" data-flag="@X" onclick="openSidebar('DOA_162_Junktrawler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\163_Lightblessed Claymore.jpg" id="DOA_163_Lightblessed Claymore" data-flag="@X" onclick="openSidebar('DOA_163_Lightblessed Claymore',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\164_Mana Rose.jpg" id="DOA_164_Mana Rose" data-flag="@X" onclick="openSidebar('DOA_164_Mana Rose',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\165_Manaflux Battery.jpg" id="DOA_165_Manaflux Battery" data-flag="@X" onclick="openSidebar('DOA_165_Manaflux Battery',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\166_Perpetual Motion Machine.jpg" id="DOA_166_Perpetual Motion Machine" data-flag="@X" onclick="openSidebar('DOA_166_Perpetual Motion Machine',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\167_Propagation Blade.jpg" id="DOA_167_Propagation Blade" data-flag="@X" onclick="openSidebar('DOA_167_Propagation Blade',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\168_Sword of Tides and Time.jpg" id="DOA_168_Sword of Tides and Time" data-flag="@X" onclick="openSidebar('DOA_168_Sword of Tides and Time',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\169_Unity Spheres.jpg" id="DOA_169_Unity Spheres" data-flag="@X" onclick="openSidebar('DOA_169_Unity Spheres',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\170_Warded Tome.jpg" id="DOA_170_Warded Tome" data-flag="@X" onclick="openSidebar('DOA_170_Warded Tome',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DOA_e" data-flag="@E" onclick="openSidebar('DOA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DOA_e" data-flag="@E" onclick="openSidebar('DOA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DOA_e" data-flag="@E" onclick="openSidebar('DOA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DOA_e" data-flag="@E" onclick="openSidebar('DOA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\171_Brilliant Academy.jpg" id="DOA_171_Brilliant Academy" data-flag="@X" onclick="openSidebar('DOA_171_Brilliant Academy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\174_Brilliant Castle.jpg" id="DOA_174_Brilliant Castle" data-flag="@X" onclick="openSidebar('DOA_174_Brilliant Castle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\176_Brilliant Cityscape.jpg" id="DOA_176_Brilliant Cityscape" data-flag="@X" onclick="openSidebar('DOA_176_Brilliant Cityscape',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\178_Brilliant Mansion.jpg" id="DOA_178_Brilliant Mansion" data-flag="@X" onclick="openSidebar('DOA_178_Brilliant Mansion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\177_Brilliant Hub.jpg" id="DOA_177_Brilliant Hub" data-flag="@X" onclick="openSidebar('DOA_177_Brilliant Hub',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\173_Brilliant Capital.jpg" id="DOA_173_Brilliant Capital" data-flag="@X" onclick="openSidebar('DOA_173_Brilliant Capital',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\179_Brilliant Port.jpg" id="DOA_179_Brilliant Port" data-flag="@X" onclick="openSidebar('DOA_179_Brilliant Port',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\172_Brilliant Archives.jpg" id="DOA_172_Brilliant Archives" data-flag="@X" onclick="openSidebar('DOA_172_Brilliant Archives',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\175_Brilliant Citadel.jpg" id="DOA_175_Brilliant Citadel" data-flag="@X" onclick="openSidebar('DOA_175_Brilliant Citadel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\180_Brilliant Workshop.jpg" id="DOA_180_Brilliant Workshop" data-flag="@X" onclick="openSidebar('DOA_180_Brilliant Workshop',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\0_Timeworn Crags.jpg" id="DOA_0_Timeworn Crags" data-flag="@X" onclick="openSidebar('DOA_0_Timeworn Crags',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\0_Transplanted Citadel.jpg" id="DOA_0_Transplanted Citadel" data-flag="@X" onclick="openSidebar('DOA_0_Transplanted Citadel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\0_Renewal Grove.jpg" id="DOA_0_Renewal Grove" data-flag="@X" onclick="openSidebar('DOA_0_Renewal Grove',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\0_Riftway to the Other Side.jpg" id="DOA_0_Riftway to the Other Side" data-flag="@X" onclick="openSidebar('DOA_0_Riftway to the Other Side',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\0_Nebula of Empty Gold.jpg" id="DOA_0_Nebula of Empty Gold" data-flag="@X" onclick="openSidebar('DOA_0_Nebula of Empty Gold',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\0_Runecrested Valley.jpg" id="DOA_0_Runecrested Valley" data-flag="@X" onclick="openSidebar('DOA_0_Runecrested Valley',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\0_City Gate.jpg" id="DOA_0_City Gate" data-flag="@X" onclick="openSidebar('DOA_0_City Gate',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DOA_e" data-flag="@E" onclick="openSidebar('DOA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DOA_e" data-flag="@E" onclick="openSidebar('DOA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DOA_e" data-flag="@E" onclick="openSidebar('DOA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\184_Plains.jpg" id="DOA_184_Plains" data-flag="@X" onclick="openSidebar('DOA_184_Plains',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\182_Island.jpg" id="DOA_182_Island" data-flag="@X" onclick="openSidebar('DOA_182_Island',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\185_Swamp.jpg" id="DOA_185_Swamp" data-flag="@X" onclick="openSidebar('DOA_185_Swamp',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\183_Mountain.jpg" id="DOA_183_Mountain" data-flag="@X" onclick="openSidebar('DOA_183_Mountain',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\181_Forest.jpg" id="DOA_181_Forest" data-flag="@X" onclick="openSidebar('DOA_181_Forest',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
 				<div id="token" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\1t_Construct.jpg" id="1t_Construct" data-flag="@X" onclick="openSidebar('1t_Construct',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\2t_Cultivating Spheres.jpg" id="2t_Cultivating Spheres" data-flag="@X" onclick="openSidebar('2t_Cultivating Spheres',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\3t_Golem.jpg" id="3t_Golem" data-flag="@X" onclick="openSidebar('3t_Golem',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\4t_Juggernaut.jpg" id="4t_Juggernaut" data-flag="@X" onclick="openSidebar('4t_Juggernaut',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\5t_Mirror of Possibilities.jpg" id="5t_Mirror of Possibilities" data-flag="@X" onclick="openSidebar('5t_Mirror of Possibilities',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\6t_Powercell.jpg" id="6t_Powercell" data-flag="@X" onclick="openSidebar('6t_Powercell',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\7t_Thrice-Folded Lotus.jpg" id="7t_Thrice-Folded Lotus" data-flag="@X" onclick="openSidebar('7t_Thrice-Folded Lotus',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\8t_Alia Emblem.jpg" id="8t_Alia Emblem" data-flag="@X" onclick="openSidebar('8t_Alia Emblem',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\DOA-files\img\9t_Siraj Emblem.jpg" id="9t_Siraj Emblem" data-flag="@X" onclick="openSidebar('9t_Siraj Emblem',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\1t_Construct.jpg" id="DOA_1t_Construct" data-flag="@X" onclick="openSidebar('DOA_1t_Construct',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\2t_Cultivating Spheres.jpg" id="DOA_2t_Cultivating Spheres" data-flag="@X" onclick="openSidebar('DOA_2t_Cultivating Spheres',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\3t_Golem.jpg" id="DOA_3t_Golem" data-flag="@X" onclick="openSidebar('DOA_3t_Golem',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\4t_Juggernaut.jpg" id="DOA_4t_Juggernaut" data-flag="@X" onclick="openSidebar('DOA_4t_Juggernaut',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\5t_Mirror of Possibilities.jpg" id="DOA_5t_Mirror of Possibilities" data-flag="@X" onclick="openSidebar('DOA_5t_Mirror of Possibilities',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\6t_Powercell.jpg" id="DOA_6t_Powercell" data-flag="@X" onclick="openSidebar('DOA_6t_Powercell',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\7t_Thrice-Folded Lotus.jpg" id="DOA_7t_Thrice-Folded Lotus" data-flag="@X" onclick="openSidebar('DOA_7t_Thrice-Folded Lotus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\8t_Alia Emblem.jpg" id="DOA_8t_Alia Emblem" data-flag="@X" onclick="openSidebar('DOA_8t_Alia Emblem',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DOA-files\img\9t_Siraj Emblem.jpg" id="DOA_9t_Siraj Emblem" data-flag="@X" onclick="openSidebar('DOA_9t_Siraj Emblem',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DOA_e" data-flag="@E" onclick="openSidebar('DOA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DOA_er" data-flag="@E" onclick="openSidebar('DOA_er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -497,19 +523,111 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.json')
+		await fetch(rootPath + '/lists/all-cards.json')
 					.then(response => response.json())
 					.then(json => {
 						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
-				await fetch('/resources/replacechars.txt')
+				await fetch(rootPath + '/resources/replacechars.txt')
 					.then(response => response.text())
 					.then(text => {
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
 				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 
@@ -544,13 +662,16 @@
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = '/img/card_back.png';
+				img.src = rootPath + '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
 			else
 			{
-				img.src = img.alt;
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
 
 				if (flag === '@E') {
 					img.removeAttribute("onclick");
@@ -704,16 +825,16 @@
 	});
 
 	function search() {
-		const url = new URL('search', window.location.origin);
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 		url.searchParams.append('search', document.getElementById("search").value);
-		window.location.href = url;
+		window.location.href = url.pathname + url.search;
 	}
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 				const params = {
 					set: random_card.set,
 					num: random_card.number,
@@ -723,7 +844,7 @@
 					url.searchParams.append(key, params[key]);
 				}
 
-				window.location.href = url;
+				window.location.href = url.pathname + url.search;
 			}
 	</script>
 </body>

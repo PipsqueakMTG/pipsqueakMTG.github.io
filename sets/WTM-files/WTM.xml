@@ -1,0 +1,1491 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>WTM</name>
+			<longname>Walking the Multiverse</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-01-29</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Jack, Harvester</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/42_Jack, Harvester.jpg" num="42">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Jack</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Okalae, Gloryseeker</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/48_Okalae, Gloryseeker.jpg" num="48">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Okalae</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3RW</manacost>
+				<cmc>5</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Flooded Morass</name>
+			<text>({T}: Add {U} or {B})
+Flooded Morass enters the battlefield tapped unless you control a basic Island or a basic Swamp.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/65_Flooded Morass.jpg" num="65">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Lavatorn Fields</name>
+			<text>({T}: Add {B} or {R})
+Lavatorn Fields enters the battlefield tapped unless you control a basic Swamp or a basic Mountain.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/71_Lavatorn Fields.jpg" num="71">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Flourishing Crevasse</name>
+			<text>({T}: Add {R} or {G})
+Flourishing Crevasse enters the battlefield tapped unless you control a basic Mountain or a basic Forest.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/66_Flourishing Crevasse.jpg" num="66">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Heart of the Glade</name>
+			<text>({T}: Add {G} or {W})
+Heart of the Glade enters the battlefield tapped unless you control a basic Forest or a basic Plains.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/70_Heart of the Glade.jpg" num="70">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Gloomcover Steppe</name>
+			<text>({T}: Add {W} or {B})
+Gloomcover Steppe enters the battlefield tapped unless you control a basic Plains or a basic Swamp.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/69_Gloomcover Steppe.jpg" num="69">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Frostfire Geyser</name>
+			<text>({T}: Add {U} or {R})
+Frostfire Geyser enters the battlefield tapped unless you control a basic Island or a basic Mountain.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/67_Frostfire Geyser.jpg" num="67">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fungal Mire</name>
+			<text>({T}: Add {B} or {G})
+Fungal Mire enters the battlefield tapped unless you control a basic Swamp or a basic Forest.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/68_Fungal Mire.jpg" num="68">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Spiraling Canyon</name>
+			<text>({T}: Add {R} or {W})
+Spiraling Canyon enters the battlefield tapped unless you control a basic Mountain or a basic Plains.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/74_Spiraling Canyon.jpg" num="74">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Pool of Light</name>
+			<text>({T}: Add {W} or {U})
+Pool of Light enters the battlefield tapped unless you control a basic Plains or a basic Island.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/73_Pool of Light.jpg" num="73">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Lush Oasis</name>
+			<text>({T}: Add {G} or {U})
+Lush Oasis enters the battlefield tapped unless you control a basic Forest or a basic Island.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/72_Lush Oasis.jpg" num="72">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Kel, Tocaiba&apos;s Might</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/44_Kel, Tocaiba&apos;s Might.jpg" num="44">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Kel</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Aiko, Bearer of Sorrows</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/29_Aiko, Bearer of Sorrows.jpg" num="29">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Aiko</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2RWB</manacost>
+				<cmc>5</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mari, Goddess Emeritus</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/6_Mari, Goddess Emeritus.jpg" num="6">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Mari</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Han Ahxing, Ascendant</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/11_Han Ahxing, Ascendant.jpg" num="11">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Ahxing</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vikalden, Blackheart</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/18_Vikalden, Blackheart.jpg" num="18">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Vikalden</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Xepa, Unleashed Inmate</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/23_Xepa, Unleashed Inmate.jpg" num="23">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Xepa</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>6</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Elanor, Somber Savior</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/35_Elanor, Somber Savior.jpg" num="35">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Elanor</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Marston, Grand Artificer</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/45_Marston, Grand Artificer.jpg" num="45">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Marston</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jay Volkan</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/43_Jay Volkan.jpg" num="43">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Jay</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>UBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Glitch, Mind of a Beast</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/38_Glitch, Mind of a Beast.jpg" num="38">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Glitch</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1WUB</manacost>
+				<cmc>4</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Azamir the Storyteller</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/1_Azamir the Storyteller.jpg" num="1">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Azamir</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>9</manacost>
+				<cmc>9</cmc>
+				<loyalty>6</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Quxfin, Multiversal Conqueror</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/2_Quxfin, Multiversal Conqueror.jpg" num="2">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Quxfin</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sadie Dal, Bold Explorer</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/50_Sadie Dal, Bold Explorer.jpg" num="50">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Sadie</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2GUR</manacost>
+				<cmc>5</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Isamu, Evergnawing</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/41_Isamu, Evergnawing.jpg" num="41">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Isamu</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1BGU</manacost>
+				<cmc>4</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Archmage Jessica Turin</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/31_Archmage Jessica Turin.jpg" num="31">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Turin</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3UR</manacost>
+				<cmc>5</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dynamic Carmella Clarke</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/34_Dynamic Carmella Clarke.jpg" num="34">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — C.C</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1URW</manacost>
+				<cmc>4</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rozalia, Lichbane</name>
+			<text>---
+(Back): Sapphire, Aspiring Lich</text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/49_Rozalia, Lichbane_front.jpg" num="49a">WTM</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Rozalia</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>BRG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Sapphire, Aspiring Lich</related>
+		</card>
+		<card>
+			<name>Sapphire, Aspiring Lich</name>
+			<text>---
+(Front): Rozalia, Lichbane</text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/49_Rozalia, Lichbane_back.jpg" num="49b">WTM</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Planeswalker — Maria</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BRG</coloridentity>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Rozalia, Lichbane</related>
+		</card>
+		<card>
+			<name>Tove Valdulfdatter</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/52_Tove Valdulfdatter.jpg" num="52">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Tove</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Caydin, Himbo Heroine</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/33_Caydin, Himbo Heroine.jpg" num="33">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Caydin</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3GW</manacost>
+				<cmc>5</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<loyalty>6</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Max, Faithless Healer</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/46_Max, Faithless Healer.jpg" num="46">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Maxomon</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2WBG</manacost>
+				<cmc>5</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Holly, Fauna Expert</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/40_Holly, Fauna Expert.jpg" num="40">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Holly</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3RGW</manacost>
+				<cmc>6</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lawrel, Favored Son</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/25_Lawrel, Favored Son.jpg" num="25">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Lawrel</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gerrit Dior, History&apos;s Voice</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/37_Gerrit Dior, History&apos;s Voice.jpg" num="37">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Gerrit</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>GWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Arcane Mastery</name>
+			<text>Choose one. If you control a planeswalker, choose any number instead.
+• Return target spell with mana value 3 or less to its owner&apos;s hand.
+• Target player draws two cards.
+• Arcane Mastery deals 3 damage to any target.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/30_Arcane Mastery.jpg" num="30">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sesilius, Banished Messiah</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/51_Sesilius, Banished Messiah.jpg" num="51">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Sesilius</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4WB</manacost>
+				<cmc>6</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bloodstained Armund</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/32_Bloodstained Armund.jpg" num="32">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Armund</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Monstrous Mastery</name>
+			<text>Choose one. If you control a planeswalker, choose any number instead.
+• Target opponent sacrifices a planeswalker.
+• Exile target artifact or enchantment.
+• Target opponent loses 3 life and you gain 3 life.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/47_Monstrous Mastery.jpg" num="47">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Grim Mastery</name>
+			<text>Choose one. If you control a planeswalker, choose any number instead.
+• Target player discards two cards.
+• Destroy target creature or planeswalker.
+• Put each land card in target player&apos;s graveyard onto the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/39_Grim Mastery.jpg" num="39">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Violent Mastery</name>
+			<text>Choose one. If you control a planeswalker, choose any number instead.
+• Violent Mastery deals 3 damage to target player.
+• Violent Mastery deals 3 damage to target planeswalker.
+• Violent Mastery deals 3 damage to target creature.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/59_Violent Mastery.jpg" num="59">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Turbulent Mastery</name>
+			<text>Choose one. If you control a planeswalker, choose any number instead.
+• Return target creature to its owner&apos;s hand.
+• Put two +1/+1 counters on target creature.
+• Target player may surveil 1, then draws a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/53_Turbulent Mastery.jpg" num="53">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Piety</name>
+			<text>Whenever you cast a white spell, you gain X life, where X is 1 plus the number of times you&apos;ve gained life this turn.
+At the beginning of each end step, if you have at least 20 life more than your starting life total, create a 4/4 white Angel creature token with flying.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/7_Piety.jpg" num="7">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>WWW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Chronomancy</name>
+			<text>You may cast blue spells as though they had flash. They can&apos;t be countered.
+Whenever you cast a spell, untap target permanent if its your turn. Otherwise, tap target permanent.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/10_Chronomancy.jpg" num="10">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UUU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Antipathy</name>
+			<text>Whenever you cast a spell, Antipathy deals 1 damage to each opponent. It deals 2 damage instead if that spell was red.
+As long as an opponent has 10 or less life, creatures you control gain +1/+0 and have haste.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/19_Antipathy.jpg" num="19">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>RRR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Loyalty</name>
+			<text>Whenever you cast a green spell, proliferate.
+Whenever you activate an ability of a planeswalker or attack, put a +1/+1 counter or a loyalty counter on target permanent.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/26_Loyalty.jpg" num="26">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GGG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Chicanery</name>
+			<text>Whenever you cast a black spell you own, exile the top card of each opponent&apos;s library. You may play those cards as long as they remain exiled, and you may spend mana as though it was mana of any color to do so.
+At the beginning of your end step, each opponent loses life equal to the number of permanents you control that you don&apos;t own.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/14_Chicanery.jpg" num="14">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BBB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Chiresian Consort Throne</name>
+			<text>If you would draw a card, instead search your library for a card and put it into your hand, then shuffle.
+Your opponents can&apos;t cast more than one spell each turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/60_Chiresian Consort Throne.jpg" num="60">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Fate Engine</name>
+			<text>Whenever you cast a spell, create a 0/0 colorless Army creature token, then put a +1/+1 counter on each Army you control.
+Once on each of your turn, you may cast a spell with mana value 3 or less without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/36_The Fate Engine.jpg" num="36">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>WUBRG</manacost>
+				<cmc>5</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Urge to Imagine</name>
+			<text>You may remove three counters from a blue planeswalker you control rather than pay this spell&apos;s mana cost.
+Create a token that&apos;s a copy of target permanent you control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/55_Urge to Imagine.jpg" num="55">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Urge to Kill</name>
+			<text>You may remove three counters from a red planeswalker you control rather than pay this spell&apos;s mana cost.
+Urge to Kill deals 5 damage to target creature or planeswalker.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/56_Urge to Kill.jpg" num="56">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Urge to Lift</name>
+			<text>You may remove two counters from a white planeswalker you control rather than pay this spell&apos;s mana cost.
+Target creature gets +3/+3 and gains indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/57_Urge to Lift.jpg" num="57">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Urge to Explore</name>
+			<text>You may remove three counters from a green planeswalker you control rather than pay this spell&apos;s mana cost.
+Create a 3/3 green Beast creature token. Creatures you control get +1/+0 and gain haste until end of turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/54_Urge to Explore.jpg" num="54">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Urge to Seize</name>
+			<text>You may remove X counters from a black planeswalker you control rather than pay this spell&apos;s mana cost.
+Exile the top X cards of each opponent&apos;s library. As long as those cards remained exiled, you may play lands and cast spells from among them during your turn, and mana of any type can be spent to play them.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/58_Urge to Seize.jpg" num="58">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XUB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Open-Path Fox</name>
+			<text>{3}{G}{G}, Exile Open-Path Fox: Reveal the top eight cards of your library. You may put a creature card from among them onto the battlefield and the rest on the bottom of your library in any order.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/27_Open-Path Fox.jpg" num="27">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scratch&apos;s Tithetaker</name>
+			<text>Flying, haste
+Whenever Scratch&apos;s Tithetaker attacks, an opponent may have it deal 2 damage to them. If no one does, create a Treasure token.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/21_Scratch&apos;s Tithetaker.jpg" num="21">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sparkrender Flechettes</name>
+			<text>Ward—Pay 5 life. (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays 5 life.)
+Whenever a player activates an ability of a planeswalker, Sparkrender Flechettes deals 5 damage to that planeswalker.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/63_Sparkrender Flechettes.jpg" num="63">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Towering Herdleader</name>
+			<text>Trample
+Whenever Towering Herdleader enters the battlefield or dies, create two 3/3 green Beast creature tokens.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/28_Towering Herdleader.jpg" num="28">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>5GGG</manacost>
+				<cmc>8</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Naeva, Syndicate Muscle</name>
+			<text>Whenever you cast a black spell, you lose 1 life and create a 1/1 black Demon creature token. If you have 13 or less life, put a +1/+1 counter on it. If you have 6 or less life, it gains haste until end of turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/17_Naeva, Syndicate Muscle.jpg" num="17">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Listen to Animus Vox</name>
+			<text>When you cast Listen to Animus Vox, if you cast another spell this turn, you may have each player copy it.
+You gain 2 life and draw a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/5_Listen to Animus Vox.jpg" num="5">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hardened Hero</name>
+			<text>Sacrifice another creature: Tap Hardened Hero and put a +1/+1 counter on it. It gains indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/15_Hardened Hero.jpg" num="15">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skyline Protector</name>
+			<text>Skyline Protector gets +1/+0 for each artifact you control.
+Whenever you become the target of a spell or ability an opponent controls, Skyline Protector deals 3 damage to that opponent.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/22_Skyline Protector.jpg" num="22">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Muse of Cold Winter Nights</name>
+			<text>This spell costs {1} less to cast for each blue card in your graveyard.
+When Muse of Cold Winter Nights enters the battlefield, draw a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/12_Muse of Cold Winter Nights.jpg" num="12">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie God</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Advanced Intelligence</name>
+			<text>Whenever Advanced Intelligence enters the battlefield or attacks, proliferate. Then if you or a permanent you control has four or more counters on it, draw a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/9_Advanced Intelligence.jpg" num="9">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Admirable Admiral</name>
+			<text>When Admirable Admiral enters the battlefield, create a 1/1 white Soldier creature token for each card type among permanents you control.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/3_Admirable Admiral.jpg" num="3">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Imperial Herald</name>
+			<text>{3}{W}, Exile Imperial Herald from your graveyard: Search your library for a legendary card, reveal it, then put it into your hand and shuffle. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/4_Imperial Herald.jpg" num="4">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Defy Fate</name>
+			<text>Choose one—
+• Target permanent or player gains hexproof until end of turn.
+• The next spell you cast this turn can&apos;t be countered.
+• Draw a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/24_Defy Fate.jpg" num="24">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Engage the Omnidrive</name>
+			<text>Add three mana of different colors.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/20_Engage the Omnidrive.jpg" num="20">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Make a Mess</name>
+			<text>If there are four or more creatures on the battlefield, you lose 4 life.
+Destroy all creatures.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/16_Make a Mess.jpg" num="16">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Suppose</name>
+			<text>Look at the top three cards of your library, then put them all on the top or the bottom of your library in any order.
+Draw a card.</text>
+			<set rarity="rare" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/13_Suppose.jpg" num="13">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wolf WTM</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/9t_Wolf.jpg" num="9">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Avatar WTM</name>
+			<text>This token is all colors.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/10t_Avatar.jpg" num="10">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>X/X</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Angel WTM</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/2t_Angel.jpg" num="2">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Treasure WTM</name>
+			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/11t_Treasure.jpg" num="11">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Beast WTM</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/7t_Beast.jpg" num="7">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Soldier</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/8_Soldier.jpg" num="8">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Army WTM</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/1t_Army.jpg" num="1">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Army</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Sadie Dal Emblem WTM</name>
+			<text>Eureka! (At the beginning of each end step, you get a research counter if you cast a spell this turn. Then if you have eight or more research counters, remove them and create a Masterpiece token of your choice.)</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/12t_Sadie Dal Emblem.jpg" num="12">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Emblem</type>
+				<maintype>Emblem</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Rat WTM</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/8t_Rat.jpg" num="8">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Rat</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Lizard WTM</name>
+			<text>Haste</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/6t_Lizard.jpg" num="6">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Lizard</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Cultivating Spheres</name>
+			<text>At the beginning of your draw step, draw an additional card.
+You may play an additional land on each of your turns.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/61_Cultivating Spheres.jpg" num="61">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Masterpiece</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mirror of Possibilities</name>
+			<text>Whenever you cast a spell, you may pay {3}. If you do, copy it. You may choose new targets for the copy.
+Whenever a nontoken creature enters the battlefield under your control, you may pay {3}. If you do, create a token that&apos;s a copy of it.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/62_Mirror of Possibilities.jpg" num="62">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Masterpiece</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Thrice-Folded Lotus</name>
+			<text>{T}: Add three mana of any one color.
+{3}, {T}: Thrice-Folded Lotus deals 3 damage to any target.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/64_Thrice-Folded Lotus.jpg" num="64">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Masterpiece</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Enchantment WTM</name>
+			<text>At the beginning of your upkeep, create a 1/1 white Spirit creature token with flying.</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/3t_Enchantment.jpg" num="3">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Spirit WTM</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/4t_Spirit.jpg" num="4">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Demon WTM</name>
+			<text></text>
+			<set rarity="common" picurl="https://pipsqueakMTG.github.io/sets/WTM-files/img/5t_Demon.jpg" num="5">WTM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
