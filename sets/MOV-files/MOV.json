@@ -96,7 +96,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Forest",
-            "number": 92,
+            "number": 91,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -117,7 +117,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Island",
-            "number": 89,
+            "number": 88,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -138,7 +138,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
-            "number": 91,
+            "number": 90,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -159,7 +159,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Plains",
-            "number": 88,
+            "number": 87,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -180,7 +180,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
-            "number": 90,
+            "number": 89,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -467,7 +467,7 @@
             "alias": "",
             "position": "21",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Miguel Florens, Headliner",
@@ -477,7 +477,7 @@
             "number": 7,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "At the beginning of combat on your turn, put a +1/+1 counter on target creature. Whenever that creature attacks this turn, network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]",
+            "rules_text": "Whenever you attack, put a +1/+1 counter on target creature you control and network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -621,7 +621,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 85,
+            "number": 84,
             "color_identity": "C",
             "cost": "",
             "rules_text": "As Luxurious Estate enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.\n{T}: Add {C}.\n{T}, Pay 1 life: Add one mana of any color.",
@@ -642,7 +642,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land \u2014 Desert",
-            "number": 87,
+            "number": 86,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Suntouched Bluffs enters the battlefield with a charge counter on it.\n{T}: Add {C}.\n{T}, Remove a charge counter from Suntouched Bluffs: Add one mana of any color.",
@@ -663,7 +663,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land \u2014 Desert",
-            "number": 86,
+            "number": 85,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Solkern Highway enters the battlefield tapped.\nAs Solkern Highway enters the battlefield, chose a color.\nSolkern Highway and other Deserts you control have \u201c{T}: Add one mana of the chosen color.\u201d",
@@ -684,7 +684,7 @@
             "color": "",
             "rarity": "rare",
             "type": "Land \u2014 Desert",
-            "number": 84,
+            "number": 83,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}: Add {C}.\n{T}: Add two mana of any one color. Activate only if you control four or more Deserts.",
@@ -803,7 +803,7 @@
             "alias": "",
             "position": "37",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Location Scout",
@@ -831,7 +831,7 @@
             "color": "",
             "rarity": "special",
             "type": "Legendary Planeswalker \u2014 Azamir",
-            "number": 93,
+            "number": 92,
             "color_identity": "C",
             "cost": "{8}",
             "rules_text": "Whenever a creature you control deals combat damage to an opponent, you may cast a card exiled with Azamir without paying its mana cost.\n[+2]: Create a 3/3 white Angel creature token with flying. Exile the top card of your library.\n[-3]: Exile up to three cards you own from outside the game.\n[-4]: Exile target nonland permanent an opponent controls.\n[-4]: Call in a favor.",
@@ -852,7 +852,7 @@
             "color": "R",
             "rarity": "special",
             "type": "Legendary Planeswalker \u2014 Opal",
-            "number": 94,
+            "number": 93,
             "color_identity": "R",
             "cost": "{4}{R}",
             "rules_text": "Whenever you activate one of Ryan Opal's abilities, you may discard a land card. If you do, copy that ability. You may choose new targets for the copy.\n[+2]: Create a Treasure token.\n[+1]: Exile the top card of your library. You may play it until the end of your next turn.\n[-2]: Ryan Opal deals 3 damage to any target.",
@@ -873,7 +873,7 @@
             "color": "UBR",
             "rarity": "special",
             "type": "Legendary Planeswalker \u2014 Armund",
-            "number": 96,
+            "number": 95,
             "color_identity": "UBR",
             "cost": "{1}{U}{B}{R}",
             "rules_text": "Whenever a permanent an opponent controls dies, put a loyalty counter on Armund, Wayward Killer.\n[+1]: Each opponent loses 3 life unless they sacrifice a nonland permanent or discard a card.\n[-2]: Armund deals 3 damage divided as you choose among any number of targets.\n[-8]: Target player mills thirty cards.",
@@ -894,7 +894,7 @@
             "color": "BR",
             "rarity": "special",
             "type": "Legendary Planeswalker \u2014 Okus",
-            "number": 95,
+            "number": 94,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
             "rules_text": "[0]: Each player creates a black enchantment token named Smog with \u201cAt the beginning of your upkeep, you lose 1 life.\u201d\n[-2]: Gain control of target creature until end of turn. Untap it. It gains haste until end of turn.\n[-3]: Return target creature card with mana value 3 or less from a graveyard to the battlefield under your control.",
@@ -915,7 +915,7 @@
             "color": "BG",
             "rarity": "special",
             "type": "Legendary Planeswalker \u2014 Isamu",
-            "number": 98,
+            "number": 97,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
             "rules_text": "[+1]: Mill three cards, then put a creature card from among them into your hand.\n[-2]: You may sacrifice a creature. If you do, search your library for a creature card with mana value less than or equal to 1 plus the sacrificed creature's mana value and put it onto the battlefield. Then shuffle.\n[-6]: You get an emblem with \u201cTap an untapped creature you control: Return target creature card in your graveyard that shares a creature type with it to the battlefield.\u201d",
@@ -936,7 +936,7 @@
             "color": "UR",
             "rarity": "special",
             "type": "Legendary Planeswalker \u2014 Turin",
-            "number": 99,
+            "number": 98,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
             "rules_text": "Once each turn, whenever you cast an instant or sorcery spell with mana value 1, you may copy it. You may choose new targets for the copy.\n[+1]: Jessica deals 2 damage to each opponent.\n[-2]: Draw two cards, then discard two cards unless you discard an instant or sorcery card.",
@@ -957,7 +957,7 @@
             "color": "WUG",
             "rarity": "special",
             "type": "Legendary Planeswalker \u2014 Nora",
-            "number": 100,
+            "number": 99,
             "color_identity": "WUG",
             "cost": "{G}{W}{U}",
             "rules_text": "[+1]: Untap up to one target land and up to one target nonland permanent.\n[0]: You may distribute a +1/+1 counter, loyalty counter, charge counter, and/or a lore counter among any number of permanents you control.\n[-6]: You get an emblem with \u201cYou may cast spells as copies of nonland permanents on the battlefield and nonland cards in graveyards.\u201d",
@@ -1013,7 +1013,7 @@
             "alias": "",
             "position": "47",
             "rotated": false,
-            "notes": "Tara"
+            "notes": "Tara\n!tag wishlist"
         },
         {
             "card_name": "Tasteless Violence",
@@ -1034,7 +1034,7 @@
             "alias": "",
             "position": "48",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Desperate Spectacle",
@@ -1055,7 +1055,7 @@
             "alias": "",
             "position": "49",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Unwavering Exploration",
@@ -1076,7 +1076,7 @@
             "alias": "",
             "position": "50",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Dazzling Beauty",
@@ -1097,14 +1097,14 @@
             "alias": "",
             "position": "51",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Tara and Eve, Lying Low",
             "color": "WUB",
             "rarity": "special",
             "type": "Legendary Planeswalker \u2014 Tara Eve",
-            "number": 101,
+            "number": 100,
             "color_identity": "WUB",
             "cost": "{1}{W}{U}{B}",
             "rules_text": "[+1]: Draw a card, then each player discards a card. For each nonland card discarded this way, each opponent loses 1 life.\n[-2]: Tap up to one target creature, then each opponent sacrifices a tapped creature they control.\n[-8]: Until end of turn, you may play cards from graveyards. If a card would be put into a graveyard this turn, exile it instead.",
@@ -1125,7 +1125,7 @@
             "color": "BRG",
             "rarity": "special",
             "type": "Legendary Planeswalker \u2014 Tove",
-            "number": 102,
+            "number": 101,
             "color_identity": "BRG",
             "cost": "{B}{R}{G}",
             "rules_text": "[+1]: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\n[-3]: Tove deals X damage to any target, where X is the number of differently named lands you control.\n[-6]: Until end of turn, you may play any number of lands. You draw up to five cards and lose that much life.",
@@ -1139,14 +1139,14 @@
             "alias": "",
             "position": "53",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Imani, Firestarter",
             "color": "WRG",
             "rarity": "special",
             "type": "Legendary Planeswalker \u2014 Imani",
-            "number": 97,
+            "number": 96,
             "color_identity": "WRG",
             "cost": "{2}{R}{G}{W}",
             "rules_text": "Whenever you attack, put a +1/+1 counter on target creature you control and a loyalty counter on target planeswalker you control.\n[+1]: Put a +1/+1 counter on each creature you control. They gain vigilance and trample until end of turn.\n[-2]: Create two 1/1 Actor creature tokens that are all colors. When you do, Imani deals X damage to any target, where X is the number of creatures you control.",
@@ -1338,10 +1338,10 @@
             "number": 20,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Exile target creature or planeswalker you control, then return it to the battlefield under your control.\nIII \u2014 Network, then network again. [i](To network, you get {V}. You can call in a favor as a sorcery for five {V}.)[/i] [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor. You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]\n\u200b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Exile target creature or planeswalker you own, then return it to the battlefield under your control.\nIII \u2014 Network, then network again. [i](To network, you get {V}. You can call in a favor as a sorcery for five {V}.)[/i]\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Exile target creature or planeswalker you control, then return it to the battlefield under your control.\nIII \u2014 Network, then network again. [i](To network, you get {V}. You can call in a favor as a sorcery for five {V}.)[/i] [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor. You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Exile target creature or planeswalker you own, then return it to the battlefield under your control.\nIII \u2014 Network, then network again. [i](To network, you get {V}. You can call in a favor as a sorcery for five {V}.)[/i]\n\u200b",
             "shape": "saga",
             "set": "MOV",
             "loyalty": "",
@@ -1545,7 +1545,7 @@
             "color": "RG",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 78,
+            "number": 77,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
             "rules_text": "Whenever you tap a Desert for mana, add {C}.\nAt the beginning of your upkeep, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]",
@@ -1608,7 +1608,7 @@
             "color": "BR",
             "rarity": "mythic",
             "type": "Creature \u2014 Human Rebel",
-            "number": 81,
+            "number": 80,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
             "rules_text": "Whenever one or more Rebels you control attack, you draw a card and you lose 1 life.\n[i]Sabotage[/i] \u2014 Whenever an opponent or permanent an opponent controls becomes the target of a spell you control, create a 2/2 red Rebel creature token.",
@@ -1643,7 +1643,7 @@
             "alias": "",
             "position": "77",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Fire Season",
@@ -1671,7 +1671,7 @@
             "color": "BG",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 83,
+            "number": 82,
             "color_identity": "BG",
             "cost": "{B}{G}",
             "rules_text": "Search your library for a Saga card, reveal it, put it into your hand, then shuffle.\n{3}{B}{G}, Sacrifice a creature, Exile Viral Marketing from your graveyard: Put a Saga from your hand or graveyard onto the battlefield. Activate only as a sorcery.",
@@ -1684,27 +1684,6 @@
             "artist": "John Mattson",
             "alias": "",
             "position": "79",
-            "rotated": false,
-            "notes": ""
-        },
-        {
-            "card_name": "Without A Horizon",
-            "color": "G",
-            "rarity": "uncommon",
-            "type": "Enchantment \u2014 Saga",
-            "number": 77,
-            "color_identity": "G",
-            "cost": "{G}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\nII \u2014 Create a tapped Treasure token.\nIII \u2014 The next creature spell you cast this turn enters the battlefield with a +1/+1 counter on it.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\nII \u2014 Create a tapped Treasure token.\nIII \u2014 The next creature spell you cast this turn enters the battlefield with a +1/+1 counter on it.",
-            "shape": "saga",
-            "set": "MOV",
-            "loyalty": "",
-            "artist": "Oleg Zherebin",
-            "alias": "",
-            "position": "80",
             "rotated": false,
             "notes": ""
         },
@@ -1725,7 +1704,7 @@
             "loyalty": "",
             "artist": "Ryeomi",
             "alias": "",
-            "position": "81",
+            "position": "80",
             "rotated": false,
             "notes": ""
         },
@@ -1746,7 +1725,7 @@
             "loyalty": "",
             "artist": "Veera Hokkanen",
             "alias": "",
-            "position": "82",
+            "position": "81",
             "rotated": false,
             "notes": ""
         },
@@ -1767,7 +1746,7 @@
             "loyalty": "",
             "artist": "Leif Heanzo",
             "alias": "",
-            "position": "83",
+            "position": "82",
             "rotated": false,
             "notes": ""
         },
@@ -1788,7 +1767,7 @@
             "loyalty": "",
             "artist": "Adrien Usa-Lucas",
             "alias": "",
-            "position": "84",
+            "position": "83",
             "rotated": false,
             "notes": ""
         },
@@ -1809,7 +1788,7 @@
             "loyalty": "",
             "artist": "Grafit Studio",
             "alias": "",
-            "position": "85",
+            "position": "84",
             "rotated": false,
             "notes": ""
         },
@@ -1818,7 +1797,7 @@
             "color": "BG",
             "rarity": "rare",
             "type": "Enchantment \u2014 Saga",
-            "number": 79,
+            "number": 78,
             "color_identity": "BG",
             "cost": "{4}{B}{G}",
             "rules_text": "[i]The thrilling conclusion to a ten year saga.[/i]\nI \u2014 Create three 2/2 black Nightmare creature tokens.\nII \u2014 Creatures you control get +1/+0 and gain trample until end of turn.\nIII \u2014 Each opponent loses 4 life and you gain 4 life.",
@@ -1830,7 +1809,7 @@
             "loyalty": "",
             "artist": "Dmitry Vishnevsky",
             "alias": "",
-            "position": "86",
+            "position": "85",
             "rotated": false,
             "notes": ""
         },
@@ -1851,7 +1830,7 @@
             "loyalty": "",
             "artist": "Bella liu",
             "alias": "",
-            "position": "87",
+            "position": "86",
             "rotated": false,
             "notes": ""
         },
@@ -1860,7 +1839,7 @@
             "color": "WG",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Actor",
-            "number": 82,
+            "number": 81,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
             "rules_text": "When Rising Star enters the battlefield, reveal the top five cards of your library. You may put an enchantment card from among them into your hand, and the rest on the bottom of your library in any order.\nWhen Rising Star dies, you may return target Saga card from your graveyard to your hand.",
@@ -1872,7 +1851,7 @@
             "loyalty": "",
             "artist": "Tony Foti",
             "alias": "",
-            "position": "88",
+            "position": "87",
             "rotated": false,
             "notes": ""
         },
@@ -1893,7 +1872,7 @@
             "loyalty": "",
             "artist": "Nitin Venkatesan",
             "alias": "",
-            "position": "89",
+            "position": "88",
             "rotated": false,
             "notes": ""
         },
@@ -1914,7 +1893,7 @@
             "loyalty": "",
             "artist": "Yuyu Wong",
             "alias": "",
-            "position": "90",
+            "position": "89",
             "rotated": false,
             "notes": ""
         },
@@ -1935,7 +1914,7 @@
             "loyalty": "",
             "artist": "Oleg Kapustin",
             "alias": "",
-            "position": "91",
+            "position": "90",
             "rotated": false,
             "notes": ""
         },
@@ -1956,7 +1935,7 @@
             "loyalty": "",
             "artist": "Anna Marukhnich",
             "alias": "",
-            "position": "92",
+            "position": "91",
             "rotated": false,
             "notes": ""
         },
@@ -1977,7 +1956,7 @@
             "loyalty": "",
             "artist": "Pauline Vo\u00df",
             "alias": "",
-            "position": "93",
+            "position": "92",
             "rotated": false,
             "notes": ""
         },
@@ -1986,7 +1965,7 @@
             "color": "WU",
             "rarity": "uncommon",
             "type": "Creature \u2014 Angel Noble",
-            "number": 80,
+            "number": 79,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
             "rules_text": "Flying\nWhenever Gracious Host attacks, draw a card. If there are three or more card types among permanents you control, you gain 2 life. If there are five or more, put a +1/+1 counter on each creature you control.",
@@ -1998,7 +1977,7 @@
             "loyalty": "",
             "artist": "Rossdraws \u2726",
             "alias": "",
-            "position": "94",
+            "position": "93",
             "rotated": false,
             "notes": "Reart"
         },
@@ -2019,7 +1998,7 @@
             "loyalty": "",
             "artist": "Peter Bartels",
             "alias": "",
-            "position": "95",
+            "position": "94",
             "rotated": false,
             "notes": ""
         },
@@ -2040,7 +2019,7 @@
             "loyalty": "",
             "artist": "Max Hay",
             "alias": "",
-            "position": "96",
+            "position": "95",
             "rotated": false,
             "notes": "!tag Motley Oak Vista\n!tag Endless Ambition Combo\n!tag Impossibility Control"
         },
@@ -2061,7 +2040,7 @@
             "loyalty": "",
             "artist": "Artem Chebokha",
             "alias": "",
-            "position": "97",
+            "position": "96",
             "rotated": false,
             "notes": ""
         },
@@ -2082,7 +2061,7 @@
             "loyalty": "",
             "artist": "Dannilo Costa",
             "alias": "",
-            "position": "98",
+            "position": "97",
             "rotated": false,
             "notes": "!tag Motley Oak Vista\n!tag Wizard Burn"
         },
@@ -2103,7 +2082,7 @@
             "loyalty": "",
             "artist": "(Yuumei) Wenqing Yan",
             "alias": "",
-            "position": "99",
+            "position": "98",
             "rotated": false,
             "notes": ""
         },
@@ -2124,7 +2103,7 @@
             "loyalty": "",
             "artist": "Gulsah Minsin",
             "alias": "",
-            "position": "100",
+            "position": "99",
             "rotated": false,
             "notes": ""
         },
@@ -2145,7 +2124,7 @@
             "loyalty": "",
             "artist": "Hartdraws\u2726",
             "alias": "",
-            "position": "101",
+            "position": "100",
             "rotated": false,
             "notes": ""
         },
@@ -2166,7 +2145,7 @@
             "loyalty": "",
             "artist": "Britta Jacobs",
             "alias": "",
-            "position": "102",
+            "position": "101",
             "rotated": false,
             "notes": ""
         },
@@ -2187,7 +2166,7 @@
             "loyalty": "",
             "artist": "James Wu",
             "alias": "",
-            "position": "103",
+            "position": "102",
             "rotated": false,
             "notes": ""
         },
@@ -2208,7 +2187,7 @@
             "loyalty": "",
             "artist": "Yuan Chang",
             "alias": "",
-            "position": "104",
+            "position": "103",
             "rotated": false,
             "notes": ""
         },
@@ -2229,7 +2208,7 @@
             "loyalty": "",
             "artist": "Billy Canvas",
             "alias": "",
-            "position": "105",
+            "position": "104",
             "rotated": false,
             "notes": ""
         },
@@ -2250,7 +2229,7 @@
             "loyalty": "",
             "artist": "Alexander Smolyakov",
             "alias": "",
-            "position": "106",
+            "position": "105",
             "rotated": false,
             "notes": ""
         },
@@ -2271,7 +2250,7 @@
             "loyalty": "",
             "artist": "Maula Ihdalfarhi",
             "alias": "",
-            "position": "107",
+            "position": "106",
             "rotated": false,
             "notes": ""
         },
@@ -2292,7 +2271,7 @@
             "loyalty": "",
             "artist": "Koyorin",
             "alias": "",
-            "position": "108",
+            "position": "107",
             "rotated": false,
             "notes": ""
         },
@@ -2313,10 +2292,10 @@
             "loyalty": "",
             "artist": "Mo Kim",
             "alias": "",
-            "position": "109",
+            "position": "108",
             "rotated": false,
             "notes": ""
         }
     ],
-    "version": 1
+    "version": 2
 }

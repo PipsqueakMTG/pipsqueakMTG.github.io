@@ -1,4 +1,106 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+Without A Horizon removed.
+
+City Restoration Project
+
+Miguel Florens, Headliner
+rules_text: At the beginning of combat on your turn, put a +1/+1 counter on target creature. Whenever that creature attacks this turn, network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i] => Whenever you attack, put a +1/+1 counter on target creature you control and network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]
+
+Ambulance Chaser
+
+Inconspicuous Evasion
+
+Tasteless Violence
+
+Desperate Spectacle
+
+Unwavering Exploration
+
+Dazzling Beauty
+
+Tove, Modern Curiosity
+
+The Faerie Queen
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile target creature or planeswalker you control, then return it to the battlefield under your control.
+III — Network, then network again. [i](To network, you get {V}. You can call in a favor as a sorcery for five {V}.)[/i] [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor. You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile target creature or planeswalker you own, then return it to the battlefield under your control.
+III — Network, then network again. [i](To network, you get {V}. You can call in a favor as a sorcery for five {V}.)[/i]
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile target creature or planeswalker you control, then return it to the battlefield under your control.
+III — Network, then network again. [i](To network, you get {V}. You can call in a favor as a sorcery for five {V}.)[/i] [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor. You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile target creature or planeswalker you own, then return it to the battlefield under your control.
+III — Network, then network again. [i](To network, you get {V}. You can call in a favor as a sorcery for five {V}.)[/i]
+​
+
+Skate or Die
+
+Us Chosen Few
+
+The Chosen of the Ghosts
+
+The Big Leagues
+
+Snowfall
+
+Pilfered Process
+
+Enter the Endgame
+
+Dusk Beckons
+
+Rising Star
+
+Fusion Maestro
+
+Carmichael Beach Lifeguard
+
+Nightmare
+
+Ulnian Insights
+
+Trendy Spirituality
+
+Gracious Host
+
+Public Phoneline
+
+Garden Fountain
+
+Hit the Road
+
+Scarlet District Punk
+
+Tagging Aficionado
+
+Road Rager
+
+Lighting Lanterns
+
+The Forest's Edge
+
+A Day in the Park
+
+Solkern Gila
+
+Personal Shopper
+
+Leading Lady
+
+Northside Ghost
+
+Oni Shoplifter
+
+Smash and Grab
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
