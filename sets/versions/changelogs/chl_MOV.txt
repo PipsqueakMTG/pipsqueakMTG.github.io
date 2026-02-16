@@ -1,4 +1,254 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Bloodsucking Socialite added.
+Xanigan, Power Broker added.
+Artificial Idol added.
+Disaster at the Docks added.
+Scorched Chaparral added.
+Boundless Playa added.
+Eroded Spires added.
+Mystic Arroyo added.
+Dessicated Basin added.
+Long Walk Home added.
+Exhalation added.
+Sylvia, Honored Guest added.
+Manira, Party Crasher added.
+Tsubasa, Stunt Coordinator added.
+Sick With It added.
+
+Carmichael Ingenue removed.
+Holographic Celebrity removed.
+Skate or Die removed.
+Smash and Grab removed.
+
+Traffic Jam
+rules_text: When Traffic Jam enters the battlefield, exile target creature or planeswalker until Traffic Jam leaves the battlefield, then network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]
+As long as you've called in a favor this game, Traffic Jam has hexproof. => When Traffic Jam enters the battlefield, exile target nonland permanent until Traffic Jam leaves the battlefield, then network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]
+As long as you've called in a favor this game, Traffic Jam has hexproof.
+
+City of Angels
+rules_text: At the beginning of each opponent's end step, if you didn't lose life this turn, network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]
+Whenever you call in a favor, create a 4/4 white Angel creature token with flying and vigilance. => At the beginning of each opponent's end step, if you didn't lose life this turn, network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]
+Whenever you call in a favor, create two 3/3 white Angel creature tokens with flying.
+
+Angel
+pt: 4/4 => 3/3
+
+Treasure
+type: Token Artifact => Token Artifact — Treasure
+
+Endless Opportunities
+
+City Restoration Project
+
+Miguel Florens, Headliner
+rules_text: Whenever you attack, put a +1/+1 counter on target creature you control and network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i] => Whenever you attack, put a +1/+1 counter on target attacking creature and network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]
+
+The Carmichael Awards
+rules_text: Whenever you lose life for the first time each turn, network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]
+When you call in a favor, if you've called in five favors this game, you win the game. => At the beginning of each end step, for each time you've networked this turn, network. [i](You get {V}. As a sorcery, spend 5 {V} to call in a favor.)[/i]
+When you call in a favor, if you've called in five favors this game, you win the game.
+
+Princess Alel
+
+Charity Juniper, Heiress
+
+Favors
+
+Bum a Light
+
+Living the Yaneta Lifestyle
+
+Luxurious Estate
+
+Suntouched Bluffs
+
+Solkern Highway
+
+Joshua Tree Pass
+rules_text: {T}: Add {C}.
+{T}: Add two mana of any one color. Activate only if you control four or more Deserts. => {T}: Add {C}. If you control four or more Deserts, add one mana of any color instead. If you control six or more Deserts, add two mana of any one color instead.
+
+Camping Trip
+
+The Night Hungers
+
+Road Trippers
+
+Ecstatic Tourist
+
+Ambulance Chaser
+rules_text: Deathtouch
+Whenever a creature dies, create a Souvenir. [i](It's an artifact with “When a creature deals damage to an opponent, you may sacrifice this to put a +1/+1 counter on it.”)[/i] => Deathtouch
+Whenever a creature dies, create a Souvenir token. [i](It's an artifact with “When a creature deals damage to an opponent, you may sacrifice this to put a +1/+1 counter on it.”)[/i]
+
+Location Scout
+
+Azamir, Among the Angels
+
+Ryan Opal Is...Calamity Smith
+
+Armund, Wayward Killer
+
+An Accidental Anarchist
+
+Isamu, Hapless Researcher
+
+Jessica, In Her Element
+
+Nora, Actress in Waiting
+
+Smog
+
+Inconspicuous Evasion
+
+Tasteless Violence
+
+Desperate Spectacle
+
+Unwavering Exploration
+
+Dazzling Beauty
+
+Tara and Eve, Lying Low
+
+Tove, Modern Curiosity
+
+Imani, Firestarter
+
+Distracting Youth
+
+Traveling Collector
+
+In the Arms of Angels
+
+Game Day
+
+Opening Night
+
+High Budget Parody
+
+Oakgrove Gossip
+
+Millenia Studios Secretary
+
+The Faerie Queen
+
+Sway of the Dark Church
+
+Oakgrove Scion
+
+Leave Behind
+
+Hasta La Vista
+
+On the Grind
+
+Burning Rubber
+
+Take in the Sights
+
+Reckless Vacationing
+
+Dawn on the Solkern
+
+Scarlet District Sightseer
+rules_text: Menace
+[i]Sabotage[/i] — Whenever an opponent or permanent an opponent controls becomes the target of a spell you control, create a Souvenir token. [i](It's an artifact with “When a creature deals damage to an opponent, you may sacrifice this to put a +1/+1 counter on it.”)[/i] => [i]Sabotage[/i] — Whenever an opponent or permanent an opponent controls becomes the target of a spell you control, create a Souvenir token. This ability only triggers once each turn [i](It's an artifact with “When a creature deals damage to an opponent, you may sacrifice this to put a +1/+1 counter on it.”)[/i]
+
+Rebel
+
+Public Enemy
+
+Fire Season
+
+Viral Marketing
+
+Us Chosen Few
+
+The Chosen of the Ghosts
+
+The Big Leagues
+
+Snowfall
+
+Pilfered Process
+
+Enter the Endgame
+
+Dusk Beckons
+
+Rising Star
+
+Fusion Maestro
+
+Carmichael Beach Lifeguard
+
+Nightmare
+
+Ulnian Insights
+
+Trendy Spirituality
+
+Gracious Host
+
+Public Phoneline
+
+Garden Fountain
+
+Hit the Road
+
+Scarlet District Punk
+rules_text: Haste
+Players can't gain life.
+Whenever you attack with three or more creatures, creatures you control get +1/+0 until end of turn. => Prowess, haste
+Players can't gain life.
+pt: 2/1 => 2/2
+
+Tagging Aficionado
+
+Road Rager
+
+Lighting Lanterns
+cost: {5}{R} => {1}{R}{R}
+rules_text: This spell costs {1} less to cast for each card type among cards in your graveyard.
+Lighting Lanterns deals 6 damage to target creature or planeswalker. => Lighting Lanterns deals 4 damage to any target.
+
+The Forest's Edge
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. 
+Create a Treasure token.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. 
+Create a Treasure token.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. 
+Create a Treasure token.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. 
+Create a Treasure token.
+​
+
+A Day in the Park
+
+Solkern Gila
+
+Personal Shopper
+
+Leading Lady
+
+Northside Ghost
+rules_text: Northside Ghost can't block.
+Whenever a creature you control deals combat damage to an opponent, return Northside Ghost from your graveyard to your hand. => Northside Ghost can't block.
+[i]Sabotage[/i] — Whenever an opponent or permanent an opponent controls becomes the target of a spell you control, return this card from the graveyard to its owner's hand.
+pt: 2/1 => 2/2
+
+Oni Shoplifter
+
+
+VERSION 2 CHANGELOG
 ====================
 
 
