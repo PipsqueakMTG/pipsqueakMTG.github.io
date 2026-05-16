@@ -1,4 +1,872 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+Emissary of Nefarox added.
+Anathema of Reason added.
+Gaea's Forgotten added.
+All the Time in the World added.
+Molten Multiclaws added.
+The Arkbow added.
+Flame Reaper added.
+Mechan Revolutionary added.
+Realmbreak added.
+Ascend to Perfection added.
+Vizier of Absolution added.
+Grim Clocktower added.
+Natural Aperture added.
+Omenport, Gate to the Infinite added.
+Anticausal Singularity added.
+Urza's Expertise added.
+Shapeshifter added.
+Spirit of Music added.
+
+Prismatic Beacon removed.
+Nefarox's Emissary removed.
+Lotleth Collector removed.
+Menagerie Keeper removed.
+Still Waters removed.
+Nexus Gate removed.
+Jolrael, Druidic Dissident removed.
+Tools of the Trade removed.
+Beastmaster's Bracers removed.
+Smoldering Reaper removed.
+Generous Automaton removed.
+Furyweave removed.
+Grasp of Phyresis removed.
+Ever Increasing Dominion removed.
+Hoarder of Possibilities removed.
+Naktamun Vestige removed.
+Herald of New Life removed.
+
+Refractor Matrix
+
+Sentinel Forge
+
+Arid Mesa
+
+Badlands
+
+Bayou
+
+Bloodstained Mire
+
+Flooded Strand
+
+Marsh Flats
+
+Misty Rainforest
+
+Plateau
+
+Polluted Delta
+
+Savannah
+
+Scalding Tarn
+
+Scrubland
+
+Taiga
+
+Tropical Island
+
+Tundra
+
+Underground Sea
+
+Verdant Catacombs
+
+Volcanic Island
+
+Windswept Heath
+
+Wooded Foothills
+
+Chromatic Cube
+
+Shimmering Mox
+
+The Seed of Everything
+
+Tranquil Mystic
+
+Forebode
+
+Rewritten Dreams
+
+Leaking Memories
+rules_text: Target player reveals their hand. You may choose a nonland card revealed this way and exile it. Then, you lose 3 life unless you pay {B}. => Target player reveals their hand. You choose a nonland card revealed this way and exile it. Then, you lose 3 life unless you pay {B}.
+
+Ego Death
+
+Expose
+
+Ichor Chalice
+
+Walk with Grace
+
+Suppose
+
+Massive Impact
+
+Avenge
+
+Devour Reality
+
+Warden of Orazca
+
+Mul Daya Speaker
+type: Creature — Elf Shaman => Creature — Elf Druid
+
+Pontiff of Accumulation
+
+Kiki-Jiki, the First Illusionist
+type: Legendary Creature — Goblin Shaman => Legendary Creature — Goblin Wizard
+
+Vitu-Ghazi Envoy
+
+Stromkirk Visions
+rules_text: Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+Draw a card.
+Create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i] => Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+Draw a card.
+Create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+
+Ghostly Espionage
+
+Rubblebelt Martyr
+type: Creature — Human Shaman => Creature — Human Wizard
+
+Road Rager
+
+Necrogen Rebirth
+
+Suffocating Light
+
+Scourge of Bala Ged
+
+Blood Demands Blood
+rules_text: When this enchantment enters, create two Blood tokens. [i](They're artifacts with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+At the beginning of your end step, this deals X damage to any target, where X is the number of cards players discarded this turn. => When this enchantment enters, create two Blood tokens. [i](They're artifacts with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+At the beginning of your end step, this deals X damage to any target, where X is the number of cards players discarded this turn.
+
+Janjeet Astronomer
+
+Mindcrackle
+rules_text: Mindcrackle deals 3 damage to any target.
+Look at the top three cards of your library. Put one into your hand, and the rest on the bottom of your library in any order. => Mindcrackle deals 3 damage to any target. Look at the top three cards of your library. Put one into your hand, and the rest on the bottom of your library in any order.
+
+Urza, Royal Machinist
+
+Unseal the Underworld
+
+Untamed One
+
+Lost Girl
+
+Roar of Compleation
+
+Drink Your Fill
+rules_text: Target creature gets -4/-4 until end of turn.
+Create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i] => Target creature gets -4/-4 until end of turn.
+Create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+
+Dance of the Kami
+
+Alpha Baloth
+
+Dreadhorde Invocation
+
+Prismari Perfomance
+
+Lineage of the Way
+
+Make A Symbol
+
+Sum of All Fears
+
+Nixie's Trick
+
+Wild Prince
+rules_text: Changeling [i](This card is every creature type.)[/i]
+At the beginning of combat on your turn, create a 1/1 colorless Shapeshifter creature token with changeling. It gains haste and attacks this turn if able. => Changeling [i](This card is every creature type.)[/i]
+At the beginning of combat on your turn, create a 1/1 colorless Shapeshifter creature token with changeling. It gains haste and attacks this combat if able.
+
+Fountainport Guildmaster
+
+Fin-Clade Renegade
+
+Volcanic Challenger
+
+Lord of the Maze
+
+Adarkar Impostor
+
+Littjara Channeler
+
+Cast In Silver
+
+Territory Dispute
+
+Goreform
+rules_text: Changeling [i](This card is every creature type.)[/i]
+Prowess
+When this creature enters, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i] => Changeling [i](This card is every creature type.)[/i]
+Prowess
+When this creature enters, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+
+Liberated Seraph
+
+Start Anew
+
+Blood
+
+Idol
+
+Spirit
+
+Construct
+
+Wizard
+
+Otter
+
+Shapeshifter
+
+Treasure
+
+Spiritual Experience
+
+Rot
+
+Destructive Ambition
+
+Infernal Recall
+
+Forgotten Passage
+
+Forgotten Aquifer
+
+New Divide
+
+City of Gold
+
+Kor Archaeologist
+
+Break Reality
+
+Reprint
+
+Robrashk, Usurper of Rohgahh
+
+Jodah's Scorn
+
+Fragment of Emptiness
+
+Fragment of Curiosity
+
+Fragment of Hope
+
+Fragment of Rage
+
+Blade of Banishing
+
+Fragment of Growth
+
+Cosmium Keeper
+
+Elementalist's Charm
+
+Magda, Axgard Outcast
+
+Ferocious Flame
+
+Galvanic Gambit
+
+Devious Pyromancer
+
+Gleeful Arson
+
+Tyranny of Karrthus
+
+Unforced Error
+
+Grafdigger
+
+Rivercrack Mentor
+
+Necromantic Dabbler
+
+Nahiri, Vengeful Lithomancer
+
+Gnottvold Grizzly
+
+Hedron Gatherer
+
+The Fleshwright
+
+Masterful Stitching
+
+Worship the Ashes
+
+Mirari's Wrath
+rules_text: When this enchantment enters, it deals 2 damage to each creature and each planeswalker you don't control.
+Whenever you tap a land for mana, add one mana of any type that land produced. => When this enchantment enters, it deals 2 damage to each creature and planeswalker you don't control.
+Whenever you tap a land for mana, add one mana of any type that land produced.
+
+Dormant Doomsday Device
+
+Overworked Academic
+
+Cabal Cryptkeeper
+
+West Academy Researcher
+
+Fear of Burnout
+
+Basilica Phantasm
+
+Tidepool Teachings
+
+Tajuru Wildseeker
+
+Untameable Growth
+
+Reverberation
+
+What Could Be
+
+Ashiok, Oblivion Liege
+
+Nissa, Visionary Animist
+rules_text: [+2]: Untap up to two target lands
+[-2]: Mill three cards. Then return up to one permanent card or up to three land cards from your graveyard to your hand.
+[-9]: Put an animus counter on each of up to three lands you control. They become 4/4 creatures in addition to their other types. They can't attack this turn. => [+2]: Untap up to two target lands.
+[-2]: Mill three cards. Then return up to one permanent card or up to three land cards from your graveyard to your hand.
+[-9]: Put an animus counter on each of up to three lands you control. They become 4/4 creatures in addition to their other types. They can't attack this turn.
+special_text: [+2]: Untap up to two target lands
+[-2]: Mill three cards. Then return up to one permanent card or up to three land cards from your graveyard to your hand.
+[-9]: Put an animus counter on each of up to three lands you control. They become 4/4 creatures in addition to their other types. They can't attack this turn. => [+2]: Untap up to two target lands.
+[-2]: Mill three cards. Then return up to one permanent card or up to three land cards from your graveyard to your hand.
+[-9]: Put an animus counter on each of up to three lands you control. They become 4/4 creatures in addition to their other types. They can't attack this turn.
+
+Azami, Aspiring Archivist
+
+Akroma, Ixidor's Wrath
+
+Vastwood Attunement
+rules_text: You may play any number of lands a turn.
+As long as you've played two or more lands this turn, you can't cast spells. => You may play any number of lands on each of your turns.
+As long as you've played two or more lands this turn, you can't cast spells.
+
+Hanna of the Weatherlight
+
+Seeing Double
+
+Survival of the Strangest
+rules_text: When this enchantment enters and at the beginning of your upkeep, look at the top seven cards of your library. You may exile a creature card from among them. Put the rest on the bottom of your library in a random order. You may cast that card as long as it remains exiled. => When this enchantment enters and at the beginning of your upkeep, look at the top five cards of your library. You may exile a creature card from among them. Put the rest on the bottom of your library in a random order. You may cast that card as long as it remains exiled.
+
+Isao, Jukai Hermit
+
+The Prismatic Bridge Calls
+
+Ashmouth Tyrant
+
+Messenger of Unx
+
+Feldon's Bauble
+rules_text: {T}, Sacrifice this: Surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i] => {T}, Sacrifice this artifact: Surveil 1, then draw a card.
+
+Savior of the Pious
+
+Winged Amulet
+
+Blade Bearer
+
+Ajani, Hero of Velis Vel
+rules_text: [+1]: Put a +1/+1 counter on each of up to two creatures you control. They gain vigilance until end of turn.
+[-2]: Create two 1/1 colorless Shapeshifter creature tokens with changeling. [i](They have every creature type)[/i]
+[-2]: Ajani deals X damage to target creature or planeswalker and you gain X life, where X is the number of creatures you control. => [+1]: Put a +1/+1 counter on each of up to two creatures you control. They gain vigilance until end of turn.
+[-2]: Create two 1/1 colorless Shapeshifter creature tokens with changeling.
+[-2]: Ajani deals X damage to target creature or planeswalker and you gain X life, where X is the number of creatures you control.
+special_text: [+1]: Put a +1/+1 counter on each of up to two creatures you control. They gain vigilance until end of turn.
+[-2]: Create two 1/1 colorless Shapeshifter creature tokens with changeling. [i](They have every creature type)[/i]
+[-2]: Ajani deals X damage to target creature or planeswalker and you gain X life, where X is the number of creatures you control. => [+1]: Put a +1/+1 counter on each of up to two creatures you control. They gain vigilance until end of turn.
+[-2]: Create two 1/1 colorless Shapeshifter creature tokens with changeling.
+[-2]: Ajani deals X damage to target creature or planeswalker and you gain X life, where X is the number of creatures you control.
+
+Joraga Beastmaster
+
+Paint the Future
+
+That Wild Yonder
+
+Kaito, Shadow Assassin
+
+Mercurial Model
+
+Convergence of Souls
+
+Burning Augury
+
+Climb the World Tree
+
+At Any Cost
+
+Consume
+
+Tor Wauki the Elder
+
+Eladamri, Skyshroud Liege
+
+Death Knows His Own
+
+Extract Sin
+
+Abundant Blessings
+
+Martial Inferno
+
+Sarkhan's Rebuttal
+
+Living Bulwark
+
+Quintorius, Sharp Scholar
+
+Selective Amnesia
+
+Forgotten Lavafield
+
+Forgotten Summit
+
+Forgotten Grove
+
+Forgotten Barrens
+
+Forgotten River
+
+Forgotten Copse
+
+Forgotten Gazebo
+
+Forgotten Coast
+
+Gideon's Sural
+
+Quandrix Conundrum
+
+Twisted Shapestealer
+
+Reappropriate
+
+Aeonic Conduit
+
+Prophetic Sculpture
+rules_text: Prophetic Sculpture enters the battlefield tapped.
+When Prophetic Sculpture enters the battlefield, choose a color.
+{T}: Add one mana of the chosen color.
+{4}, {T}: Draw a card. Spend only mana of the chosen color to activate this ability. => Prophetic Sculpture enters tapped.
+When Prophetic Sculpture enters, choose a color.
+{T}: Add one mana of the chosen color.
+{4}, {T}: Draw a card. Spend only mana of the chosen color to activate this ability.
+
+Rite of Shilgengar
+
+Teferi, Timestream Savant
+
+Malevolent Tutor
+
+Scorch
+
+Sink or Swim
+
+Bridal Shower
+rules_text: Bridal Shower deals 3 damage to each creature. Whenever a creature is dealt excess damage this way, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i] => Bridal Shower deals 3 damage to each creature. Whenever a creature is dealt excess damage this way, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+
+Danika, Falkenrath Consort
+rules_text: Whenever this creature enters or attacks, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+As long as you have one or fewer cards in hand, if you would draw a card, instead draw two cards and this creature deals 1 damage to you. => Whenever this creature enters or attacks, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+As long as you have one or fewer cards in hand, if you would draw a card, instead draw two cards and this creature deals 1 damage to you.
+
+Beast
+
+Abzan Revolution
+
+Guidance of Saint Traft
+
+Song of All
+
+Beautiful Tomorrows
+
+Culinary Arts
+
+Extraversal Fragment
+
+Fang-Druid's Summons
+
+Jaspera Rune-Reader
+
+Pull of the Gravetide
+
+Automaton Epicure
+
+Endless Cityscape
+
+Port of Meletis
+
+Seedship Scout
+
+Reject the Notion
+rules_text: You may exile two blue cards and two other cards from your graveyard rather than pay this spell's mana cost.
+Counter target spell. => You may exile two blue cards from your graveyard rather than pay this spell's mana cost.
+Counter target spell.
+
+Ecstatic Alchemist
+
+Bondseeker Magpie
+
+Terror of Uncrossed Strait
+
+Refined Diamond
+
+Halo Oracle
+
+Goldmeadow Paragon
+
+Vis Drain
+rules_text: Counter target spell. If a creature spell was countered this way, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i] => Counter target spell. If a creature spell was countered this way, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+
+Highland Puca
+
+Higure, Called Twilight
+
+Apex Omnibian
+
+Steward of Nylea
+
+Kalonian Lifeweaver
+type: Creature — Treefolk Shaman => Creature — Treefolk Druid
+
+Territorial Ironhide
+
+Agnomakhos, the Sun Tyrant
+
+Lord of the Abyss
+
+Reclusive Hypnotist
+
+Essence Scavengers
+
+Kami of Sorrow
+
+Bloodline Progenitor
+
+Street Smarts
+
+Multifarious Mask
+
+Grand Entrance
+
+Primal Roundup
+
+Balemurk Harrower
+
+Saint Elenda of Garrano
+
+Talara, the Great Safewright
+
+Ramosian Negotiator
+
+Overlord of Mirrex
+
+Boros Mage-Priest
+
+Multiplicity Tome
+
+Alesha's Quartermaster
+
+Thrull Mastermind
+type: Creature — Thrull => Creature — Thrull Horror
+rules_text: Ward—Discard a card.
+When this creature enters, create three Blood tokens. [i](They're artifacts with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+Bloods you control are 2/2 black Thrulls in addition to their other types. => Ward—Discard a card.
+When this creature enters, create three Blood tokens. [i](They're artifacts with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+Bloods you control are 2/2 black Thrulls in addition to their other types.
+
+Duskmantle Agent
+
+Marina Vendrell, Secret Keeper
+
+Wyleth, Swordcraft Veteran
+
+Champion of Progenitus
+
+Keeper of the Crucible
+
+Frenzied Experimenter
+
+Protostar Phoenix
+
+Savai Cracklemaw
+
+Altac Thunderblade
+
+Rhet-Crop Exemplar
+
+The Lands Beyond Valley
+
+Binding Tape
+
+Voidbane Astelli
+
+Memnarch, Argentum Warden
+
+Walking Ecosystem
+
+Junkmonger
+
+Katilda, Solstice Matriarch
+
+Witherbloom Capstone
+
+Schooling Aetherskites
+
+Sigiled Outcast
+rules_text: When this creature enters, until end of turn creatures you control get +1/+1 and creatures you don't control get -1/-1. => When this creature enters, until end of turn, creatures you control get +1/+1 and creatures you don't control get -1/-1.
+
+Anitoxa, the Weftwatcher
+
+Stabilized Omenpath
+
+Captured Bloom
+rules_text: When this artifact enters, exile your graveyard.
+You may play up to two cards exiled with this per turn.
+{T}: Add {C}{C}. => When this artifact enters, exile your graveyard.
+You may play up to two cards exiled with this artifact per turn.
+{T}: Add {C}{C}.
+
+Smuggler's Aetherskates
+
+Moment of Omniscence
+
+Rishadan Kidnapper
+
+Sanctum of Oketra
+rules_text: [i]({T}: Add {W}.)[/i]
+This land enters tapped.
+{1}{W}{W}: This land becomes a 2/2 white Elemental creature with double strike until end of turn. It's still a land. => [i]({T}: Add {W}.)[/i]
+This land enters tapped.
+{1}{W}{W}: This land becomes a 2/2 white Cat creature with double strike until end of turn. It's still a land.
+
+Sanctum of Isilu
+
+Sanctum of Ojer Pakpatiq
+rules_text: [i]({T}: Add {U}.)[/i]
+This land enters tapped.
+{2}{U}{U}: This land becomes a 4/4 blue Elemental creature with hexproof until end of turn. It's still a land. => [i]({T}: Add {U}.)[/i]
+This land enters tapped.
+{2}{U}{U}: This land becomes a 4/4 blue Spirit creature with hexproof until end of turn. It's still a land.
+
+Sanctum of Nylea
+rules_text: [i]({T}: Add {G}.)[/i]
+This land enters tapped.
+{4}{G}{G}: This land becomes a 7/7 green Elemental creature with trample until end of turn. It's still a land. => [i]({T}: Add {G}.)[/i]
+This land enters tapped.
+{4}{G}{G}: This land becomes a 7/7 green Hydra creature with trample until end of turn. It's still a land.
+
+Sanctum of Ilharg
+rules_text: [i]({T}: Add {R}.)[/i]
+This land enters tapped.
+{2}{R}{R}: This land becomes a 5/3 red Elemental creature with menace until end of turn. It's still a land. => [i]({T}: Add {R}.)[/i]
+This land enters tapped.
+{2}{R}{R}: This land becomes a 5/3 red Boar creature with menace until end of turn. It's still a land.
+
+Futurist Gauntlet
+
+G-Los, Prototype Pilgrim
+
+Eternity Crystal
+
+Karador, Mentor of Myth
+
+The Outcast One
+
+Gitaxian Dissectors
+
+Rapture
+
+Bonder's Call
+
+Zimone, Solution Seeker
+
+Expel from the Court
+
+Dire Fleet Provisioner
+
+Ral, Even Otter
+
+Inga Omen-Seer
+
+Haakon, Lord of Tresserhorn
+
+Bizarre Blaze
+
+Serra, Voice of Peace
+
+Koth, Hope of Mirrodin
+
+Crumbling Castle
+
+Crumbling Archive
+
+Crumbling Crypt
+
+Crumbling Shrine
+
+Crumbling Retreat
+
+Garruk, Champion of the Wild
+
+Promised Conquest
+
+The Sculpting of Uthros
+
+Evil Cowers Before Courage
+
+Stupendous Hoard
+
+Archangel's Charm
+
+Fearless Band
+
+One From Many
+
+Trainwreck
+
+Heiromancer's Chains
+rules_text: Spirited [i](When this enters, you may activate one of its activated abilities without paying its cost.)[/i]
+{2}{W}: Exile another target nonland permanent until this artifact leaves the battlefield.
+At the beginning of your upkeep, if the total mana value of cards exiled with this artifact is 6 or greater, sacrifice it. => Spirited [i](When this enters, you may activate one of its activated abilities without paying its cost.)[/i]
+{2}{W}: Exile another target nonland permanent until this artifact leaves the battlefield. You can't activate this ability during combat.
+At the beginning of your upkeep, if the total mana value of cards exiled with this artifact is 6 or greater, sacrifice it.
+
+Nantuko Outlander
+
+Aether Dynamo
+
+Light-Paws, Imperial Advisor
+
+Blood Age Commander
+
+Iron Alliance Juggernaut
+
+Restitch Fate
+
+Zinc Myr
+
+Gilded Grimalkin
+
+Banish
+
+Consult the Dead
+
+Initiate Into the Night
+rules_text: Whenever you gain life, draw a card.
+{B}, Pay 4 life: Put a lifelink counter on target creature. => Whenever you gain life, draw a card. [i](Multiple creatures with lifelink will trigger this multiple times)[/i]
+{B}, Pay 4 life: Put a lifelink counter on target creature.
+
+Sonorous Séance
+
+Composite Crawler
+
+Gannet, Skysail Zoologist
+
+Ludevic's Courier
+
+Altar of the False God
+
+Cerebral Connoisseur
+
+Serene Study
+
+Reki of the Living Historians
+
+Dragonspeaker's Charm
+
+Pathcutter Raptor
+
+Gargaroth Yearling
+
+Thaumaturgy
+rules_text: When this enchantment enters, it deals 2 damage to any target. Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+Whenever a Wizard you control enters, return this enchantment to its owner's hand. => When this enchantment enters, it deals 2 damage to any target. Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Whenever a Wizard you control enters, return this enchantment to its owner's hand.
+
+Hollowhenge Predator
+
+Eyeblight Reaper
+
+Titan Engine
+
+Going Nowhere
+
+Scrapworks
+
+New Prahv, Seat of the Senate
+
+Chama Koj, Forbidden Chamber
+
+Locthwain, Corrupted Castle
+rules_text: This land enters tapped.
+{T}: Add {B} or {R}.
+[i]Channel[/i] — {1}{B}{R}, Discard this card: This deals 3 damage to any target. You gain 3 life. => This land enters tapped.
+{T}: Add {B} or {R}.
+[i]Channel[/i] — {1}{B}{R}, Discard this card: It deals 3 damage to any target. You gain 3 life.
+
+Tomakul, Fallaji Capital
+
+Setessa, Polis of Plenty
+
+Tarnation, City of Scoundrels
+
+Ghirapur, Hub of Innovation
+
+Dewrim, Rootbloom Haven
+
+Cori Mountain, Pilgrim's Path
+
+Ior, Glasspool Ruin
+
+Warmaker Aurelia
+
+Frostfire Fox
+
+Spectacular Conjuration
+
+Overlord of Mosswood
+rules_text: Trample
+When this creature enters, exile the top four cards of your library. You may cast up to two nonland cards exiled this way without paying their mana cost. Put any number of lands exiled this way onto the battlefield. => Trample
+When this creature enters, exile the top four cards of your library. You may cast up to two nonland cards exiled this way without paying their mana cost. Put any number of land cards exiled this way onto the battlefield.
+
+Vedalken Journeymage
+rules_text: Whenever you cast a noncreature spell, create a 1/1 blue and red Wizard creature token with prowess. This ability only triggers once each turn.
+Exhaust — {15}: Take an extra turn after this one. This ability costs {1} less to activate for each other Wizard you control. [i](Activate each exhaust ability only once.)[/i] => Whenever you cast a noncreature spell, create a 1/1 blue and red Wizard creature token with prowess. This ability only triggers once each turn.
+Exhaust — {12}: Take an extra turn after this one. This ability costs {1} less to activate for each other Wizard you control. [i](Activate each exhaust ability only once.)[/i]
+
+Valor's Reach Star
+
+Jace, Mnemonic Master
+
+Liliana, Queen of the Dead
+
+Chandra of Keral Keep
+
+Plot
+
+Otterslide
+
+
+VERSION 15 CHANGELOG
 ====================
 
 Ecstatic Alchemist added.
