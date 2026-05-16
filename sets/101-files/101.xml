@@ -5,7 +5,7 @@
 			<name>101</name>
 			<longname>Storytime</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-01-29</releasedate>
+			<releasedate>2026-05-15</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1331,8 +1331,8 @@ Conjure three cards named Unceasing Flames and shuffle them into your main libra
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related count="x">Magdel, Caller of Souls</reverse_related>
-			<reverse_related count="x">Wandering Souls</reverse_related>
+			<reverse-related count="x">Magdel, Caller of Souls</reverse-related>
+			<reverse-related count="x">Wandering Souls</reverse-related>
 		</card>
 		<card>
 			<name>Soldier</name>
@@ -1350,7 +1350,7 @@ Conjure three cards named Unceasing Flames and shuffle them into your main libra
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related count="x">Overwhelming Armies</reverse_related>
+			<reverse-related count="x">Overwhelming Armies</reverse-related>
 		</card>
 		<card>
 			<name>Unceasings Flames Reminder 101</name>
@@ -1422,7 +1422,7 @@ When Warden of the Dead dies, conjure three cards named Warden of the Dead and s
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related count="2">Hunter&apos;s Hideout</reverse_related>
+			<reverse-related count="2">Hunter&apos;s Hideout</reverse-related>
 		</card>
 		<card>
 			<name>Emperor Tzhai</name>

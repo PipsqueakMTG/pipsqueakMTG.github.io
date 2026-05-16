@@ -5,7 +5,7 @@
 			<name>BLR</name>
 			<longname>Blood Like Rivers</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-01-29</releasedate>
+			<releasedate>2026-05-15</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -646,6 +646,8 @@ Enchanted creature has &quot;{4}: Untap this creature.&quot;</text>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related count="2">BLR Spirit</related>
+			<related></related>
 		</card>
 		<card>
 			<name>Binding Whisper</name>
@@ -3370,7 +3372,7 @@ When Vengeful Whisper dies, create a white enchantment token named Memorial with
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Vengeful Whisper</reverse_related>
+			<reverse-related>Vengeful Whisper</reverse-related>
 		</card>
 		<card>
 			<name>Gravefire Arcanist</name>
@@ -4705,8 +4707,8 @@ Whenever Cerys attacks, you may return a nontoken permanent you control to its o
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Ikel, Revered Lichlord</reverse_related>
-			<reverse_related>Ikel&apos;s Legacy</reverse_related>
+			<reverse-related>Ikel, Revered Lichlord</reverse-related>
+			<reverse-related>Ikel&apos;s Legacy</reverse-related>
 		</card>
 		<card>
 			<name>Red Soldier BLR</name>
@@ -4725,8 +4727,8 @@ Whenever Cerys attacks, you may return a nontoken permanent you control to its o
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Sparring Partner</reverse_related>
-			<reverse_related>Accompanied Chevalier</reverse_related>
+			<reverse-related>Sparring Partner</reverse-related>
+			<reverse-related>Accompanied Chevalier</reverse-related>
 		</card>
 		<card>
 			<name>Zombie BLR</name>
@@ -4745,9 +4747,9 @@ Whenever Cerys attacks, you may return a nontoken permanent you control to its o
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Reapers Called to Harvest</reverse_related>
-			<reverse_related>Zombie Infestation</reverse_related>
-			<reverse_related>Fervent Necromancer</reverse_related>
+			<reverse-related>Reapers Called to Harvest</reverse-related>
+			<reverse-related>Zombie Infestation</reverse-related>
+			<reverse-related>Fervent Necromancer</reverse-related>
 		</card>
 		<card>
 			<name>Demon BLR</name>
@@ -4766,8 +4768,8 @@ Whenever Cerys attacks, you may return a nontoken permanent you control to its o
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Reapers Called to Harvest</reverse_related>
-			<reverse_related>Hieronymus Scratch</reverse_related>
+			<reverse-related>Reapers Called to Harvest</reverse-related>
+			<reverse-related>Hieronymus Scratch</reverse-related>
 		</card>
 		<card>
 			<name>Elf BLR</name>
@@ -4786,8 +4788,8 @@ Whenever Cerys attacks, you may return a nontoken permanent you control to its o
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Familial Roots</reverse_related>
-			<reverse_related>Wildcourt Recruiter</reverse_related>
+			<reverse-related>Familial Roots</reverse-related>
+			<reverse-related>Wildcourt Recruiter</reverse-related>
 		</card>
 		<card>
 			<name>Wizard BLR</name>
@@ -4821,8 +4823,8 @@ Whenever Cerys attacks, you may return a nontoken permanent you control to its o
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Temporal Termination</reverse_related>
-			<reverse_related>Gilded Reaper</reverse_related>
+			<reverse-related>Temporal Termination</reverse-related>
+			<reverse-related>Gilded Reaper</reverse-related>
 		</card>
 		<card>
 			<name>Drake BLR</name>
@@ -4841,8 +4843,8 @@ Whenever Cerys attacks, you may return a nontoken permanent you control to its o
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Kywon, Nostalgic Visionary</reverse_related>
-			<reverse_related>Kywon&apos;s Progeny</reverse_related>
+			<reverse-related>Kywon, Nostalgic Visionary</reverse-related>
+			<reverse-related>Kywon&apos;s Progeny</reverse-related>
 		</card>
 		<card>
 			<name>Plains</name>
@@ -4936,12 +4938,12 @@ Whenever Cerys attacks, you may return a nontoken permanent you control to its o
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Memorial</reverse_related>
-			<reverse_related>Courtless Spiritcaller</reverse_related>
-			<reverse_related>Matron of Whispers</reverse_related>
-			<reverse_related>Archive Haunt</reverse_related>
-			<reverse_related>Twincall Chant</reverse_related>
-			<reverse_related>Persuasive Exorcist</reverse_related>
+			<reverse-related>Memorial</reverse-related>
+			<reverse-related>Courtless Spiritcaller</reverse-related>
+			<reverse-related>Matron of Whispers</reverse-related>
+			<reverse-related>Archive Haunt</reverse-related>
+			<reverse-related>Twincall Chant</reverse-related>
+			<reverse-related>Persuasive Exorcist</reverse-related>
 		</card>
 		<card>
 			<name>Dormant Bay</name>
@@ -5059,7 +5061,7 @@ Whenever Cerys attacks, you may return a nontoken permanent you control to its o
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Natural Majesty</reverse_related>
+			<reverse-related>Natural Majesty</reverse-related>
 		</card>
 		<card>
 			<name>Lucille, Ruthless Warlord</name>

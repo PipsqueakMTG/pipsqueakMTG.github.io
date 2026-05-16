@@ -5,7 +5,7 @@
 			<name>AVX</name>
 			<longname>Animus Vox</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-01-29</releasedate>
+			<releasedate>2026-05-15</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -4601,13 +4601,13 @@ Augmented — Whenever a creature you control enters, if you&apos;ve spent {W}{U
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Abomination Broodmother</reverse_related>
-			<reverse_related> Build Monsters From Relics</reverse_related>
-			<reverse_related> Twisted Walkers</reverse_related>
-			<reverse_related> In Dire Straits</reverse_related>
-			<reverse_related> Ambush Predator</reverse_related>
-			<reverse_related> Outside the Airlock</reverse_related>
-			<reverse_related> Savagery Evergrowing</reverse_related>
+			<reverse-related>Abomination Broodmother</reverse-related>
+			<reverse-related> Build Monsters From Relics</reverse-related>
+			<reverse-related> Twisted Walkers</reverse-related>
+			<reverse-related> In Dire Straits</reverse-related>
+			<reverse-related> Ambush Predator</reverse-related>
+			<reverse-related> Outside the Airlock</reverse-related>
+			<reverse-related> Savagery Evergrowing</reverse-related>
 		</card>
 		<card>
 			<name>blue Elemental AVX</name>
@@ -4626,18 +4626,18 @@ Augmented — Whenever a creature you control enters, if you&apos;ve spent {W}{U
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>An Unfamiliar Swarm</reverse_related>
-			<reverse_related> Behavioral Specialist</reverse_related>
-			<reverse_related> Bizarre Dreams</reverse_related>
-			<reverse_related> Glowspore Grove</reverse_related>
-			<reverse_related> Herald of Teardrops</reverse_related>
-			<reverse_related> Wandering Visionary</reverse_related>
-			<reverse_related> Otherworldly Convocation</reverse_related>
-			<reverse_related> Remi Amber, Unlimited</reverse_related>
-			<reverse_related> Olten&apos;s Farewell</reverse_related>
-			<reverse_related> Operative BABY</reverse_related>
-			<reverse_related> Bioluminescent Display</reverse_related>
-			<reverse_related> Emotions like a Rain Cloud</reverse_related>
+			<reverse-related>An Unfamiliar Swarm</reverse-related>
+			<reverse-related> Behavioral Specialist</reverse-related>
+			<reverse-related> Bizarre Dreams</reverse-related>
+			<reverse-related> Glowspore Grove</reverse-related>
+			<reverse-related> Herald of Teardrops</reverse-related>
+			<reverse-related> Wandering Visionary</reverse-related>
+			<reverse-related> Otherworldly Convocation</reverse-related>
+			<reverse-related> Remi Amber, Unlimited</reverse-related>
+			<reverse-related> Olten&apos;s Farewell</reverse-related>
+			<reverse-related> Operative BABY</reverse-related>
+			<reverse-related> Bioluminescent Display</reverse-related>
+			<reverse-related> Emotions like a Rain Cloud</reverse-related>
 		</card>
 		<card>
 			<name>Servo AVX</name>
@@ -4654,18 +4654,18 @@ Augmented — Whenever a creature you control enters, if you&apos;ve spent {W}{U
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Deploy the Rovers</reverse_related>
-			<reverse_related> Expedition Outfitter</reverse_related>
-			<reverse_related> Propulsion Pack</reverse_related>
-			<reverse_related> Traveling Duo</reverse_related>
-			<reverse_related> TT-20 Salvation</reverse_related>
-			<reverse_related> Olten Surveyor</reverse_related>
-			<reverse_related> Comet, Pulled from Orbit</reverse_related>
-			<reverse_related> Exhausted Explorer</reverse_related>
-			<reverse_related> Jaded Confidant</reverse_related>
-			<reverse_related> Let&apos;s Go, Don&apos;t Wait</reverse_related>
-			<reverse_related> Reckless Guardian</reverse_related>
-			<reverse_related> Specialized Constructor</reverse_related>
+			<reverse-related>Deploy the Rovers</reverse-related>
+			<reverse-related> Expedition Outfitter</reverse-related>
+			<reverse-related> Propulsion Pack</reverse-related>
+			<reverse-related> Traveling Duo</reverse-related>
+			<reverse-related> TT-20 Salvation</reverse-related>
+			<reverse-related> Olten Surveyor</reverse-related>
+			<reverse-related> Comet, Pulled from Orbit</reverse-related>
+			<reverse-related> Exhausted Explorer</reverse-related>
+			<reverse-related> Jaded Confidant</reverse-related>
+			<reverse-related> Let&apos;s Go, Don&apos;t Wait</reverse-related>
+			<reverse-related> Reckless Guardian</reverse-related>
+			<reverse-related> Specialized Constructor</reverse-related>
 		</card>
 		<card>
 			<name>Gold Elemental AVX</name>
@@ -4683,12 +4683,12 @@ Augmented — Whenever a creature you control enters, if you&apos;ve spent {W}{U
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>All-Devouring Hope</reverse_related>
-			<reverse_related> Faith Given Form</reverse_related>
-			<reverse_related> Sage of Folded Possibilities</reverse_related>
-			<reverse_related> Everything Is Going Great</reverse_related>
-			<reverse_related> Life as a Means to a Triumph</reverse_related>
-			<reverse_related> The World Follows After</reverse_related>
+			<reverse-related>All-Devouring Hope</reverse-related>
+			<reverse-related> Faith Given Form</reverse-related>
+			<reverse-related> Sage of Folded Possibilities</reverse-related>
+			<reverse-related> Everything Is Going Great</reverse-related>
+			<reverse-related> Life as a Means to a Triumph</reverse-related>
+			<reverse-related> The World Follows After</reverse-related>
 		</card>
 		<card>
 			<name>Treasure AVX</name>
@@ -4704,33 +4704,33 @@ Augmented — Whenever a creature you control enters, if you&apos;ve spent {W}{U
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Alien Formations</reverse_related>
-			<reverse_related> Ancient Durumderm</reverse_related>
-			<reverse_related> AOSE Extractor</reverse_related>
-			<reverse_related> Dazzle</reverse_related>
-			<reverse_related> Doomed Explorer</reverse_related>
-			<reverse_related> Hatewracked Explorer</reverse_related>
-			<reverse_related> Lost Crew</reverse_related>
-			<reverse_related> Lost Explorer</reverse_related>
-			<reverse_related> Muse&apos;s Whims</reverse_related>
-			<reverse_related> Scanning Module</reverse_related>
-			<reverse_related> So Much to Do</reverse_related>
-			<reverse_related> Twisted Scinid</reverse_related>
-			<reverse_related> Vengeful Guardian</reverse_related>
-			<reverse_related> Digital Immortality</reverse_related>
-			<reverse_related> Heartforge Savant</reverse_related>
-			<reverse_related> Remi Amber, Unlimited</reverse_related>
-			<reverse_related> Extraction Mercenary</reverse_related>
-			<reverse_related> Nihilistic Shock Trooper</reverse_related>
-			<reverse_related> Comet, Pulled from Orbit</reverse_related>
-			<reverse_related> Abomination&apos;s Desire</reverse_related>
-			<reverse_related> Align with Animus Vox</reverse_related>
-			<reverse_related> AOSE Valiant</reverse_related>
-			<reverse_related> Oltenen Terror</reverse_related>
-			<reverse_related> Slyten Connoisseur</reverse_related>
-			<reverse_related> Splendor</reverse_related>
-			<reverse_related> Underhanded Deal</reverse_related>
-			<reverse_related> Voice of the Universe</reverse_related>
+			<reverse-related>Alien Formations</reverse-related>
+			<reverse-related> Ancient Durumderm</reverse-related>
+			<reverse-related> AOSE Extractor</reverse-related>
+			<reverse-related> Dazzle</reverse-related>
+			<reverse-related> Doomed Explorer</reverse-related>
+			<reverse-related> Hatewracked Explorer</reverse-related>
+			<reverse-related> Lost Crew</reverse-related>
+			<reverse-related> Lost Explorer</reverse-related>
+			<reverse-related> Muse&apos;s Whims</reverse-related>
+			<reverse-related> Scanning Module</reverse-related>
+			<reverse-related> So Much to Do</reverse-related>
+			<reverse-related> Twisted Scinid</reverse-related>
+			<reverse-related> Vengeful Guardian</reverse-related>
+			<reverse-related> Digital Immortality</reverse-related>
+			<reverse-related> Heartforge Savant</reverse-related>
+			<reverse-related> Remi Amber, Unlimited</reverse-related>
+			<reverse-related> Extraction Mercenary</reverse-related>
+			<reverse-related> Nihilistic Shock Trooper</reverse-related>
+			<reverse-related> Comet, Pulled from Orbit</reverse-related>
+			<reverse-related> Abomination&apos;s Desire</reverse-related>
+			<reverse-related> Align with Animus Vox</reverse-related>
+			<reverse-related> AOSE Valiant</reverse-related>
+			<reverse-related> Oltenen Terror</reverse-related>
+			<reverse-related> Slyten Connoisseur</reverse-related>
+			<reverse-related> Splendor</reverse-related>
+			<reverse-related> Underhanded Deal</reverse-related>
+			<reverse-related> Voice of the Universe</reverse-related>
 		</card>
 		<card>
 			<name>Comet, Pulled from Orbit</name>

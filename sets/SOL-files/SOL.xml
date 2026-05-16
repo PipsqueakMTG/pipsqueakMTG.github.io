@@ -1311,16 +1311,16 @@ Plainscycling {1} ({1}, Discard this card: Search your library for a Plains card
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related count="3">Thrull Mastermind</reverse_related>
-			<reverse_related>Altar of the False God</reverse_related>
-			<reverse_related count="2">Blood Demands Blood</reverse_related>
-			<reverse_related count="x">Bridal Shower</reverse_related>
-			<reverse_related>Danika, Falkenrath Consort</reverse_related>
-			<reverse_related>Drink Your Fill</reverse_related>
-			<reverse_related>Goreform</reverse_related>
-			<reverse_related>Ichor Chalice</reverse_related>
-			<reverse_related>Stromkirk Visions</reverse_related>
-			<reverse_related>Vis Drain</reverse_related>
+			<reverse-related count="3">Thrull Mastermind</reverse-related>
+			<reverse-related>Altar of the False God</reverse-related>
+			<reverse-related count="2">Blood Demands Blood</reverse-related>
+			<reverse-related count="x">Bridal Shower</reverse-related>
+			<reverse-related>Danika, Falkenrath Consort</reverse-related>
+			<reverse-related>Drink Your Fill</reverse-related>
+			<reverse-related>Goreform</reverse-related>
+			<reverse-related>Ichor Chalice</reverse-related>
+			<reverse-related>Stromkirk Visions</reverse-related>
+			<reverse-related>Vis Drain</reverse-related>
 		</card>
 		<card>
 			<name>Idol SOL</name>
@@ -1336,11 +1336,11 @@ Plainscycling {1} ({1}, Discard this card: Search your library for a Plains card
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Worship the Ashes</reverse_related>
-			<reverse_related>Mul Daya Spaker</reverse_related>
-			<reverse_related>Hedron Gatherer</reverse_related>
-			<reverse_related>Altar of the False God</reverse_related>
-			<reverse_related>Cosmium Keeper</reverse_related>
+			<reverse-related>Worship the Ashes</reverse-related>
+			<reverse-related>Mul Daya Spaker</reverse-related>
+			<reverse-related>Hedron Gatherer</reverse-related>
+			<reverse-related>Altar of the False God</reverse-related>
+			<reverse-related>Cosmium Keeper</reverse-related>
 		</card>
 		<card>
 			<name>Spirit SOL</name>
@@ -1359,20 +1359,20 @@ Plainscycling {1} ({1}, Discard this card: Search your library for a Plains card
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Spiritual Experience</reverse_related>
-			<reverse_related>Sonorous Séance</reverse_related>
-			<reverse_related>Pontiff of Accumulation</reverse_related>
-			<reverse_related count="2">Multiplicity Tome</reverse_related>
-			<reverse_related count="x">Katilda, Solstice Matriarch</reverse_related>
-			<reverse_related count="2">Liberated Seraph</reverse_related>
-			<reverse_related>Kami of Sorrow</reverse_related>
-			<reverse_related>Herald of New Life</reverse_related>
-			<reverse_related>Guidance of Saint Traft</reverse_related>
-			<reverse_related count="2">Dance of the Kami</reverse_related>
-			<reverse_related count="2">Convergence of Souls</reverse_related>
-			<reverse_related>Blood Age Commander</reverse_related>
-			<reverse_related>Basilica Phantasm</reverse_related>
-			<reverse_related>Abzan Revolution</reverse_related>
+			<reverse-related>Spiritual Experience</reverse-related>
+			<reverse-related>Sonorous Séance</reverse-related>
+			<reverse-related>Pontiff of Accumulation</reverse-related>
+			<reverse-related count="2">Multiplicity Tome</reverse-related>
+			<reverse-related count="x">Katilda, Solstice Matriarch</reverse-related>
+			<reverse-related count="2">Liberated Seraph</reverse-related>
+			<reverse-related>Kami of Sorrow</reverse-related>
+			<reverse-related>Herald of New Life</reverse-related>
+			<reverse-related>Guidance of Saint Traft</reverse-related>
+			<reverse-related count="2">Dance of the Kami</reverse-related>
+			<reverse-related count="2">Convergence of Souls</reverse-related>
+			<reverse-related>Blood Age Commander</reverse-related>
+			<reverse-related>Basilica Phantasm</reverse-related>
+			<reverse-related>Abzan Revolution</reverse-related>
 		</card>
 		<card>
 			<name>Construct SOL</name>
@@ -1389,12 +1389,12 @@ Plainscycling {1} ({1}, Discard this card: Search your library for a Plains card
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>West Academy Researcher</reverse_related>
-			<reverse_related>Cast In Silver</reverse_related>
-			<reverse_related>Ghirapur, Hub of Innovation</reverse_related>
-			<reverse_related>Memnarch, Argentum Warden</reverse_related>
-			<reverse_related>Sentinel Forge</reverse_related>
-			<reverse_related>Urza, Royal Machinist</reverse_related>
+			<reverse-related>West Academy Researcher</reverse-related>
+			<reverse-related>Cast In Silver</reverse-related>
+			<reverse-related>Ghirapur, Hub of Innovation</reverse-related>
+			<reverse-related>Memnarch, Argentum Warden</reverse-related>
+			<reverse-related>Sentinel Forge</reverse-related>
+			<reverse-related>Urza, Royal Machinist</reverse-related>
 		</card>
 		<card>
 			<name>Wizard SOL</name>
@@ -1413,15 +1413,15 @@ Plainscycling {1} ({1}, Discard this card: Search your library for a Plains card
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Prismari Performance</reverse_related>
-			<reverse_related>Burning Augury</reverse_related>
-			<reverse_related>Chandra of Keral Keep</reverse_related>
-			<reverse_related>Lineage of the Way</reverse_related>
-			<reverse_related>Vedalken Journeymage</reverse_related>
-			<reverse_related>Rivercrack Mentor</reverse_related>
-			<reverse_related>Rhet-Crop Exemplar</reverse_related>
-			<reverse_related>Necromantic Dabbler</reverse_related>
-			<reverse_related>Boros Mage-Priest</reverse_related>
+			<reverse-related>Prismari Performance</reverse-related>
+			<reverse-related>Burning Augury</reverse-related>
+			<reverse-related>Chandra of Keral Keep</reverse-related>
+			<reverse-related>Lineage of the Way</reverse-related>
+			<reverse-related>Vedalken Journeymage</reverse-related>
+			<reverse-related>Rivercrack Mentor</reverse-related>
+			<reverse-related>Rhet-Crop Exemplar</reverse-related>
+			<reverse-related>Necromantic Dabbler</reverse-related>
+			<reverse-related>Boros Mage-Priest</reverse-related>
 		</card>
 		<card>
 			<name>Otter SOL</name>
@@ -1440,11 +1440,11 @@ Plainscycling {1} ({1}, Discard this card: Search your library for a Plains card
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Ral, Even Otter</reverse_related>
-			<reverse_related>Nixie&apos;s Trick</reverse_related>
-			<reverse_related>Tidepool Teachings</reverse_related>
-			<reverse_related>Otterslide</reverse_related>
-			<reverse_related>Fountainport Guildmaster</reverse_related>
+			<reverse-related>Ral, Even Otter</reverse-related>
+			<reverse-related>Nixie&apos;s Trick</reverse-related>
+			<reverse-related>Tidepool Teachings</reverse-related>
+			<reverse-related>Otterslide</reverse-related>
+			<reverse-related>Fountainport Guildmaster</reverse-related>
 		</card>
 		<card>
 			<name>Shapeshifter SOL</name>
@@ -1461,12 +1461,12 @@ Plainscycling {1} ({1}, Discard this card: Search your library for a Plains card
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related count="2">Seeing Double</reverse_related>
-			<reverse_related count="x">One From Many</reverse_related>
-			<reverse_related count="2">Ajani, Hero of Velis Vel</reverse_related>
-			<reverse_related>Menagerie Keeper</reverse_related>
-			<reverse_related>Wild Prince</reverse_related>
-			<reverse_related>Multifarious Mask</reverse_related>
+			<reverse-related count="2">Seeing Double</reverse-related>
+			<reverse-related count="x">One From Many</reverse-related>
+			<reverse-related count="2">Ajani, Hero of Velis Vel</reverse-related>
+			<reverse-related>Menagerie Keeper</reverse-related>
+			<reverse-related>Wild Prince</reverse-related>
+			<reverse-related>Multifarious Mask</reverse-related>
 		</card>
 		<card>
 			<name>Treasure SOL</name>
@@ -1482,19 +1482,19 @@ Plainscycling {1} ({1}, Discard this card: Search your library for a Plains card
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Grand Entrance</reverse_related>
-			<reverse_related>Robrashk, Usurper of Rohgahh</reverse_related>
-			<reverse_related>Magda, Axgard Outcast</reverse_related>
-			<reverse_related>Gleeful Arson</reverse_related>
-			<reverse_related>Thaumaturgy</reverse_related>
-			<reverse_related>Composite Crawler</reverse_related>
-			<reverse_related>Keeper of the Crucible</reverse_related>
-			<reverse_related>Ramosian Negotiator</reverse_related>
-			<reverse_related>Savai Cracklemaw</reverse_related>
-			<reverse_related>Altar of the False God</reverse_related>
-			<reverse_related>Aether Dynamo</reverse_related>
-			<reverse_related>Gitaxian Dissectors</reverse_related>
-			<reverse_related count="x">Generous Automaton</reverse_related>
+			<reverse-related>Grand Entrance</reverse-related>
+			<reverse-related>Robrashk, Usurper of Rohgahh</reverse-related>
+			<reverse-related>Magda, Axgard Outcast</reverse-related>
+			<reverse-related>Gleeful Arson</reverse-related>
+			<reverse-related>Thaumaturgy</reverse-related>
+			<reverse-related>Composite Crawler</reverse-related>
+			<reverse-related>Keeper of the Crucible</reverse-related>
+			<reverse-related>Ramosian Negotiator</reverse-related>
+			<reverse-related>Savai Cracklemaw</reverse-related>
+			<reverse-related>Altar of the False God</reverse-related>
+			<reverse-related>Aether Dynamo</reverse-related>
+			<reverse-related>Gitaxian Dissectors</reverse-related>
+			<reverse-related count="x">Generous Automaton</reverse-related>
 		</card>
 		<card>
 			<name>Spiritual Experience</name>
@@ -3413,14 +3413,14 @@ As long as you have one or fewer cards in hand, if you would draw a card, instea
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related count="2">Beastmaster&apos;s Bracers</reverse_related>
-			<reverse_related>Gargaroth Yearling</reverse_related>
-			<reverse_related count="2">Territorial Ironhide</reverse_related>
-			<reverse_related>Wakling Ecosystem</reverse_related>
-			<reverse_related>Gannet, Skysail Zoologist</reverse_related>
-			<reverse_related>Garruk, Champion of the Wild</reverse_related>
-			<reverse_related>Bonder&apos;s Call</reverse_related>
-			<reverse_related count="3">Fang-Druid&apos;s Summons</reverse_related>
+			<reverse-related count="2">Beastmaster&apos;s Bracers</reverse-related>
+			<reverse-related>Gargaroth Yearling</reverse-related>
+			<reverse-related count="2">Territorial Ironhide</reverse-related>
+			<reverse-related>Wakling Ecosystem</reverse-related>
+			<reverse-related>Gannet, Skysail Zoologist</reverse-related>
+			<reverse-related>Garruk, Champion of the Wild</reverse-related>
+			<reverse-related>Bonder&apos;s Call</reverse-related>
+			<reverse-related count="3">Fang-Druid&apos;s Summons</reverse-related>
 		</card>
 		<card>
 			<name>Abzan Revolution</name>
@@ -6372,12 +6372,12 @@ You may cast a spell with mana value 4 or less from your hand without paying its
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related count="2">Seeing Double</reverse_related>
-			<reverse_related count="x">One From Many</reverse_related>
-			<reverse_related count="2">Ajani, Hero of Velis Vel</reverse_related>
-			<reverse_related>Menagerie Keeper</reverse_related>
-			<reverse_related>Wild Prince</reverse_related>
-			<reverse_related>Multifarious Mask</reverse_related>
+			<reverse-related count="2">Seeing Double</reverse-related>
+			<reverse-related count="x">One From Many</reverse-related>
+			<reverse-related count="2">Ajani, Hero of Velis Vel</reverse-related>
+			<reverse-related>Menagerie Keeper</reverse-related>
+			<reverse-related>Wild Prince</reverse-related>
+			<reverse-related>Multifarious Mask</reverse-related>
 		</card>
 		<card>
 			<name>Spirit of Music</name>
